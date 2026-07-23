@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`mountain_america_credit_union_timeline.md`](mountain_america_credit_union_timeline.md)  
 
 ---
 

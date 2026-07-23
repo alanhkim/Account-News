@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`defi_auto_llc_timeline.md`](defi_auto_llc_timeline.md)  
 
 ---
 

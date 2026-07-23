@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`ally_financial_timeline.md`](ally_financial_timeline.md)  
 
 ---
 

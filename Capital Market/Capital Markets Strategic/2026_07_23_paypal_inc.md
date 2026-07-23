@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`paypal_inc_timeline.md`](paypal_inc_timeline.md)  
 
 ---
 

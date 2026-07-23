@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`nationstar_mortgage_timeline.md`](nationstar_mortgage_timeline.md)  
 
 ---
 

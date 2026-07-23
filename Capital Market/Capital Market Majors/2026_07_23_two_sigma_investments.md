@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`two_sigma_investments_timeline.md`](two_sigma_investments_timeline.md)  
 
 ---
 

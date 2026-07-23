@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`amwins_group_timeline.md`](amwins_group_timeline.md)  
 
 ---
 

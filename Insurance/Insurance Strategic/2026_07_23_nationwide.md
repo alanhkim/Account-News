@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`nationwide_timeline.md`](nationwide_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Fabric, Security |
 | **Source** | [news.nationwide.com](https://news.nationwide.com/) |
 
 **Summary.** Nationwide launched pilot programs for climate-adapted crop insurance to mitigate risk from changing weather patterns.

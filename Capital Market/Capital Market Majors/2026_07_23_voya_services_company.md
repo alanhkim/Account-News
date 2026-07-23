@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`voya_services_company_timeline.md`](voya_services_company_timeline.md)  
 
 ---
 

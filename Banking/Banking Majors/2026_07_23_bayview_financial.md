@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`bayview_financial_timeline.md`](bayview_financial_timeline.md)  
 
 ---
 

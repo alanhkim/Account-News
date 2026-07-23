@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`pacific_life_timeline.md`](pacific_life_timeline.md)  
 
 ---
 

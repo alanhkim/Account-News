@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`massachusetts_mutual_timeline.md`](massachusetts_mutual_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`cno_services_timeline.md`](cno_services_timeline.md)  
 
 ---
 

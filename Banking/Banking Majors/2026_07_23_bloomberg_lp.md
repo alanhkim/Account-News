@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`bloomberg_lp_timeline.md`](bloomberg_lp_timeline.md)  
 
 ---
 

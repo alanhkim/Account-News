@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`mercury_insurance_timeline.md`](mercury_insurance_timeline.md)  
 
 ---
 

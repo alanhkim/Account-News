@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`wintrust_financial_timeline.md`](wintrust_financial_timeline.md)  
 
 ---
 

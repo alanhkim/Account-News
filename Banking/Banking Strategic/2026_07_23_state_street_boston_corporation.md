@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`state_street_boston_corporation_timeline.md`](state_street_boston_corporation_timeline.md)  
 
 ---
 

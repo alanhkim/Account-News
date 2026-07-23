@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`rock_holding_inc_timeline.md`](rock_holding_inc_timeline.md)  
 
 ---
 

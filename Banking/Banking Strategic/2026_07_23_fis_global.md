@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`fis_global_timeline.md`](fis_global_timeline.md)  
 
 ---
 

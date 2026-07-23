@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`midland_credit_management_timeline.md`](midland_credit_management_timeline.md)  
 
 ---
 

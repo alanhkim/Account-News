@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`prudential_insurance_timeline.md`](prudential_insurance_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Fabric, Security |
 | **Source** | [news.prudential.com](https://news.prudential.com/) |
 
 **Summary.** Prudential introduced annuities tailored to an aging population, focused on lifetime income and flexible benefit riders.

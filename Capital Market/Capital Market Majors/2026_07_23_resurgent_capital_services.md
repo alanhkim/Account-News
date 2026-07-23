@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`resurgent_capital_services_timeline.md`](resurgent_capital_services_timeline.md)  
 
 ---
 

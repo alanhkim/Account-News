@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`verisk_analytics_timeline.md`](verisk_analytics_timeline.md)  
 
 ---
 

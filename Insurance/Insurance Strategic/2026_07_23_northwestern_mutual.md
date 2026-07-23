@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`northwestern_mutual_timeline.md`](northwestern_mutual_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-20 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | 🔴 Negative |
+| **Trigger events** | — |
+| **Solution plays** | Fabric |
 | **Source** | [news.northwesternmutual.com](https://news.northwesternmutual.com/) |
 
 **Summary.** The 2026 study revealed many Americans feel financially insecure, increasing interest in life and disability products.

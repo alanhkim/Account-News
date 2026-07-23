@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`risk_strategies_timeline.md`](risk_strategies_timeline.md)  
 
 ---
 

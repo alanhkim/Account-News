@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`trans_union_corporation_timeline.md`](trans_union_corporation_timeline.md)  
 
 ---
 

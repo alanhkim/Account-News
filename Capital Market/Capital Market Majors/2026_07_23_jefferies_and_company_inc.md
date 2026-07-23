@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`jefferies_and_company_inc_timeline.md`](jefferies_and_company_inc_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-08 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Fabric |
 | **Source** | [www.jefferies.com](https://www.jefferies.com/news/) |
 
 **Summary.** Jefferies opened a Paris equity trading hub to support increased European client demand and local listings.

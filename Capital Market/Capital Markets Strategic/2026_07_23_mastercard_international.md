@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`mastercard_international_timeline.md`](mastercard_international_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`state_farm_life_insurance_timeline.md`](state_farm_life_insurance_timeline.md)  
 
 ---
 

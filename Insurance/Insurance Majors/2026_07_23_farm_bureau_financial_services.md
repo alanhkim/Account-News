@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`farm_bureau_financial_services_timeline.md`](farm_bureau_financial_services_timeline.md)  
 
 ---
 

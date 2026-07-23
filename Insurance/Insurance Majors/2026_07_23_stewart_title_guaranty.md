@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`stewart_title_guaranty_timeline.md`](stewart_title_guaranty_timeline.md)  
 
 ---
 

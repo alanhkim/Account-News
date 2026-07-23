@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`assured_partners_timeline.md`](assured_partners_timeline.md)  
 
 ---
 

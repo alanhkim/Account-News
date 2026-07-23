@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`toppan_merrill_llc_timeline.md`](toppan_merrill_llc_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`axis_specialty_us_services_timeline.md`](axis_specialty_us_services_timeline.md)  
 
 ---
 

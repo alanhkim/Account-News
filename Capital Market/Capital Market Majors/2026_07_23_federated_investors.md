@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`federated_investors_timeline.md`](federated_investors_timeline.md)  
 
 ---
 

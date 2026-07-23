@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`versana_llc_timeline.md`](versana_llc_timeline.md)  
 
 ---
 

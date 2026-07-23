@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`texas_capital_bank_timeline.md`](texas_capital_bank_timeline.md)  
 
 ---
 

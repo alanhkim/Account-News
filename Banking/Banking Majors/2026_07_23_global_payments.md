@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`global_payments_timeline.md`](global_payments_timeline.md)  
 
 ---
 

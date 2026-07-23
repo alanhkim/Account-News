@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`tokio_marine_group_timeline.md`](tokio_marine_group_timeline.md)  
 
 ---
 

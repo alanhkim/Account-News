@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`regions_financial_corporation_timeline.md`](regions_financial_corporation_timeline.md)  
 
 ---
 

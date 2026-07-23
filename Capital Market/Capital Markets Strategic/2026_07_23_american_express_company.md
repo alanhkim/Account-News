@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`american_express_company_timeline.md`](american_express_company_timeline.md)  
 
 ---
 

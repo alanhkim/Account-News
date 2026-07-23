@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`bain_capital_llc_timeline.md`](bain_capital_llc_timeline.md)  
 
 ---
 

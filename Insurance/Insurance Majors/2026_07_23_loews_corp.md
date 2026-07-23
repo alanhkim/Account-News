@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`loews_corp_timeline.md`](loews_corp_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`first_american_financial_timeline.md`](first_american_financial_timeline.md)  
 
 ---
 

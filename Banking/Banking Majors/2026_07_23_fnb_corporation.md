@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`fnb_corporation_timeline.md`](fnb_corporation_timeline.md)  
 
 ---
 

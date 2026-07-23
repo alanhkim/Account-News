@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`cincinnati_insurance_timeline.md`](cincinnati_insurance_timeline.md)  
 
 ---
 

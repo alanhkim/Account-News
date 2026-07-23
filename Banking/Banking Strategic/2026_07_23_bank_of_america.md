@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`bank_of_america_timeline.md`](bank_of_america_timeline.md)  
 
 ---
 

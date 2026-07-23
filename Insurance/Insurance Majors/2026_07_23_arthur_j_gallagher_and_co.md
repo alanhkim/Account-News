@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`arthur_j_gallagher_and_co_timeline.md`](arthur_j_gallagher_and_co_timeline.md)  
 
 ---
 

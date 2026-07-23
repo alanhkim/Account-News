@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`lpl_financial_timeline.md`](lpl_financial_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-06-30 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch, Regulatory |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.lpl.com](https://www.lpl.com/news-media.html) |
 
 **Summary.** LPL rolled out a crypto/digital-asset solution for its advisor network, citing rising client demand for exposure and secure custody.

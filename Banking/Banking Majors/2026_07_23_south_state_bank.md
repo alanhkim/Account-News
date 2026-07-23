@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`south_state_bank_timeline.md`](south_state_bank_timeline.md)  
 
 ---
 

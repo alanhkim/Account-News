@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`exeter_finance_corp_timeline.md`](exeter_finance_corp_timeline.md)  
 
 ---
 

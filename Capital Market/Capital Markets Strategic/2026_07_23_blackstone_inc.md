@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`blackstone_inc_timeline.md`](blackstone_inc_timeline.md)  
 
 ---
 

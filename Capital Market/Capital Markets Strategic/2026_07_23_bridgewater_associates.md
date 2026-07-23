@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`bridgewater_associates_timeline.md`](bridgewater_associates_timeline.md)  
 
 ---
 

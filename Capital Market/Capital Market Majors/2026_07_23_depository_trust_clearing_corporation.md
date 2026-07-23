@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`depository_trust_clearing_corporation_timeline.md`](depository_trust_clearing_corporation_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-05 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | Fabric |
 | **Source** | [www.dtcc.com](https://www.dtcc.com/news) |
 
 **Summary.** DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.

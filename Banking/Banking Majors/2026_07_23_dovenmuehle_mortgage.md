@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`dovenmuehle_mortgage_timeline.md`](dovenmuehle_mortgage_timeline.md)  
 
 ---
 

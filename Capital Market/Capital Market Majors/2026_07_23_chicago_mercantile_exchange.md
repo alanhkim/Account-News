@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`chicago_mercantile_exchange_timeline.md`](chicago_mercantile_exchange_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-10 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Security |
 | **Source** | [www.cmegroup.com](https://www.cmegroup.com/media-room.html) |
 
 **Summary.** CME Group began trading tokenized U.S. Treasury futures, responding to demand for blockchain-based clearing and collateral.

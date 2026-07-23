@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`marsh_mclennan_timeline.md`](marsh_mclennan_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-10 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🔴 Negative |
+| **Trigger events** | — |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.marshmclennan.com](https://www.marshmclennan.com/news-events.html) |
 
 **Summary.** Marine war insurance rates rose to historic highs after vessel attacks in the Strait of Hormuz, affecting global shipping coverage.

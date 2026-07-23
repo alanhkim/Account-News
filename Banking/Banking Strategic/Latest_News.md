@@ -6,19 +6,21 @@
 
 ---
 
-## Summary table
+## Prioritized summary
 
-| | Account | Headline | Date | Impact | Link |
-|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.businesswire.com&sz=32) | **Wells Fargo & Company** | Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50 | 2026-06-24 | 🔴 High | [link](https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50) |
+| | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
+|---|---|---|---|---|---|---|---|---|
+| ![](https://www.google.com/s2/favicons?domain=www.businesswire.com&sz=32) | **Wells Fargo & Company** | Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50 | 2026-06-24 | 🔴 High | 🟢 Positive | Earnings | Fabric, Security | [link](https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50) |
 
 ## Detail
 
 ### Wells Fargo & Company
-**Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50** — 2026-06-24 — 🔴 High
+**Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50** — 2026-06-24 — 🔴 High — 🟢 Positive
 
 Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.
 
+_Trigger events:_ Earnings  
+_Solution plays:_ Fabric, Security  
 _Microsoft angle:_ Signals balance-sheet strength and capital-return capacity; a strong moment to align on data-platform and risk-modeling modernization conversations.
 
 [Read →](https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50)

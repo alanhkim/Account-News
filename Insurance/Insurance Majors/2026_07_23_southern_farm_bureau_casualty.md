@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`southern_farm_bureau_casualty_timeline.md`](southern_farm_bureau_casualty_timeline.md)  
 
 ---
 

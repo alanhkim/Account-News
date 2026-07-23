@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`rapid_advance_llc_timeline.md`](rapid_advance_llc_timeline.md)  
 
 ---
 

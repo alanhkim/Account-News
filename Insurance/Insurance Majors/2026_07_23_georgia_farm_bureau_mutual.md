@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`georgia_farm_bureau_mutual_timeline.md`](georgia_farm_bureau_mutual_timeline.md)  
 
 ---
 

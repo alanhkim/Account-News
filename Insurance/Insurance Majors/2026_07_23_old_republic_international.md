@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`old_republic_international_timeline.md`](old_republic_international_timeline.md)  
 
 ---
 

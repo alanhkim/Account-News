@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`republic_finance_timeline.md`](republic_finance_timeline.md)  
 
 ---
 

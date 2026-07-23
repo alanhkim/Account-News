@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`brown_brothers_harriman_and_company_timeline.md`](brown_brothers_harriman_and_company_timeline.md)  
 
 ---
 

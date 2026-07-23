@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`amynta_group_timeline.md`](amynta_group_timeline.md)  
 
 ---
 

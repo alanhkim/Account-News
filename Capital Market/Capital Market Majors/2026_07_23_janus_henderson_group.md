@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`janus_henderson_group_timeline.md`](janus_henderson_group_timeline.md)  
 
 ---
 

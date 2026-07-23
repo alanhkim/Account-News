@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`sagent_mandc_llc_timeline.md`](sagent_mandc_llc_timeline.md)  
 
 ---
 

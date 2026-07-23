@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`hartford_fire_timeline.md`](hartford_fire_timeline.md)  
 
 ---
 

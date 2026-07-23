@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`old_national_bancorp_timeline.md`](old_national_bancorp_timeline.md)  
 
 ---
 

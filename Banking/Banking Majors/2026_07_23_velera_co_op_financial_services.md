@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`velera_co_op_financial_services_timeline.md`](velera_co_op_financial_services_timeline.md)  
 
 ---
 

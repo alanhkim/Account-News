@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`synovus_financial_corp_timeline.md`](synovus_financial_corp_timeline.md)  
 
 ---
 

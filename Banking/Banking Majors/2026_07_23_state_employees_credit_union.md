@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`state_employees_credit_union_timeline.md`](state_employees_credit_union_timeline.md)  
 
 ---
 

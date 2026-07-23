@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`applied_systems_inc_timeline.md`](applied_systems_inc_timeline.md)  
 
 ---
 

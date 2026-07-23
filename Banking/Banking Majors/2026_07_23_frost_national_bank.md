@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`frost_national_bank_timeline.md`](frost_national_bank_timeline.md)  
 
 ---
 

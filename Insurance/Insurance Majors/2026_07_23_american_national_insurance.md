@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`american_national_insurance_timeline.md`](american_national_insurance_timeline.md)  
 
 ---
 

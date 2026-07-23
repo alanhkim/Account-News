@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`blackrock_financial_management_timeline.md`](blackrock_financial_management_timeline.md)  
 
 ---
 

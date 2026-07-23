@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`travelers_property_and_casualty_timeline.md`](travelers_property_and_casualty_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-17 |
 | **Potential impact** | 🔴 High |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Earnings |
+| **Solution plays** | — |
 | **Source** | [www.insurancejournal.com](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm) |
 
 **Summary.** Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.

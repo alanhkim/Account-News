@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`eastdil_secured_llc_timeline.md`](eastdil_secured_llc_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`guggenheim_partners_timeline.md`](guggenheim_partners_timeline.md)  
 
 ---
 

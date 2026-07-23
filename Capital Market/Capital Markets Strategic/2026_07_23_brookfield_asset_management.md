@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`brookfield_asset_management_timeline.md`](brookfield_asset_management_timeline.md)  
 
 ---
 

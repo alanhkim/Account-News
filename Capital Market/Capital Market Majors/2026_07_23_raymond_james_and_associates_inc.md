@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`raymond_james_and_associates_inc_timeline.md`](raymond_james_and_associates_inc_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-18 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Earnings, M&A |
+| **Solution plays** | Copilot |
 | **Source** | [www.raymondjames.com](https://www.raymondjames.com/news-and-media) |
 
 **Summary.** The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.

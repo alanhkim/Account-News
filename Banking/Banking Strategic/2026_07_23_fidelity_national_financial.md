@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`fidelity_national_financial_timeline.md`](fidelity_national_financial_timeline.md)  
 
 ---
 

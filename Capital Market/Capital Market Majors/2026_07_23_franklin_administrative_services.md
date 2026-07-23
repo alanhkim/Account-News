@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`franklin_administrative_services_timeline.md`](franklin_administrative_services_timeline.md)  
 
 ---
 

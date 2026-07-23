@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`simmons_first_national_bank_timeline.md`](simmons_first_national_bank_timeline.md)  
 
 ---
 

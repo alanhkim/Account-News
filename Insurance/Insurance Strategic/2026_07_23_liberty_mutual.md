@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`liberty_mutual_timeline.md`](liberty_mutual_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Breach, Product Launch |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.libertymutualinsurance.com](https://www.libertymutualinsurance.com/about-lm/newsroom) |
 
 **Summary.** Liberty Mutual launched cyber policies tailored to small and mid-sized enterprises amid rising ransomware and cyberattack risk.

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`equitable_timeline.md`](equitable_timeline.md)  
 
 ---
 

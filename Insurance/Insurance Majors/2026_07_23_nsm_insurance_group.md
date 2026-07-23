@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`nsm_insurance_group_timeline.md`](nsm_insurance_group_timeline.md)  
 
 ---
 

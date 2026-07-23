@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`mutual_of_omaha_timeline.md`](mutual_of_omaha_timeline.md)  
 
 ---
 

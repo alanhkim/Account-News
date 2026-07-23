@@ -6,19 +6,20 @@
 
 ---
 
-## Summary table
+## Prioritized summary
 
-| | Account | Headline | Date | Impact | Link |
-|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | Travelers Reports Excellent Q2 and Year-to-Date Results | 2026-07-17 | 🔴 High | [link](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm) |
+| | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
+|---|---|---|---|---|---|---|---|---|
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | Travelers Reports Excellent Q2 and Year-to-Date Results | 2026-07-17 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm) |
 
 ## Detail
 
 ### TRAVELERS PROPERTY & CASUALTY
-**Travelers Reports Excellent Q2 and Year-to-Date Results** — 2026-07-17 — 🔴 High
+**Travelers Reports Excellent Q2 and Year-to-Date Results** — 2026-07-17 — 🔴 High — 🟢 Positive
 
 Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.
 
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Strong results and capital position support strategic tech-modernization conversations.
 
 [Read →](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm)

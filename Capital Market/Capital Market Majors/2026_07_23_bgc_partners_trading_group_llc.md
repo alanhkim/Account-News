@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`bgc_partners_trading_group_llc_timeline.md`](bgc_partners_trading_group_llc_timeline.md)  
 
 ---
 

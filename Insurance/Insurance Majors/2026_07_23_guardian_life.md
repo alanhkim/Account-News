@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`guardian_life_timeline.md`](guardian_life_timeline.md)  
 
 ---
 

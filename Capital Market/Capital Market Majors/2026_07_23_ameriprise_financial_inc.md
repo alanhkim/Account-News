@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`ameriprise_financial_inc_timeline.md`](ameriprise_financial_inc_timeline.md)  
 
 ---
 

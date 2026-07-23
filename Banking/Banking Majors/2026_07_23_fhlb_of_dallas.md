@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`fhlb_of_dallas_timeline.md`](fhlb_of_dallas_timeline.md)  
 
 ---
 

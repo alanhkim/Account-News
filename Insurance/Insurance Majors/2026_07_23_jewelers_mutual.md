@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`jewelers_mutual_timeline.md`](jewelers_mutual_timeline.md)  
 
 ---
 

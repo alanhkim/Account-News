@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`fidelity_investments_timeline.md`](fidelity_investments_timeline.md)  
 
 ---
 

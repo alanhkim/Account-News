@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`apollo_management_timeline.md`](apollo_management_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-10 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | M&A |
+| **Solution plays** | Fabric |
 | **Source** | [www.apollo.com](https://www.apollo.com/insights-news/news) |
 
 **Summary.** Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.

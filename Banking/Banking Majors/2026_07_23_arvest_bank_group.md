@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`arvest_bank_group_timeline.md`](arvest_bank_group_timeline.md)  
 
 ---
 

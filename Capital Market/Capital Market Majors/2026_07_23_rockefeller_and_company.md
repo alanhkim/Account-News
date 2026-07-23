@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`rockefeller_and_company_timeline.md`](rockefeller_and_company_timeline.md)  
 
 ---
 

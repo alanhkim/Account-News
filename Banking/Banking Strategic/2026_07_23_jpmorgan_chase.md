@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`jpmorgan_chase_timeline.md`](jpmorgan_chase_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`morgan_stanley_timeline.md`](morgan_stanley_timeline.md)  
 
 ---
 

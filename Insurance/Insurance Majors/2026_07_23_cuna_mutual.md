@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`cuna_mutual_timeline.md`](cuna_mutual_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`american_family_corporation_timeline.md`](american_family_corporation_timeline.md)  
 
 ---
 

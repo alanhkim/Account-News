@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`aaa_insurance_group_timeline.md`](aaa_insurance_group_timeline.md)  
 
 ---
 

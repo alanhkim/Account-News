@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`citco_technology_management_inc_timeline.md`](citco_technology_management_inc_timeline.md)  
 
 ---
 

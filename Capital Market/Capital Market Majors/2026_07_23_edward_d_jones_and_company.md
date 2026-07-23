@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`edward_d_jones_and_company_timeline.md`](edward_d_jones_and_company_timeline.md)  
 
 ---
 

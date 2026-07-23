@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`the_capital_group_companies_inc_timeline.md`](the_capital_group_companies_inc_timeline.md)  
 
 ---
 

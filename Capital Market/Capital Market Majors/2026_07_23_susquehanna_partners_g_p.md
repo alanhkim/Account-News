@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`susquehanna_partners_g_p_timeline.md`](susquehanna_partners_g_p_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`wellington_management_company_llc_timeline.md`](wellington_management_company_llc_timeline.md)  
 
 ---
 

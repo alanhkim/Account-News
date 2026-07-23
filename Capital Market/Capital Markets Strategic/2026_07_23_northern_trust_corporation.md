@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`northern_trust_corporation_timeline.md`](northern_trust_corporation_timeline.md)  
 
 ---
 

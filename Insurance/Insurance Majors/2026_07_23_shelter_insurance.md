@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`shelter_insurance_timeline.md`](shelter_insurance_timeline.md)  
 
 ---
 

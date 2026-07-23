@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`corebridge_financial_timeline.md`](corebridge_financial_timeline.md)  
 
 ---
 

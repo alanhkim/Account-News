@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`lincoln_national_timeline.md`](lincoln_national_timeline.md)  
 
 ---
 

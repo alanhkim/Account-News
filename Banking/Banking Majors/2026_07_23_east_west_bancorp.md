@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`east_west_bancorp_timeline.md`](east_west_bancorp_timeline.md)  
 
 ---
 

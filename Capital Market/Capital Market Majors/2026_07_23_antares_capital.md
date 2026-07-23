@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`antares_capital_timeline.md`](antares_capital_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-21 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | M&A |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.antares.com](https://www.antares.com/news/) |
 
 **Summary.** Through Antares Capital, Ares arranged a $1.3B debt facility for a healthcare technology firm, signaling continued robust private-credit and direct-lending activity.

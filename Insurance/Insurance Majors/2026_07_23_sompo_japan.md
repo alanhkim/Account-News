@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`sompo_japan_timeline.md`](sompo_japan_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`national_life_group_timeline.md`](national_life_group_timeline.md)  
 
 ---
 

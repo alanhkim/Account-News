@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`charles_schwab_corp_timeline.md`](charles_schwab_corp_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-21 |
 | **Potential impact** | 🔴 High |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Earnings |
+| **Solution plays** | Azure AI, Copilot, Fabric |
 | **Source** | [www.aboutschwab.com](https://www.aboutschwab.com/newsroom) |
 
 **Summary.** Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.

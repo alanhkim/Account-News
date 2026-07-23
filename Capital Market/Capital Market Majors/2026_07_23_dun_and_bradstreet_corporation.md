@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`dun_and_bradstreet_corporation_timeline.md`](dun_and_bradstreet_corporation_timeline.md)  
 
 ---
 

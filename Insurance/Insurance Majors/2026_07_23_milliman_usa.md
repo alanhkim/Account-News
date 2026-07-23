@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`milliman_usa_timeline.md`](milliman_usa_timeline.md)  
 
 ---
 

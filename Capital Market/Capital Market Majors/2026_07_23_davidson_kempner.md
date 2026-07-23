@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`davidson_kempner_timeline.md`](davidson_kempner_timeline.md)  
 
 ---
 

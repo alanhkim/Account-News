@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`united_missouri_bancshares_timeline.md`](united_missouri_bancshares_timeline.md)  
 
 ---
 

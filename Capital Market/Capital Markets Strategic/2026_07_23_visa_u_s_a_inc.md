@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`visa_u_s_a_inc_timeline.md`](visa_u_s_a_inc_timeline.md)  
 
 ---
 

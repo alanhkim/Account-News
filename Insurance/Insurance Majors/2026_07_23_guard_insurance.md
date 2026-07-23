@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`guard_insurance_timeline.md`](guard_insurance_timeline.md)  
 
 ---
 

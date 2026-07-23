@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`vanguard_group_inc_timeline.md`](vanguard_group_inc_timeline.md)  
 
 ---
 

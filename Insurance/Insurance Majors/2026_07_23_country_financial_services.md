@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`country_financial_services_timeline.md`](country_financial_services_timeline.md)  
 
 ---
 

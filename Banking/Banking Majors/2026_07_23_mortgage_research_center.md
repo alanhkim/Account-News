@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`mortgage_research_center_timeline.md`](mortgage_research_center_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`arch_capital_group_timeline.md`](arch_capital_group_timeline.md)  
 
 ---
 

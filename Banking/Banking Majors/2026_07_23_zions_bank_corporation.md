@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`zions_bank_corporation_timeline.md`](zions_bank_corporation_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`platinum_equity_llc_timeline.md`](platinum_equity_llc_timeline.md)  
 
 ---
 

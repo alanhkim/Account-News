@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`balyasny_asset_management_timeline.md`](balyasny_asset_management_timeline.md)  
 
 ---
 

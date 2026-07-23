@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`moodys_investors_service_timeline.md`](moodys_investors_service_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Regulatory |
+| **Solution plays** | Azure AI, Security |
 | **Source** | [www.moodys.com](https://www.moodys.com/newsroom) |
 
 **Summary.** Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.

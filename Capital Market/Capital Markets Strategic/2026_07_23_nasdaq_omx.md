@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`nasdaq_omx_timeline.md`](nasdaq_omx_timeline.md)  
 
 ---
 

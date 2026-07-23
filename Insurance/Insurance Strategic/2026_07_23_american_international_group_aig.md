@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`american_international_group_aig_timeline.md`](american_international_group_aig_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🔴 Negative |
+| **Trigger events** | — |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.aig.com](https://www.aig.com/about-us/newsroom) |
 
 **Summary.** AIG updated catastrophe underwriting guidelines following large losses and climate-driven weather events.

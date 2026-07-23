@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`w_r_berkley_timeline.md`](w_r_berkley_timeline.md)  
 
 ---
 

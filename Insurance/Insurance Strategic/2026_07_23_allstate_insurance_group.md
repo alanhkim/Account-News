@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`allstate_insurance_group_timeline.md`](allstate_insurance_group_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-14 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | CxO Change |
+| **Solution plays** | Fabric |
 | **Source** | [www.allstatenewsroom.com](https://www.allstatenewsroom.com/news/) |
 
 **Summary.** Allstate appointed Christian Lown as EVP and CFO, effective immediately. Leadership change may signal strategic and capital-management shifts.

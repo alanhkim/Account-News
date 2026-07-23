@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`aaa_auto_club_insurance_association_timeline.md`](aaa_auto_club_insurance_association_timeline.md)  
 
 ---
 

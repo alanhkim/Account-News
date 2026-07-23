@@ -54,16 +54,43 @@ run picks it up.
 | 🟠 Medium | Notable strategic/product move worth a talking point |
 | 🟡 Low | Minor or informational item |
 
+## Signals on every item
+
+Each news item is auto-classified so reps can filter by what they sell and prioritize outreach:
+
+- **Solution plays** — `Azure AI`, `Copilot`, `Fabric`, `Security` (an item can carry several).
+- **Sentiment** — 🟢 Positive / ⚪ Neutral / 🔴 Negative.
+- **Trigger events** — `Earnings`, `M&A`, `CxO Change`, `Breach`, `Product Launch`, `Regulatory`.
+
+`Latest_News.md` is sorted by priority (impact → trigger present → recency) and exposes these as
+columns so you can scan or filter quickly.
+
+## Per-account timelines
+
+Every account has a rolling **`<account>_timeline.md`** — a dated history table of tracked news
+over the last 90 days (headline, impact, sentiment, link), newest first. It updates each run and
+self-trims at 90 days.
+
+## Morning Teams digest
+
+Each daily run generates `DIGEST.html` (a compact, prioritized roll-up grouped by sub-vertical)
+and **sends it to you on Teams** (Notes to Self) so you get the highlights without opening the repo.
+
 ## Automation
 
 A scheduled job runs **daily at 9:00 AM ET** and:
 
 1. Re-pulls the sub-vertical account mappings from WorkIQ (authoritative).
 2. Gathers the last 30 days of news for each account.
-3. Writes new `YYYY_MM_DD_<account>.md` files.
+3. Writes new `YYYY_MM_DD_<account>.md` files and updates each `<account>_timeline.md`.
 4. **Deletes any dated account file older than 90 days.**
 5. Regenerates each sub-vertical's `Latest_News.md`.
-6. Commits and pushes the changes.
+6. Builds `DIGEST.html` and sends the morning digest to Teams.
+7. Commits and pushes the changes.
+
+> **Timezone note:** the scheduler runs in the host's local time. It is currently set so the run
+> fires at ~9:00 AM **US Eastern (EDT)**. When Eastern shifts to EST (standard time), nudge the
+> schedule by one hour to keep it at 9 AM ET.
 
 ## Coverage snapshot
 

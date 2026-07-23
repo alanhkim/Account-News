@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`guaranteed_rate_inc_timeline.md`](guaranteed_rate_inc_timeline.md)  
 
 ---
 

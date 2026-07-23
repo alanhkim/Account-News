@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`the_hanover_insurance_group_timeline.md`](the_hanover_insurance_group_timeline.md)  
 
 ---
 

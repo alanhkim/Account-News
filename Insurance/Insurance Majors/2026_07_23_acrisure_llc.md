@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`acrisure_llc_timeline.md`](acrisure_llc_timeline.md)  
 
 ---
 

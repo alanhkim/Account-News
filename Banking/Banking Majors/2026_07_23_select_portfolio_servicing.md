@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`select_portfolio_servicing_timeline.md`](select_portfolio_servicing_timeline.md)  
 
 ---
 

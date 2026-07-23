@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`bny_mellon_timeline.md`](bny_mellon_timeline.md)  
 
 ---
 

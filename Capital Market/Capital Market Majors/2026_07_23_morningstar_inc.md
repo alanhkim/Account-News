@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`morningstar_inc_timeline.md`](morningstar_inc_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-06-17 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Fabric |
 | **Source** | [www.morningstar.com](https://www.morningstar.com/company/news-center) |
 
 **Summary.** Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.

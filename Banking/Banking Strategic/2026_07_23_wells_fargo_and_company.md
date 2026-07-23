@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`wells_fargo_and_company_timeline.md`](wells_fargo_and_company_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-06-24 |
 | **Potential impact** | 🔴 High |
+| **Sentiment** | 🟢 Positive |
+| **Trigger events** | Earnings |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.businesswire.com](https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50) |
 
 **Summary.** Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.

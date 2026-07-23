@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`navy_federal_credit_union_timeline.md`](navy_federal_credit_union_timeline.md)  
 
 ---
 

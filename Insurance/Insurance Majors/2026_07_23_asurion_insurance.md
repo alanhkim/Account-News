@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`asurion_insurance_timeline.md`](asurion_insurance_timeline.md)  
 
 ---
 

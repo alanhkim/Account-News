@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`willis_towers_watson_timeline.md`](willis_towers_watson_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-15 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.wtwco.com](https://www.wtwco.com/en-us/news) |
 
 **Summary.** WTW unveiled an analytics platform to help global corporate clients assess and manage climate risk more effectively.

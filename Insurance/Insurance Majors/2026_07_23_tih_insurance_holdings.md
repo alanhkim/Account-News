@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`tih_insurance_holdings_timeline.md`](tih_insurance_holdings_timeline.md)  
 
 ---
 

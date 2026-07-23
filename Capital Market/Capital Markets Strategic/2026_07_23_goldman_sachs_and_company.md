@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`goldman_sachs_and_company_timeline.md`](goldman_sachs_and_company_timeline.md)  
 
 ---
 

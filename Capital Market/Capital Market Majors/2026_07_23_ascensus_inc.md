@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`ascensus_inc_timeline.md`](ascensus_inc_timeline.md)  
 
 ---
 

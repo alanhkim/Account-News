@@ -6,19 +6,21 @@
 
 ---
 
-## Summary table
+## Prioritized summary
 
-| | Account | Headline | Date | Impact | Link |
-|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.aboutschwab.com&sz=32) | **CHARLES SCHWAB CORP** | Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026) | 2026-07-21 | 🔴 High | [link](https://www.aboutschwab.com/newsroom) |
+| | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
+|---|---|---|---|---|---|---|---|---|
+| ![](https://www.google.com/s2/favicons?domain=www.aboutschwab.com&sz=32) | **CHARLES SCHWAB CORP** | Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026) | 2026-07-21 | 🔴 High | 🟢 Positive | Earnings | Azure AI, Copilot, Fabric | [link](https://www.aboutschwab.com/newsroom) |
 
 ## Detail
 
 ### CHARLES SCHWAB CORP
-**Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026)** — 2026-07-21 — 🔴 High
+**Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026)** — 2026-07-21 — 🔴 High — 🟢 Positive
 
 Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.
 
+_Trigger events:_ Earnings  
+_Solution plays:_ Azure AI, Copilot, Fabric  
 _Microsoft angle:_ Heavy AI and crypto platform investment creates openings for cloud, data, and Copilot-led advisor productivity plays.
 
 [Read →](https://www.aboutschwab.com/newsroom)

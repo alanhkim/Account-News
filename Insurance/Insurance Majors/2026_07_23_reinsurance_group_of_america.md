@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`reinsurance_group_of_america_timeline.md`](reinsurance_group_of_america_timeline.md)  
 
 ---
 

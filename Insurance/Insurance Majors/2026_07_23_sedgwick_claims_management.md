@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`sedgwick_claims_management_timeline.md`](sedgwick_claims_management_timeline.md)  
 
 ---
 

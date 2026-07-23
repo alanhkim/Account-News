@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`aon_corporation_timeline.md`](aon_corporation_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-20 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | 🔴 Negative |
+| **Trigger events** | — |
+| **Solution plays** | Fabric, Security |
 | **Source** | [www.aon.com](https://www.aon.com/en/insights) |
 
 **Summary.** Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.

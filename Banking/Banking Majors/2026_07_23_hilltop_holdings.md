@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`hilltop_holdings_timeline.md`](hilltop_holdings_timeline.md)  
 
 ---
 

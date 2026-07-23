@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`brown_and_brown_timeline.md`](brown_and_brown_timeline.md)  
 
 ---
 

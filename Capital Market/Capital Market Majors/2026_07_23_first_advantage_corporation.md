@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`first_advantage_corporation_timeline.md`](first_advantage_corporation_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`lockton_insurance_timeline.md`](lockton_insurance_timeline.md)  
 
 ---
 

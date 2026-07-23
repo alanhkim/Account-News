@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`harbourvest_partners_llc_timeline.md`](harbourvest_partners_llc_timeline.md)  
 
 ---
 

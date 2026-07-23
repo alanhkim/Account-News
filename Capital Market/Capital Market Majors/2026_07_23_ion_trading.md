@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`ion_trading_timeline.md`](ion_trading_timeline.md)  
 
 ---
 

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`woodforest_national_bank_timeline.md`](woodforest_national_bank_timeline.md)  
 
 ---
 

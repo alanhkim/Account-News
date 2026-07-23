@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`commonwealth_financial_network_timeline.md`](commonwealth_financial_network_timeline.md)  
 
 ---
 

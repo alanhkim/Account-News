@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`berkshire_hathaway_direct_insurance_timeline.md`](berkshire_hathaway_direct_insurance_timeline.md)  
 
 ---
 

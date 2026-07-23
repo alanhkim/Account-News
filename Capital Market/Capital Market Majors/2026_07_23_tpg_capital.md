@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`tpg_capital_timeline.md`](tpg_capital_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-06-27 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | M&A, Product Launch |
+| **Solution plays** | Fabric |
 | **Source** | [press.tpg.com](https://press.tpg.com/) |
 
 **Summary.** TPG announced the first close of its Asia-focused climate fund, raising $2.1B for decarbonization and renewables projects across China, India, and Southeast Asia.

@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`stifel_nicholas_and_co_inc_timeline.md`](stifel_nicholas_and_co_inc_timeline.md)  
 
 ---
 

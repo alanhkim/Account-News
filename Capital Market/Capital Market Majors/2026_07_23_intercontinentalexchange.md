@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`intercontinentalexchange_timeline.md`](intercontinentalexchange_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-13 |
 | **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | M&A |
+| **Solution plays** | Fabric |
 | **Source** | [ir.theice.com](https://ir.theice.com/press) |
 
 **Summary.** ICE acquired an ESG data provider to bolster sustainability market-data offerings for exchanges and listed companies.

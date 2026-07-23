@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`t_rowe_price_associates_timeline.md`](t_rowe_price_associates_timeline.md)  
 
 ---
 
@@ -11,6 +12,9 @@
 |---|---|
 | **Date** | 2026-07-14 |
 | **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | M&A, Product Launch |
+| **Solution plays** | Azure AI, Fabric |
 | **Source** | [www.troweprice.com](https://www.troweprice.com/corporate/us/en/press.html) |
 
 **Summary.** T. Rowe Price introduced a series of actively managed funds powered by proprietary AI models, reflecting the quantamental investing trend.

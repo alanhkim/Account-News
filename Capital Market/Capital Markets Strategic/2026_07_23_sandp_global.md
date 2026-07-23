@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`sandp_global_timeline.md`](sandp_global_timeline.md)  
 
 ---
 

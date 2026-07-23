@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`cerberus_capital_management_lp_timeline.md`](cerberus_capital_management_lp_timeline.md)  
 
 ---
 

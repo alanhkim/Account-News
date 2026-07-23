@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`new_york_life_timeline.md`](new_york_life_timeline.md)  
 
 ---
 

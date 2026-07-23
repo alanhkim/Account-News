@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`carrington_mortgage_service_timeline.md`](carrington_mortgage_service_timeline.md)  
 
 ---
 

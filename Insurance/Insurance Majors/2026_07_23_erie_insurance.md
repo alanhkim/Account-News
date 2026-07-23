@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Insurance Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`erie_insurance_timeline.md`](erie_insurance_timeline.md)  
 
 ---
 

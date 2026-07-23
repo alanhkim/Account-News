@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 23, 2026  
+**History:** see [`dayforce_us_inc_timeline.md`](dayforce_us_inc_timeline.md)  
 
 ---
 

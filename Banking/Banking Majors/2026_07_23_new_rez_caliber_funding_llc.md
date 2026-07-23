@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`new_rez_caliber_funding_llc_timeline.md`](new_rez_caliber_funding_llc_timeline.md)  
 
 ---
 

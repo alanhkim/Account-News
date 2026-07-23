@@ -2,6 +2,7 @@
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 23, 2026  
+**History:** see [`fisher_investments_timeline.md`](fisher_investments_timeline.md)  
 
 ---
 
