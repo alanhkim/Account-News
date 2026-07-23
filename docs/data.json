@@ -1,0 +1,654 @@
+{
+  "generated": "2026-07-23",
+  "generated_human": "July 23, 2026",
+  "counts": {
+    "accounts_total": 237,
+    "with_news": 33,
+    "high": 3
+  },
+  "verticals": [
+    {
+      "top": "Banking",
+      "sub": "Banking Majors",
+      "count": 0,
+      "items": []
+    },
+    {
+      "top": "Banking",
+      "sub": "Banking Strategic",
+      "count": 1,
+      "items": [
+        {
+          "account": "Wells Fargo & Company",
+          "title": "Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50",
+          "url": "https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50",
+          "date": "2026-06-24",
+          "level": "High",
+          "summary": "Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.",
+          "impact": "Signals balance-sheet strength and capital-return capacity; a strong moment to align on data-platform and risk-modeling modernization conversations.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.businesswire.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Market Majors",
+      "count": 17,
+      "items": [
+        {
+          "account": "Raymond James and Associates Inc",
+          "title": "Raymond James Reports Record Wealth Fee Revenue, Eyes RIA Expansion",
+          "url": "https://www.raymondjames.com/news-and-media",
+          "date": "2026-07-18",
+          "level": "Medium",
+          "summary": "The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.",
+          "impact": "Advisor-channel growth aligns with Copilot-led productivity and CRM modernization.",
+          "plays": [
+            "Copilot"
+          ],
+          "triggers": [
+            "Earnings",
+            "M&A"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.raymondjames.com&sz=32"
+        },
+        {
+          "account": "KOHLBERG KRAVIS ROBERTS & CO LLC",
+          "title": "KKR Weighs Restructuring of Real Estate Arm Amid Downturn",
+          "url": "https://www.kkr.com/news",
+          "date": "2026-07-17",
+          "level": "Medium",
+          "summary": "Facing commercial real estate headwinds, KKR is evaluating a restructuring that could include asset sales or mergers to steady performance. The move signals broader distress in private real estate.",
+          "impact": "Portfolio stress increases need for risk analytics and scenario modeling across real assets.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.kkr.com&sz=32"
+        },
+        {
+          "account": "MOODYS INVESTORS SERVICE",
+          "title": "Moody's Revises AI Risk Ratings for Global Banks",
+          "url": "https://www.moodys.com/newsroom",
+          "date": "2026-07-15",
+          "level": "Medium",
+          "summary": "Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.",
+          "impact": "Ratings methodology shift elevates AI-governance and cyber-risk conversations across FSI.",
+          "plays": [
+            "Azure AI",
+            "Security"
+          ],
+          "triggers": [
+            "Regulatory"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.moodys.com&sz=32"
+        },
+        {
+          "account": "T ROWE PRICE ASSOCIATES",
+          "title": "T. Rowe Price Launches Active AI-Driven Fund Range",
+          "url": "https://www.troweprice.com/corporate/us/en/press.html",
+          "date": "2026-07-14",
+          "level": "Medium",
+          "summary": "T. Rowe Price introduced a series of actively managed funds powered by proprietary AI models, reflecting the quantamental investing trend.",
+          "impact": "AI-in-investing focus is a direct opening for Azure AI and data-platform plays.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A",
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.troweprice.com&sz=32"
+        },
+        {
+          "account": "TIAA CREF",
+          "title": "TIAA Sells Majority Stake in Nuveen's Real Estate Arm",
+          "url": "https://www.tiaa.org/public/about-tiaa/news-press",
+          "date": "2026-07-11",
+          "level": "Medium",
+          "summary": "TIAA sold a controlling interest in Nuveen Real Estate to a consortium of global investors amid pension-liability pressures and shifting risk appetite.",
+          "impact": "Strategic reshaping may drive platform-consolidation and data-migration needs.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tiaa.org&sz=32"
+        },
+        {
+          "account": "Apollo Management",
+          "title": "Apollo Approaches Record Deal Spend with EasyJet and Bayer Deals",
+          "url": "https://www.apollo.com/insights-news/news",
+          "date": "2026-07-10",
+          "level": "Medium",
+          "summary": "Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.",
+          "impact": "Rapid deal velocity drives demand for scalable diligence, data, and portfolio-analytics tooling.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.apollo.com&sz=32"
+        },
+        {
+          "account": "Chicago mercantile Exchange",
+          "title": "CME Group Launches Tokenized Treasury Futures",
+          "url": "https://www.cmegroup.com/media-room.html",
+          "date": "2026-07-10",
+          "level": "Medium",
+          "summary": "CME Group began trading tokenized U.S. Treasury futures, responding to demand for blockchain-based clearing and collateral.",
+          "impact": "Market-structure innovation drives digital-asset infrastructure and security needs.",
+          "plays": [
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.cmegroup.com&sz=32"
+        },
+        {
+          "account": "LPL Financial",
+          "title": "LPL Financial Launches Digital Asset Platform for Advisors",
+          "url": "https://www.lpl.com/news-media.html",
+          "date": "2026-06-30",
+          "level": "Medium",
+          "summary": "LPL rolled out a crypto/digital-asset solution for its advisor network, citing rising client demand for exposure and secure custody.",
+          "impact": "New platform build-out drives cloud, security, and compliance-tooling demand.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch",
+            "Regulatory"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.lpl.com&sz=32"
+        },
+        {
+          "account": "DEPOSITORY TRUST CLEARING CORPORATION",
+          "title": "DTCC Completes Industry-Wide Digital Asset Pilot",
+          "url": "https://www.dtcc.com/news",
+          "date": "2026-07-05",
+          "level": "Medium",
+          "summary": "DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.",
+          "impact": "Settlement modernization is a major cloud, data, and resiliency opportunity.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dtcc.com&sz=32"
+        },
+        {
+          "account": "ANTARES CAPITAL",
+          "title": "Ares/Antares Leads $1.3B Private Debt Deal for HealthTech Firm",
+          "url": "https://www.antares.com/news/",
+          "date": "2026-07-21",
+          "level": "Low",
+          "summary": "Through Antares Capital, Ares arranged a $1.3B debt facility for a healthcare technology firm, signaling continued robust private-credit and direct-lending activity.",
+          "impact": "Private-credit growth increases demand for loan-monitoring and risk-data infrastructure.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.antares.com&sz=32"
+        },
+        {
+          "account": "INVESCO",
+          "title": "Invesco Wins Approval for First Spot Bitcoin ETF in Europe",
+          "url": "https://www.invesco.com/corporate/en/about-us/newsroom.html",
+          "date": "2026-07-16",
+          "level": "Low",
+          "summary": "Invesco secured regulatory approval for Europe's first spot Bitcoin ETF, targeting growing institutional and retail demand.",
+          "impact": "Digital-asset product growth raises custody, security, and data needs.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "M&A",
+            "Regulatory"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.invesco.com&sz=32"
+        },
+        {
+          "account": "Intercontinentalexchange",
+          "title": "ICE Acquires Leading ESG Data Analytics Firm",
+          "url": "https://ir.theice.com/press",
+          "date": "2026-07-13",
+          "level": "Low",
+          "summary": "ICE acquired an ESG data provider to bolster sustainability market-data offerings for exchanges and listed companies.",
+          "impact": "Data consolidation supports cloud-scale analytics and integration engagements.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=ir.theice.com&sz=32"
+        },
+        {
+          "account": "JEFFERIES & COMPANY INC",
+          "title": "Jefferies Expands Global Equity Trading with Paris Desk Launch",
+          "url": "https://www.jefferies.com/news/",
+          "date": "2026-07-08",
+          "level": "Low",
+          "summary": "Jefferies opened a Paris equity trading hub to support increased European client demand and local listings.",
+          "impact": "Geographic expansion increases low-latency infrastructure and data-residency needs.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.jefferies.com&sz=32"
+        },
+        {
+          "account": "MSCI Inc",
+          "title": "MSCI Unveils Enhanced Net-Zero Index Suite",
+          "url": "https://www.msci.com/our-solutions/indexes",
+          "date": "2026-07-03",
+          "level": "Low",
+          "summary": "MSCI launched net-zero aligned indexes to meet rising client demand for climate investing and institutional ESG reporting.",
+          "impact": "Index/data expansion supports ESG data-platform and analytics engagements.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.msci.com&sz=32"
+        },
+        {
+          "account": "TPG Capital",
+          "title": "TPG Launches Asia Climate Fund with $2.1B First Close",
+          "url": "https://press.tpg.com/",
+          "date": "2026-06-27",
+          "level": "Low",
+          "summary": "TPG announced the first close of its Asia-focused climate fund, raising $2.1B for decarbonization and renewables projects across China, India, and Southeast Asia.",
+          "impact": "ESG/climate investing focus aligns with sustainability data and reporting solution plays.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A",
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=press.tpg.com&sz=32"
+        },
+        {
+          "account": "MORNINGSTAR INC",
+          "title": "Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios",
+          "url": "https://www.morningstar.com/company/news-center",
+          "date": "2026-06-17",
+          "level": "Low",
+          "summary": "Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.",
+          "impact": "Data/wealth-platform convergence creates cloud and analytics opportunity.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32"
+        },
+        {
+          "account": "CARLYLE",
+          "title": "Carlyle Backs AI Supply-Chain Automation Startup",
+          "url": "https://www.carlyle.com/media-room",
+          "date": "2026-07-12",
+          "level": "Low",
+          "summary": "Carlyle led a $450M round for an AI-enabled logistics firm, betting on automation and supply-chain modernization amid rising cost and labor pressures.",
+          "impact": "Reinforces PE appetite for AI-driven efficiency; relevant for cross-portfolio cloud/AI enablement.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.carlyle.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Markets Strategic",
+      "count": 1,
+      "items": [
+        {
+          "account": "CHARLES SCHWAB CORP",
+          "title": "Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026)",
+          "url": "https://www.aboutschwab.com/newsroom",
+          "date": "2026-07-21",
+          "level": "High",
+          "summary": "Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.",
+          "impact": "Heavy AI and crypto platform investment creates openings for cloud, data, and Copilot-led advisor productivity plays.",
+          "plays": [
+            "Azure AI",
+            "Copilot",
+            "Fabric"
+          ],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.aboutschwab.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Insurance",
+      "sub": "Insurance Majors",
+      "count": 1,
+      "items": [
+        {
+          "account": "TRAVELERS PROPERTY & CASUALTY",
+          "title": "Travelers Reports Excellent Q2 and Year-to-Date Results",
+          "url": "https://www.insurancejournal.com/news/national/2026/07/17/779320.htm",
+          "date": "2026-07-17",
+          "level": "High",
+          "summary": "Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.",
+          "impact": "Strong results and capital position support strategic tech-modernization conversations.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Insurance",
+      "sub": "Insurance Strategic",
+      "count": 13,
+      "items": [
+        {
+          "account": "Chubb",
+          "title": "Chubb CEO Sounds Alarm on Casualty Pricing",
+          "url": "https://news.chubb.com/",
+          "date": "2026-07-22",
+          "level": "Medium",
+          "summary": "CEO Evan Greenberg warned that casualty pricing is not keeping pace with rising loss costs, particularly in London wholesale markets.",
+          "impact": "Pricing pressure elevates demand for advanced pricing/risk analytics.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=news.chubb.com&sz=32"
+        },
+        {
+          "account": "ALLSTATE INSURANCE GROUP",
+          "title": "Allstate Names Christian Lown Chief Financial Officer",
+          "url": "https://www.allstatenewsroom.com/news/",
+          "date": "2026-07-14",
+          "level": "Medium",
+          "summary": "Allstate appointed Christian Lown as EVP and CFO, effective immediately. Leadership change may signal strategic and capital-management shifts.",
+          "impact": "New CFO often re-evaluates tech spend; timely for platform and data-modernization outreach.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.allstatenewsroom.com&sz=32"
+        },
+        {
+          "account": "Aon Corporation",
+          "title": "Aon Forecasts Hundreds of Millions in North America Wildfire Losses",
+          "url": "https://www.aon.com/en/insights",
+          "date": "2026-07-20",
+          "level": "Medium",
+          "summary": "Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.",
+          "impact": "Cat-risk analytics and climate modeling are strong Azure/data plays.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.aon.com&sz=32"
+        },
+        {
+          "account": "GEICO",
+          "title": "GEICO Enhances Digital Claims Experience with AI",
+          "url": "https://www.geico.com/about/in-the-news/",
+          "date": "2026-07-15",
+          "level": "Medium",
+          "summary": "GEICO deployed a new AI-powered claims tool to accelerate settlements and boost customer satisfaction.",
+          "impact": "AI claims transformation is a direct Azure AI / Copilot opportunity.",
+          "plays": [
+            "Azure AI",
+            "Copilot",
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.geico.com&sz=32"
+        },
+        {
+          "account": "MetLife",
+          "title": "MetLife Enhances Employee Benefits Platform with AI Tools",
+          "url": "https://www.metlife.com/about-us/newsroom/",
+          "date": "2026-07-15",
+          "level": "Medium",
+          "summary": "MetLife updated its benefits platform with AI-driven tools for claims processing and customer engagement.",
+          "impact": "AI in claims is a direct Azure AI / Copilot opportunity.",
+          "plays": [
+            "Azure AI",
+            "Copilot",
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.metlife.com&sz=32"
+        },
+        {
+          "account": "American International Group (AIG)",
+          "title": "AIG Adjusts Underwriting Strategy Amid Catastrophe Exposure Concerns",
+          "url": "https://www.aig.com/about-us/newsroom",
+          "date": "2026-07-15",
+          "level": "Medium",
+          "summary": "AIG updated catastrophe underwriting guidelines following large losses and climate-driven weather events.",
+          "impact": "Catastrophe modeling and climate risk analytics are strong Azure/data plays.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.aig.com&sz=32"
+        },
+        {
+          "account": "Marsh McLennan",
+          "title": "Marsh Reports Spike in Marine War-Risk Rates After Hormuz Strikes",
+          "url": "https://www.marshmclennan.com/news-events.html",
+          "date": "2026-07-10",
+          "level": "Medium",
+          "summary": "Marine war insurance rates rose to historic highs after vessel attacks in the Strait of Hormuz, affecting global shipping coverage.",
+          "impact": "Volatile risk environment increases need for real-time risk data and modeling.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.marshmclennan.com&sz=32"
+        },
+        {
+          "account": "Progressive Corporation",
+          "title": "Winnebago Partners with Progressive on Embedded RV Insurance",
+          "url": "https://www.progressive.com/newsroom/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "Winnebago partnered with Progressive to let RV customers secure insurance during purchase, streamlining the buying journey.",
+          "impact": "Embedded-insurance growth supports API, cloud, and integration engagements.",
+          "plays": [],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.progressive.com&sz=32"
+        },
+        {
+          "account": "Nationwide",
+          "title": "Nationwide Invests in Climate-Resilient Agriculture Insurance",
+          "url": "https://news.nationwide.com/",
+          "date": "2026-07-15",
+          "level": "Low",
+          "summary": "Nationwide launched pilot programs for climate-adapted crop insurance to mitigate risk from changing weather patterns.",
+          "impact": "Climate-risk modeling supports data and geospatial-analytics engagements.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=news.nationwide.com&sz=32"
+        },
+        {
+          "account": "LIBERTY MUTUAL",
+          "title": "Liberty Mutual Expands Cyber Insurance Offerings for SMEs",
+          "url": "https://www.libertymutualinsurance.com/about-lm/newsroom",
+          "date": "2026-07-15",
+          "level": "Low",
+          "summary": "Liberty Mutual launched cyber policies tailored to small and mid-sized enterprises amid rising ransomware and cyberattack risk.",
+          "impact": "Cyber-product growth increases security-data and telemetry needs.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Breach",
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.libertymutualinsurance.com&sz=32"
+        },
+        {
+          "account": "PRUDENTIAL INSURANCE",
+          "title": "Prudential Launches New Retirement Solutions to Address Longevity Risk",
+          "url": "https://news.prudential.com/",
+          "date": "2026-07-15",
+          "level": "Low",
+          "summary": "Prudential introduced annuities tailored to an aging population, focused on lifetime income and flexible benefit riders.",
+          "impact": "Product expansion drives actuarial-compute and data-platform needs.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=news.prudential.com&sz=32"
+        },
+        {
+          "account": "Willis Towers Watson",
+          "title": "WTW Launches Climate Analytics Platform for Global Clients",
+          "url": "https://www.wtwco.com/en-us/news",
+          "date": "2026-07-15",
+          "level": "Low",
+          "summary": "WTW unveiled an analytics platform to help global corporate clients assess and manage climate risk more effectively.",
+          "impact": "Analytics-platform expansion aligns with cloud and data engagements.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wtwco.com&sz=32"
+        },
+        {
+          "account": "NORTHWESTERN MUTUAL",
+          "title": "Northwestern Mutual 2026 Planning & Progress Study Highlights Financial Vulnerability",
+          "url": "https://news.northwesternmutual.com/",
+          "date": "2026-07-20",
+          "level": "Low",
+          "summary": "The 2026 study revealed many Americans feel financially insecure, increasing interest in life and disability products.",
+          "impact": "Demand signals may accelerate digital-advisory and data investments.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=news.northwesternmutual.com&sz=32"
+        }
+      ]
+    }
+  ]
+}

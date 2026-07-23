@@ -41,10 +41,13 @@ for top, subs in ROSTERS.items():
             )
         blocks.append(f"<h4>{esc(sub)} ({len(items)})</h4><ul>{''.join(rows)}</ul>")
 
+SITE = "https://alanhkim.github.io/Account-News/"
 header = (
+    f"<p>🔗 <b><a href=\"{SITE}\">Open the FSI Account News dashboard →</a></b></p>"
     f"<h3>📊 FSI Account News — {TODAY_HUMAN}</h3>"
     f"<p><b>{total}</b> accounts with news today &middot; <b>{high_count}</b> high-impact. "
-    f"Full detail: <a href=\"https://github.com/alanhkim/Account-News\">Account-News repo</a>.</p>"
+    f"Browse &amp; filter in the <a href=\"{SITE}\">dashboard</a> &middot; "
+    f"source in the <a href=\"https://github.com/alanhkim/Account-News\">repo</a>.</p>"
 )
 html = header + "".join(blocks) if blocks else header + "<p>No material news across tracked accounts today.</p>"
 

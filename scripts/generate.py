@@ -1,4 +1,4 @@
-import os, re, sys
+import os, re, sys, json
 from datetime import date, timedelta
 from urllib.parse import urlparse
 
@@ -228,20 +228,54 @@ def latest_news_md(subvertical, accounts):
     return "\n".join(L)
 
 # ---------------- Build ----------------
-total_accounts = total_news = 0
-for top, subs in ROSTERS.items():
-    for sub, accounts in subs.items():
-        d = os.path.join(REPO, top, sub)
-        os.makedirs(d, exist_ok=True)
-        for a in accounts:
-            total_accounts += 1
-            n = NEWS.get(a)
-            if n:
-                total_news += 1
-            with open(os.path.join(d, f"{TODAY_STR}_{slug(a)}.md"), "w", encoding="utf-8") as f:
-                f.write(account_md(a, sub))
-            update_timeline(os.path.join(d, f"{slug(a)}_timeline.md"), a, n)
-        with open(os.path.join(d, "Latest_News.md"), "w", encoding="utf-8") as f:
-            f.write(latest_news_md(sub, accounts))
+def sentiment_word(s):
+    return s.split(" ", 1)[-1] if s else "Neutral"
 
-print(f"Accounts: {total_accounts}, with news: {total_news}")
+def main():
+    total_accounts = total_news = high_count = 0
+    verticals = []
+    for top, subs in ROSTERS.items():
+        for sub, accounts in subs.items():
+            d = os.path.join(REPO, top, sub)
+            os.makedirs(d, exist_ok=True)
+            sub_items = []
+            for a in accounts:
+                total_accounts += 1
+                n = NEWS.get(a)
+                if n:
+                    total_news += 1
+                    plays, triggers, sentiment = enrich(n)
+                    if n["level"] == "High":
+                        high_count += 1
+                    sub_items.append({
+                        "account": a, "title": n["title"], "url": n["url"],
+                        "date": n["date"], "level": n["level"],
+                        "summary": n.get("summary", ""), "impact": n.get("impact", ""),
+                        "plays": plays, "triggers": triggers,
+                        "sentiment": sentiment_word(sentiment),
+                        "image": n.get("image", ""), "favicon": favicon(n["url"]),
+                    })
+                with open(os.path.join(d, f"{TODAY_STR}_{slug(a)}.md"), "w", encoding="utf-8") as f:
+                    f.write(account_md(a, sub))
+                update_timeline(os.path.join(d, f"{slug(a)}_timeline.md"), a, n)
+            with open(os.path.join(d, "Latest_News.md"), "w", encoding="utf-8") as f:
+                f.write(latest_news_md(sub, accounts))
+            sub_items.sort(key=lambda x: (PRIORITY.get(x["level"], 0), 1 if x["triggers"] else 0, x["date"]), reverse=True)
+            verticals.append({"top": top, "sub": sub, "count": len(sub_items), "items": sub_items})
+
+    # ---------------- Front-end data ----------------
+    docs_dir = os.path.join(REPO, "docs")
+    os.makedirs(docs_dir, exist_ok=True)
+    data = {
+        "generated": TODAY_ISO,
+        "generated_human": TODAY_HUMAN,
+        "counts": {"accounts_total": total_accounts, "with_news": total_news, "high": high_count},
+        "verticals": verticals,
+    }
+    with open(os.path.join(docs_dir, "data.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"Accounts: {total_accounts}, with news: {total_news}, high: {high_count}. Wrote docs/data.json")
+
+if __name__ == "__main__":
+    main()

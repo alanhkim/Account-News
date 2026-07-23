@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>FSI Account News</title>
+<style>
+  :root{
+    --bg:#ffffff; --canvas:#f6f8fa; --fg:#1f2328; --muted:#59636e; --border:#d1d9e0;
+    --accent:#0969da; --accent-fg:#ffffff; --hi:#cf222e; --med:#bc4c00; --low:#9a6700;
+    --pos:#1a7f37; --neu:#59636e; --neg:#cf222e; --chip:#eaeef2; --shadow:rgba(31,35,40,.04);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0d1117; --canvas:#010409; --fg:#e6edf3; --muted:#9198a1; --border:#30363d;
+      --accent:#4493f8; --accent-fg:#ffffff; --hi:#ff7b72; --med:#e3924b; --low:#d4a72c;
+      --pos:#3fb950; --neu:#9198a1; --neg:#ff7b72; --chip:#21262d; --shadow:rgba(1,4,9,.3);
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--canvas);color:var(--fg);
+    font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+  header{background:var(--bg);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:20}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+  h1{font-size:20px;margin:0;display:flex;align-items:center;gap:8px}
+  .sub{color:var(--muted);font-size:12px;margin-top:2px}
+  .stats{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .stat{background:var(--canvas);border:1px solid var(--border);border-radius:6px;padding:6px 12px;font-size:12px}
+  .stat b{font-size:16px;display:block;line-height:1.1}
+  .controls{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px;margin:16px 0;
+    display:flex;gap:8px;flex-wrap:wrap;align-items:center;box-shadow:0 1px 0 var(--shadow)}
+  select,input[type=search]{background:var(--bg);color:var(--fg);border:1px solid var(--border);
+    border-radius:6px;padding:6px 10px;font-size:13px}
+  input[type=search]{flex:1;min-width:180px}
+  .filters{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{background:var(--chip);border:1px solid var(--border);border-radius:16px;padding:3px 10px;
+    font-size:12px;cursor:pointer;user-select:none;color:var(--fg)}
+  .chip.on{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+  section.grp{margin:22px 0}
+  .grp-h{display:flex;align-items:baseline;gap:8px;border-bottom:1px solid var(--border);padding-bottom:6px;margin-bottom:10px}
+  .grp-h h2{font-size:15px;margin:0}
+  .grp-h .top{color:var(--muted);font-size:12px}
+  .grp-h .n{color:var(--muted);font-size:12px;margin-left:auto}
+  .empty{color:var(--muted);font-style:italic;padding:6px 2px}
+  .card{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px 14px;
+    margin-bottom:8px;display:flex;gap:12px;box-shadow:0 1px 0 var(--shadow)}
+  .thumb{width:44px;height:44px;border-radius:6px;object-fit:cover;background:var(--chip);border:1px solid var(--border);flex:0 0 auto}
+  .body{flex:1;min-width:0}
+  .acct{font-weight:600;font-size:13px}
+  .ttl{display:block;font-size:14px;margin:1px 0 4px}
+  .meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:12px;color:var(--muted)}
+  .sm{color:var(--muted);font-size:12.5px;margin:4px 0 0}
+  .badge{font-weight:600;font-size:11px;padding:1px 7px;border-radius:12px;border:1px solid var(--border)}
+  .b-hi{color:var(--hi)} .b-med{color:var(--med)} .b-low{color:var(--low)}
+  .s-pos{color:var(--pos)} .s-neu{color:var(--neu)} .s-neg{color:var(--neg)}
+  .tg{background:var(--chip);border-radius:10px;padding:1px 7px;font-size:11px}
+  .pl{background:transparent;border:1px solid var(--accent);color:var(--accent);border-radius:10px;padding:1px 7px;font-size:11px}
+  footer{color:var(--muted);font-size:12px;text-align:center;padding:24px}
+  .hide{display:none !important}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding:0">
+    <h1>📊 FSI Account News</h1>
+    <div class="sub" id="asof">Loading…</div>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls">
+    <select id="fSub"><option value="">All sub-verticals</option></select>
+    <input type="search" id="fText" placeholder="Search account or headline…" />
+    <div class="filters" id="fPlays"></div>
+    <div class="filters" id="fSent"></div>
+  </div>
+  <div id="list"></div>
+</main>
+
+<footer>
+  Auto-generated daily · <a id="repoLink" href="https://github.com/alanhkim/Account-News">Account-News repo</a>
+</footer>
+
+<script>
+const PLAYS = ["Azure AI","Copilot","Fabric","Security"];
+const SENTS = ["Positive","Neutral","Negative"];
+const levelCls = l => l==="High"?"b-hi":l==="Medium"?"b-med":"b-low";
+const levelDot = l => l==="High"?"🔴":l==="Medium"?"🟠":"🟡";
+const sentCls  = s => s==="Positive"?"s-pos":s==="Negative"?"s-neg":"s-neu";
+const sentDot  = s => s==="Positive"?"🟢":s==="Negative"?"🔴":"⚪";
+const esc = s => (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+
+const state = {sub:"", text:"", plays:new Set(), sents:new Set()};
+let DATA = null;
+
+function chip(label, on, onclick){
+  const c = document.createElement("span");
+  c.className = "chip" + (on?" on":"");
+  c.textContent = label;
+  c.onclick = onclick;
+  return c;
+}
+
+function buildControls(){
+  const sel = document.getElementById("fSub");
+  DATA.verticals.forEach(v=>{
+    const o=document.createElement("option"); o.value=v.sub; o.textContent=`${v.sub} (${v.count})`; sel.appendChild(o);
+  });
+  sel.onchange = e=>{state.sub=e.target.value; render();};
+  document.getElementById("fText").oninput = e=>{state.text=e.target.value.toLowerCase(); render();};
+  const pc=document.getElementById("fPlays");
+  PLAYS.forEach(p=>pc.appendChild(chip(p, false, function(){ toggle(state.plays,p,this); render();})));
+  const sc=document.getElementById("fSent");
+  SENTS.forEach(s=>sc.appendChild(chip(sentDot(s)+" "+s, false, function(){ toggle(state.sents,s,this); render();})));
+}
+function toggle(set,val,el){ if(set.has(val)){set.delete(val);el.classList.remove("on");} else {set.add(val);el.classList.add("on");} }
+
+function match(it){
+  if(state.plays.size && !it.plays.some(p=>state.plays.has(p))) return false;
+  if(state.sents.size && !state.sents.has(it.sentiment)) return false;
+  if(state.text){
+    const blob=(it.account+" "+it.title+" "+(it.summary||"")).toLowerCase();
+    if(!blob.includes(state.text)) return false;
+  }
+  return true;
+}
+
+function stats(){
+  const c=DATA.counts;
+  document.getElementById("stats").innerHTML =
+    `<div class="stat"><b>${c.with_news}</b>accounts with news</div>`+
+    `<div class="stat"><b>${c.high}</b>high-impact</div>`+
+    `<div class="stat"><b>${c.accounts_total}</b>tracked accounts</div>`;
+}
+
+function card(it){
+  const img = it.image || it.favicon ||
+    "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='44' height='44'></svg>";
+  const tg = it.triggers.map(t=>`<span class="tg">${esc(t)}</span>`).join("");
+  const pl = it.plays.map(p=>`<span class="pl">${esc(p)}</span>`).join("");
+  return `<div class="card">
+    <img class="thumb" src="${esc(img)}" loading="lazy" onerror="this.style.visibility='hidden'"/>
+    <div class="body">
+      <div class="acct">${esc(it.account)}</div>
+      <a class="ttl" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+      ${it.summary?`<p class="sm">${esc(it.summary)}</p>`:""}
+      <div class="meta">
+        <span class="badge ${levelCls(it.level)}">${levelDot(it.level)} ${it.level}</span>
+        <span class="badge ${sentCls(it.sentiment)}">${sentDot(it.sentiment)} ${it.sentiment}</span>
+        ${tg}${pl}
+        <span style="margin-left:auto">${esc(it.date)}</span>
+      </div>
+    </div></div>`;
+}
+
+function render(){
+  const host=document.getElementById("list");
+  host.innerHTML="";
+  DATA.verticals.forEach(v=>{
+    if(state.sub && v.sub!==state.sub) return;
+    const items=v.items.filter(match);
+    const sec=document.createElement("section");
+    sec.className="grp";
+    const filtered = (state.text||state.plays.size||state.sents.size)?" matching":"";
+    sec.innerHTML=`<div class="grp-h"><h2>${esc(v.sub)}</h2>`+
+      `<span class="top">${esc(v.top)}</span>`+
+      `<span class="n">${items.length}${filtered} item${items.length===1?"":"s"}</span></div>`+
+      (items.length? items.map(card).join("") : `<div class="empty">No news.</div>`);
+    host.appendChild(sec);
+  });
+}
+
+fetch("data.json?_="+Date.now()).then(r=>r.json()).then(d=>{
+  DATA=d;
+  document.getElementById("asof").textContent = "As of "+d.generated_human+" · daily refresh";
+  stats(); buildControls(); render();
+}).catch(e=>{
+  document.getElementById("list").innerHTML="<p class='empty'>Could not load data.json — "+esc(String(e))+"</p>";
+});
+</script>
+</body>
+</html>

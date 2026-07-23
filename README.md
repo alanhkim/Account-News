@@ -6,6 +6,28 @@ This repository tracks recent, current, and upcoming news for every account in t
 book of business, organized by vertical and sub-vertical. It refreshes automatically every day
 so account teams can walk into customer conversations with the latest context.
 
+## Dashboard
+
+A GitHub-themed web dashboard renders every sub-vertical with filters (solution play,
+sentiment, free-text search) and article thumbnails:
+
+**➡️ https://alanhkim.github.io/Account-News/**
+
+The dashboard reads [`docs/data.json`](docs/data.json), which is regenerated on every run.
+
+## News source
+
+News is pulled from a **news API** (not ad-hoc web search) for reliable deep article links,
+real publish dates, and de-duplication — see [`scripts/fetch_news.py`](scripts/fetch_news.py):
+
+- **Default: [GDELT DOC 2.0](https://api.gdeltproject.org/)** — keyless, global English coverage.
+- **Optional: [NewsAPI](https://newsapi.org/)** — set the `NEWSAPI_KEY` environment variable to
+  use it instead (adds article descriptions and images).
+
+The fetcher phrase-matches each account's brand, de-duplicates by URL and title, keeps only the
+most recent article within the last 30 days, and **omits accounts with no solid match** (it never
+fabricates links). `generate.py` then infers solution plays, trigger events, and sentiment.
+
 ## What's inside
 
 Each account has its own markdown file containing the most relevant news from the past 30 days:
@@ -75,18 +97,20 @@ self-trims at 90 days.
 
 Each daily run generates `DIGEST.html` (a compact, prioritized roll-up grouped by sub-vertical)
 and **sends it to you on Teams** (Notes to Self) so you get the highlights without opening the repo.
+The digest leads with a link to the **[dashboard](https://alanhkim.github.io/Account-News/)**.
 
 ## Automation
 
 A scheduled job runs **daily at 9:00 AM ET** and:
 
 1. Re-pulls the sub-vertical account mappings from WorkIQ (authoritative).
-2. Gathers the last 30 days of news for each account.
-3. Writes new `YYYY_MM_DD_<account>.md` files and updates each `<account>_timeline.md`.
+2. Pulls the last 30 days of news for each account from the news API (`scripts/fetch_news.py`).
+3. Writes new `YYYY_MM_DD_<account>.md` files, updates each `<account>_timeline.md`, and refreshes
+   `docs/data.json` for the dashboard.
 4. **Deletes any dated account file older than 90 days.**
 5. Regenerates each sub-vertical's `Latest_News.md`.
-6. Builds `DIGEST.html` and sends the morning digest to Teams.
-7. Commits and pushes the changes.
+6. Builds `DIGEST.html` and sends the morning digest (with the dashboard link) to Teams.
+7. Commits and pushes the changes — GitHub Pages redeploys the dashboard automatically.
 
 > **Timezone note:** the scheduler runs in the host's local time. It is currently set so the run
 > fires at ~9:00 AM **US Eastern (EDT)**. When Eastern shifts to EST (standard time), nudge the
@@ -100,8 +124,9 @@ A scheduled job runs **daily at 9:00 AM ET** and:
 
 ## Notes & caveats
 
-- News is gathered via automated web search and is **best-effort**. Always click through to the
-  source before using an item in a customer conversation.
+- News is pulled from a **news API** (GDELT by default; NewsAPI if `NEWSAPI_KEY` is set) for
+  reliable deep links, real dates, and de-duplication. It is still **best-effort** — always click
+  through to the source before using an item in a customer conversation.
 - Accounts with no significant public news in the window show a clean "No material news" file —
   this is expected, especially for smaller/private entities.
 - Internal Microsoft mapping documents are referenced only to build the roster; no confidential
