@@ -9,7 +9,6 @@ from generate import enrich, level_badge, PRIORITY
 
 TODAY_HUMAN = date.today().strftime("%B %d, %Y")
 REPO = sys.argv[1] if len(sys.argv) > 1 else "."
-TOP_PER_SUB = 5  # cap items shown per sub-vertical in the digest
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -25,21 +24,22 @@ for top, subs in ROSTERS.items():
                 n = NEWS[a]
                 plays, triggers, sentiment = enrich(n)
                 items.append((a, n, plays, triggers, sentiment))
+        # Always render the sub-vertical, even when it has no news.
         if not items:
+            blocks.append(f"<h4>{esc(sub)} (0)</h4><p><i>No news.</i></p>")
             continue
         items.sort(key=lambda x: (PRIORITY.get(x[1]["level"], 0), 1 if x[3] else 0, x[1]["date"]), reverse=True)
         total += len(items)
         high_count += sum(1 for i in items if i[1]["level"] == "High")
         rows = []
-        for a, n, plays, triggers, sentiment in items[:TOP_PER_SUB]:
+        for a, n, plays, triggers, sentiment in items:
             tg = f" &middot; <i>{esc(', '.join(triggers))}</i>" if triggers else ""
             pl = f" &middot; {esc(', '.join(plays))}" if plays else ""
             rows.append(
                 f"<li><b>{esc(a)}</b> — <a href=\"{esc(n['url'])}\">{esc(n['title'])}</a>"
                 f"<br/>{level_badge(n['level'])} &middot; {sentiment}{tg}{pl}</li>"
             )
-        extra = f"<br/><i>+{len(items)-TOP_PER_SUB} more…</i>" if len(items) > TOP_PER_SUB else ""
-        blocks.append(f"<h4>{esc(sub)} ({len(items)})</h4><ul>{''.join(rows)}</ul>{extra}")
+        blocks.append(f"<h4>{esc(sub)} ({len(items)})</h4><ul>{''.join(rows)}</ul>")
 
 header = (
     f"<h3>📊 FSI Account News — {TODAY_HUMAN}</h3>"
