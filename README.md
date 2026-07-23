@@ -24,6 +24,11 @@ real publish dates, and de-duplication — see [`scripts/fetch_news.py`](scripts
 - **Optional: [NewsAPI](https://newsapi.org/)** — set the `NEWSAPI_KEY` environment variable to
   use it instead (adds article descriptions and images).
 
+> ⚠️ **Never commit your API key.** This repo is public. Keep `NEWSAPI_KEY` in an environment
+> variable, not in code. On the machine that runs the daily job: `setx NEWSAPI_KEY "your-key"`.
+> In GitHub Actions: add it under **Settings → Secrets and variables → Actions** and reference it
+> as `${{ secrets.NEWSAPI_KEY }}`. `.env` files are git-ignored as a guardrail.
+
 The fetcher phrase-matches each account's brand, de-duplicates by URL and title, keeps only the
 most recent article within the last 30 days, and **omits accounts with no solid match** (it never
 fabricates links). `generate.py` then infers solution plays, trigger events, and sentiment.
