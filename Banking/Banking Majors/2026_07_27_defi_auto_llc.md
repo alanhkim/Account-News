@@ -1,4 +1,4 @@
-# defi Auto LLC
+# defi Auto, LLC
 
 **Sub-vertical:** Banking Majors  
 **News gathered:** July 27, 2026  

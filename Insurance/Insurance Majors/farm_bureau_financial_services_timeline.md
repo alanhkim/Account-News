@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-23 | South Dakota Farm Bureau to host NextGen Beef Tour Aug . 21 - 22 near MItchell | 🟡 Low | ⚪ Neutral | [link](https://drgnews.com/2026/07/23/south-dakota-farm-bureau-to-host-nextgen-beef-tour-aug-21-22-near-mitchell/) |

@@ -1,4 +1,4 @@
-# Dayforce US Inc
+# Dayforce US, Inc
 
 **Sub-vertical:** Banking Strategic  
 **News gathered:** July 27, 2026  

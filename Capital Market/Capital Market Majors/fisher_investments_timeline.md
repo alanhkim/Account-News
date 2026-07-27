@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-27 | Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html) |

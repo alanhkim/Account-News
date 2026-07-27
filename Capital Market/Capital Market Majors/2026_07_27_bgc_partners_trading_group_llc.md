@@ -1,4 +1,4 @@
-# BGC PARTNERS Trading Group LLC
+# BGC PARTNERS,Trading Group, LLC
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 27, 2026  

@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.cmegroup.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> CME Group Launches Tokenized Treasury Futures
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-10 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | Product Launch |
-| **Solution plays** | Security |
-| **Source** | [www.cmegroup.com](https://www.cmegroup.com/media-room.html) |
-
-**Summary.** CME Group began trading tokenized U.S. Treasury futures, responding to demand for blockchain-based clearing and collateral.
-
-**Why it matters (Microsoft angle).** Market-structure innovation drives digital-asset infrastructure and security needs.
-
-[Read the article →](https://www.cmegroup.com/media-room.html)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

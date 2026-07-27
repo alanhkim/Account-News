@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-22 | TIME names 7 Alabama companies among America best for 2026 | 🟠 Medium | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/time-names-7-alabama-companies-191334112.html) |

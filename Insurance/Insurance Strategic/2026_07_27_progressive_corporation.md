@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Winnebago Partners with Progressive on Embedded RV Insurance
+## <img src="https://www.google.com/s2/favicons?domain=wizard106.iheart.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Amy Needs an Icon Costume and The Bobby Bones Show Delivers | Wizard 106 . 7
 
 | | |
 |---|---|
-| **Date** | 2026-07-23 |
+| **Date** | 2026-07-27 |
 | **Potential impact** | 🟡 Low |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | Product Launch |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [finance.yahoo.com](https://finance.yahoo.com/small-business/articles/winnebago-progressive-insurance-team-elevate-195000074.html) |
+| **Source** | [wizard106.iheart.com](https://wizard106.iheart.com/featured/bobby-bones/content/2026-07-27-amy-needs-an-icon-costumeand-the-bobby-bones-show-delivers/) |
 
-**Summary.** Winnebago partnered with Progressive to let RV customers secure insurance during purchase, streamlining the buying journey.
+**Summary.** 
 
-**Why it matters (Microsoft angle).** Embedded-insurance growth supports API, cloud, and integration engagements.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://finance.yahoo.com/small-business/articles/winnebago-progressive-insurance-team-elevate-195000074.html)
+[Read the article →](https://wizard106.iheart.com/featured/bobby-bones/content/2026-07-27-amy-needs-an-icon-costumeand-the-bobby-bones-show-delivers/)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

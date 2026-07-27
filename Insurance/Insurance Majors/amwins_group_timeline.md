@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-27 | Price Forbes adds casualty to Lectio as lead - layer capacity tightens | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/au/news/breaking-news/price-forbes-adds-casualty-to-lectio-as-leadlayer-capacity-tightens-583784.aspx) |

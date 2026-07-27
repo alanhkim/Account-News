@@ -1,4 +1,4 @@
-# PayPal Inc.
+# PayPal, Inc.
 
 **Sub-vertical:** Capital Markets Strategic  
 **News gathered:** July 27, 2026  

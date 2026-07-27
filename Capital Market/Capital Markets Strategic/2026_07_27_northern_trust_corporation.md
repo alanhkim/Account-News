@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Northern Trust to provide fund administration services to Dawson Partners
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-27 |
+| **Potential impact** | 🔴 High |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | M&A, Product Launch |
+| **Solution plays** | — |
+| **Source** | [www.assetservicingtimes.com](https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18180) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18180)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

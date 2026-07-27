@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-26 | Azzi Fudd becomes first rookie to win WNBA 3 - point contest | 🟡 Low | ⚪ Neutral | [link](https://www.yardbarker.com/wnba/articles/azzi_fudd_becomes_first_rookie_to_win_wnba_3_point_contest/s1_17054_44099297) |

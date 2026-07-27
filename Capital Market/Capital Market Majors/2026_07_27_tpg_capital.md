@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=press.tpg.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> TPG Launches Asia Climate Fund with $2.1B First Close
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-06-27 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | M&A, Product Launch |
-| **Solution plays** | Fabric |
-| **Source** | [press.tpg.com](https://press.tpg.com/) |
-
-**Summary.** TPG announced the first close of its Asia-focused climate fund, raising $2.1B for decarbonization and renewables projects across China, India, and Southeast Asia.
-
-**Why it matters (Microsoft angle).** ESG/climate investing focus aligns with sustainability data and reporting solution plays.
-
-[Read the article →](https://press.tpg.com/)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

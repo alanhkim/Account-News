@@ -2,651 +2,1933 @@
   "generated": "2026-07-27",
   "generated_human": "July 27, 2026",
   "counts": {
-    "accounts_total": 237,
-    "with_news": 33,
-    "high": 3
+    "accounts_total": 284,
+    "with_news": 128,
+    "high": 23
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
+      "count": 47,
+      "items": [
+        {
+          "account": "HILLTOP HOLDINGS",
+          "title": "Hilltop Holdings Inc . Sells 5 , 366 Shares of Danaher Corporation $DHR",
+          "url": "https://www.themarketsdaily.com/2026/07/27/hilltop-holdings-inc-sells-5366-shares-of-danaher-corporation-dhr.html",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "Global Payments",
+          "title": "Visa ( V ) Reports Q2 : Everything You Need To Know Ahead Of Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-reports-q2-everything-054902456.html",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/89E0AF29FC94CB0C9DF92A4861D986D262919E529320941C57915CBC65641680/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Fa5611014185f275daf30f6ca736e6406",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "ALLY FINANCIAL",
+          "title": "SYF vs . ALLY vs . COF : Which Consumer Finance Stock Is the Best Buy After Earnings ?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/syf-vs-ally-vs-cof-123637415.html",
+          "date": "2026-07-25",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/3581404FDE04019352B0BFCCB89AE4DBAA4C56598A3037C80F321A54BF26A5BE/subgraphmysterio/resizefill_w1200_h906;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F89c1c0a0ea9fa92c580cfa144be9f66f",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Flagstar Bank",
+          "title": "Flagstar Bank , National Association ( NYSE : FLG ) Releases Earnings Results , Misses Expectations By $0 . 01 EPS",
+          "url": "https://www.dailypolitical.com/2026/07/25/flagstar-bank-national-association-nyseflg-releases-earnings-results-misses-expectations-by-0-01-eps.html",
+          "date": "2026-07-25",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "Old National Bancorp",
+          "title": "Old National Bancorp ( NASDAQ : ONB ) Announces Quarterly Earnings Results",
+          "url": "https://www.themarketsdaily.com/2026/07/24/old-national-bancorp-nasdaqonb-announces-quarterly-earnings-results.html",
+          "date": "2026-07-24",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "ARVEST BANK GROUP",
+          "title": "Sei Investments Co . Acquires 846 , 230 Shares of Exelon Corporation $EXC",
+          "url": "https://www.tickerreport.com/banking-finance/13513858/sei-investments-co-acquires-846230-shares-of-exelon-corporation-exc.html",
+          "date": "2026-07-24",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
+        },
+        {
+          "account": "Texas Capital Bank",
+          "title": "Texas Capital Bancshares , Inc . ( NASDAQ : TCBIO ) Declares Quarterly Dividend of $0 . 36",
+          "url": "https://www.themarketsdaily.com/2026/07/23/texas-capital-bancshares-inc-nasdaqtcbio-declares-quarterly-dividend-of-0-36.html",
+          "date": "2026-07-23",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "Q2 Software",
+          "title": "IBM insists AI didnt kill software deals , just delayed them",
+          "url": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
+          "date": "2026-07-23",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://image.theregister.com/241548.jpg?imageId=241548&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.theregister.com&sz=32"
+        },
+        {
+          "account": "Navient",
+          "title": "Netflix stock hits a 52 - week low after earnings but analysts say investors are missing the picture",
+          "url": "https://fortune.com/2026/07/17/netflix-stock-hit-52-week-low-after-earnings-analysts-say-investors-missing-big-picture-cfo/",
+          "date": "2026-07-17",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285761545.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=fortune.com&sz=32"
+        },
+        {
+          "account": "DUCK CREEK TECHNOLOGIES INC",
+          "title": "Duck Creek Acquires Send , Creating the Industry Only Agentic Underwriting - to - Core Platform",
+          "url": "http://www.singaporestar.com/news/279172562/duck-creek-acquires-send-creating-the-industry-only-agentic-underwriting-to-core-platform",
+          "date": "2026-07-07",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.singaporestar.com&sz=32"
+        },
+        {
+          "account": "WEBSTER BANK",
+          "title": "CVR Partners ( NYSE : UAN ) Share Price Passes Above 200 - Day Moving Average – Should You Sell ?",
+          "url": "https://www.dailypolitical.com/2026/07/25/cvr-partners-nyseuan-share-price-passes-above-200-day-moving-average-should-you-sell.html",
+          "date": "2026-07-25",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "REGIONS FINANCIAL CORPORATION",
+          "title": "TIME names 7 Alabama companies among America best for 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/time-names-7-alabama-companies-191334112.html",
+          "date": "2026-07-22",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Insurity",
+          "title": "Insurity Expands Access to Advanced Risk Intelligence Through Partnership with Confianza",
+          "url": "https://thestarphoenix.com/press-releases/business-wire/insurity-expands-access-to-advanced-risk-intelligence-through-partnership-with-confianza/",
+          "date": "2026-07-21",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Security"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260721379468r1&sid=cnpm5&distro=ftp",
+          "favicon": "https://www.google.com/s2/favicons?domain=thestarphoenix.com&sz=32"
+        },
+        {
+          "account": "DOVENMUEHLE MORTGAGE INC",
+          "title": "News : Dovenmuehle Mortgage names Ann Morey its head of product",
+          "url": "https://enewschannels.com/news-dovenmuehle-mortgage-names-ann-morey-its-head-of-product-3/",
+          "date": "2026-07-05",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://enewschannels.com/META/21-news-from-enewschannels-800x600.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=enewschannels.com&sz=32"
+        },
+        {
+          "account": "WESTERN UNION",
+          "title": "Foxconn drops VMware , adopts hyperconverged upstart Arcrfra for workloads including AI",
+          "url": "https://www.theregister.com/virtualization/2026/07/27/foxconn-drops-vmware-adopts-hyperconverged-upstart-arcrfra-for-workloads-including-ai/5278684",
+          "date": "2026-07-27",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://image.theregister.com/253902.jpg?imageId=253902&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.theregister.com&sz=32"
+        },
+        {
+          "account": "EAST WEST BANCORP INC",
+          "title": "A $550 , 000 Portfolio That Quietly Pays a 62 - Year - Old $3 , 400 a Month Until Social Security Kicks In",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/550-000-portfolio-quietly-pays-195234765.html",
+          "date": "2026-07-26",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/D93A779C2268C84632CE83FC12B9C4A2CFF9B26BDC1B60E26B27BDB98A5EBD73/subgraphmysterio/resizefill_w1200_h633;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1971681c16df76d900f15c765694dead",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Jack Henry & Associates Inc.",
+          "title": "IBM upgrades Bob with multi - agent tools & analytics",
+          "url": "https://itbrief.co.nz/story/ibm-upgrades-bob-with-multi-agent-tools-analytics",
+          "date": "2026-07-21",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=itbrief.co.nz&sz=32"
+        },
+        {
+          "account": "NORTHWEST SAVINGS BANK",
+          "title": "Social Security Matters : Can spouse file at 63 , get half of mine when I claim later ?",
+          "url": "https://www.bradfordera.com/2026/07/17/social-security-matters-can-spouse-file-63-get-half-mine-claim-later/",
+          "date": "2026-07-17",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.bradfordera.com/bradfordera/news/wp-content/uploads/sites/4/2025/08/OPED-SOCIAL-SECURITY-REFORM-EDITORIAL-DMT-1024x683.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.bradfordera.com&sz=32"
+        },
+        {
+          "account": "COMERICA INC",
+          "title": "⚾ Michael Massey 2 - run , 2 - out homer in 8th helps Royals beat Tigers",
+          "url": "https://jcpost.com/posts/c39aa47a-9310-4de2-8ecc-0b7bfc7105e5",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://media.eaglewebservices.com/public/2026/7/1785102330575.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=jcpost.com&sz=32"
+        },
+        {
+          "account": "loanDepot",
+          "title": "Padres sweep Marlins , strengthening their outlook before the Trade Deadline",
+          "url": "https://www.mlb.com/padres/news/manny-machado-jackson-merrill-hit-homers-padres-sweep-marlins",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/x5vxjxhlhuy2uezwef3h.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.mlb.com&sz=32"
+        },
+        {
+          "account": "United Wholesale Mortgage",
+          "title": "UWM fires back at Rocket in first salvo of $100M lawsuit",
+          "url": "https://www.nationalmortgagenews.com/news/uwm-fires-back-at-rocket-in-first-salvo-of-100m-lawsuit",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/97/92/2f3042444c65baeb3979e4937e75/nmn-og-image.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32"
+        },
+        {
+          "account": "Guaranteed Rate Inc",
+          "title": "Method to cheaper Ryanair flights that hiding in plain sight",
+          "url": "https://www.somersetlive.co.uk/whats-on/whats-on-news/method-cheaper-ryanair-flights-thats-11078536",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://i2-prod.galwaybeo.ie/news/galway-news/article11078531.ece/ALTERNATES/s1200/2_Ryanair-Boeing-737-800-airplane-at-Rhodes-airport-in-Greece.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.somersetlive.co.uk&sz=32"
+        },
+        {
+          "account": "ZIONS BANK CORPORATION",
+          "title": "Northern Utah Living : 3 events to check out this week ( July 25 - Aug . 2 ) | News , Sports , Jobs",
+          "url": "https://www.standard.net/lifestyle/2026/jul/25/northern-utah-living-3-events-to-check-out-this-week-july-25-aug-2/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://ogden_images.s3.amazonaws.com/www.standard.net/images/2025/07/31212147/BW_Korn-Ferry-Golf_-020-1200x801.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.standard.net&sz=32"
+        },
+        {
+          "account": "EXETER FINANCE CORP",
+          "title": "Commentary :  What are the Trail Blazers worth to Portland and Oregon ?",
+          "url": "https://portlandtribune.com/2026/07/23/commentary-what-are-the-trail-blazers-worth-to-portland-and-oregon/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://portlandtribune.com/wp-content/uploads/sites/20/2026/07/blazers-generic.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=portlandtribune.com&sz=32"
+        },
+        {
+          "account": "FREDDIE MAC",
+          "title": "Inflation is slashing middle - class incomes . Here where it worst",
+          "url": "https://finance.yahoo.com/economy/articles/inflation-slashing-middle-class-incomes-130000667.html",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/68FDA32EA37C013A7B6FB6021D951F90560E3924432B713E5BFB15146E49F73B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F229ff9d5a7f3de26cf86c2c464c6ff4f",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Synchrony Financial",
+          "title": "Sei Investments Co . Has $57 . 41 Million Position in Synchrony Financial $SYF",
+          "url": "https://www.themarketsdaily.com/2026/07/26/sei-investments-co-has-57-41-million-position-in-synchrony-financial-syf.html",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "FIFTH THIRD BANCORP",
+          "title": "The Gabelli Global Small and Mid Cap Value Trust ( NYSE : GGZ ) Shares Cross Below 50 Day Moving Average – Here Why",
+          "url": "https://www.themarketsdaily.com/2026/07/26/the-gabelli-global-small-and-mid-cap-value-trust-nyseggz-shares-cross-below-50-day-moving-average-heres-why.html",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "VYSTAR CREDIT UNION",
+          "title": "New  Duuuval Wall mural opens in historic Union Terminal",
+          "url": "https://www.actionnewsjax.com/news/local/new-mural-jam-duuuval-walls-opens-historic-downtown-jacksonville-tunnel/LQ2BVISFGBHLFLVJ3FETCC3ITA/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FC7IUKTODZNAWTHQ6GFH2XG4LDU.jpeg?auth=5918317d07c010f1c0d49b92cb05fde6958b24bdbcb163380da3655f1b8230d4&smart=true",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.actionnewsjax.com&sz=32"
+        },
+        {
+          "account": "FIRST HORIZON BANK",
+          "title": "EnerCom Releases Presenter Lineup for the 31st EnerCom Denver - The Energy Investment Conference , August 17 – 19 , 2026 , in Denver , Colorado",
+          "url": "https://www.oilandgas360.com/enercom-releases-presenter-lineup-for-the-31st-enercom-denver-the-energy-investment-conference-august-17-19-2026-in-denver-colorado-2/",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://www.oilandgas360.com/wp-content/uploads/2026/07/OAG360-Featured@2x-Register2026-1.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.oilandgas360.com&sz=32"
+        },
+        {
+          "account": "HEALTHEQUITY INC",
+          "title": "Investment Analyst Upgrades for July 25th ( ACIW , ACRE , AEE , AGI , AKAN , ALNY , AMACU , AMBP , APOG , ARCC )",
+          "url": "https://www.tickerreport.com/banking-finance/13515757/investment-analysts-upgrades-for-july-25th-aciw-acre-aee-agi-akan-alny-amacu-ambp-apog-arcc.html",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
+        },
+        {
+          "account": "FANNIE MAE",
+          "title": "Mortgage and refinance interest rates today , Friday , July 24 , 2026 : Dropping below 6 . 5 %",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-july-24-2026-dropping-below-65-100000803.html",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/FE29947F7E4012BB2172DF695EC837536EB9CA82DC1820A61AA1A3CCA14D6ED0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-04%2Fc36fbdb0-0289-11ef-be8f-4e0451f1fa09",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "FIRST CITIZENS BANK & TRUST COMPANY",
+          "title": "First Citizens Bank & Trust Co . Makes New Investment in Vail Resorts , Inc . $MTN",
+          "url": "https://www.tickerreport.com/banking-finance/13515016/first-citizens-bank-trust-co-makes-new-investment-in-vail-resorts-inc-mtn.html",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
+        },
+        {
+          "account": "CITIZENS FINANCIAL GROUP",
+          "title": "Disclosures show CFPB pick ties to several regulated firms",
+          "url": "https://www.americanbanker.com/news/disclosures-show-cfpb-picks-ties-to-several-regulated-firms",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/df/0c/a24bee6d4db28bc4eed69f8ebe2b/johnsoncfpb.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32"
+        },
+        {
+          "account": "MORTGAGE RESEARCH CENTER",
+          "title": "Current refi mortgage rates report for July 24 , 2026",
+          "url": "https://fortune.com/article/current-refi-mortgage-rates-07-24-2026/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Refi-Rates-July-24.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=fortune.com&sz=32"
+        },
+        {
+          "account": "Movement Mortgage",
+          "title": "Power Moves : CBRE , MBA , TMO and others make key personnel decisions",
+          "url": "https://www.scotsmanguide.com/news/power-moves-july-6-to-24/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.scotsmanguide.com/files/sites/2/2026/07/Power-Moves-July-6-to-24.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.scotsmanguide.com&sz=32"
+        },
+        {
+          "account": "APPLIED SYSTEMS INC",
+          "title": "The Truth Behind The Iconic Look : Is Mary Ann Esposito Hair Real Or A Well - Kept Secret ?",
+          "url": "https://www.unitaid.eu/iconic-look-mary-ann-esposito-8n8c.html",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.unitaid.eu/Themes/agk/assets/agk.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.unitaid.eu&sz=32"
+        },
+        {
+          "account": "Select Portfolio Servicing, Inc.",
+          "title": "July 23 , 2026",
+          "url": "https://www.birminghamtimes.com/2026/07/july-23-2026/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.birminghamtimes.com/wp-content/uploads/2024/05/AdobeStock_1679179941.jpeg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.birminghamtimes.com&sz=32"
+        },
+        {
+          "account": "FACTSET RESEARCH SYSTEMS",
+          "title": "Compass Rose Asset Management LP Takes Position in FactSet Research Systems Inc . $FDS",
+          "url": "https://www.themarketsdaily.com/2026/07/24/compass-rose-asset-management-lp-takes-position-in-factset-research-systems-inc-fds.html",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "NATIONSTAR MORTGAGE",
+          "title": "Master Sales - Columbia Star",
+          "url": "https://www.thecolumbiastar.com/articles/masters-sales-303/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32"
+        },
+        {
+          "account": "Midland Credit Management",
+          "title": "Master Sales - Columbia Star",
+          "url": "https://www.thecolumbiastar.com/articles/masters-sales-303/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32"
+        },
+        {
+          "account": "PINNACLE BANK",
+          "title": "Cheba Hut Plants Its Flag in Nebraska With First - Ever Lincoln Joint",
+          "url": "https://www.restaurantnewsrelease.com/cheba-hut-plants-its-flag-in-nebraska-with-first-ever-lincoln-joint/",
+          "date": "2026-07-22",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.restaurantnewsrelease.com/wp-content/uploads/2026/07/Cheba-Hut-Toasted-Subs-Lincoln-Nebraska-feature.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.restaurantnewsrelease.com&sz=32"
+        },
+        {
+          "account": "WOODFOREST NATIONAL BANK",
+          "title": "Dunkin  planning new spot on Arthur Ashe , expanding presence in local Walmarts",
+          "url": "https://richmondbizsense.com/2026/07/17/dunkin-planning-new-spot-on-arthur-ashe-expanding-presence-in-local-walmarts/",
+          "date": "2026-07-17",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://richmondbizsense.com/wp-content/uploads/2026/07/dunkin-Cropped.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=richmondbizsense.com&sz=32"
+        },
+        {
+          "account": "SYNOVUS FINANCIAL CORP",
+          "title": "Bank M & A slowed to a crawl after start of the Iran war",
+          "url": "https://www.americanbanker.com/news/bank-m-a-slowed-to-a-crawl-after-start-of-the-iran-war",
+          "date": "2026-07-14",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/df/7c/d96499504243aab4cc7e2a6dd809/bank-m-a-deals-1h26-16x9.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32"
+        },
+        {
+          "account": "Elevate Credit",
+          "title": "Fort Worth - Based Elevate Closes $655 Million Credit Facility to Fuel Next Phase of Growth",
+          "url": "https://fortworthbusiness.com/business/fort-worth-based-elevate-closes-655-million-credit-facility-to-fuel-next-phase-of-growth/",
+          "date": "2026-07-13",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=fortworthbusiness.com&sz=32"
+        },
+        {
+          "account": "Sagent M&C, LLC",
+          "title": "The Inner Circle acknowledges Connie L . Doyle as a 2026 Pinnacle Professional Member Inner Circle of Excellence",
+          "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-connie-l-doyle-as-a-2026-pinnacle-professional-member-inner-circle-of-excellence-302814783.html",
+          "date": "2026-06-30",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://mma.prnewswire.com/media/3002553/The_Inner_Circle__Connie_L_Doyle.jpg?p=facebook",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32"
+        },
+        {
+          "account": "State Employees Credit Union",
+          "title": "Jackpotting  thieves get ATMs to spit out stacks of cash in Washington and Oregon",
+          "url": "http://www.chronline.com/stories/jackpotting-thieves-get-atms-to-spit-out-stacks-of-cash-in-washington-and-oregon,404703",
+          "date": "2026-06-29",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://gamma.creativecirclecdn.com/lafromboise/original/20210304-162046-sirens.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.chronline.com&sz=32"
+        },
+        {
+          "account": "TRANS UNION CORPORATION",
+          "title": "@ wi . bopm Webinar June 30 , 2026 : No . U . S . War On Cuba ! Why Queer People Should Stand With Cuba Against Trump Attacks ! – Wisconsin Bail Out the People Movement",
+          "url": "https://wibailoutpeople.org/2026/06/27/wi-bopm-webinar-june-30-2026-no-u-s-war-on-cuba-why-queer-people-should-stand-with-cuba-against-trumps-attacks/",
+          "date": "2026-06-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://i0.wp.com/wibailoutpeople.org/wp-content/uploads/2026/06/image-234.png?fit=927%2C1200&ssl=1",
+          "favicon": "https://www.google.com/s2/favicons?domain=wibailoutpeople.org&sz=32"
+        }
+      ]
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 1,
+      "count": 9,
       "items": [
         {
-          "account": "Wells Fargo & Company",
-          "title": "Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50",
-          "url": "https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx",
-          "date": "2026-06-24",
-          "level": "High",
-          "summary": "Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.",
-          "impact": "Signals balance-sheet strength and capital-return capacity; a strong moment to align on data-platform and risk-modeling modernization conversations.",
+          "account": "JPMORGAN CHASE",
+          "title": "Check Point Software Technologies ( NASDAQ : CHKP ) Stock Rating Lowered by JPMorgan Chase & Co .",
+          "url": "https://www.dailypolitical.com/2026/07/27/check-point-software-technologies-nasdaqchkp-stock-rating-lowered-by-jpmorgan-chase-co.html",
+          "date": "2026-07-27",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Regulatory"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "FISERV Inc",
+          "title": "Frank Bisignano : Were bringing Social Security and IRS into the future",
+          "url": "https://www.baltimoresun.com/2026/07/26/frank-bisignano-were-bringing-social-security-and-irs-into-the-future/",
+          "date": "2026-07-26",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Security opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric",
             "Security"
           ],
-          "triggers": [
-            "Earnings"
-          ],
-          "sentiment": "Positive",
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/TBS-L-IRS-002.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.baltimoresun.com&sz=32"
+        },
+        {
+          "account": "Wells Fargo & Company",
+          "title": "Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July",
+          "url": "https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=newsroom.wf.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "US BANK",
+          "title": "Iran war escalation puts Federal Reserve in a bind",
+          "url": "https://www.thenationalnews.com/business/economy/2026/07/27/iran-war-escalation-puts-federal-reserve-in-a-bind/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.thenationalnews.com/resizer/v2/ZVQ2S33FS6E2YVAEIJOJV73G3I.jpg?smart=true&auth=2e7645cca0509270f73b0892c2c67c269214c0fea19586851216633134f794b5",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.thenationalnews.com&sz=32"
+        },
+        {
+          "account": "Citigroup",
+          "title": "Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price",
+          "url": "https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "Capital One",
+          "title": "Mississippi teen accused of killing elderly couple was known to deputies before attack",
+          "url": "https://www.fox35orlando.com/news/mississippi-teen-accused-killing-elderly-couple-was-known-deputies-before-attack",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/07/1280/720/screenshot-2026-07-26-072342.png?ve=1&tl=1",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fox35orlando.com&sz=32"
+        },
+        {
+          "account": "NAVY FEDERAL CREDIT UNION M",
+          "title": "What are VA loan rates today , July 24 , 2026 and the best lenders",
+          "url": "https://www.cnbc.com/select/what-are-va-loan-rates-today-july-24-2026/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://image.cnbcfm.com/api/v1/image/108336658-1784299122906-gettyimages-2203659327-sandyrobertk2_055.jpeg?v=1784299145",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32"
+        },
+        {
+          "account": "BNY Mellon",
+          "title": "Offense & Defense : The Infrastructure ETF Playbook",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/offense-defense-infrastructure-etf-playbook-161117481.html",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/6C0BA2F532EB0D334EC9321A23DAF71CC02A0206249195B9CFBED18397406365/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fetftrends.com%2Ff9b387d9b385da5116118185d77a205f",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "STATE STREET BOSTON CORPORATION",
+          "title": "Top banker Sunita Kanchinadam Named 15th President of TiE Boston",
+          "url": "https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/",
+          "date": "2026-07-10",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://newsindiatimes.com/wp-content/uploads/2026/07/unnamed-90.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=newsindiatimes.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 17,
+      "count": 24,
       "items": [
         {
-          "account": "Raymond James and Associates Inc",
-          "title": "Raymond James Reports Record Wealth Fee Revenue, Eyes RIA Expansion",
-          "url": "https://tbbwmag.com/2026/07/22/raymond-james-earnings/",
-          "date": "2026-07-18",
-          "level": "Medium",
-          "summary": "The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.",
-          "impact": "Advisor-channel growth aligns with Copilot-led productivity and CRM modernization.",
-          "plays": [
-            "Copilot"
-          ],
-          "triggers": [
-            "Earnings",
-            "M&A"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=tbbwmag.com&sz=32"
-        },
-        {
-          "account": "KOHLBERG KRAVIS ROBERTS & CO LLC",
-          "title": "KKR Weighs Restructuring of Real Estate Arm Amid Downturn",
-          "url": "https://therealdeal.com/national/2026/07/23/kkr-real-estate-lending-arm-up-for-potential-sale/",
-          "date": "2026-07-17",
-          "level": "Medium",
-          "summary": "Facing commercial real estate headwinds, KKR is evaluating a restructuring that could include asset sales or mergers to steady performance. The move signals broader distress in private real estate.",
-          "impact": "Portfolio stress increases need for risk analytics and scenario modeling across real assets.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
+          "account": "BAIN CAPITAL LLC",
+          "title": "Eightco Holdings ( NASDAQ : ORBS ) Announces its Participation in World Foundation $52 . 5M funding round as World Shifts From Building the Network to Scaling Utility",
+          "url": "https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [
             "M&A"
           ],
-          "sentiment": "Negative",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=therealdeal.com&sz=32"
+          "sentiment": "Neutral",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/27/1152598.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32"
         },
         {
-          "account": "MOODYS INVESTORS SERVICE",
-          "title": "Moody's Revises AI Risk Ratings for Global Banks",
-          "url": "https://www.moodys.com/web/en/us/insights/credit-risk/outlooks/banking-2026.html",
-          "date": "2026-07-15",
-          "level": "Medium",
-          "summary": "Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.",
-          "impact": "Ratings methodology shift elevates AI-governance and cyber-risk conversations across FSI.",
-          "plays": [
-            "Azure AI",
-            "Security"
-          ],
+          "account": "TWO SIGMA INVESTMENTS",
+          "title": "Ecopetrol ( EC ) to Release Quarterly Earnings on Monday",
+          "url": "https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [
-            "Regulatory"
+            "Earnings"
           ],
           "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.moodys.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
         },
         {
-          "account": "T ROWE PRICE ASSOCIATES",
-          "title": "T. Rowe Price Launches Active AI-Driven Fund Range",
-          "url": "https://www.troweprice.com/corporate/us/en/press.html",
-          "date": "2026-07-14",
-          "level": "Medium",
-          "summary": "T. Rowe Price introduced a series of actively managed funds powered by proprietary AI models, reflecting the quantamental investing trend.",
-          "impact": "AI-in-investing focus is a direct opening for Azure AI and data-platform plays.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A",
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.troweprice.com&sz=32"
-        },
-        {
-          "account": "TIAA CREF",
-          "title": "TIAA Sells Majority Stake in Nuveen's Real Estate Arm",
-          "url": "https://www.tiaa.org/public/about-tiaa/news-press",
-          "date": "2026-07-11",
-          "level": "Medium",
-          "summary": "TIAA sold a controlling interest in Nuveen Real Estate to a consortium of global investors amid pension-liability pressures and shifting risk appetite.",
-          "impact": "Strategic reshaping may drive platform-consolidation and data-migration needs.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
+          "account": "CARLYLE",
+          "title": "Katy Perry blasts White House for using hit song  Firework  she sold in $225M catalog deal",
+          "url": "https://foxwilmington.com/katy-perry-blasts-white-house-for-using-hit-song-firework-she-sold-in-225m-catalog-deal/",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [
             "M&A"
           ],
-          "sentiment": "Negative",
+          "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.tiaa.org&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=foxwilmington.com&sz=32"
+        },
+        {
+          "account": "Stone X",
+          "title": "Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+          "date": "2026-07-25",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?&q=75&fit=max&auto=format",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+        },
+        {
+          "account": "CERBERUS CAPITAL MANAGEMENT LP",
+          "title": "Eos Energy Announces Expiration and Results of Rights Offering",
+          "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/eos-energy-announces-expiration-and-results-of-rights-offering/2390326",
+          "date": "2026-07-23",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/23/1148688.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32"
         },
         {
           "account": "Apollo Management",
-          "title": "Apollo Approaches Record Deal Spend with EasyJet and Bayer Deals",
-          "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
-          "date": "2026-07-10",
+          "title": "Ode with Anthropic and LogicGate Announce Partnership to Scale Expert - Led Client Outcomes through Accelerated Agentic Capabilities",
+          "url": "https://leaderpost.com/press-releases/business-wire/ode-with-anthropic-and-logicgate-announce-partnership-to-scale-expert-led-client-outcomes-through-accelerated-agentic-capabilities/",
+          "date": "2026-07-27",
           "level": "Medium",
-          "summary": "Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.",
-          "impact": "Rapid deal velocity drives demand for scalable diligence, data, and portfolio-analytics tooling.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32"
-        },
-        {
-          "account": "Chicago mercantile Exchange",
-          "title": "CME Group Launches Tokenized Treasury Futures",
-          "url": "https://www.cmegroup.com/media-room.html",
-          "date": "2026-07-10",
-          "level": "Medium",
-          "summary": "CME Group began trading tokenized U.S. Treasury futures, responding to demand for blockchain-based clearing and collateral.",
-          "impact": "Market-structure innovation drives digital-asset infrastructure and security needs.",
-          "plays": [
-            "Security"
-          ],
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [
             "Product Launch"
           ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.cmegroup.com&sz=32"
-        },
-        {
-          "account": "LPL Financial",
-          "title": "LPL Financial Launches Digital Asset Platform for Advisors",
-          "url": "https://www.lpl.com/news-media.html",
-          "date": "2026-06-30",
-          "level": "Medium",
-          "summary": "LPL rolled out a crypto/digital-asset solution for its advisor network, citing rising client demand for exposure and secure custody.",
-          "impact": "New platform build-out drives cloud, security, and compliance-tooling demand.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Product Launch",
-            "Regulatory"
-          ],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.lpl.com&sz=32"
+          "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260727617963r1&sid=cnpm5&distro=ftp",
+          "favicon": "https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32"
         },
         {
-          "account": "DEPOSITORY TRUST CLEARING CORPORATION",
-          "title": "DTCC Completes Industry-Wide Digital Asset Pilot",
-          "url": "https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality",
-          "date": "2026-07-05",
+          "account": "MORNINGSTAR INC",
+          "title": "Meet the American techies who dont care where  good enough  AI models come from , even China",
+          "url": "https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/",
+          "date": "2026-07-27",
           "level": "Medium",
-          "summary": "DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.",
-          "impact": "Settlement modernization is a major cloud, data, and resiliency opportunity.",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
           "plays": [
+            "Azure AI",
             "Fabric"
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.dtcc.com&sz=32"
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26207087220843-e1785154826248.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=fortune.com&sz=32"
         },
         {
-          "account": "ANTARES CAPITAL",
-          "title": "Ares/Antares Leads $1.3B Private Debt Deal for HealthTech Firm",
-          "url": "https://www.antares.com/news/",
-          "date": "2026-07-21",
-          "level": "Low",
-          "summary": "Through Antares Capital, Ares arranged a $1.3B debt facility for a healthcare technology firm, signaling continued robust private-credit and direct-lending activity.",
-          "impact": "Private-credit growth increases demand for loan-monitoring and risk-data infrastructure.",
+          "account": "PRINCIPAL FINANCIAL GROUP",
+          "title": "Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio",
+          "url": "https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html",
+          "date": "2026-07-26",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Copilot opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric",
-            "Security"
+            "Copilot"
           ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.antares.com&sz=32"
-        },
-        {
-          "account": "INVESCO",
-          "title": "Invesco Wins Approval for First Spot Bitcoin ETF in Europe",
-          "url": "https://www.invesco.com/corporate/en/about-us/newsroom.html",
-          "date": "2026-07-16",
-          "level": "Low",
-          "summary": "Invesco secured regulatory approval for Europe's first spot Bitcoin ETF, targeting growing institutional and retail demand.",
-          "impact": "Digital-asset product growth raises custody, security, and data needs.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "M&A",
-            "Regulatory"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.invesco.com&sz=32"
-        },
-        {
-          "account": "Intercontinentalexchange",
-          "title": "ICE Acquires Leading ESG Data Analytics Firm",
-          "url": "https://ir.theice.com/press",
-          "date": "2026-07-13",
-          "level": "Low",
-          "summary": "ICE acquired an ESG data provider to bolster sustainability market-data offerings for exchanges and listed companies.",
-          "impact": "Data consolidation supports cloud-scale analytics and integration engagements.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=ir.theice.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
         },
         {
-          "account": "JEFFERIES & COMPANY INC",
-          "title": "Jefferies Expands Global Equity Trading with Paris Desk Launch",
-          "url": "https://www.jefferies.com/news/",
-          "date": "2026-07-08",
-          "level": "Low",
-          "summary": "Jefferies opened a Paris equity trading hub to support increased European client demand and local listings.",
-          "impact": "Geographic expansion increases low-latency infrastructure and data-residency needs.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.jefferies.com&sz=32"
-        },
-        {
-          "account": "MSCI Inc",
-          "title": "MSCI Unveils Enhanced Net-Zero Index Suite",
-          "url": "https://www.msci.com/our-solutions/indexes",
-          "date": "2026-07-03",
-          "level": "Low",
-          "summary": "MSCI launched net-zero aligned indexes to meet rising client demand for climate investing and institutional ESG reporting.",
-          "impact": "Index/data expansion supports ESG data-platform and analytics engagements.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.msci.com&sz=32"
-        },
-        {
-          "account": "TPG Capital",
-          "title": "TPG Launches Asia Climate Fund with $2.1B First Close",
-          "url": "https://press.tpg.com/",
-          "date": "2026-06-27",
-          "level": "Low",
-          "summary": "TPG announced the first close of its Asia-focused climate fund, raising $2.1B for decarbonization and renewables projects across China, India, and Southeast Asia.",
-          "impact": "ESG/climate investing focus aligns with sustainability data and reporting solution plays.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A",
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=press.tpg.com&sz=32"
-        },
-        {
-          "account": "MORNINGSTAR INC",
-          "title": "Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios",
-          "url": "https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx",
-          "date": "2026-06-17",
-          "level": "Low",
-          "summary": "Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.",
-          "impact": "Data/wealth-platform convergence creates cloud and analytics opportunity.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=newsroom.morningstar.com&sz=32"
-        },
-        {
-          "account": "CARLYLE",
-          "title": "Carlyle Backs AI Supply-Chain Automation Startup",
-          "url": "https://www.carlyle.com/media-room",
-          "date": "2026-07-12",
-          "level": "Low",
-          "summary": "Carlyle led a $450M round for an AI-enabled logistics firm, betting on automation and supply-chain modernization amid rising cost and labor pressures.",
-          "impact": "Reinforces PE appetite for AI-driven efficiency; relevant for cross-portfolio cloud/AI enablement.",
+          "account": "JANUS HENDERSON GROUP",
+          "title": "AI spending surge puts Big Tech cash flows under pressure",
+          "url": "http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure",
+          "date": "2026-07-25",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
           "triggers": [],
           "sentiment": "Neutral",
+          "image": "https://image.chitra.live/api/v1/wps/d8cd7cf/c6b5e4cb-f2e9-47b4-9d05-e67e8542aa26/1/Google-new-600x315.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.phoenixherald.com&sz=32"
+        },
+        {
+          "account": "INVESCO",
+          "title": "SpaceX Stock Is Down 48 % From Its High . Here Why ETFs Are Loading Up Anyway .",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://s.yimg.com/lo/mysterio/api/AA6B871863C23FE40EF13E6927654071E290D2DCBD7DDC5CAA6937F191B4B074/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fdbd00e65159722aa6d6cb864d4eef783",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "LPL Financial",
+          "title": "Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July",
+          "url": "https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.carlyle.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "JEFFERIES & COMPANY INC",
+          "title": "Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price",
+          "url": "https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "FINRA",
+          "title": "Round - the - clock trading is coming , but retail investors are already there",
+          "url": "https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2019/10/BLOG12_150909988_AR_-1_YTLKZWFZUQCV-2.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32"
+        },
+        {
+          "account": "Kroll, LLC",
+          "title": "UK law firm plunges into administration - £250m loans",
+          "url": "https://www.express.co.uk/news/uk/2233364/uk-law-firm-plunges-administration",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7064044.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.express.co.uk&sz=32"
+        },
+        {
+          "account": "ROCKEFELLER AND COMPANY",
+          "title": "Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates",
+          "url": "https://www.stereoboard.com/content/view/252322/9",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.stereoboard.com/images/artistimages/ministry.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.stereoboard.com&sz=32"
+        },
+        {
+          "account": "FISHER INVESTMENTS",
+          "title": "Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/AC0FCE7DFAB373254945FC8F019BDAF23D4E494A5E8D710E224EE57A12C8B51B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2Fbee704efee9fc2e39627aa417f8864b3",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "AMERIPRISE FINANCIAL INC",
+          "title": "SPDR Bloomberg 3 - 12 Month T - Bill ETF ( NYSEARCA : BILS ) Short Interest Update",
+          "url": "https://www.themarketsdaily.com/2026/07/27/spdr-bloomberg-3-12-month-t-bill-etf-nysearcabils-short-interest-update-2.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "ROBERT W. BAIRD & CO INC",
+          "title": "Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW",
+          "url": "https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
+        },
+        {
+          "account": "Berkshire Hathaway Energy",
+          "title": "What Greg Abel Might Do With Berkshire Hathaway Massive Cash Pile",
+          "url": "https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://g.foolcdn.com/editorial/images/879628/thinking-investor-using-a-laptop-computer.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+        },
+        {
+          "account": "LAZARD FRERES AND COMPANY",
+          "title": "Lazard advice sought for likely debt buybacks , while debt affordability improves",
+          "url": "https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.sundaytimes.lk&sz=32"
+        },
+        {
+          "account": "Fortress Investment Group",
+          "title": "Majestic puts the Champagne on ice as it prepares to toast arrival in Trowbridge",
+          "url": "https://retailtimes.co.uk/majestic-puts-the-champagne-on-ice-as-it-prepares-to-toast-arrival-in-trowbridge/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=retailtimes.co.uk&sz=32"
+        },
+        {
+          "account": "Commonwealth Financial Network",
+          "title": "$1 Billion Team Joins Raymond James From Stifel",
+          "url": "https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blte3facab7c0ab1995/6a627a894bce47b8e5f7939c/kwm-team-raymond-james.jpg?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
+        },
+        {
+          "account": "DAVIDSON KEMPNER",
+          "title": "Davidson Kempner Capital Management LP : Form 8 . 3 - easyJet PLC",
+          "url": "https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-easyjet-plc/2391154",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32"
+        },
+        {
+          "account": "EDWARD D JONES AND COMPANY",
+          "title": "Edward Jones pushes back on lawsuit challenging diversity program",
+          "url": "https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html",
+          "date": "2026-07-09",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/122F07CADD6BBC20623DB87F59E5D0C8E0499CE60AEB49632F5E33DFD1E93C88/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhr_dive_843%2F32b1dec6214085df10ced8550abee0d2",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 1,
+      "count": 9,
       "items": [
         {
-          "account": "CHARLES SCHWAB CORP",
-          "title": "Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026)",
-          "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx",
-          "date": "2026-07-21",
+          "account": "NORTHERN TRUST CORPORATION",
+          "title": "Northern Trust to provide fund administration services to Dawson Partners",
+          "url": "https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18180",
+          "date": "2026-07-27",
           "level": "High",
-          "summary": "Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.",
-          "impact": "Heavy AI and crypto platform investment creates openings for cloud, data, and Copilot-led advisor productivity plays.",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "M&A",
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32"
+        },
+        {
+          "account": "VANGUARD GROUP INC",
+          "title": "Goldman , T . Rowe Debut Their First Interval Fund for the Masses",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-t-rowe-debut-first-144651698.html",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/757A32E151D009D5D9F51C28B05A50E8E935634A4FF4F3F95138AC66285C55B1/subgraphmysterio/resizefill_w1200_h623;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_management_474%2F1a8128a925c06e59bb6d0531995e5f73",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "NASDAQ OMX",
+          "title": "First Trust NASDAQ ABA Community Bank Index Fund ( NASDAQ : QABA ) Trading Up 2 . 8 % – Time to Buy ?",
+          "url": "https://www.dailypolitical.com/2026/07/16/first-trust-nasdaq-aba-community-bank-index-fund-nasdaqqaba-trading-up-2-8-time-to-buy.html",
+          "date": "2026-07-17",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI",
-            "Copilot",
             "Fabric"
           ],
           "triggers": [
-            "Earnings"
+            "M&A"
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=pressroom.aboutschwab.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "Brookfield Asset Management",
+          "title": "Brookfield commits up to $9 - billion for AI data centre in South Korea",
+          "url": "https://www.theglobeandmail.com/business/article-brookfield-commits-up-to-9-billion-for-ai-data-centre-in-south-korea/",
+          "date": "2026-07-27",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://www.theglobeandmail.com/resizer/v2/DE4A37BFJFEDPAMXXRFT6G5ECQ.jpg?auth=aee7b6948eab67476da6b81aff3b23a9680a0b9bc24bad2ac875448d65173a63&quality=80&smart=true",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32"
+        },
+        {
+          "account": "BRIDGEWATER ASSOCIATES",
+          "title": "Dolphins to host QB Jack Plummer for workout",
+          "url": "https://www.sun-sentinel.com/2026/07/25/dolphins-to-host-quarterback-for-workout-report-says/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.sun-sentinel.com/wp-content/uploads/2026/07/tfl-z-AP25239733628379-01.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.sun-sentinel.com&sz=32"
+        },
+        {
+          "account": "Fidelity Investments",
+          "title": "Fidelity says retirees now face $185 , 500 in healthcare costs up 7 . 5 % from last year , and long - term care isnt included",
+          "url": "https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://s.yimg.com/lo/mysterio/api/6C8EE79B94AF4FA137A4353419500AF12A0C8C1BA3545B6EDE1DC5B5E4D91564/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F839133fe2629cebdd891549b83989b5c",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Blackstone Inc.",
+          "title": "Japan New Activists Blend McKinsey And Blackstone",
+          "url": "https://www.forbes.com/sites/robertdaugherty/2026/07/27/japans-new-activists-blend-mckinsey-and-blackstone/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/68f7805040311a110b2f928c/0x0.jpg?format=jpg&fit=bounds",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32"
+        },
+        {
+          "account": "BLACKROCK FINANCIAL MANAGEMENT",
+          "title": "Holding ( s ) in Company | Company Announcement",
+          "url": "https://www.investegate.co.uk/announcement/rns/telecom-plus--tep/holding-s-in-company/9675636",
+          "date": "2026-07-17",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32"
+        },
+        {
+          "account": "VISA U S A INC",
+          "title": "Lands End Visa Credit Card",
+          "url": "https://www.unitaid.eu/lands-end-visa-credit-card-0etr.html",
+          "date": "2026-07-12",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.unitaid.eu/Themes/agk/assets/agk.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.unitaid.eu&sz=32"
         }
       ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 1,
+      "count": 31,
       "items": [
         {
-          "account": "TRAVELERS PROPERTY & CASUALTY",
-          "title": "Travelers Reports Excellent Q2 and Year-to-Date Results",
-          "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx",
-          "date": "2026-07-17",
+          "account": "AMERICAN FINANCIAL GROUP INC",
+          "title": "Unum Group ( UNM ) Reports Q2 : Everything You Need To Know Ahead Of Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unum-group-unm-reports-q2-102102492.html",
+          "date": "2026-07-27",
           "level": "High",
-          "summary": "Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.",
-          "impact": "Strong results and capital position support strategic tech-modernization conversations.",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Positive",
+          "image": "https://s.yimg.com/lo/mysterio/api/60FA2A0F3C0A91AC9119138215F66C08A4B407BDA2F7EFFCBE5C59C47EFCD439/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Fe294eaa069709f18d332eca803a3427b",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "OLD REPUBLIC INTERNATIONAL",
+          "title": "Old Republic International ( NYSE : ORI ) Releases Quarterly Earnings Results , Misses Expectations By $0 . 03 EPS",
+          "url": "https://www.themarketsdaily.com/2026/07/25/old-republic-international-nyseori-releases-quarterly-earnings-results-misses-expectations-by-0-03-eps.html",
+          "date": "2026-07-25",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "ARTHUR J GALLAGHER & CO",
+          "title": "Gallagher RPS acquires Pennsylvania wholesale broker W . N . Tuscano Agency",
+          "url": "https://www.insurancebusinessmag.com/us/news/excess-surplus/gallaghers-rps-acquires-pennsylvania-wholesale-broker-w-n--tuscano-agency-583198.aspx",
+          "date": "2026-07-22",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/003/0382_639202916280956595.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
+        },
+        {
+          "account": "JACKSON NATIONAL LIFE",
+          "title": "Prudential Is Well Positioned for Better Dividends and Long - Term Growth",
+          "url": "https://www.morningstar.com/company-reports/1488860-prudential-is-well-positioned-for-better-dividends-and-long-term-growth",
+          "date": "2026-07-21",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
           "plays": [],
           "triggers": [
             "Earnings"
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=investor.travelers.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32"
+        },
+        {
+          "account": "RISK STRATEGIES COMPANY",
+          "title": "Itai Levitan | investingLive",
+          "url": "https://investinglive.com/author/itai-levitan/",
+          "date": "2026-07-27",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://investinglive.com/author/itai-levitan/images/il-og-thumbnail.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=investinglive.com&sz=32"
+        },
+        {
+          "account": "MERCURY INSURANCE COMPANY",
+          "title": "Why Wildfire Risk Can Vary from One Home to the Next",
+          "url": "http://www.prnewswire.com/news-releases/why-wildfire-risk-can-vary-from-one-home-to-the-next-302832958.html",
+          "date": "2026-07-23",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32"
+        },
+        {
+          "account": "AmWINS Group",
+          "title": "Price Forbes adds casualty to Lectio as lead - layer capacity tightens",
+          "url": "https://www.insurancebusinessmag.com/au/news/breaking-news/price-forbes-adds-casualty-to-lectio-as-leadlayer-capacity-tightens-583784.aspx",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/023/0356_639207598696133764.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
+        },
+        {
+          "account": "LINCOLN NATIONAL CORPORATION",
+          "title": "Time Alone with Abe and Mary : The Abraham Lincoln Museum and Library",
+          "url": "https://www.newcity.com/2026/07/27/time-alone-with-abe-and-mary-the-abraham-lincoln-museum-and-library/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.newcity.com/wp-content/uploads/2026/07/Mural-Reflection-scaled-e1783275924845.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.newcity.com&sz=32"
+        },
+        {
+          "account": "BROWN AND BROWN, Inc.",
+          "title": "Survivor of Old Sacramento stabbing shares his story",
+          "url": "https://www.kcra.com/article/survivor-old-sacramento-stabbing-shares-his-story/73267286",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://kubrick.htvapps.com/vidthumb/cd21939b-e81a-4fc6-8599-54d20eee0ad1/962c41ec-b85c-4286-9707-ce5e707aa6e5.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.kcra.com&sz=32"
+        },
+        {
+          "account": "Kemper Corporation",
+          "title": "QPR transfer round - up including Edwards , De Keersmaecker latest",
+          "url": "https://the72.co.uk/2026/07/27/qpr-transfer-roundup-edwards-de-keersmaecker-latest/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://cdn.the72.co.uk/wp-content/uploads/2026/07/prsijgREzdmd.webp",
+          "favicon": "https://www.google.com/s2/favicons?domain=the72.co.uk&sz=32"
+        },
+        {
+          "account": "National Life Group",
+          "title": "Platner Is Gone , But His Billionaire Tax Plan Still Matters",
+          "url": "https://www.forbes.com/sites/taxnotes/2026/07/27/platner-is-gone-but-his-billionaire-tax-plan-still-matters/",
+          "date": "2026-07-27",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/6a676773ad8187435b91466d/0x0.jpg?format=jpg&fit=bounds",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32"
+        },
+        {
+          "account": "MUTUAL OF OMAHA",
+          "title": "Omaha City Council agenda notes for July 28",
+          "url": "https://www.wowt.com/2026/07/25/omaha-city-council-agenda-notes-july-28/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/HNGLGZUBPVBDPNKR3HI5QVPEWI.jpg?auth=044400aad55c2180fe6ed211656401c8d802a18a0299baccfbd728db0ddec81f&smart=true",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wowt.com&sz=32"
+        },
+        {
+          "account": "aflac",
+          "title": "Azzi Fudd becomes first rookie to win WNBA 3 - point contest",
+          "url": "https://www.yardbarker.com/wnba/articles/azzi_fudd_becomes_first_rookie_to_win_wnba_3_point_contest/s1_17054_44099297",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.yardbarker.com/media/e/1/e16ddd7c115b02de3bdad652691ba495e063b4ef/thumb_16x9/29446812.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.yardbarker.com&sz=32"
+        },
+        {
+          "account": "PROTECTIVE LIFE CORPORATION",
+          "title": "Scientists Say Consciousness Comes From Feelings , Not Thoughts",
+          "url": "https://www.popularmechanics.com/science/a73249621/feelings-consciousness-neuroscience/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/fa655cc6-2e0c-4747-a21c-ab4ff6060b86.jpeg?crop=1xw:0.759430604982xh;center,top",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.popularmechanics.com&sz=32"
+        },
+        {
+          "account": "GUARDIAN LIFE INSURANCE CO",
+          "title": "Musikfest 2026 guide : When , lineup , food , parking and more",
+          "url": "https://www.mcall.com/2026/07/26/musikfest-2026-guide-when-lineup-food-parking/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://www.mcall.com/wp-content/uploads/2025/08/TMC-L-MusikfestNightCrawler-_21-1.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.mcall.com&sz=32"
+        },
+        {
+          "account": "Genworth",
+          "title": "Genworth Financial , Inc . $GNW Shares Purchased by Caxton Associates LLP",
+          "url": "https://www.dailypolitical.com/2026/07/25/genworth-financial-inc-gnw-shares-purchased-by-caxton-associates-llp.html",
+          "date": "2026-07-25",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "Assurant",
+          "title": "Principal Financial Group Inc . Has $14 . 57 Million Stock Holdings in Assurant , Inc . $AIZ",
+          "url": "https://www.themarketsdaily.com/2026/07/24/principal-financial-group-inc-has-14-57-million-stock-holdings-in-assurant-inc-aiz.html",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "FM GLOBAL",
+          "title": "China deeply concerned over escalating situation in Middle East , urges parties concerned to resume dialogue : FM spokesperson",
+          "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260723-globaltimes01.htm",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.globalsecurity.org&sz=32"
+        },
+        {
+          "account": "Loews Corp",
+          "title": "Independence Day festivities abound in South Florida",
+          "url": "https://communitynewspapers.com/columnists/gloria%E2%80%99s-gab/independence-day-festivities-abound-in-south-florida/",
+          "date": "2026-07-24",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://communitynewspapers.com/wp-content/uploads/2026/07/Gab-8017-featured-m.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=communitynewspapers.com&sz=32"
+        },
+        {
+          "account": "Tokio Marine Group",
+          "title": "Prudential May Sell Brazil Unit for US$3 Billion",
+          "url": "https://www.riotimesonline.com/prudential-may-sell-brazil-unit-for-us3-billion/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.riotimesonline.com/wp-content/uploads/2026/07/1x-1-39.webp",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.riotimesonline.com&sz=32"
+        },
+        {
+          "account": "ERIE INSURANCE GROUP",
+          "title": "Local Auto Body Shop Works to Fix Dented Vehicles Following Hail Storm",
+          "url": "https://www.erienewsnow.com/news/local-auto-body-shop-works-to-fix-dented-vehicles-following-hail-storm/article_99702de3-2fb3-4fe6-98b9-f3c783fbefdf.html",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://bloximages.chicago2.vip.townnews.com/erienewsnow.com/content/tncms/assets/v3/editorial/9/97/99702de3-2fb3-4fe6-98b9-f3c783fbefdf/6a6274297a26e.preview.png?crop=1920%2C1008%2C0%2C35",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.erienewsnow.com&sz=32"
+        },
+        {
+          "account": "Berkshire Hathaway Specialty Insurance Company",
+          "title": "Women in Insurance Summit Australia 2026 set for August with early bird window closing",
+          "url": "https://www.insurancebusinessmag.com/au/news/breaking-news/women-in-insurance-summit-australia-2026-set-for-august-with-early-bird-window-closing-583452.aspx",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/026/0381_639204019644945895.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
+        },
+        {
+          "account": "FARM BUREAU FINANCIAL SERVICES",
+          "title": "South Dakota Farm Bureau to host NextGen Beef Tour Aug . 21 - 22 near MItchell",
+          "url": "https://drgnews.com/2026/07/23/south-dakota-farm-bureau-to-host-nextgen-beef-tour-aug-21-22-near-mitchell/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2626/files/2026/07/farm-bureau-south-dakota-nextgen-beef-tour-082126.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=drgnews.com&sz=32"
+        },
+        {
+          "account": "NEW YORK LIFE INSURANCE COMPANY",
+          "title": "Wealth management advisor Brighton Jones expands to Stamford",
+          "url": "https://westfaironline.com/fairfield/wealth-management-advisor-brighton-jones-expands-to-stamford/",
+          "date": "2026-07-23",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://westfaironline.com/wp-content/uploads/2026/07/Bennett.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=westfaironline.com&sz=32"
+        },
+        {
+          "account": "VERISK ANALYTICS",
+          "title": "GM Is Betting Big on Trucks Again",
+          "url": "https://www.autoweek.com/news/a73220784/gm-betting-big-on-trucks-again/",
+          "date": "2026-07-21",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/57084e32-ca9c-4628-bf27-158388746da3.png?crop=1xw:0.889xh;0xw,0.111xh",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.autoweek.com&sz=32"
+        },
+        {
+          "account": "ARCH CAPITAL GROUP LTD",
+          "title": "Meeder Asset Management Inc . Has $1 . 07 Million Stock Position in Arch Capital Group Ltd . $ACGL",
+          "url": "https://www.dailypolitical.com/2026/07/21/meeder-asset-management-inc-has-1-07-million-stock-position-in-arch-capital-group-ltd-acgl.html",
+          "date": "2026-07-21",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "American National Insurance Co",
+          "title": "Geneva Lou Humberson",
+          "url": "https://www.therecordlive.com/story/2026/07/22/obituaries/geneva-lou-humberson/38333.html",
+          "date": "2026-07-20",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.therecordlive.com/home/cms_data/dfault/photos/stories/id/3/3/38333/s_top",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.therecordlive.com&sz=32"
+        },
+        {
+          "account": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY",
+          "title": "Barings Bdc ( NYSE : BBDC ) Stock Price Up 1 . 3 % – Still a Buy ?",
+          "url": "https://www.dailypolitical.com/2026/07/16/barings-bdc-nysebbdc-stock-price-up-1-3-still-a-buy.html",
+          "date": "2026-07-17",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "PROSPERITY LIFE GROUP",
+          "title": "Daily Vedic tips to bring peace , prosperity , and positivity",
+          "url": "https://timesofindia.indiatimes.com/astrology/others/daily-vedic-tips-to-bring-peace-prosperity-and-positivity/articleshow/132382317.cms",
+          "date": "2026-07-14",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://static.toiimg.com/thumb/msid-132382637,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32"
+        },
+        {
+          "account": "USI INSURANCE",
+          "title": "Captive insurance people moves news | Alera Group hires Dougherty as transportation insurance vice president",
+          "url": "https://www.captiveinsurancetimes.com/captiveinsurancenews/peoplemovesarticle.php?article_id=10459&navigationaction=latestnews&page=1&newssection=people",
+          "date": "2026-07-08",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://captiveinsurancetimes.com/captiveinsurancenews/images/WednesdayJuly820261783514595.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.captiveinsurancetimes.com&sz=32"
+        },
+        {
+          "account": "Stewart Title Guaranty Company",
+          "title": "The New KYC : Know Your Collateral",
+          "url": "https://www.mondaq.com:443/unitedstates/real-estate/1812246/the-new-kyc-know-your-collateral",
+          "date": "2026-07-06",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "http://www.mondaq.com/images/MondaqThumb.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32"
         }
       ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 13,
+      "count": 8,
       "items": [
         {
-          "account": "Chubb",
-          "title": "Chubb CEO Sounds Alarm on Casualty Pricing",
-          "url": "https://www.royalgazette.com/reinsurance/business/article/20260723/greenberg-warns-soft-market-is-spreading-into-casualty/",
-          "date": "2026-07-22",
-          "level": "Medium",
-          "summary": "CEO Evan Greenberg warned that casualty pricing is not keeping pace with rising loss costs, particularly in London wholesale markets.",
-          "impact": "Pricing pressure elevates demand for advanced pricing/risk analytics.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Negative",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.royalgazette.com&sz=32"
-        },
-        {
-          "account": "ALLSTATE INSURANCE GROUP",
-          "title": "Allstate Names Christian Lown Chief Financial Officer",
-          "url": "https://www.allstatenewsroom.com/news/allstate-names-christian-lown-chief-financial-officer/",
-          "date": "2026-07-14",
-          "level": "Medium",
-          "summary": "Allstate appointed Christian Lown as EVP and CFO, effective immediately. Leadership change may signal strategic and capital-management shifts.",
-          "impact": "New CFO often re-evaluates tech spend; timely for platform and data-modernization outreach.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.allstatenewsroom.com&sz=32"
-        },
-        {
-          "account": "Aon Corporation",
-          "title": "Aon Forecasts Hundreds of Millions in North America Wildfire Losses",
-          "url": "https://www.aon.com/en/insights/reports/climate-and-catastrophe-report",
-          "date": "2026-07-20",
-          "level": "Medium",
-          "summary": "Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.",
-          "impact": "Cat-risk analytics and climate modeling are strong Azure/data plays.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Negative",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.aon.com&sz=32"
-        },
-        {
-          "account": "GEICO",
-          "title": "GEICO Enhances Digital Claims Experience with AI",
-          "url": "https://www.geico.com/about/in-the-news/",
-          "date": "2026-07-15",
-          "level": "Medium",
-          "summary": "GEICO deployed a new AI-powered claims tool to accelerate settlements and boost customer satisfaction.",
-          "impact": "AI claims transformation is a direct Azure AI / Copilot opportunity.",
-          "plays": [
-            "Azure AI",
-            "Copilot",
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.geico.com&sz=32"
-        },
-        {
-          "account": "MetLife",
-          "title": "MetLife Enhances Employee Benefits Platform with AI Tools",
-          "url": "https://www.metlife.com/about-us/newsroom/2026/march/metlife-study-finds-ai-acceleration-is-creating-new-concerns-in-todays-workplace/",
-          "date": "2026-07-15",
-          "level": "Medium",
-          "summary": "MetLife updated its benefits platform with AI-driven tools for claims processing and customer engagement.",
-          "impact": "AI in claims is a direct Azure AI / Copilot opportunity.",
-          "plays": [
-            "Azure AI",
-            "Copilot",
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.metlife.com&sz=32"
-        },
-        {
-          "account": "American International Group (AIG)",
-          "title": "AIG Adjusts Underwriting Strategy Amid Catastrophe Exposure Concerns",
-          "url": "https://www.insurancejournal.com/news/national/2026/05/01/867971.htm",
-          "date": "2026-07-15",
-          "level": "Medium",
-          "summary": "AIG updated catastrophe underwriting guidelines following large losses and climate-driven weather events.",
-          "impact": "Catastrophe modeling and climate risk analytics are strong Azure/data plays.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Negative",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
-        },
-        {
-          "account": "Marsh McLennan",
-          "title": "Marsh Reports Spike in Marine War-Risk Rates After Hormuz Strikes",
-          "url": "https://www.insurancebusinessmag.com/uk/news/marine/hormuz-warrisk-rates-surge-again-as-ceasefire-collapses-581985.aspx",
-          "date": "2026-07-10",
-          "level": "Medium",
-          "summary": "Marine war insurance rates rose to historic highs after vessel attacks in the Strait of Hormuz, affecting global shipping coverage.",
-          "impact": "Volatile risk environment increases need for real-time risk data and modeling.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Negative",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
-        },
-        {
-          "account": "Progressive Corporation",
-          "title": "Winnebago Partners with Progressive on Embedded RV Insurance",
-          "url": "https://finance.yahoo.com/small-business/articles/winnebago-progressive-insurance-team-elevate-195000074.html",
-          "date": "2026-07-23",
-          "level": "Low",
-          "summary": "Winnebago partnered with Progressive to let RV customers secure insurance during purchase, streamlining the buying journey.",
-          "impact": "Embedded-insurance growth supports API, cloud, and integration engagements.",
+          "account": "FIRST AMERICAN FINANCIAL CORP",
+          "title": "Unum Group ( UNM ) Reports Q2 : Everything You Need To Know Ahead Of Earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unum-group-unm-reports-q2-102102492.html",
+          "date": "2026-07-27",
+          "level": "High",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
           "plays": [],
           "triggers": [
-            "Product Launch"
+            "Earnings"
           ],
           "sentiment": "Positive",
-          "image": "",
+          "image": "https://s.yimg.com/lo/mysterio/api/60FA2A0F3C0A91AC9119138215F66C08A4B407BDA2F7EFFCBE5C59C47EFCD439/subgraphmysterio/resizefill_w1200_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstockstory_922%2Fe294eaa069709f18d332eca803a3427b",
           "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
         },
         {
           "account": "Nationwide",
-          "title": "Nationwide Invests in Climate-Resilient Agriculture Insurance",
-          "url": "https://news.nationwide.com/",
-          "date": "2026-07-15",
+          "title": "Lake Region Healthcare named to Forbe Top Hospitals by State",
+          "url": "https://y94.com/2026/07/27/lake-region-healthcare-named-to-forbes-top-hospitals-by-state/",
+          "date": "2026-07-27",
           "level": "Low",
-          "summary": "Nationwide launched pilot programs for climate-adapted crop insurance to mitigate risk from changing weather patterns.",
-          "impact": "Climate-risk modeling supports data and geospatial-analytics engagements.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.nationwide.com&sz=32"
+          "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2431/files/2026/07/lake-region-hospital.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=y94.com&sz=32"
         },
         {
-          "account": "LIBERTY MUTUAL",
-          "title": "Liberty Mutual Expands Cyber Insurance Offerings for SMEs",
-          "url": "https://www.libertymutualinsurance.com/about-lm/newsroom",
-          "date": "2026-07-15",
+          "account": "ALLSTATE INSURANCE GROUP",
+          "title": "Forbes Daily : LeBron James Takes A Major Pay Cut With The 76ers",
+          "url": "https://www.forbes.com/sites/daniellechemtob/2026/07/27/forbes-daily-lebron-james-takes-a-major-pay-cut-with-the-76ers/",
+          "date": "2026-07-27",
           "level": "Low",
-          "summary": "Liberty Mutual launched cyber policies tailored to small and mid-sized enterprises amid rising ransomware and cyberattack risk.",
-          "impact": "Cyber-product growth increases security-data and telemetry needs.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Breach",
-            "Product Launch"
-          ],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.libertymutualinsurance.com&sz=32"
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Negative",
+          "image": "https://imageio.forbes.com/specials-images/imageserve/69049934f8748e598b2e7d15/0x0.jpg?format=jpg&crop=3113,1750,x0,y160,safe&fit=bounds",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32"
         },
         {
-          "account": "PRUDENTIAL INSURANCE",
-          "title": "Prudential Launches New Retirement Solutions to Address Longevity Risk",
-          "url": "https://news.prudential.com/",
-          "date": "2026-07-15",
+          "account": "Progressive Corporation",
+          "title": "Amy Needs an Icon Costume and The Bobby Bones Show Delivers | Wizard 106 . 7",
+          "url": "https://wizard106.iheart.com/featured/bobby-bones/content/2026-07-27-amy-needs-an-icon-costumeand-the-bobby-bones-show-delivers/",
+          "date": "2026-07-27",
           "level": "Low",
-          "summary": "Prudential introduced annuities tailored to an aging population, focused on lifetime income and flexible benefit riders.",
-          "impact": "Product expansion drives actuarial-compute and data-platform needs.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.prudential.com&sz=32"
+          "image": "https://i.iheart.com/v3/re/new_assets/6a6764e3191ba9220e97dcee?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+          "favicon": "https://www.google.com/s2/favicons?domain=wizard106.iheart.com&sz=32"
+        },
+        {
+          "account": "GEICO",
+          "title": "Progressive Sent You $300 . State Farm Is Sending $173 . USAA Sent $760 . GEICO Sent Nothing . Here Why Every Florida Driver Got a Different Answer » Live Insurance News",
+          "url": "https://www.liveinsurancenews.com/progressive-state-farm-florida/8574455/",
+          "date": "2026-07-26",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.liveinsurancenews.com/wp-content/uploads/2026/07/Auto-insurance-refunds-1.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.liveinsurancenews.com&sz=32"
         },
         {
           "account": "Willis Towers Watson",
-          "title": "WTW Launches Climate Analytics Platform for Global Clients",
-          "url": "https://www.wtwco.com/en-us/news",
-          "date": "2026-07-15",
+          "title": "Nationwide hires former WTW exec to distribution role",
+          "url": "https://www.businessinsurance.com/nationwide-hires-former-wtw-exec-to-distribution-role/",
+          "date": "2026-07-22",
           "level": "Low",
-          "summary": "WTW unveiled an analytics platform to help global corporate clients assess and manage climate risk more effectively.",
-          "impact": "Analytics-platform expansion aligns with cloud and data engagements.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.wtwco.com&sz=32"
+          "image": "https://www.businessinsurance.com/wp-content/uploads/2026/07/Roberto-Robles.jpeg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32"
         },
         {
-          "account": "NORTHWESTERN MUTUAL",
-          "title": "Northwestern Mutual 2026 Planning & Progress Study Highlights Financial Vulnerability",
-          "url": "https://www.northwesternmutual.com/life-and-money/2026-planning-progress-study-financial-trends-insights/",
-          "date": "2026-07-20",
+          "account": "LIBERTY MUTUAL INSURANCE COMPANY",
+          "title": "Calif . Court Denies Request to Certify Order Finding Coverage for Silica - Related Claims for Interlocutory Appeal",
+          "url": "https://www.harrismartin.com/publications/10/benzene/articles/96759/calif-court-denies-request-to-certify-order-finding-coverage-for-silica-related-claims-for-interlocutory-appeal/",
+          "date": "2026-07-21",
           "level": "Low",
-          "summary": "The 2026 study revealed many Americans feel financially insecure, increasing interest in life and disability products.",
-          "impact": "Demand signals may accelerate digital-advisory and data investments.",
-          "plays": [
-            "Fabric"
-          ],
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.northwesternmutual.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.harrismartin.com&sz=32"
+        },
+        {
+          "account": "PRUDENTIAL INSURANCE CO OF AMERICA",
+          "title": "Lockheed Martin , Verizon to Outsource DB and DC Investments to Goldman Sachs",
+          "url": "https://www.plansponsor.com/lockheed-martin-verizon-to-outsource-db-and-dc-investments-to-goldman-sachs/",
+          "date": "2026-07-13",
+          "level": "Low",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://si-interactive.s3.amazonaws.com/prod/plansponsor-com/wp-content/uploads/2026/07/09094258/PSPA-070926-Lockheed-Verizon-OCIO-1411644772-web.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.plansponsor.com&sz=32"
         }
       ]
     }

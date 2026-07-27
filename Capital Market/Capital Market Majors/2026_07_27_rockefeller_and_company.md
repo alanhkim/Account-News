@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=www.stereoboard.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-27 |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.stereoboard.com](https://www.stereoboard.com/content/view/252322/9) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.stereoboard.com/content/view/252322/9)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

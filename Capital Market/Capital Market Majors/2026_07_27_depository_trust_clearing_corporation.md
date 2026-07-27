@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.dtcc.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> DTCC Completes Industry-Wide Digital Asset Pilot
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-05 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | Fabric |
-| **Source** | [www.dtcc.com](https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality) |
-
-**Summary.** DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.
-
-**Why it matters (Microsoft angle).** Settlement modernization is a major cloud, data, and resiliency opportunity.
-
-[Read the article →](https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

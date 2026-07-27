@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=newsroom.wf.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50
+## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July
 
 | | |
 |---|---|
-| **Date** | 2026-06-24 |
-| **Potential impact** | 🔴 High |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | Earnings |
-| **Solution plays** | Fabric, Security |
-| **Source** | [newsroom.wf.com](https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx) |
+| **Date** | 2026-07-27 |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html) |
 
-**Summary.** Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.
+**Summary.** 
 
-**Why it matters (Microsoft angle).** Signals balance-sheet strength and capital-return capacity; a strong moment to align on data-platform and risk-modeling modernization conversations.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx)
+[Read the article →](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

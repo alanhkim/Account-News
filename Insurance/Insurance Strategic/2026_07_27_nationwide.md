@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=news.nationwide.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Nationwide Invests in Climate-Resilient Agriculture Insurance
+## <img src="https://www.google.com/s2/favicons?domain=y94.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Lake Region Healthcare named to Forbe Top Hospitals by State
 
 | | |
 |---|---|
-| **Date** | 2026-07-15 |
+| **Date** | 2026-07-27 |
 | **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | Product Launch |
-| **Solution plays** | Fabric, Security |
-| **Source** | [news.nationwide.com](https://news.nationwide.com/) |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [y94.com](https://y94.com/2026/07/27/lake-region-healthcare-named-to-forbes-top-hospitals-by-state/) |
 
-**Summary.** Nationwide launched pilot programs for climate-adapted crop insurance to mitigate risk from changing weather patterns.
+**Summary.** 
 
-**Why it matters (Microsoft angle).** Climate-risk modeling supports data and geospatial-analytics engagements.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://news.nationwide.com/)
+[Read the article →](https://y94.com/2026/07/27/lake-region-healthcare-named-to-forbes-top-hospitals-by-state/)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

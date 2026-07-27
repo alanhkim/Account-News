@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.wtwco.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> WTW Launches Climate Analytics Platform for Global Clients
+## <img src="https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Nationwide hires former WTW exec to distribution role
 
 | | |
 |---|---|
-| **Date** | 2026-07-15 |
+| **Date** | 2026-07-22 |
 | **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | Product Launch |
-| **Solution plays** | Fabric, Security |
-| **Source** | [www.wtwco.com](https://www.wtwco.com/en-us/news) |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.businessinsurance.com](https://www.businessinsurance.com/nationwide-hires-former-wtw-exec-to-distribution-role/) |
 
-**Summary.** WTW unveiled an analytics platform to help global corporate clients assess and manage climate risk more effectively.
+**Summary.** 
 
-**Why it matters (Microsoft angle).** Analytics-platform expansion aligns with cloud and data engagements.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.wtwco.com/en-us/news)
+[Read the article →](https://www.businessinsurance.com/nationwide-hires-former-wtw-exec-to-distribution-role/)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

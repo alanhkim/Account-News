@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-24 | $1 Billion Team Joins Raymond James From Stifel | 🟡 Low | ⚪ Neutral | [link](https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel) |

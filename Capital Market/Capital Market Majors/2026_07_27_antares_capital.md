@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.antares.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Ares/Antares Leads $1.3B Private Debt Deal for HealthTech Firm
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-21 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | M&A |
-| **Solution plays** | Fabric, Security |
-| **Source** | [www.antares.com](https://www.antares.com/news/) |
-
-**Summary.** Through Antares Capital, Ares arranged a $1.3B debt facility for a healthcare technology firm, signaling continued robust private-credit and direct-lending activity.
-
-**Why it matters (Microsoft angle).** Private-credit growth increases demand for loan-monitoring and risk-data infrastructure.
-
-[Read the article →](https://www.antares.com/news/)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

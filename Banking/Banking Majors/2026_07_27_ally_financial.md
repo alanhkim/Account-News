@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> SYF vs . ALLY vs . COF : Which Consumer Finance Stock Is the Best Buy After Earnings ?
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-25 |
+| **Potential impact** | 🔴 High |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Earnings |
+| **Solution plays** | — |
+| **Source** | [finance.yahoo.com](https://finance.yahoo.com/markets/stocks/articles/syf-vs-ally-vs-cof-123637415.html) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://finance.yahoo.com/markets/stocks/articles/syf-vs-ally-vs-cof-123637415.html)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

@@ -1,4 +1,4 @@
-# Dayforce US Inc — News Timeline
+# Dayforce US, Inc — News Timeline
 
 Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 

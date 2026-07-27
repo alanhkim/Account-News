@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
 **Updated:** July 27, 2026  
-**Accounts tracked:** 59  
-**Accounts with news this cycle:** 17  
+**Accounts tracked:** 66  
+**Accounts with news this cycle:** 24  
 
 ---
 
@@ -10,257 +10,304 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=tbbwmag.com&sz=32) | **Raymond James and Associates Inc** | Raymond James Reports Record Wealth Fee Revenue, Eyes RIA Expansion | 2026-07-18 | 🟠 Medium | 🟢 Positive | Earnings, M&A | Copilot | [link](https://tbbwmag.com/2026/07/22/raymond-james-earnings/) |
-| ![](https://www.google.com/s2/favicons?domain=therealdeal.com&sz=32) | **KOHLBERG KRAVIS ROBERTS & CO LLC** | KKR Weighs Restructuring of Real Estate Arm Amid Downturn | 2026-07-17 | 🟠 Medium | 🔴 Negative | M&A | Fabric, Security | [link](https://therealdeal.com/national/2026/07/23/kkr-real-estate-lending-arm-up-for-potential-sale/) |
-| ![](https://www.google.com/s2/favicons?domain=www.moodys.com&sz=32) | **MOODYS INVESTORS SERVICE** | Moody's Revises AI Risk Ratings for Global Banks | 2026-07-15 | 🟠 Medium | ⚪ Neutral | Regulatory | Azure AI, Security | [link](https://www.moodys.com/web/en/us/insights/credit-risk/outlooks/banking-2026.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.troweprice.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T. Rowe Price Launches Active AI-Driven Fund Range | 2026-07-14 | 🟠 Medium | ⚪ Neutral | M&A, Product Launch | Azure AI, Fabric | [link](https://www.troweprice.com/corporate/us/en/press.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tiaa.org&sz=32) | **TIAA CREF** | TIAA Sells Majority Stake in Nuveen's Real Estate Arm | 2026-07-11 | 🟠 Medium | 🔴 Negative | M&A | Fabric, Security | [link](https://www.tiaa.org/public/about-tiaa/news-press) |
-| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **Apollo Management** | Apollo Approaches Record Deal Spend with EasyJet and Bayer Deals | 2026-07-10 | 🟠 Medium | 🟢 Positive | M&A | Fabric | [link](https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.cmegroup.com&sz=32) | **Chicago mercantile Exchange** | CME Group Launches Tokenized Treasury Futures | 2026-07-10 | 🟠 Medium | 🟢 Positive | Product Launch | Security | [link](https://www.cmegroup.com/media-room.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.lpl.com&sz=32) | **LPL Financial** | LPL Financial Launches Digital Asset Platform for Advisors | 2026-06-30 | 🟠 Medium | ⚪ Neutral | Product Launch, Regulatory | Fabric, Security | [link](https://www.lpl.com/news-media.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dtcc.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | DTCC Completes Industry-Wide Digital Asset Pilot | 2026-07-05 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality) |
-| ![](https://www.google.com/s2/favicons?domain=www.antares.com&sz=32) | **ANTARES CAPITAL** | Ares/Antares Leads $1.3B Private Debt Deal for HealthTech Firm | 2026-07-21 | 🟡 Low | 🟢 Positive | M&A | Fabric, Security | [link](https://www.antares.com/news/) |
-| ![](https://www.google.com/s2/favicons?domain=www.invesco.com&sz=32) | **INVESCO** | Invesco Wins Approval for First Spot Bitcoin ETF in Europe | 2026-07-16 | 🟡 Low | 🟢 Positive | M&A, Regulatory | Fabric, Security | [link](https://www.invesco.com/corporate/en/about-us/newsroom.html) |
-| ![](https://www.google.com/s2/favicons?domain=ir.theice.com&sz=32) | **Intercontinentalexchange** | ICE Acquires Leading ESG Data Analytics Firm | 2026-07-13 | 🟡 Low | ⚪ Neutral | M&A | Fabric | [link](https://ir.theice.com/press) |
-| ![](https://www.google.com/s2/favicons?domain=www.jefferies.com&sz=32) | **JEFFERIES & COMPANY INC** | Jefferies Expands Global Equity Trading with Paris Desk Launch | 2026-07-08 | 🟡 Low | 🟢 Positive | Product Launch | Fabric | [link](https://www.jefferies.com/news/) |
-| ![](https://www.google.com/s2/favicons?domain=www.msci.com&sz=32) | **MSCI Inc** | MSCI Unveils Enhanced Net-Zero Index Suite | 2026-07-03 | 🟡 Low | ⚪ Neutral | Product Launch | Fabric | [link](https://www.msci.com/our-solutions/indexes) |
-| ![](https://www.google.com/s2/favicons?domain=press.tpg.com&sz=32) | **TPG Capital** | TPG Launches Asia Climate Fund with $2.1B First Close | 2026-06-27 | 🟡 Low | ⚪ Neutral | M&A, Product Launch | Fabric | [link](https://press.tpg.com/) |
-| ![](https://www.google.com/s2/favicons?domain=newsroom.morningstar.com&sz=32) | **MORNINGSTAR INC** | Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios | 2026-06-17 | 🟡 Low | ⚪ Neutral | Product Launch | Fabric | [link](https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.carlyle.com&sz=32) | **CARLYLE** | Carlyle Backs AI Supply-Chain Automation Startup | 2026-07-12 | 🟡 Low | ⚪ Neutral | — | Azure AI | [link](https://www.carlyle.com/media-room) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **BAIN CAPITAL LLC** | Eightco Holdings ( NASDAQ : ORBS ) Announces its Participation in World Foundation $52 . 5M funding round as World Shifts From Building the Network to Scaling Utility | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Ecopetrol ( EC ) to Release Quarterly Earnings on Monday | 2026-07-27 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html) |
+| ![](https://www.google.com/s2/favicons?domain=foxwilmington.com&sz=32) | **CARLYLE** | Katy Perry blasts White House for using hit song  Firework  she sold in $225M catalog deal | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://foxwilmington.com/katy-perry-blasts-white-house-for-using-hit-song-firework-she-sold-in-225m-catalog-deal/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Stone X** | Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript | 2026-07-25 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Eos Energy Announces Expiration and Results of Rights Offering | 2026-07-23 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/eos-energy-announces-expiration-and-results-of-rights-offering/2390326) |
+| ![](https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32) | **Apollo Management** | Ode with Anthropic and LogicGate Announce Partnership to Scale Expert - Led Client Outcomes through Accelerated Agentic Capabilities | 2026-07-27 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://leaderpost.com/press-releases/business-wire/ode-with-anthropic-and-logicgate-announce-partnership-to-scale-expert-led-client-outcomes-through-accelerated-agentic-capabilities/) |
+| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **MORNINGSTAR INC** | Meet the American techies who dont care where  good enough  AI models come from , even China | 2026-07-27 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio | 2026-07-26 | 🟠 Medium | ⚪ Neutral | — | Copilot | [link](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.phoenixherald.com&sz=32) | **JANUS HENDERSON GROUP** | AI spending surge puts Big Tech cash flows under pressure | 2026-07-25 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **INVESCO** | SpaceX Stock Is Down 48 % From Its High . Here Why ETFs Are Loading Up Anyway . | 2026-07-27 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **LPL Financial** | Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **JEFFERIES & COMPANY INC** | Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **FINRA** | Round - the - clock trading is coming , but retail investors are already there | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554) |
+| ![](https://www.google.com/s2/favicons?domain=www.express.co.uk&sz=32) | **Kroll, LLC** | UK law firm plunges into administration - £250m loans | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.express.co.uk/news/uk/2233364/uk-law-firm-plunges-administration) |
+| ![](https://www.google.com/s2/favicons?domain=www.stereoboard.com&sz=32) | **ROCKEFELLER AND COMPANY** | Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.stereoboard.com/content/view/252322/9) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **FISHER INVESTMENTS** | Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERIPRISE FINANCIAL INC** | SPDR Bloomberg 3 - 12 Month T - Bill ETF ( NYSEARCA : BILS ) Short Interest Update | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/27/spdr-bloomberg-3-12-month-t-bill-etf-nysearcabils-short-interest-update-2.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | What Greg Abel Might Do With Berkshire Hathaway Massive Cash Pile | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.sundaytimes.lk&sz=32) | **LAZARD FRERES AND COMPANY** | Lazard advice sought for likely debt buybacks , while debt affordability improves | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html) |
+| ![](https://www.google.com/s2/favicons?domain=retailtimes.co.uk&sz=32) | **Fortress Investment Group** | Majestic puts the Champagne on ice as it prepares to toast arrival in Trowbridge | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://retailtimes.co.uk/majestic-puts-the-champagne-on-ice-as-it-prepares-to-toast-arrival-in-trowbridge/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **Commonwealth Financial Network** | $1 Billion Team Joins Raymond James From Stifel | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **DAVIDSON KEMPNER** | Davidson Kempner Capital Management LP : Form 8 . 3 - easyJet PLC | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-easyjet-plc/2391154) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **EDWARD D JONES AND COMPANY** | Edward Jones pushes back on lawsuit challenging diversity program | 2026-07-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html) |
 
 ## Detail
 
-### Raymond James and Associates Inc
-**Raymond James Reports Record Wealth Fee Revenue, Eyes RIA Expansion** — 2026-07-18 — 🟠 Medium — 🟢 Positive
+### BAIN CAPITAL LLC
+**Eightco Holdings ( NASDAQ : ORBS ) Announces its Participation in World Foundation $52 . 5M funding round as World Shifts From Building the Network to Scaling Utility** — 2026-07-27 — 🔴 High — ⚪ Neutral
 
-The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.
 
-_Trigger events:_ Earnings, M&A  
-_Solution plays:_ Copilot  
-_Microsoft angle:_ Advisor-channel growth aligns with Copilot-led productivity and CRM modernization.
-
-[Read →](https://tbbwmag.com/2026/07/22/raymond-james-earnings/)
-
-### KOHLBERG KRAVIS ROBERTS & CO LLC
-**KKR Weighs Restructuring of Real Estate Arm Amid Downturn** — 2026-07-17 — 🟠 Medium — 🔴 Negative
-
-Facing commercial real estate headwinds, KKR is evaluating a restructuring that could include asset sales or mergers to steady performance. The move signals broader distress in private real estate.
 
 _Trigger events:_ M&A  
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ Portfolio stress increases need for risk analytics and scenario modeling across real assets.
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://therealdeal.com/national/2026/07/23/kkr-real-estate-lending-arm-up-for-potential-sale/)
+[Read →](https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190)
 
-### MOODYS INVESTORS SERVICE
-**Moody's Revises AI Risk Ratings for Global Banks** — 2026-07-15 — 🟠 Medium — ⚪ Neutral
+### TWO SIGMA INVESTMENTS
+**Ecopetrol ( EC ) to Release Quarterly Earnings on Monday** — 2026-07-27 — 🔴 High — ⚪ Neutral
 
-Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.
 
-_Trigger events:_ Regulatory  
-_Solution plays:_ Azure AI, Security  
-_Microsoft angle:_ Ratings methodology shift elevates AI-governance and cyber-risk conversations across FSI.
 
-[Read →](https://www.moodys.com/web/en/us/insights/credit-risk/outlooks/banking-2026.html)
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-### T ROWE PRICE ASSOCIATES
-**T. Rowe Price Launches Active AI-Driven Fund Range** — 2026-07-14 — 🟠 Medium — ⚪ Neutral
-
-T. Rowe Price introduced a series of actively managed funds powered by proprietary AI models, reflecting the quantamental investing trend.
-
-_Trigger events:_ M&A, Product Launch  
-_Solution plays:_ Azure AI, Fabric  
-_Microsoft angle:_ AI-in-investing focus is a direct opening for Azure AI and data-platform plays.
-
-[Read →](https://www.troweprice.com/corporate/us/en/press.html)
-
-### TIAA CREF
-**TIAA Sells Majority Stake in Nuveen's Real Estate Arm** — 2026-07-11 — 🟠 Medium — 🔴 Negative
-
-TIAA sold a controlling interest in Nuveen Real Estate to a consortium of global investors amid pension-liability pressures and shifting risk appetite.
-
-_Trigger events:_ M&A  
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ Strategic reshaping may drive platform-consolidation and data-migration needs.
-
-[Read →](https://www.tiaa.org/public/about-tiaa/news-press)
-
-### Apollo Management
-**Apollo Approaches Record Deal Spend with EasyJet and Bayer Deals** — 2026-07-10 — 🟠 Medium — 🟢 Positive
-
-Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.
-
-_Trigger events:_ M&A  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Rapid deal velocity drives demand for scalable diligence, data, and portfolio-analytics tooling.
-
-[Read →](https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html)
-
-### Chicago mercantile Exchange
-**CME Group Launches Tokenized Treasury Futures** — 2026-07-10 — 🟠 Medium — 🟢 Positive
-
-CME Group began trading tokenized U.S. Treasury futures, responding to demand for blockchain-based clearing and collateral.
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Security  
-_Microsoft angle:_ Market-structure innovation drives digital-asset infrastructure and security needs.
-
-[Read →](https://www.cmegroup.com/media-room.html)
-
-### LPL Financial
-**LPL Financial Launches Digital Asset Platform for Advisors** — 2026-06-30 — 🟠 Medium — ⚪ Neutral
-
-LPL rolled out a crypto/digital-asset solution for its advisor network, citing rising client demand for exposure and secure custody.
-
-_Trigger events:_ Product Launch, Regulatory  
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ New platform build-out drives cloud, security, and compliance-tooling demand.
-
-[Read →](https://www.lpl.com/news-media.html)
-
-### DEPOSITORY TRUST CLEARING CORPORATION
-**DTCC Completes Industry-Wide Digital Asset Pilot** — 2026-07-05 — 🟠 Medium — ⚪ Neutral
-
-DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.
-
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Settlement modernization is a major cloud, data, and resiliency opportunity.
-
-[Read →](https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality)
-
-### ANTARES CAPITAL
-**Ares/Antares Leads $1.3B Private Debt Deal for HealthTech Firm** — 2026-07-21 — 🟡 Low — 🟢 Positive
-
-Through Antares Capital, Ares arranged a $1.3B debt facility for a healthcare technology firm, signaling continued robust private-credit and direct-lending activity.
-
-_Trigger events:_ M&A  
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ Private-credit growth increases demand for loan-monitoring and risk-data infrastructure.
-
-[Read →](https://www.antares.com/news/)
-
-### INVESCO
-**Invesco Wins Approval for First Spot Bitcoin ETF in Europe** — 2026-07-16 — 🟡 Low — 🟢 Positive
-
-Invesco secured regulatory approval for Europe's first spot Bitcoin ETF, targeting growing institutional and retail demand.
-
-_Trigger events:_ M&A, Regulatory  
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ Digital-asset product growth raises custody, security, and data needs.
-
-[Read →](https://www.invesco.com/corporate/en/about-us/newsroom.html)
-
-### Intercontinentalexchange
-**ICE Acquires Leading ESG Data Analytics Firm** — 2026-07-13 — 🟡 Low — ⚪ Neutral
-
-ICE acquired an ESG data provider to bolster sustainability market-data offerings for exchanges and listed companies.
-
-_Trigger events:_ M&A  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Data consolidation supports cloud-scale analytics and integration engagements.
-
-[Read →](https://ir.theice.com/press)
-
-### JEFFERIES & COMPANY INC
-**Jefferies Expands Global Equity Trading with Paris Desk Launch** — 2026-07-08 — 🟡 Low — 🟢 Positive
-
-Jefferies opened a Paris equity trading hub to support increased European client demand and local listings.
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Geographic expansion increases low-latency infrastructure and data-residency needs.
-
-[Read →](https://www.jefferies.com/news/)
-
-### MSCI Inc
-**MSCI Unveils Enhanced Net-Zero Index Suite** — 2026-07-03 — 🟡 Low — ⚪ Neutral
-
-MSCI launched net-zero aligned indexes to meet rising client demand for climate investing and institutional ESG reporting.
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Index/data expansion supports ESG data-platform and analytics engagements.
-
-[Read →](https://www.msci.com/our-solutions/indexes)
-
-### TPG Capital
-**TPG Launches Asia Climate Fund with $2.1B First Close** — 2026-06-27 — 🟡 Low — ⚪ Neutral
-
-TPG announced the first close of its Asia-focused climate fund, raising $2.1B for decarbonization and renewables projects across China, India, and Southeast Asia.
-
-_Trigger events:_ M&A, Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ ESG/climate investing focus aligns with sustainability data and reporting solution plays.
-
-[Read →](https://press.tpg.com/)
-
-### MORNINGSTAR INC
-**Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios** — 2026-06-17 — 🟡 Low — ⚪ Neutral
-
-Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Data/wealth-platform convergence creates cloud and analytics opportunity.
-
-[Read →](https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx)
+[Read →](https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html)
 
 ### CARLYLE
-**Carlyle Backs AI Supply-Chain Automation Startup** — 2026-07-12 — 🟡 Low — ⚪ Neutral
+**Katy Perry blasts White House for using hit song  Firework  she sold in $225M catalog deal** — 2026-07-27 — 🔴 High — ⚪ Neutral
 
-Carlyle led a $450M round for an AI-enabled logistics firm, betting on automation and supply-chain modernization amid rising cost and labor pressures.
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://foxwilmington.com/katy-perry-blasts-white-house-for-using-hit-song-firework-she-sold-in-225m-catalog-deal/)
+
+### Stone X
+**Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript** — 2026-07-25 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
+
+### CERBERUS CAPITAL MANAGEMENT LP
+**Eos Energy Announces Expiration and Results of Rights Offering** — 2026-07-23 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/eos-energy-announces-expiration-and-results-of-rights-offering/2390326)
+
+### Apollo Management
+**Ode with Anthropic and LogicGate Announce Partnership to Scale Expert - Led Client Outcomes through Accelerated Agentic Capabilities** — 2026-07-27 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://leaderpost.com/press-releases/business-wire/ode-with-anthropic-and-logicgate-announce-partnership-to-scale-expert-led-client-outcomes-through-accelerated-agentic-capabilities/)
+
+### MORNINGSTAR INC
+**Meet the American techies who dont care where  good enough  AI models come from , even China** — 2026-07-27 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+
+[Read →](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/)
+
+### PRINCIPAL FINANCIAL GROUP
+**Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio** — 2026-07-26 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Copilot  
+_Microsoft angle:_ Potential Copilot opportunity — align outreach to this signal.
+
+[Read →](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html)
+
+### JANUS HENDERSON GROUP
+**AI spending surge puts Big Tech cash flows under pressure** — 2026-07-25 — 🟠 Medium — ⚪ Neutral
+
+
 
 _Solution plays:_ Azure AI  
-_Microsoft angle:_ Reinforces PE appetite for AI-driven efficiency; relevant for cross-portfolio cloud/AI enablement.
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.carlyle.com/media-room)
+[Read →](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure)
+
+### INVESCO
+**SpaceX Stock Is Down 48 % From Its High . Here Why ETFs Are Loading Up Anyway .** — 2026-07-27 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html)
+
+### LPL Financial
+**Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html)
+
+### JEFFERIES & COMPANY INC
+**Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html)
+
+### FINRA
+**Round - the - clock trading is coming , but retail investors are already there** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554)
+
+### Kroll, LLC
+**UK law firm plunges into administration - £250m loans** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.express.co.uk/news/uk/2233364/uk-law-firm-plunges-administration)
+
+### ROCKEFELLER AND COMPANY
+**Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.stereoboard.com/content/view/252322/9)
+
+### FISHER INVESTMENTS
+**Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html)
+
+### AMERIPRISE FINANCIAL INC
+**SPDR Bloomberg 3 - 12 Month T - Bill ETF ( NYSEARCA : BILS ) Short Interest Update** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/07/27/spdr-bloomberg-3-12-month-t-bill-etf-nysearcabils-short-interest-update-2.html)
+
+### ROBERT W. BAIRD & CO INC
+**Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html)
+
+### Berkshire Hathaway Energy
+**What Greg Abel Might Do With Berkshire Hathaway Massive Cash Pile** — 2026-07-25 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001)
+
+### LAZARD FRERES AND COMPANY
+**Lazard advice sought for likely debt buybacks , while debt affordability improves** — 2026-07-25 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html)
+
+### Fortress Investment Group
+**Majestic puts the Champagne on ice as it prepares to toast arrival in Trowbridge** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://retailtimes.co.uk/majestic-puts-the-champagne-on-ice-as-it-prepares-to-toast-arrival-in-trowbridge/)
+
+### Commonwealth Financial Network
+**$1 Billion Team Joins Raymond James From Stifel** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel)
+
+### DAVIDSON KEMPNER
+**Davidson Kempner Capital Management LP : Form 8 . 3 - easyJet PLC** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-easyjet-plc/2391154)
+
+### EDWARD D JONES AND COMPANY
+**Edward Jones pushes back on lawsuit challenging diversity program** — 2026-07-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html)
 
 ---
 
 <details><summary>Accounts with no material news this cycle (42)</summary>
 
 - CITADEL INVESTMENT GROUP
-- EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
-- BAIN CAPITAL LLC
+- TIAA CREF
+- KOHLBERG KRAVIS ROBERTS & CO LLC
 - PLATINUM EQUITY LLC
 - Dun & Bradstreet Corporation
+- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
-- BGC PARTNERS Trading Group LLC
-- STIFEL NICHOLAS & CO INC
-- Toppan Merrill LLC
-- DISCOVER FINANCIAL
-- Fortress Investment Group
-- Securian
-- TWO SIGMA INVESTMENTS
-- Balyasny Asset Management
-- BROWN BROTHERS HARRIMAN AND COMPANY
-- Commonwealth Financial Network
-- HARBOURVEST PARTNERS LLC
-- JANUS HENDERSON GROUP
+- Intercontinentalexchange
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
+- MSCI Inc
 - NEUBERGER BERMAN
-- Ascensus Inc.
-- FINRA
+- Ascensus, Inc.
 - SUSQUEHANNA PARTNERS G P
+- T ROWE PRICE ASSOCIATES
 - WELLINGTON MANAGEMENT COMPANY LLC
-- CERBERUS CAPITAL MANAGEMENT LP
-- Berkshire Hathaway Energy
+- BGC PARTNERS,Trading Group, LLC
+- STIFEL NICHOLAS & CO INC
+- Toppan Merrill LLC
+- DEPOSITORY TRUST CLEARING CORPORATION
+- DISCOVER FINANCIAL
+- Securian
+- Balyasny Asset Management
+- BROWN BROTHERS HARRIMAN AND COMPANY
+- Chicago mercantile Exchange
+- HARBOURVEST PARTNERS LLC
+- ANTARES CAPITAL
+- TPG Capital
 - BERKSHIRE HATHAWAY INC
-- DAVIDSON KEMPNER
 - Guggenheim Partners
-- Kroll LLC
-- ROCKEFELLER AND COMPANY
+- MOODYS INVESTORS SERVICE
 - First Advantage Corporation
-- FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
-- The Capital Group Companies Inc.
+- The Capital Group Companies, Inc.
 - Voya Services Company
-- AMERIPRISE FINANCIAL INC
+- WILLIAM BLAIR & COMPANY
+- LOUIS DREYFUS CORP
+- SEI CORP
 
 </details>
 

@@ -1,4 +1,4 @@
-# The Capital Group Companies Inc.
+# The Capital Group Companies, Inc.
 
 **Sub-vertical:** Capital Market Majors  
 **News gathered:** July 27, 2026  

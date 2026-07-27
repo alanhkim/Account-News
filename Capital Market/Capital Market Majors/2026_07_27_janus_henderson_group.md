@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=www.phoenixherald.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> AI spending surge puts Big Tech cash flows under pressure
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-25 |
+| **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | Azure AI |
+| **Source** | [www.phoenixherald.com](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Potential Azure AI opportunity — align outreach to this signal.
+
+[Read the article →](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

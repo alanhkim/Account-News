@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=investor.travelers.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Travelers Reports Excellent Q2 and Year-to-Date Results
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-17 |
-| **Potential impact** | 🔴 High |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | Earnings |
-| **Solution plays** | — |
-| **Source** | [investor.travelers.com](https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx) |
-
-**Summary.** Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.
-
-**Why it matters (Microsoft angle).** Strong results and capital position support strategic tech-modernization conversations.
-
-[Read the article →](https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

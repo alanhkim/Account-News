@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-06-29 | Jackpotting  thieves get ATMs to spit out stacks of cash in Washington and Oregon | 🟡 Low | ⚪ Neutral | [link](http://www.chronline.com/stories/jackpotting-thieves-get-atms-to-spit-out-stacks-of-cash-in-washington-and-oregon,404703) |

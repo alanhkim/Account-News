@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=newsroom.morningstar.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios
+## <img src="https://www.google.com/s2/favicons?domain=fortune.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Meet the American techies who dont care where  good enough  AI models come from , even China
 
 | | |
 |---|---|
-| **Date** | 2026-06-17 |
-| **Potential impact** | 🟡 Low |
+| **Date** | 2026-07-27 |
+| **Potential impact** | 🟠 Medium |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | Product Launch |
-| **Solution plays** | Fabric |
-| **Source** | [newsroom.morningstar.com](https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx) |
+| **Trigger events** | — |
+| **Solution plays** | Azure AI, Fabric |
+| **Source** | [fortune.com](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/) |
 
-**Summary.** Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.
+**Summary.** 
 
-**Why it matters (Microsoft angle).** Data/wealth-platform convergence creates cloud and analytics opportunity.
+**Why it matters (Microsoft angle).** Potential Azure AI, Fabric opportunity — align outreach to this signal.
 
-[Read the article →](https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx)
+[Read the article →](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/)
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._

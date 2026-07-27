@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.aon.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Aon Forecasts Hundreds of Millions in North America Wildfire Losses
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-20 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | 🔴 Negative |
-| **Trigger events** | — |
-| **Solution plays** | Fabric, Security |
-| **Source** | [www.aon.com](https://www.aon.com/en/insights/reports/climate-and-catastrophe-report) |
-
-**Summary.** Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.
-
-**Why it matters (Microsoft angle).** Cat-risk analytics and climate modeling are strong Azure/data plays.
-
-[Read the article →](https://www.aon.com/en/insights/reports/climate-and-catastrophe-report)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 27, 2026. News older than 90 days is pruned automatically._
