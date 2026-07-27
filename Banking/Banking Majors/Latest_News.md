@@ -1,6 +1,6 @@
 # Latest News — Banking Majors
 
-**Updated:** July 23, 2026  
+**Updated:** July 27, 2026  
 **Accounts tracked:** 53  
 **Accounts with news this cycle:** 0  
 
@@ -69,4 +69,4 @@ _No material news across tracked accounts this cycle._
 </details>
 
 ---
-_Auto-generated on July 23, 2026._
+_Auto-generated on July 27, 2026._

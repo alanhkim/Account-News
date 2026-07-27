@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23",
-  "generated_human": "July 23, 2026",
+  "generated": "2026-07-27",
+  "generated_human": "July 27, 2026",
   "counts": {
     "accounts_total": 237,
     "with_news": 33,
@@ -21,7 +21,7 @@
         {
           "account": "Wells Fargo & Company",
           "title": "Wells Fargo Completes 2026 Stress Test, Intends to Raise Dividend 11% to $0.50",
-          "url": "https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50",
+          "url": "https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx",
           "date": "2026-06-24",
           "level": "High",
           "summary": "Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.",
@@ -35,7 +35,7 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.businesswire.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=newsroom.wf.com&sz=32"
         }
       ]
     },
@@ -47,7 +47,7 @@
         {
           "account": "Raymond James and Associates Inc",
           "title": "Raymond James Reports Record Wealth Fee Revenue, Eyes RIA Expansion",
-          "url": "https://www.raymondjames.com/news-and-media",
+          "url": "https://tbbwmag.com/2026/07/22/raymond-james-earnings/",
           "date": "2026-07-18",
           "level": "Medium",
           "summary": "The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.",
@@ -61,12 +61,12 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.raymondjames.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=tbbwmag.com&sz=32"
         },
         {
           "account": "KOHLBERG KRAVIS ROBERTS & CO LLC",
           "title": "KKR Weighs Restructuring of Real Estate Arm Amid Downturn",
-          "url": "https://www.kkr.com/news",
+          "url": "https://therealdeal.com/national/2026/07/23/kkr-real-estate-lending-arm-up-for-potential-sale/",
           "date": "2026-07-17",
           "level": "Medium",
           "summary": "Facing commercial real estate headwinds, KKR is evaluating a restructuring that could include asset sales or mergers to steady performance. The move signals broader distress in private real estate.",
@@ -80,12 +80,12 @@
           ],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.kkr.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=therealdeal.com&sz=32"
         },
         {
           "account": "MOODYS INVESTORS SERVICE",
           "title": "Moody's Revises AI Risk Ratings for Global Banks",
-          "url": "https://www.moodys.com/newsroom",
+          "url": "https://www.moodys.com/web/en/us/insights/credit-risk/outlooks/banking-2026.html",
           "date": "2026-07-15",
           "level": "Medium",
           "summary": "Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.",
@@ -143,7 +143,7 @@
         {
           "account": "Apollo Management",
           "title": "Apollo Approaches Record Deal Spend with EasyJet and Bayer Deals",
-          "url": "https://www.apollo.com/insights-news/news",
+          "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
           "date": "2026-07-10",
           "level": "Medium",
           "summary": "Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.",
@@ -156,7 +156,7 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.apollo.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32"
         },
         {
           "account": "Chicago mercantile Exchange",
@@ -199,7 +199,7 @@
         {
           "account": "DEPOSITORY TRUST CLEARING CORPORATION",
           "title": "DTCC Completes Industry-Wide Digital Asset Pilot",
-          "url": "https://www.dtcc.com/news",
+          "url": "https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality",
           "date": "2026-07-05",
           "level": "Medium",
           "summary": "DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.",
@@ -327,7 +327,7 @@
         {
           "account": "MORNINGSTAR INC",
           "title": "Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios",
-          "url": "https://www.morningstar.com/company/news-center",
+          "url": "https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx",
           "date": "2026-06-17",
           "level": "Low",
           "summary": "Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.",
@@ -340,7 +340,7 @@
           ],
           "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=newsroom.morningstar.com&sz=32"
         },
         {
           "account": "CARLYLE",
@@ -368,7 +368,7 @@
         {
           "account": "CHARLES SCHWAB CORP",
           "title": "Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026)",
-          "url": "https://www.aboutschwab.com/newsroom",
+          "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx",
           "date": "2026-07-21",
           "level": "High",
           "summary": "Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.",
@@ -383,7 +383,7 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.aboutschwab.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=pressroom.aboutschwab.com&sz=32"
         }
       ]
     },
@@ -395,7 +395,7 @@
         {
           "account": "TRAVELERS PROPERTY & CASUALTY",
           "title": "Travelers Reports Excellent Q2 and Year-to-Date Results",
-          "url": "https://www.insurancejournal.com/news/national/2026/07/17/779320.htm",
+          "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx",
           "date": "2026-07-17",
           "level": "High",
           "summary": "Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.",
@@ -406,7 +406,7 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=investor.travelers.com&sz=32"
         }
       ]
     },
@@ -418,7 +418,7 @@
         {
           "account": "Chubb",
           "title": "Chubb CEO Sounds Alarm on Casualty Pricing",
-          "url": "https://news.chubb.com/",
+          "url": "https://www.royalgazette.com/reinsurance/business/article/20260723/greenberg-warns-soft-market-is-spreading-into-casualty/",
           "date": "2026-07-22",
           "level": "Medium",
           "summary": "CEO Evan Greenberg warned that casualty pricing is not keeping pace with rising loss costs, particularly in London wholesale markets.",
@@ -432,12 +432,12 @@
           ],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.chubb.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.royalgazette.com&sz=32"
         },
         {
           "account": "ALLSTATE INSURANCE GROUP",
           "title": "Allstate Names Christian Lown Chief Financial Officer",
-          "url": "https://www.allstatenewsroom.com/news/",
+          "url": "https://www.allstatenewsroom.com/news/allstate-names-christian-lown-chief-financial-officer/",
           "date": "2026-07-14",
           "level": "Medium",
           "summary": "Allstate appointed Christian Lown as EVP and CFO, effective immediately. Leadership change may signal strategic and capital-management shifts.",
@@ -455,7 +455,7 @@
         {
           "account": "Aon Corporation",
           "title": "Aon Forecasts Hundreds of Millions in North America Wildfire Losses",
-          "url": "https://www.aon.com/en/insights",
+          "url": "https://www.aon.com/en/insights/reports/climate-and-catastrophe-report",
           "date": "2026-07-20",
           "level": "Medium",
           "summary": "Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.",
@@ -490,7 +490,7 @@
         {
           "account": "MetLife",
           "title": "MetLife Enhances Employee Benefits Platform with AI Tools",
-          "url": "https://www.metlife.com/about-us/newsroom/",
+          "url": "https://www.metlife.com/about-us/newsroom/2026/march/metlife-study-finds-ai-acceleration-is-creating-new-concerns-in-todays-workplace/",
           "date": "2026-07-15",
           "level": "Medium",
           "summary": "MetLife updated its benefits platform with AI-driven tools for claims processing and customer engagement.",
@@ -508,7 +508,7 @@
         {
           "account": "American International Group (AIG)",
           "title": "AIG Adjusts Underwriting Strategy Amid Catastrophe Exposure Concerns",
-          "url": "https://www.aig.com/about-us/newsroom",
+          "url": "https://www.insurancejournal.com/news/national/2026/05/01/867971.htm",
           "date": "2026-07-15",
           "level": "Medium",
           "summary": "AIG updated catastrophe underwriting guidelines following large losses and climate-driven weather events.",
@@ -520,12 +520,12 @@
           "triggers": [],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.aig.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
         },
         {
           "account": "Marsh McLennan",
           "title": "Marsh Reports Spike in Marine War-Risk Rates After Hormuz Strikes",
-          "url": "https://www.marshmclennan.com/news-events.html",
+          "url": "https://www.insurancebusinessmag.com/uk/news/marine/hormuz-warrisk-rates-surge-again-as-ceasefire-collapses-581985.aspx",
           "date": "2026-07-10",
           "level": "Medium",
           "summary": "Marine war insurance rates rose to historic highs after vessel attacks in the Strait of Hormuz, affecting global shipping coverage.",
@@ -537,12 +537,12 @@
           "triggers": [],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.marshmclennan.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
         },
         {
           "account": "Progressive Corporation",
           "title": "Winnebago Partners with Progressive on Embedded RV Insurance",
-          "url": "https://www.progressive.com/newsroom/",
+          "url": "https://finance.yahoo.com/small-business/articles/winnebago-progressive-insurance-team-elevate-195000074.html",
           "date": "2026-07-23",
           "level": "Low",
           "summary": "Winnebago partnered with Progressive to let RV customers secure insurance during purchase, streamlining the buying journey.",
@@ -553,7 +553,7 @@
           ],
           "sentiment": "Positive",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.progressive.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
         },
         {
           "account": "Nationwide",
@@ -635,7 +635,7 @@
         {
           "account": "NORTHWESTERN MUTUAL",
           "title": "Northwestern Mutual 2026 Planning & Progress Study Highlights Financial Vulnerability",
-          "url": "https://news.northwesternmutual.com/",
+          "url": "https://www.northwesternmutual.com/life-and-money/2026-planning-progress-study-financial-trends-insights/",
           "date": "2026-07-20",
           "level": "Low",
           "summary": "The 2026 study revealed many Americans feel financially insecure, increasing interest in life and disability products.",
@@ -646,7 +646,7 @@
           "triggers": [],
           "sentiment": "Negative",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.northwesternmutual.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=www.northwesternmutual.com&sz=32"
         }
       ]
     }

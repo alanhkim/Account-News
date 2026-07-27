@@ -1,6 +1,6 @@
 # Latest News — Insurance Majors
 
-**Updated:** July 23, 2026  
+**Updated:** July 27, 2026  
 **Accounts tracked:** 79  
 **Accounts with news this cycle:** 1  
 
@@ -10,7 +10,7 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | Travelers Reports Excellent Q2 and Year-to-Date Results | 2026-07-17 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm) |
+| ![](https://www.google.com/s2/favicons?domain=investor.travelers.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | Travelers Reports Excellent Q2 and Year-to-Date Results | 2026-07-17 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx) |
 
 ## Detail
 
@@ -22,7 +22,7 @@ Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe loss
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Strong results and capital position support strategic tech-modernization conversations.
 
-[Read →](https://www.insurancejournal.com/news/national/2026/07/17/779320.htm)
+[Read →](https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx)
 
 ---
 
@@ -110,4 +110,4 @@ _Microsoft angle:_ Strong results and capital position support strategic tech-mo
 </details>
 
 ---
-_Auto-generated on July 23, 2026._
+_Auto-generated on July 27, 2026._

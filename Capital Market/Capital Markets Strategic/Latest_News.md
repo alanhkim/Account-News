@@ -1,6 +1,6 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** July 23, 2026  
+**Updated:** July 27, 2026  
 **Accounts tracked:** 16  
 **Accounts with news this cycle:** 1  
 
@@ -10,7 +10,7 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.aboutschwab.com&sz=32) | **CHARLES SCHWAB CORP** | Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026) | 2026-07-21 | 🔴 High | 🟢 Positive | Earnings | Azure AI, Copilot, Fabric | [link](https://www.aboutschwab.com/newsroom) |
+| ![](https://www.google.com/s2/favicons?domain=pressroom.aboutschwab.com&sz=32) | **CHARLES SCHWAB CORP** | Schwab Reports Record Quarterly Revenue and Earnings (Q2 2026) | 2026-07-21 | 🔴 High | 🟢 Positive | Earnings | Azure AI, Copilot, Fabric | [link](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx) |
 
 ## Detail
 
@@ -23,7 +23,7 @@ _Trigger events:_ Earnings
 _Solution plays:_ Azure AI, Copilot, Fabric  
 _Microsoft angle:_ Heavy AI and crypto platform investment creates openings for cloud, data, and Copilot-led advisor productivity plays.
 
-[Read →](https://www.aboutschwab.com/newsroom)
+[Read →](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx)
 
 ---
 
@@ -48,4 +48,4 @@ _Microsoft angle:_ Heavy AI and crypto platform investment creates openings for 
 </details>
 
 ---
-_Auto-generated on July 23, 2026._
+_Auto-generated on July 27, 2026._

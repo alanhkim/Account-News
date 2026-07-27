@@ -8,7 +8,7 @@ NEWS = {
         "summary": "Wells Fargo passed the Federal Reserve's 2026 stress test with capital ratios well above requirements and announced an 11% dividend increase for Q3 2026. The move underscores a strengthened capital position and commitment to shareholder returns.",
         "impact": "Signals balance-sheet strength and capital-return capacity; a strong moment to align on data-platform and risk-modeling modernization conversations.",
         "level": "High",
-        "url": "https://www.businesswire.com/news/home/20260624005097/en/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0.50",
+        "url": "https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Completes-2026-Stress-Test-and-Intends-to-Raise-Dividend-by-11-to-0-50/default.aspx",
     },
     # --- Capital Markets Strategic ---
     "CHARLES SCHWAB CORP": {
@@ -17,7 +17,7 @@ NEWS = {
         "summary": "Schwab posted record net revenue of $7.1B (up 21% YoY) and $2.8B net income, opening 1.4M new brokerage accounts and expanding into crypto trading and AI-powered portfolio tools. June alone brought $62.7B in new core assets.",
         "impact": "Heavy AI and crypto platform investment creates openings for cloud, data, and Copilot-led advisor productivity plays.",
         "level": "High",
-        "url": "https://www.aboutschwab.com/newsroom",
+        "url": "https://pressroom.aboutschwab.com/press-releases/press-release/2026/Schwab-Reports-Record-Quarterly-Revenue-and-Earnings/default.aspx",
     },
     # --- Capital Markets Majors ---
     "Apollo Management": {
@@ -26,7 +26,7 @@ NEWS = {
         "summary": "Apollo is on track to break its 2026 dealmaking record, buoyed by a GBP 5.7B EasyJet bid and a $3.4B stake in Bayer's contraceptives unit. The firm is aggressively pursuing large-scale acquisitions amid strong private-capital inflows.",
         "impact": "Rapid deal velocity drives demand for scalable diligence, data, and portfolio-analytics tooling.",
         "level": "Medium",
-        "url": "https://www.apollo.com/insights-news/news",
+        "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
     },
     "KOHLBERG KRAVIS ROBERTS & CO LLC": {
         "title": "KKR Weighs Restructuring of Real Estate Arm Amid Downturn",
@@ -34,7 +34,7 @@ NEWS = {
         "summary": "Facing commercial real estate headwinds, KKR is evaluating a restructuring that could include asset sales or mergers to steady performance. The move signals broader distress in private real estate.",
         "impact": "Portfolio stress increases need for risk analytics and scenario modeling across real assets.",
         "level": "Medium",
-        "url": "https://www.kkr.com/news",
+        "url": "https://therealdeal.com/national/2026/07/23/kkr-real-estate-lending-arm-up-for-potential-sale/",
     },
     "CARLYLE": {
         "title": "Carlyle Backs AI Supply-Chain Automation Startup",
@@ -66,7 +66,7 @@ NEWS = {
         "summary": "Moody's updated global bank ratings to factor in AI-driven operational risk and cybersecurity threats, revising over a dozen institutions.",
         "impact": "Ratings methodology shift elevates AI-governance and cyber-risk conversations across FSI.",
         "level": "Medium",
-        "url": "https://www.moodys.com/newsroom",
+        "url": "https://www.moodys.com/web/en/us/insights/credit-risk/outlooks/banking-2026.html",
     },
     "MSCI Inc": {
         "title": "MSCI Unveils Enhanced Net-Zero Index Suite",
@@ -82,7 +82,7 @@ NEWS = {
         "summary": "Morningstar partnered with leading asset managers on hybrid public/private model portfolios, aiming to bring institutional alternatives to retail investors.",
         "impact": "Data/wealth-platform convergence creates cloud and analytics opportunity.",
         "level": "Low",
-        "url": "https://www.morningstar.com/company/news-center",
+        "url": "https://newsroom.morningstar.com/news/news-details/2026/Morningstar-Wealth-Teams-with-Apollo-Franklin-Templeton-and-J-P--Morgan-Asset-Management-to-Develop-PublicPrivate-Model-Portfolios/default.aspx",
     },
     "TIAA CREF": {
         "title": "TIAA Sells Majority Stake in Nuveen's Real Estate Arm",
@@ -98,7 +98,7 @@ NEWS = {
         "summary": "The firm posted record fee-based asset revenue and announced plans to target RIA acquisitions to scale its independent advisor channel.",
         "impact": "Advisor-channel growth aligns with Copilot-led productivity and CRM modernization.",
         "level": "Medium",
-        "url": "https://www.raymondjames.com/news-and-media",
+        "url": "https://tbbwmag.com/2026/07/22/raymond-james-earnings/",
     },
     "LPL Financial": {
         "title": "LPL Financial Launches Digital Asset Platform for Advisors",
@@ -154,7 +154,7 @@ NEWS = {
         "summary": "DTCC completed collaborative testing of a post-trade settlement system for digital assets, moving markets closer to T+0 settlement.",
         "impact": "Settlement modernization is a major cloud, data, and resiliency opportunity.",
         "level": "Medium",
-        "url": "https://www.dtcc.com/news",
+        "url": "https://www.dtcc.com/news/2026/july/15/dtcc-turns-tokenization-into-reality",
     },
     # --- Insurance Strategic ---
     "ALLSTATE INSURANCE GROUP": {
@@ -163,7 +163,7 @@ NEWS = {
         "summary": "Allstate appointed Christian Lown as EVP and CFO, effective immediately. Leadership change may signal strategic and capital-management shifts.",
         "impact": "New CFO often re-evaluates tech spend; timely for platform and data-modernization outreach.",
         "level": "Medium",
-        "url": "https://www.allstatenewsroom.com/news/",
+        "url": "https://www.allstatenewsroom.com/news/allstate-names-christian-lown-chief-financial-officer/",
     },
     "Progressive Corporation": {
         "title": "Winnebago Partners with Progressive on Embedded RV Insurance",
@@ -171,7 +171,7 @@ NEWS = {
         "summary": "Winnebago partnered with Progressive to let RV customers secure insurance during purchase, streamlining the buying journey.",
         "impact": "Embedded-insurance growth supports API, cloud, and integration engagements.",
         "level": "Low",
-        "url": "https://www.progressive.com/newsroom/",
+        "url": "https://finance.yahoo.com/small-business/articles/winnebago-progressive-insurance-team-elevate-195000074.html",
     },
     "MetLife": {
         "title": "MetLife Enhances Employee Benefits Platform with AI Tools",
@@ -179,7 +179,7 @@ NEWS = {
         "summary": "MetLife updated its benefits platform with AI-driven tools for claims processing and customer engagement.",
         "impact": "AI in claims is a direct Azure AI / Copilot opportunity.",
         "level": "Medium",
-        "url": "https://www.metlife.com/about-us/newsroom/",
+        "url": "https://www.metlife.com/about-us/newsroom/2026/march/metlife-study-finds-ai-acceleration-is-creating-new-concerns-in-todays-workplace/",
     },
     "PRUDENTIAL INSURANCE": {
         "title": "Prudential Launches New Retirement Solutions to Address Longevity Risk",
@@ -195,7 +195,7 @@ NEWS = {
         "summary": "AIG updated catastrophe underwriting guidelines following large losses and climate-driven weather events.",
         "impact": "Catastrophe modeling and climate risk analytics are strong Azure/data plays.",
         "level": "Medium",
-        "url": "https://www.aig.com/about-us/newsroom",
+        "url": "https://www.insurancejournal.com/news/national/2026/05/01/867971.htm",
     },
     "Chubb": {
         "title": "Chubb CEO Sounds Alarm on Casualty Pricing",
@@ -203,7 +203,7 @@ NEWS = {
         "summary": "CEO Evan Greenberg warned that casualty pricing is not keeping pace with rising loss costs, particularly in London wholesale markets.",
         "impact": "Pricing pressure elevates demand for advanced pricing/risk analytics.",
         "level": "Medium",
-        "url": "https://news.chubb.com/",
+        "url": "https://www.royalgazette.com/reinsurance/business/article/20260723/greenberg-warns-soft-market-is-spreading-into-casualty/",
     },
     "LIBERTY MUTUAL": {
         "title": "Liberty Mutual Expands Cyber Insurance Offerings for SMEs",
@@ -235,7 +235,7 @@ NEWS = {
         "summary": "The 2026 study revealed many Americans feel financially insecure, increasing interest in life and disability products.",
         "impact": "Demand signals may accelerate digital-advisory and data investments.",
         "level": "Low",
-        "url": "https://news.northwesternmutual.com/",
+        "url": "https://www.northwesternmutual.com/life-and-money/2026-planning-progress-study-financial-trends-insights/",
     },
     "Marsh McLennan": {
         "title": "Marsh Reports Spike in Marine War-Risk Rates After Hormuz Strikes",
@@ -243,7 +243,7 @@ NEWS = {
         "summary": "Marine war insurance rates rose to historic highs after vessel attacks in the Strait of Hormuz, affecting global shipping coverage.",
         "impact": "Volatile risk environment increases need for real-time risk data and modeling.",
         "level": "Medium",
-        "url": "https://www.marshmclennan.com/news-events.html",
+        "url": "https://www.insurancebusinessmag.com/uk/news/marine/hormuz-warrisk-rates-surge-again-as-ceasefire-collapses-581985.aspx",
     },
     "Aon Corporation": {
         "title": "Aon Forecasts Hundreds of Millions in North America Wildfire Losses",
@@ -251,7 +251,7 @@ NEWS = {
         "summary": "Aon predicted substantial insured losses from US and Canadian wildfires, alerting firms to shifting property-risk profiles.",
         "impact": "Cat-risk analytics and climate modeling are strong Azure/data plays.",
         "level": "Medium",
-        "url": "https://www.aon.com/en/insights",
+        "url": "https://www.aon.com/en/insights/reports/climate-and-catastrophe-report",
     },
     "Willis Towers Watson": {
         "title": "WTW Launches Climate Analytics Platform for Global Clients",
@@ -268,6 +268,6 @@ NEWS = {
         "summary": "Travelers posted Q2 net income up 46% to $2.2B, driven by lower catastrophe losses, favorable reserve development, and strong investment income, returning $1.6B to shareholders.",
         "impact": "Strong results and capital position support strategic tech-modernization conversations.",
         "level": "High",
-        "url": "https://www.insurancejournal.com/news/national/2026/07/17/779320.htm",
+        "url": "https://investor.travelers.com/newsroom/press-releases/news-details/2026/Travelers-Reports-Excellent-Second-Quarter-and-Year-to-Date-Results/default.aspx",
     },
 }
