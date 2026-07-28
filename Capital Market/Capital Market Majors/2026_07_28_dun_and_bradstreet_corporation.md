@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.indonesia-investments.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Is a B2B Data Platform Even Worth It in 2026 ? ( 7 Options Ranked )
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-28 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | Fabric |
-| **Source** | [www.indonesia-investments.com](https://www.indonesia-investments.com/business/business-columns/is-a-b2b-data-platform-even-worth-it-in-2026-7-options-ranked/item10001) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Potential Fabric opportunity — align outreach to this signal.
-
-[Read the article →](https://www.indonesia-investments.com/business/business-columns/is-a-b2b-data-platform-even-worth-it-in-2026-7-options-ranked/item10001)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

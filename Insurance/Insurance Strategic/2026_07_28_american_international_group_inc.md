@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.stiripesurse.ro&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Romania - U . S . trade outpaced investment in 2025 as AmCham urges reforms to attract more American capital
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-07-28 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | — |
-| **Source** | [www.stiripesurse.ro](https://www.stiripesurse.ro/romania-us-trade-outpaced-investment-in-2025-as-amcham-urges-reforms-to-attract-more-american-capital_3907466) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
-
-[Read the article →](https://www.stiripesurse.ro/romania-us-trade-outpaced-investment-in-2025-as-amcham-urges-reforms-to-attract-more-american-capital_3907466)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

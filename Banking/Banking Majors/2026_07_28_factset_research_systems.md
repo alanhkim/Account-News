@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Compass Rose Asset Management LP Takes Position in FactSet Research Systems Inc . $FDS
+## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> FactSet Research Systems ( NYSE : FDS ) Trading 7 % Higher – What Next ?
 
 | | |
 |---|---|
-| **Date** | 2026-07-24 |
+| **Date** | 2026-07-28 |
 | **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.themarketsdaily.com](https://www.themarketsdaily.com/2026/07/24/compass-rose-asset-management-lp-takes-position-in-factset-research-systems-inc-fds.html) |
+| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/28/factset-research-systems-nysefds-trading-7-higher-whats-next.html) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.themarketsdaily.com/2026/07/24/compass-rose-asset-management-lp-takes-position-in-factset-research-systems-inc-fds.html)
+[Read the article →](https://www.dailypolitical.com/2026/07/28/factset-research-systems-nysefds-trading-7-higher-whats-next.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

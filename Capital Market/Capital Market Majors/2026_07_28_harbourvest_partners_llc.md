@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street – Commercial Observer
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-20 |
+| **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Product Launch |
+| **Solution plays** | — |
+| **Source** | [commercialobserver.com](https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

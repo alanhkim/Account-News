@@ -10,33 +10,33 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TRUIST FINANCIAL** | Pacific Gas & Electric ( NYSE : PCG ) Director Kerry Whorton Cooper Sells 1 , 250 Shares of Stock | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/07/28/pacific-gas-electric-nysepcg-director-kerry-whorton-cooper-sells-1250-shares-of-stock.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32) | **FIS Global** | FIS and Anthropic extend partnership - Asset Servicing Times | 2026-07-17 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Citigroup** | JetBlue Airways ( NASDAQ : JBLU ) Sees Large Volume Increase Following Earnings Beat | 2026-07-28 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13519449/jetblue-airways-nasdaqjblu-sees-large-volume-increase-following-earnings-beat.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.wvxu.org&sz=32) | **Capital One** | Addiction Recovery Care enters $16M settlement with DOJ on Medicaid fraud allegations | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Fabric, Security | [link](https://www.wvxu.org/2026-07-28/addiction-recovery-care-enters-16m-settlement-with-doj-on-medicaid-fraud-allegations) |
 | ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | What are VA Loan Rates Today , July 28 , 2026 and the Best Lenders | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/select/va-loan-rates-today-july-28-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Wells Fargo & Company** | Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **BNY Mellon** | Offense & Defense : The Infrastructure ETF Playbook | 2026-07-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/offense-defense-infrastructure-etf-playbook-161117481.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.wisbar.org&sz=32) | **US BANK** | Wisconsin Lawyer : Storm Surge : The Swell of Probate and Trust Litigation in Wisconsin : | 2026-07-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=99&Issue=7&ArticleID=31707&source=carousel) |
+| ![](https://www.google.com/s2/favicons?domain=newsindiatimes.com&sz=32) | **STATE STREET BOSTON CORPORATION** | Top banker Sunita Kanchinadam Named 15th President of TiE Boston | 2026-07-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/) |
 
 ## Detail
 
-### TRUIST FINANCIAL
-**Pacific Gas & Electric ( NYSE : PCG ) Director Kerry Whorton Cooper Sells 1 , 250 Shares of Stock** — 2026-07-28 — 🔴 High — ⚪ Neutral
+### Citigroup
+**JetBlue Airways ( NASDAQ : JBLU ) Sees Large Volume Increase Following Earnings Beat** — 2026-07-28 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ M&A  
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/07/28/pacific-gas-electric-nysepcg-director-kerry-whorton-cooper-sells-1250-shares-of-stock.html)
+[Read →](https://www.tickerreport.com/banking-finance/13519449/jetblue-airways-nasdaqjblu-sees-large-volume-increase-following-earnings-beat.html)
 
-### FIS Global
-**FIS and Anthropic extend partnership - Asset Servicing Times** — 2026-07-17 — 🟠 Medium — ⚪ Neutral
+### Capital One
+**Addiction Recovery Care enters $16M settlement with DOJ on Medicaid fraud allegations** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
 
-[Read →](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158)
+[Read →](https://www.wvxu.org/2026-07-28/addiction-recovery-care-enters-16m-settlement-with-doj-on-medicaid-fraud-allegations)
 
 ### NAVY FEDERAL CREDIT UNION M
 **What are VA Loan Rates Today , July 28 , 2026 and the Best Lenders** — 2026-07-28 — 🟡 Low — ⚪ Neutral
@@ -47,37 +47,37 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.cnbc.com/select/va-loan-rates-today-july-28-2026/)
 
-### Wells Fargo & Company
-**Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+### US BANK
+**Wisconsin Lawyer : Storm Surge : The Swell of Probate and Trust Litigation in Wisconsin :** — 2026-07-28 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html)
+[Read →](https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=99&Issue=7&ArticleID=31707&source=carousel)
 
-### BNY Mellon
-**Offense & Defense : The Infrastructure ETF Playbook** — 2026-07-23 — 🟡 Low — ⚪ Neutral
+### STATE STREET BOSTON CORPORATION
+**Top banker Sunita Kanchinadam Named 15th President of TiE Boston** — 2026-07-10 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/offense-defense-infrastructure-etf-playbook-161117481.html)
+[Read →](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/)
 
 ---
 
 <details><summary>Accounts with no material news this cycle (10)</summary>
 
+- FIS Global
 - FIDELITY NATIONAL FINANCIAL
 - FISERV Inc
-- US BANK
-- STATE STREET BOSTON CORPORATION
+- TRUIST FINANCIAL
+- Wells Fargo & Company
 - Dayforce US, Inc
+- BNY Mellon
 - JPMORGAN CHASE
 - P N C FINANCIAL CORP
-- Citigroup
-- Capital One
 - Bank of America
 
 </details>

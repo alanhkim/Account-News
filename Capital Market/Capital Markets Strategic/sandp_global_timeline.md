@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-07-28 | Dodger , Laker Owner Linked to Loan Fraud Probe | 🟠 Medium | ⚪ Neutral | [link](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/) |
+| 2026-07-28 | Santee Cooper upgraded to A by Fitch | 🟡 Low | ⚪ Neutral | [link](https://www.bondbuyer.com/news/santee-cooper-upgraded-to-a-by-fitch) |

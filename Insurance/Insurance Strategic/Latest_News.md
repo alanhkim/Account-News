@@ -10,61 +10,52 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.bozemandailychronicle.com&sz=32) | **GEICO** | Female athletes surge in NIL deals as Learfield reports a 123 % jump in participation | 2026-07-28 | 🔴 High | 🟢 Positive | M&A | — | [link](http://www.bozemandailychronicle.com/ap_news/business/female-athletes-surge-in-nil-deals-as-learfield-reports-a-123-jump-in-participation/article_4950fdfe-e35a-560b-b66c-041b96782b42.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.romesentinel.com&sz=32) | **Chubb** | Utica National names new chief operating officer | 2026-07-28 | 🟠 Medium | ⚪ Neutral | CxO Change, Regulatory | — | [link](https://www.romesentinel.com/news/utica-national-names-new-chief-operating-officer/article_262e7abe-ec7d-40c5-a22a-0a4a60a32aca.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | FactSet Research Systems ( NYSE : FDS ) Trading 7 % Higher – What Next ? | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/factset-research-systems-nysefds-trading-7-higher-whats-next.html) |
-| ![](https://www.google.com/s2/favicons?domain=vikingsterritory.com&sz=32) | **Metlife** | Former Vikings Playmaker Sidelined by Injury as Training Camp Begins | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://vikingsterritory.com/2026/news/top_news/former-vikings-injury-camp) |
-| ![](https://www.google.com/s2/favicons?domain=www.stiripesurse.ro&sz=32) | **American International Group Inc** | Romania - U . S . trade outpaced investment in 2025 as AmCham urges reforms to attract more American capital | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.stiripesurse.ro/romania-us-trade-outpaced-investment-in-2025-as-amcham-urges-reforms-to-attract-more-american-capital_3907466) |
+| ![](https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32) | **FIRST AMERICAN FINANCIAL CORP** | FinancialContent - Earnings To Watch : Markel Group ( MKL ) Reports Q2 Results Tomorrow | 2026-07-28 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-earnings-to-watch-markel-group-mkl-reports-q2-results-tomorrow) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Marsh McLennan** | Tokio Marine Highland names Matt LoPiccolo as chief growth officer | 2026-07-28 | 🟠 Medium | 🟢 Positive | CxO Change | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/tokio-marine-highland-names-matt-lopiccolo-as-chief-growth-officer-583890.aspx) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | Schwab High Yield Bond ETF ( NYSEARCA : SCYB ) Short Interest Update | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/schwab-high-yield-bond-etf-nysearcascyb-short-interest-update.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.sanfordherald.com&sz=32) | **Progressive Corporation** | Candidates bask in Trump endorsement | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sanfordherald.com/news/national/candidates-bask-in-trumps-endorsement/article_18fdc896-2e00-5157-9f8e-15557802a29c.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **ALLSTATE INSURANCE GROUP** | Forbes Daily : LeBron James Takes A Major Pay Cut With The 76ers | 2026-07-27 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.forbes.com/sites/daniellechemtob/2026/07/27/forbes-daily-lebron-james-takes-a-major-pay-cut-with-the-76ers/) |
+| ![](https://www.google.com/s2/favicons?domain=www.harrismartin.com&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | Calif . Court Denies Request to Certify Order Finding Coverage for Silica - Related Claims for Interlocutory Appeal | 2026-07-21 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.harrismartin.com/publications/10/benzene/articles/96759/calif-court-denies-request-to-certify-order-finding-coverage-for-silica-related-claims-for-interlocutory-appeal/) |
 
 ## Detail
 
-### GEICO
-**Female athletes surge in NIL deals as Learfield reports a 123 % jump in participation** — 2026-07-28 — 🔴 High — 🟢 Positive
+### FIRST AMERICAN FINANCIAL CORP
+**FinancialContent - Earnings To Watch : Markel Group ( MKL ) Reports Q2 Results Tomorrow** — 2026-07-28 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ M&A  
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.bozemandailychronicle.com/ap_news/business/female-athletes-surge-in-nil-deals-as-learfield-reports-a-123-jump-in-participation/article_4950fdfe-e35a-560b-b66c-041b96782b42.html)
+[Read →](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-earnings-to-watch-markel-group-mkl-reports-q2-results-tomorrow)
 
-### Chubb
-**Utica National names new chief operating officer** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
+### Marsh McLennan
+**Tokio Marine Highland names Matt LoPiccolo as chief growth officer** — 2026-07-28 — 🟠 Medium — 🟢 Positive
 
 
 
-_Trigger events:_ CxO Change, Regulatory  
+_Trigger events:_ CxO Change  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.romesentinel.com/news/utica-national-names-new-chief-operating-officer/article_262e7abe-ec7d-40c5-a22a-0a4a60a32aca.html)
+[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/tokio-marine-highland-names-matt-lopiccolo-as-chief-growth-officer-583890.aspx)
 
 ### NORTHWESTERN MUTUAL
-**FactSet Research Systems ( NYSE : FDS ) Trading 7 % Higher – What Next ?** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+**Schwab High Yield Bond ETF ( NYSEARCA : SCYB ) Short Interest Update** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/07/28/factset-research-systems-nysefds-trading-7-higher-whats-next.html)
+[Read →](https://www.dailypolitical.com/2026/07/28/schwab-high-yield-bond-etf-nysearcascyb-short-interest-update.html)
 
-### Metlife
-**Former Vikings Playmaker Sidelined by Injury as Training Camp Begins** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://vikingsterritory.com/2026/news/top_news/former-vikings-injury-camp)
-
-### American International Group Inc
-**Romania - U . S . trade outpaced investment in 2025 as AmCham urges reforms to attract more American capital** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+### Progressive Corporation
+**Candidates bask in Trump endorsement** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.stiripesurse.ro/romania-us-trade-outpaced-investment-in-2025-as-amcham-urges-reforms-to-attract-more-american-capital_3907466)
+[Read →](https://www.sanfordherald.com/news/national/candidates-bask-in-trumps-endorsement/article_18fdc896-2e00-5157-9f8e-15557802a29c.html)
 
 ### ALLSTATE INSURANCE GROUP
 **Forbes Daily : LeBron James Takes A Major Pay Cut With The 76ers** — 2026-07-27 — 🟡 Low — 🔴 Negative
@@ -75,18 +66,27 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.forbes.com/sites/daniellechemtob/2026/07/27/forbes-daily-lebron-james-takes-a-major-pay-cut-with-the-76ers/)
 
+### LIBERTY MUTUAL INSURANCE COMPANY
+**Calif . Court Denies Request to Certify Order Finding Coverage for Silica - Related Claims for Interlocutory Appeal** — 2026-07-21 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.harrismartin.com/publications/10/benzene/articles/96759/calif-court-denies-request-to-certify-order-finding-coverage-for-silica-related-claims-for-interlocutory-appeal/)
+
 ---
 
 <details><summary>Accounts with no material news this cycle (9)</summary>
 
 - Nationwide
+- GEICO
 - STATE FARM LIFE INSURANCE CO
-- Marsh McLennan
-- FIRST AMERICAN FINANCIAL CORP
+- Metlife
+- American International Group Inc
 - Aon Corporation
-- LIBERTY MUTUAL INSURANCE COMPANY
+- Chubb
 - PRUDENTIAL INSURANCE CO OF AMERICA
-- Progressive Corporation
 - Willis Towers Watson
 
 </details>

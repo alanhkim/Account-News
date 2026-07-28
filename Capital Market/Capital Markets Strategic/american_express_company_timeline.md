@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-07-28 | Analysis - Trump diversity crackdown reverberates through US boardrooms \| 100 . 7 MIX - FM \| Today Hit Music | 🟡 Low | ⚪ Neutral | [link](https://mymixfm.com/2026/07/28/analysis-trumps-diversity-crackdown-reverberates-through-us-boardrooms/) |
+| 2026-07-28 | SLB Limited ( SLB ) Stock Forecasts | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000) |

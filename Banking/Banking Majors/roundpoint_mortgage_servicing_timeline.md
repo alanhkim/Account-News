@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-23 | CrossCountry Mortgage TWO acquisition nears close , focus shifts to integration | 🔴 High | ⚪ Neutral | [link](https://www.housingwire.com/articles/ccm-two-integration-msrs/) |

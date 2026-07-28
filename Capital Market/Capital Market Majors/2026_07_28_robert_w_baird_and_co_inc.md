@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets
+## <img src="https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Materion ( NYSE : MTRN ) Stock Price Down 10 . 7 % – Should You Sell ?
 
 | | |
 |---|---|
@@ -15,13 +15,13 @@
 | **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html) |
+| **Source** | [www.themarketsdaily.com](https://www.themarketsdaily.com/2026/07/28/materion-nysemtrn-stock-price-down-10-7-should-you-sell.html) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html)
+[Read the article →](https://www.themarketsdaily.com/2026/07/28/materion-nysemtrn-stock-price-down-10-7-should-you-sell.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._
