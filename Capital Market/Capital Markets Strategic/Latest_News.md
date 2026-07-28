@@ -1,6 +1,6 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** July 27, 2026  
+**Updated:** July 28, 2026  
 **Accounts tracked:** 16  
 **Accounts with news this cycle:** 9  
 
@@ -123,4 +123,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on July 27, 2026._
+_Auto-generated on July 28, 2026._
