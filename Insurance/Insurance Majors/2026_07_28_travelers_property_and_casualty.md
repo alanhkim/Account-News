@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=www.times-herald.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> As insurance rates fall , tort reform takes much - deserved victory lap
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-06 |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.times-herald.com](https://www.times-herald.com/opinion/as-insurance-rates-fall-tort-reform-takes-much-deserved-victory-lap/article_0c0550bb-275e-4e47-8a9f-6cfab218f0bd.html) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.times-herald.com/opinion/as-insurance-rates-fall-tort-reform-takes-much-deserved-victory-lap/article_0c0550bb-275e-4e47-8a9f-6cfab218f0bd.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

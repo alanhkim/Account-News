@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Hilltop Holdings Inc . Sells 5 , 366 Shares of Danaher Corporation $DHR
+## <img src="https://www.google.com/s2/favicons?domain=www.tvguide.co.uk&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> The Walking Dead
 
 | | |
 |---|---|
-| **Date** | 2026-07-27 |
-| **Potential impact** | 🔴 High |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | M&A |
+| **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.themarketsdaily.com](https://www.themarketsdaily.com/2026/07/27/hilltop-holdings-inc-sells-5366-shares-of-danaher-corporation-dhr.html) |
+| **Source** | [www.tvguide.co.uk](https://www.tvguide.co.uk/schedule/d6dd4ea9-ea85-54a0-9de4-3f06bc05849a/the-walking-dead) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.themarketsdaily.com/2026/07/27/hilltop-holdings-inc-sells-5366-shares-of-danaher-corporation-dhr.html)
+[Read the article →](https://www.tvguide.co.uk/schedule/d6dd4ea9-ea85-54a0-9de4-3f06bc05849a/the-walking-dead)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

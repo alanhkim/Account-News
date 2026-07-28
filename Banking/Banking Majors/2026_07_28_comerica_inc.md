@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=jcpost.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> ⚾ Michael Massey 2 - run , 2 - out homer in 8th helps Royals beat Tigers
+## <img src="https://www.google.com/s2/favicons?domain=www.wsoctv.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Squirrel interrupts MLB game , steals the show
 
 | | |
 |---|---|
-| **Date** | 2026-07-27 |
+| **Date** | 2026-07-28 |
 | **Potential impact** | 🟡 Low |
-| **Sentiment** | 🟢 Positive |
+| **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [jcpost.com](https://jcpost.com/posts/c39aa47a-9310-4de2-8ecc-0b7bfc7105e5) |
+| **Source** | [www.wsoctv.com](https://www.wsoctv.com/news/trending/orioles-tigers-squirrel-game-interrupted-by-wild-squirrel/4O6BFIG47NHKPENXOPJZRODQYY/) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://jcpost.com/posts/c39aa47a-9310-4de2-8ecc-0b7bfc7105e5)
+[Read the article →](https://www.wsoctv.com/news/trending/orioles-tigers-squirrel-game-interrupted-by-wild-squirrel/4O6BFIG47NHKPENXOPJZRODQYY/)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

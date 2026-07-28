@@ -10,18 +10,18 @@
 
 | | |
 |---|---|
-| **Date** | 2026-07-25 |
+| **Date** | 2026-07-27 |
 | **Potential impact** | 🟡 Low |
 | **Sentiment** | 🟢 Positive |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.oilandgas360.com](https://www.oilandgas360.com/enercom-releases-presenter-lineup-for-the-31st-enercom-denver-the-energy-investment-conference-august-17-19-2026-in-denver-colorado-2/) |
+| **Source** | [www.oilandgas360.com](https://www.oilandgas360.com/enercom-releases-presenter-lineup-for-the-31st-enercom-denver-the-energy-investment-conference-august-17-19-2026-in-denver-colorado-2-2/) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.oilandgas360.com/enercom-releases-presenter-lineup-for-the-31st-enercom-denver-the-energy-investment-conference-august-17-19-2026-in-denver-colorado-2/)
+[Read the article →](https://www.oilandgas360.com/enercom-releases-presenter-lineup-for-the-31st-enercom-denver-the-energy-investment-conference-august-17-19-2026-in-denver-colorado-2-2/)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

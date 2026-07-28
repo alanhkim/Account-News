@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=wibailoutpeople.org&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> @ wi . bopm Webinar June 30 , 2026 : No . U . S . War On Cuba ! Why Queer People Should Stand With Cuba Against Trump Attacks ! – Wisconsin Bail Out the People Movement
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-06-27 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | — |
-| **Source** | [wibailoutpeople.org](https://wibailoutpeople.org/2026/06/27/wi-bopm-webinar-june-30-2026-no-u-s-war-on-cuba-why-queer-people-should-stand-with-cuba-against-trumps-attacks/) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
-
-[Read the article →](https://wibailoutpeople.org/2026/06/27/wi-bopm-webinar-june-30-2026-no-u-s-war-on-cuba-why-queer-people-should-stand-with-cuba-against-trumps-attacks/)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

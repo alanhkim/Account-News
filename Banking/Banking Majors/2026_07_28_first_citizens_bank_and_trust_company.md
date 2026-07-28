@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> First Citizens Bank & Trust Co . Makes New Investment in Vail Resorts , Inc . $MTN
+## <img src="https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> LCI Industries ( LCII ) Expected to Post Quarterly Earnings on Tuesday
 
 | | |
 |---|---|
-| **Date** | 2026-07-25 |
-| **Potential impact** | 🟡 Low |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🔴 High |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
+| **Trigger events** | Earnings |
 | **Solution plays** | — |
-| **Source** | [www.tickerreport.com](https://www.tickerreport.com/banking-finance/13515016/first-citizens-bank-trust-co-makes-new-investment-in-vail-resorts-inc-mtn.html) |
+| **Source** | [www.themarketsdaily.com](https://www.themarketsdaily.com/2026/07/28/lci-industries-lcii-expected-to-post-quarterly-earnings-on-tuesday.html) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.tickerreport.com/banking-finance/13515016/first-citizens-bank-trust-co-makes-new-investment-in-vail-resorts-inc-mtn.html)
+[Read the article →](https://www.themarketsdaily.com/2026/07/28/lci-industries-lcii-expected-to-post-quarterly-earnings-on-tuesday.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

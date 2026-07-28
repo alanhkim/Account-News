@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW
+## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets
 
 | | |
 |---|---|
-| **Date** | 2026-07-27 |
+| **Date** | 2026-07-28 |
 | **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.tickerreport.com](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html) |
+| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html)
+[Read the article →](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

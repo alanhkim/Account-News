@@ -2,7 +2,7 @@
 
 **Updated:** July 28, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 24  
+**Accounts with news this cycle:** 22  
 
 ---
 
@@ -10,62 +10,100 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **BAIN CAPITAL LLC** | Eightco Holdings ( NASDAQ : ORBS ) Announces its Participation in World Foundation $52 . 5M funding round as World Shifts From Building the Network to Scaling Utility | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Ecopetrol ( EC ) to Release Quarterly Earnings on Monday | 2026-07-27 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html) |
-| ![](https://www.google.com/s2/favicons?domain=foxwilmington.com&sz=32) | **CARLYLE** | Katy Perry blasts White House for using hit song  Firework  she sold in $225M catalog deal | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://foxwilmington.com/katy-perry-blasts-white-house-for-using-hit-song-firework-she-sold-in-225m-catalog-deal/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **BAIN CAPITAL LLC** | Bain Capital in talks over 25 % stake in IndusInd General Insurance – report | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://finance.yahoo.com/healthcare/articles/bain-capital-talks-over-25-150630612.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Raymond James and Associates Inc** | First United ( NASDAQ : FUNC ) Director Irvin Robert Rudy Sells 1 , 000 Shares | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypolitical.com/2026/07/28/first-united-nasdaqfunc-director-irvin-robert-rudy-sells-1000-shares.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **LPL Financial** | Insider Selling : Sagimet Biosciences ( NASDAQ : SGMT ) Director Sells 18 , 844 Shares | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypolitical.com/2026/07/28/insider-selling-sagimet-biosciences-nasdaqsgmt-director-sells-18844-shares.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **BROWN BROTHERS HARRIMAN AND COMPANY** | Pacific Gas & Electric ( NYSE : PCG ) Director Kerry Whorton Cooper Sells 1 , 250 Shares of Stock | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/07/28/pacific-gas-electric-nysepcg-director-kerry-whorton-cooper-sells-1250-shares-of-stock.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Jurgi Camblong Sells 20 , 000 Shares of SOPHiA GENETICS ( NASDAQ : SOPH ) Stock | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.tickerreport.com/banking-finance/13519304/jurgi-camblong-sells-20000-shares-of-sophia-genetics-nasdaqsoph-stock.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Is PayPal Holdings a Buy After Its Latest Earnings Report ? | 2026-07-28 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/investing/2026/07/28/is-paypal-holdings-a-buy-after-its-latest-earnings-report/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | Meet the Dividend Growth Stock That Warren Buffett Held for Decades , and Greg Abel Pegged as One of Berkshire Hathaway Multidecade Compounders | 2026-07-27 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.fool.com/investing/2026/07/27/meet-the-dividend-growth-stock-that-warren-buffett/?source=iedfolrf0000001) |
 | ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Stone X** | Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript | 2026-07-25 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Eos Energy Announces Expiration and Results of Rights Offering | 2026-07-23 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/eos-energy-announces-expiration-and-results-of-rights-offering/2390326) |
-| ![](https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32) | **Apollo Management** | Ode with Anthropic and LogicGate Announce Partnership to Scale Expert - Led Client Outcomes through Accelerated Agentic Capabilities | 2026-07-27 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://leaderpost.com/press-releases/business-wire/ode-with-anthropic-and-logicgate-announce-partnership-to-scale-expert-led-client-outcomes-through-accelerated-agentic-capabilities/) |
-| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **MORNINGSTAR INC** | Meet the American techies who dont care where  good enough  AI models come from , even China | 2026-07-27 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio | 2026-07-26 | 🟠 Medium | ⚪ Neutral | — | Copilot | [link](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.phoenixherald.com&sz=32) | **JANUS HENDERSON GROUP** | AI spending surge puts Big Tech cash flows under pressure | 2026-07-25 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **INVESCO** | SpaceX Stock Is Down 48 % From Its High . Here Why ETFs Are Loading Up Anyway . | 2026-07-27 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **LPL Financial** | Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **JEFFERIES & COMPANY INC** | Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **FINRA** | Round - the - clock trading is coming , but retail investors are already there | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554) |
-| ![](https://www.google.com/s2/favicons?domain=www.express.co.uk&sz=32) | **Kroll, LLC** | UK law firm plunges into administration - £250m loans | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.express.co.uk/news/uk/2233364/uk-law-firm-plunges-administration) |
-| ![](https://www.google.com/s2/favicons?domain=www.stereoboard.com&sz=32) | **ROCKEFELLER AND COMPANY** | Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.stereoboard.com/content/view/252322/9) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **FISHER INVESTMENTS** | Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERIPRISE FINANCIAL INC** | SPDR Bloomberg 3 - 12 Month T - Bill ETF ( NYSEARCA : BILS ) Short Interest Update | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/27/spdr-bloomberg-3-12-month-t-bill-etf-nysearcabils-short-interest-update-2.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | What Greg Abel Might Do With Berkshire Hathaway Massive Cash Pile | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.sundaytimes.lk&sz=32) | **LAZARD FRERES AND COMPANY** | Lazard advice sought for likely debt buybacks , while debt affordability improves | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html) |
-| ![](https://www.google.com/s2/favicons?domain=retailtimes.co.uk&sz=32) | **Fortress Investment Group** | Majestic puts the Champagne on ice as it prepares to toast arrival in Trowbridge | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://retailtimes.co.uk/majestic-puts-the-champagne-on-ice-as-it-prepares-to-toast-arrival-in-trowbridge/) |
-| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **Commonwealth Financial Network** | $1 Billion Team Joins Raymond James From Stifel | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **DAVIDSON KEMPNER** | Davidson Kempner Capital Management LP : Form 8 . 3 - easyJet PLC | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-easyjet-plc/2391154) |
+| ![](https://www.google.com/s2/favicons?domain=massachusettsnewswire.com&sz=32) | **Securian** | New partnership offerings provide Velocity Credit Union members access to personalized coverage for home , auto , business , life , and specialty insurance needs | 2026-07-23 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://massachusettsnewswire.com/new-partnership-offerings-provide-velocity-credit-union-members-access-to-personalized-coverage-for-home-auto-business-life-and-specialty-insurance-needs-74021/) |
+| ![](https://www.google.com/s2/favicons?domain=www.indonesia-investments.com&sz=32) | **Dun & Bradstreet Corporation** | Is a B2B Data Platform Even Worth It in 2026 ? ( 7 Options Ranked ) | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.indonesia-investments.com/business/business-columns/is-a-b2b-data-platform-even-worth-it-in-2026-7-options-ranked/item10001) |
+| ![](https://www.google.com/s2/favicons?domain=newstalk1230.iheart.com&sz=32) | **Guggenheim Partners** | Dodger , Laker Owner Linked to Loan Fraud Probe | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Apollo Management** | Oil Prices Retreat , But the Strait of Hormuz Remains the Wild Card | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/energy/articles/oil-prices-retreat-strait-hormuz-152000595.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | Crinetics Pharmaceuticals , Inc . ( NASDAQ : CRNX ) Sees Significant Decrease in Short Interest | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/crinetics-pharmaceuticals-inc-nasdaqcrnx-sees-significant-decrease-in-short-interest.html) |
+| ![](https://www.google.com/s2/favicons?domain=cointelegraph.com&sz=32) | **First Advantage Corporation** | The Real Reason DeFi Projects That Survived 2022 Crash Are Shutting Down Now | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed) |
+| ![](https://www.google.com/s2/favicons?domain=www.businesstimes.com.sg&sz=32) | **The Capital Group Companies, Inc.** | Singapore AUM up 10 . 1 % at S$6 . 7 trillion as MAS eyes competitiveness push | 2026-07-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.businesstimes.com.sg/companies-markets/singapore-aum-10-1-s6-7-trillion-mas-eyes-competitiveness-push) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.bondbuyer.com&sz=32) | **Fortress Investment Group** | Another debt extension for Brightline Florida | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bondbuyer.com/news/another-debt-extension-for-brightline-florida) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **CITADEL INVESTMENT GROUP** | XFLT Proxy Contest : Why the Board Believes the King Street Sub - Adviser Will Be Beneficial for XFLT Shareholders | 2026-07-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/xflt-proxy-contest-why-the-board-believes-the-king-street-sub-adviser-will-be-beneficial-for-xflt-shareholders/2391657) |
+| ![](https://www.google.com/s2/favicons?domain=www.livemint.com&sz=32) | **PLATINUM EQUITY LLC** | US stocks to Asian markets today : Global market equity heatmap you should know before trade begins on Dalal Street | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Chicago mercantile Exchange** | CME Group Inc . $CME Stock Holdings Boosted by First Washington CORP | 2026-07-24 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13513512/cme-group-inc-cme-stock-holdings-boosted-by-first-washington-corp.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **DISCOVER FINANCIAL** | Cramer : this industrial stock faces a do - or - die moment for our investment | 2026-07-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/2026/07/22/cramer-this-industrial-stock-faces-a-do-or-die-moment-for-our-investment.html) |
 | ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **EDWARD D JONES AND COMPANY** | Edward Jones pushes back on lawsuit challenging diversity program | 2026-07-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html) |
 
 ## Detail
 
 ### BAIN CAPITAL LLC
-**Eightco Holdings ( NASDAQ : ORBS ) Announces its Participation in World Foundation $52 . 5M funding round as World Shifts From Building the Network to Scaling Utility** — 2026-07-27 — 🔴 High — ⚪ Neutral
+**Bain Capital in talks over 25 % stake in IndusInd General Insurance – report** — 2026-07-28 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/07/27/tmt-newswire/pr-newswire/eightco-holdings-nasdaq-orbs-announces-its-participation-in-world-foundations-525m-funding-round-as-world-shifts-from-building-the-network-to-scaling-utility/2392190)
+[Read →](https://finance.yahoo.com/healthcare/articles/bain-capital-talks-over-25-150630612.html)
 
-### TWO SIGMA INVESTMENTS
-**Ecopetrol ( EC ) to Release Quarterly Earnings on Monday** — 2026-07-27 — 🔴 High — ⚪ Neutral
+### Raymond James and Associates Inc
+**First United ( NASDAQ : FUNC ) Director Irvin Robert Rudy Sells 1 , 000 Shares** — 2026-07-28 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/07/28/first-united-nasdaqfunc-director-irvin-robert-rudy-sells-1000-shares.html)
+
+### LPL Financial
+**Insider Selling : Sagimet Biosciences ( NASDAQ : SGMT ) Director Sells 18 , 844 Shares** — 2026-07-28 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/07/28/insider-selling-sagimet-biosciences-nasdaqsgmt-director-sells-18844-shares.html)
+
+### BROWN BROTHERS HARRIMAN AND COMPANY
+**Pacific Gas & Electric ( NYSE : PCG ) Director Kerry Whorton Cooper Sells 1 , 250 Shares of Stock** — 2026-07-28 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/07/28/pacific-gas-electric-nysepcg-director-kerry-whorton-cooper-sells-1250-shares-of-stock.html)
+
+### PRINCIPAL FINANCIAL GROUP
+**Jurgi Camblong Sells 20 , 000 Shares of SOPHiA GENETICS ( NASDAQ : SOPH ) Stock** — 2026-07-28 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13519304/jurgi-camblong-sells-20000-shares-of-sophia-genetics-nasdaqsoph-stock.html)
+
+### WILLIAM BLAIR & COMPANY
+**Is PayPal Holdings a Buy After Its Latest Earnings Report ?** — 2026-07-28 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html)
+[Read →](https://www.fool.com/investing/2026/07/28/is-paypal-holdings-a-buy-after-its-latest-earnings-report/)
 
-### CARLYLE
-**Katy Perry blasts White House for using hit song  Firework  she sold in $225M catalog deal** — 2026-07-27 — 🔴 High — ⚪ Neutral
+### Berkshire Hathaway Energy
+**Meet the Dividend Growth Stock That Warren Buffett Held for Decades , and Greg Abel Pegged as One of Berkshire Hathaway Multidecade Compounders** — 2026-07-27 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ M&A  
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://foxwilmington.com/katy-perry-blasts-white-house-for-using-hit-song-firework-she-sold-in-225m-catalog-deal/)
+[Read →](https://www.fool.com/investing/2026/07/27/meet-the-dividend-growth-stock-that-warren-buffett/?source=iedfolrf0000001)
 
 ### Stone X
 **Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript** — 2026-07-25 — 🔴 High — ⚪ Neutral
@@ -77,181 +115,125 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
 
-### CERBERUS CAPITAL MANAGEMENT LP
-**Eos Energy Announces Expiration and Results of Rights Offering** — 2026-07-23 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/eos-energy-announces-expiration-and-results-of-rights-offering/2390326)
-
-### Apollo Management
-**Ode with Anthropic and LogicGate Announce Partnership to Scale Expert - Led Client Outcomes through Accelerated Agentic Capabilities** — 2026-07-27 — 🟠 Medium — ⚪ Neutral
+### Securian
+**New partnership offerings provide Velocity Credit Union members access to personalized coverage for home , auto , business , life , and specialty insurance needs** — 2026-07-23 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://leaderpost.com/press-releases/business-wire/ode-with-anthropic-and-logicgate-announce-partnership-to-scale-expert-led-client-outcomes-through-accelerated-agentic-capabilities/)
+[Read →](https://massachusettsnewswire.com/new-partnership-offerings-provide-velocity-credit-union-members-access-to-personalized-coverage-for-home-auto-business-life-and-specialty-insurance-needs-74021/)
 
-### MORNINGSTAR INC
-**Meet the American techies who dont care where  good enough  AI models come from , even China** — 2026-07-27 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI, Fabric  
-_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
-
-[Read →](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/)
-
-### PRINCIPAL FINANCIAL GROUP
-**Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio** — 2026-07-26 — 🟠 Medium — ⚪ Neutral
+### Dun & Bradstreet Corporation
+**Is a B2B Data Platform Even Worth It in 2026 ? ( 7 Options Ranked )** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Solution plays:_ Copilot  
-_Microsoft angle:_ Potential Copilot opportunity — align outreach to this signal.
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html)
+[Read →](https://www.indonesia-investments.com/business/business-columns/is-a-b2b-data-platform-even-worth-it-in-2026-7-options-ranked/item10001)
 
-### JANUS HENDERSON GROUP
-**AI spending surge puts Big Tech cash flows under pressure** — 2026-07-25 — 🟠 Medium — ⚪ Neutral
+### Guggenheim Partners
+**Dodger , Laker Owner Linked to Loan Fraud Probe** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
 
-[Read →](http://www.phoenixherald.com/news/279206172/ai-spending-surge-puts-big-tech-cash-flows-under-pressure)
+[Read →](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/)
 
-### INVESCO
-**SpaceX Stock Is Down 48 % From Its High . Here Why ETFs Are Loading Up Anyway .** — 2026-07-27 — 🟡 Low — 🟢 Positive
+### Apollo Management
+**Oil Prices Retreat , But the Strait of Hormuz Remains the Wild Card** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-48-high-130600317.html)
+[Read →](https://finance.yahoo.com/energy/articles/oil-prices-retreat-strait-hormuz-152000595.html)
 
-### LPL Financial
-**Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html)
-
-### JEFFERIES & COMPANY INC
-**Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+### WELLINGTON MANAGEMENT COMPANY LLC
+**Crinetics Pharmaceuticals , Inc . ( NASDAQ : CRNX ) Sees Significant Decrease in Short Interest** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html)
+[Read →](https://www.dailypolitical.com/2026/07/28/crinetics-pharmaceuticals-inc-nasdaqcrnx-sees-significant-decrease-in-short-interest.html)
 
-### FINRA
-**Round - the - clock trading is coming , but retail investors are already there** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554)
-
-### Kroll, LLC
-**UK law firm plunges into administration - £250m loans** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+### First Advantage Corporation
+**The Real Reason DeFi Projects That Survived 2022 Crash Are Shutting Down Now** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.express.co.uk/news/uk/2233364/uk-law-firm-plunges-administration)
+[Read →](https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed)
 
-### ROCKEFELLER AND COMPANY
-**Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.stereoboard.com/content/view/252322/9)
-
-### FISHER INVESTMENTS
-**Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+### The Capital Group Companies, Inc.
+**Singapore AUM up 10 . 1 % at S$6 . 7 trillion as MAS eyes competitiveness push** — 2026-07-28 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html)
-
-### AMERIPRISE FINANCIAL INC
-**SPDR Bloomberg 3 - 12 Month T - Bill ETF ( NYSEARCA : BILS ) Short Interest Update** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/07/27/spdr-bloomberg-3-12-month-t-bill-etf-nysearcabils-short-interest-update-2.html)
+[Read →](https://www.businesstimes.com.sg/companies-markets/singapore-aum-10-1-s6-7-trillion-mas-eyes-competitiveness-push)
 
 ### ROBERT W. BAIRD & CO INC
-**Weiss Asset Management LP Makes New Investment in Curtiss - Wright Corporation $CW** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+**Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13517478/weiss-asset-management-lp-makes-new-investment-in-curtiss-wright-corporation-cw.html)
-
-### Berkshire Hathaway Energy
-**What Greg Abel Might Do With Berkshire Hathaway Massive Cash Pile** — 2026-07-25 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001)
-
-### LAZARD FRERES AND COMPANY
-**Lazard advice sought for likely debt buybacks , while debt affordability improves** — 2026-07-25 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html)
+[Read →](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html)
 
 ### Fortress Investment Group
-**Majestic puts the Champagne on ice as it prepares to toast arrival in Trowbridge** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+**Another debt extension for Brightline Florida** — 2026-07-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://retailtimes.co.uk/majestic-puts-the-champagne-on-ice-as-it-prepares-to-toast-arrival-in-trowbridge/)
+[Read →](https://www.bondbuyer.com/news/another-debt-extension-for-brightline-florida)
 
-### Commonwealth Financial Network
-**$1 Billion Team Joins Raymond James From Stifel** — 2026-07-24 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.wealthmanagement.com/ibd-news/1-billion-team-joins-raymond-james-from-stifel)
-
-### DAVIDSON KEMPNER
-**Davidson Kempner Capital Management LP : Form 8 . 3 - easyJet PLC** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+### CITADEL INVESTMENT GROUP
+**XFLT Proxy Contest : Why the Board Believes the King Street Sub - Adviser Will Be Beneficial for XFLT Shareholders** — 2026-07-26 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-easyjet-plc/2391154)
+[Read →](https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/xflt-proxy-contest-why-the-board-believes-the-king-street-sub-adviser-will-be-beneficial-for-xflt-shareholders/2391657)
+
+### PLATINUM EQUITY LLC
+**US stocks to Asian markets today : Global market equity heatmap you should know before trade begins on Dalal Street** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html)
+
+### Chicago mercantile Exchange
+**CME Group Inc . $CME Stock Holdings Boosted by First Washington CORP** — 2026-07-24 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13513512/cme-group-inc-cme-stock-holdings-boosted-by-first-washington-corp.html)
+
+### DISCOVER FINANCIAL
+**Cramer : this industrial stock faces a do - or - die moment for our investment** — 2026-07-22 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.cnbc.com/2026/07/22/cramer-this-industrial-stock-faces-a-do-or-die-moment-for-our-investment.html)
 
 ### EDWARD D JONES AND COMPANY
 **Edward Jones pushes back on lawsuit challenging diversity program** — 2026-07-09 — 🟡 Low — ⚪ Neutral
@@ -264,15 +246,12 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 ---
 
-<details><summary>Accounts with no material news this cycle (42)</summary>
+<details><summary>Accounts with no material news this cycle (44)</summary>
 
-- CITADEL INVESTMENT GROUP
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
 - KOHLBERG KRAVIS ROBERTS & CO LLC
-- PLATINUM EQUITY LLC
-- Dun & Bradstreet Corporation
-- Raymond James and Associates Inc
+- INVESCO
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
@@ -280,32 +259,37 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
+- JEFFERIES & COMPANY INC
 - MSCI Inc
 - NEUBERGER BERMAN
 - Ascensus, Inc.
+- FINRA
 - SUSQUEHANNA PARTNERS G P
 - T ROWE PRICE ASSOCIATES
-- WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
+- MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
 - DEPOSITORY TRUST CLEARING CORPORATION
-- DISCOVER FINANCIAL
-- Securian
+- TWO SIGMA INVESTMENTS
 - Balyasny Asset Management
-- BROWN BROTHERS HARRIMAN AND COMPANY
-- Chicago mercantile Exchange
+- Commonwealth Financial Network
 - HARBOURVEST PARTNERS LLC
+- JANUS HENDERSON GROUP
 - ANTARES CAPITAL
+- CARLYLE
+- CERBERUS CAPITAL MANAGEMENT LP
 - TPG Capital
 - BERKSHIRE HATHAWAY INC
-- Guggenheim Partners
+- DAVIDSON KEMPNER
+- Kroll, LLC
 - MOODYS INVESTORS SERVICE
-- First Advantage Corporation
+- ROCKEFELLER AND COMPANY
+- FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
-- The Capital Group Companies, Inc.
 - Voya Services Company
-- WILLIAM BLAIR & COMPANY
+- AMERIPRISE FINANCIAL INC
+- LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
 

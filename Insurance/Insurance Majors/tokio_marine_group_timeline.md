@@ -4,4 +4,5 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-28 | Tokio Marine Highland names Matt LoPiccolo as chief growth officer | 🟠 Medium | 🟢 Positive | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/tokio-marine-highland-names-matt-lopiccolo-as-chief-growth-officer-583890.aspx) |
 | 2026-07-23 | Prudential May Sell Brazil Unit for US$3 Billion | 🟡 Low | ⚪ Neutral | [link](https://www.riotimesonline.com/prudential-may-sell-brazil-unit-for-us3-billion/) |

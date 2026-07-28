@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=investinglive.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Itai Levitan | investingLive
+## <img src="https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> AM Revises Outlook to Positive for Texa Standard Casualty
 
 | | |
 |---|---|
-| **Date** | 2026-07-27 |
-| **Potential impact** | 🟠 Medium |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🟡 Low |
 | **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
-| **Solution plays** | Azure AI |
-| **Source** | [investinglive.com](https://investinglive.com/author/itai-levitan/) |
+| **Solution plays** | — |
+| **Source** | [www.insurancejournal.com](https://www.insurancejournal.com/news/southcentral/2026/07/28/879392.htm) |
 
 **Summary.** 
 
-**Why it matters (Microsoft angle).** Potential Azure AI opportunity — align outreach to this signal.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://investinglive.com/author/itai-levitan/)
+[Read the article →](https://www.insurancejournal.com/news/southcentral/2026/07/28/879392.htm)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

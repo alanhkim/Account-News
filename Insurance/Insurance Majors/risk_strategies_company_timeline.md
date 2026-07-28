@@ -4,4 +4,5 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-07-27 | Itai Levitan \| investingLive | 🟠 Medium | ⚪ Neutral | [link](https://investinglive.com/author/itai-levitan/) |
+| 2026-07-28 | AM Revises Outlook to Positive for Texa Standard Casualty | 🟡 Low | ⚪ Neutral | [link](https://www.insurancejournal.com/news/southcentral/2026/07/28/879392.htm) |
+| 2026-07-27 | Itai Levitan \ | investingLive | 🟠 Medium | ⚪ Neutral | [link](https://investinglive.com/author/itai-levitan/) |

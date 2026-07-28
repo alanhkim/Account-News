@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.autoweek.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> GM Is Betting Big on Trucks Again
+## <img src="https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> FinancialContent - Verisk ( VRSK ) Q2 Earnings Report Preview : What To Look For
 
 | | |
 |---|---|
-| **Date** | 2026-07-21 |
-| **Potential impact** | 🟡 Low |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🔴 High |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | — |
-| **Source** | [www.autoweek.com](https://www.autoweek.com/news/a73220784/gm-betting-big-on-trucks-again/) |
+| **Trigger events** | Earnings |
+| **Solution plays** | Security |
+| **Source** | [markets.financialcontent.com](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-verisk-vrsk-q2-earnings-report-preview-what-to-look-for) |
 
 **Summary.** 
 
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+**Why it matters (Microsoft angle).** Potential Security opportunity — align outreach to this signal.
 
-[Read the article →](https://www.autoweek.com/news/a73220784/gm-betting-big-on-trucks-again/)
+[Read the article →](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-verisk-vrsk-q2-earnings-report-preview-what-to-look-for)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

@@ -6,9 +6,22 @@
 
 ---
 
-## No material news identified in the past 30 days
+## <img src="https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Greystone Provides $92 Million in Fannie Mae Financing Across Three Affordable Housing Communities in New York
 
-_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
+| | |
+|---|---|
+| **Date** | 2026-07-23 |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.manilatimes.net](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/greystone-provides-92-million-in-fannie-mae-financing-across-three-affordable-housing-communities-in-new-york/2390768) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/greystone-provides-92-million-in-fannie-mae-financing-across-three-affordable-housing-communities-in-new-york/2390768)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

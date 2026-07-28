@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-19 | Oman Foreign Minister to the West : Youve been containing the wrong country – Mondoweiss | 🟡 Low | ⚪ Neutral | [link](https://mondoweiss.net/2026/07/omans-foreign-minister-to-the-west-youve-been-containing-the-wrong-country/) |

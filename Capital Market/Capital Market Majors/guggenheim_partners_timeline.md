@@ -4,4 +4,4 @@ Rolling history of tracked news (last 90 days). Updated July 28, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-28 | Dodger , Laker Owner Linked to Loan Fraud Probe | 🟠 Medium | ⚪ Neutral | [link](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/) |

@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July
+## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Insider Selling : Sagimet Biosciences ( NASDAQ : SGMT ) Director Sells 18 , 844 Shares
 
 | | |
 |---|---|
-| **Date** | 2026-07-27 |
-| **Potential impact** | 🟡 Low |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🔴 High |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
+| **Trigger events** | M&A |
 | **Solution plays** | — |
-| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html) |
+| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/07/28/insider-selling-sagimet-biosciences-nasdaqsgmt-director-sells-18844-shares.html) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html)
+[Read the article →](https://www.dailypolitical.com/2026/07/28/insider-selling-sagimet-biosciences-nasdaqsgmt-director-sells-18844-shares.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

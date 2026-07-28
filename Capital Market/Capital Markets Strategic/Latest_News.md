@@ -2,7 +2,7 @@
 
 **Updated:** July 28, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 9  
+**Accounts with news this cycle:** 8  
 
 ---
 
@@ -10,37 +10,26 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32) | **NORTHERN TRUST CORPORATION** | Northern Trust to provide fund administration services to Dawson Partners | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A, Product Launch | — | [link](https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18180) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **VANGUARD GROUP INC** | Goldman , T . Rowe Debut Their First Interval Fund for the Masses | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://finance.yahoo.com/markets/stocks/articles/goldman-t-rowe-debut-first-144651698.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.moneycontrol.com&sz=32) | **Brookfield Asset Management** | CCI approves merger of Go Digit holding firm into insurer | 2026-07-28 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.moneycontrol.com/news/business/cci-approves-merger-of-go-digit-holding-firm-into-insurer-13986275.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NASDAQ OMX** | First Trust NASDAQ ABA Community Bank Index Fund ( NASDAQ : QABA ) Trading Up 2 . 8 % – Time to Buy ? | 2026-07-17 | 🔴 High | 🟢 Positive | M&A | Fabric | [link](https://www.dailypolitical.com/2026/07/16/first-trust-nasdaq-aba-community-bank-index-fund-nasdaqqaba-trading-up-2-8-time-to-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **Brookfield Asset Management** | Brookfield commits up to $9 - billion for AI data centre in South Korea | 2026-07-27 | 🟠 Medium | 🟢 Positive | — | Azure AI, Fabric | [link](https://www.theglobeandmail.com/business/article-brookfield-commits-up-to-9-billion-for-ai-data-centre-in-south-korea/) |
-| ![](https://www.google.com/s2/favicons?domain=www.sun-sentinel.com&sz=32) | **BRIDGEWATER ASSOCIATES** | Dolphins to host QB Jack Plummer for workout | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sun-sentinel.com/2026/07/25/dolphins-to-host-quarterback-for-workout-report-says/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Fidelity Investments** | Fidelity says retirees now face $185 , 500 in healthcare costs up 7 . 5 % from last year , and long - term care isnt included | 2026-07-27 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **Blackstone Inc.** | Japan New Activists Blend McKinsey And Blackstone | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.forbes.com/sites/robertdaugherty/2026/07/27/japans-new-activists-blend-mckinsey-and-blackstone/) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **BLACKROCK FINANCIAL MANAGEMENT** | Holding ( s ) in Company \| Company Announcement | 2026-07-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/telecom-plus--tep/holding-s-in-company/9675636) |
-| ![](https://www.google.com/s2/favicons?domain=www.unitaid.eu&sz=32) | **VISA U S A INC** | Lands End Visa Credit Card | 2026-07-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.unitaid.eu/lands-end-visa-credit-card-0etr.html) |
+| ![](https://www.google.com/s2/favicons?domain=newstalk1230.iheart.com&sz=32) | **S&P Global** | Dodger , Laker Owner Linked to Loan Fraud Probe | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/) |
+| ![](https://www.google.com/s2/favicons?domain=mymixfm.com&sz=32) | **AMERICAN EXPRESS COMPANY** | Analysis - Trump diversity crackdown reverberates through US boardrooms \| 100 . 7 MIX - FM \| Today Hit Music | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://mymixfm.com/2026/07/28/analysis-trumps-diversity-crackdown-reverberates-through-us-boardrooms/) |
+| ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **Blackstone Inc.** | Jill Scott no phones Met tour stop was  beautifully human | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inquirer.com/entertainment/music/jill-scott-to-whom-it-may-concern-tour-philadelphia-review-20260728.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **BLACKROCK FINANCIAL MANAGEMENT** | Renk Group AG : Release according to Article 40 ( 1 ) of the WpHG ( the German Securities Trading Act ) with the objective of Europe - wide distribution | 2026-07-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **MORGAN STANLEY** | Gartner ( NYSE : IT ) Trading 7 . 2 % Higher – Still a Buy ? | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/gartner-nyseit-trading-7-2-higher-still-a-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.unitaid.eu&sz=32) | **VISA U S A INC** | Comenity Bank Lands End Visa | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.unitaid.eu/comenity-bank-lands-end-visa-v6a3.html) |
 
 ## Detail
 
-### NORTHERN TRUST CORPORATION
-**Northern Trust to provide fund administration services to Dawson Partners** — 2026-07-27 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A, Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.assetservicingtimes.com/assetservicesnews/fundservicesarticle.php?article_id=18180)
-
-### VANGUARD GROUP INC
-**Goldman , T . Rowe Debut Their First Interval Fund for the Masses** — 2026-07-27 — 🔴 High — ⚪ Neutral
+### Brookfield Asset Management
+**CCI approves merger of Go Digit holding firm into insurer** — 2026-07-28 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/goldman-t-rowe-debut-first-144651698.html)
+[Read →](https://www.moneycontrol.com/news/business/cci-approves-merger-of-go-digit-holding-firm-into-insurer-13986275.html)
 
 ### NASDAQ OMX
 **First Trust NASDAQ ABA Community Bank Index Fund ( NASDAQ : QABA ) Trading Up 2 . 8 % – Time to Buy ?** — 2026-07-17 — 🔴 High — 🟢 Positive
@@ -53,72 +42,73 @@ _Microsoft angle:_ Potential Fabric opportunity — align outreach to this signa
 
 [Read →](https://www.dailypolitical.com/2026/07/16/first-trust-nasdaq-aba-community-bank-index-fund-nasdaqqaba-trading-up-2-8-time-to-buy.html)
 
-### Brookfield Asset Management
-**Brookfield commits up to $9 - billion for AI data centre in South Korea** — 2026-07-27 — 🟠 Medium — 🟢 Positive
+### S&P Global
+**Dodger , Laker Owner Linked to Loan Fraud Probe** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Solution plays:_ Azure AI, Fabric  
-_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
 
-[Read →](https://www.theglobeandmail.com/business/article-brookfield-commits-up-to-9-billion-for-ai-data-centre-in-south-korea/)
+[Read →](https://newstalk1230.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/)
 
-### BRIDGEWATER ASSOCIATES
-**Dolphins to host QB Jack Plummer for workout** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.sun-sentinel.com/2026/07/25/dolphins-to-host-quarterback-for-workout-report-says/)
-
-### Fidelity Investments
-**Fidelity says retirees now face $185 , 500 in healthcare costs up 7 . 5 % from last year , and long - term care isnt included** — 2026-07-27 — 🟡 Low — 🟢 Positive
+### AMERICAN EXPRESS COMPANY
+**Analysis - Trump diversity crackdown reverberates through US boardrooms | 100 . 7 MIX - FM | Today Hit Music** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html)
+[Read →](https://mymixfm.com/2026/07/28/analysis-trumps-diversity-crackdown-reverberates-through-us-boardrooms/)
 
 ### Blackstone Inc.
-**Japan New Activists Blend McKinsey And Blackstone** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+**Jill Scott no phones Met tour stop was  beautifully human** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.forbes.com/sites/robertdaugherty/2026/07/27/japans-new-activists-blend-mckinsey-and-blackstone/)
+[Read →](https://www.inquirer.com/entertainment/music/jill-scott-to-whom-it-may-concern-tour-philadelphia-review-20260728.html)
 
 ### BLACKROCK FINANCIAL MANAGEMENT
-**Holding ( s ) in Company | Company Announcement** — 2026-07-17 — 🟡 Low — ⚪ Neutral
+**Renk Group AG : Release according to Article 40 ( 1 ) of the WpHG ( the German Securities Trading Act ) with the objective of Europe - wide distribution** — 2026-07-28 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investegate.co.uk/announcement/rns/telecom-plus--tep/holding-s-in-company/9675636)
+[Read →](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212)
+
+### MORGAN STANLEY
+**Gartner ( NYSE : IT ) Trading 7 . 2 % Higher – Still a Buy ?** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/07/28/gartner-nyseit-trading-7-2-higher-still-a-buy.html)
 
 ### VISA U S A INC
-**Lands End Visa Credit Card** — 2026-07-12 — 🟡 Low — ⚪ Neutral
+**Comenity Bank Lands End Visa** — 2026-07-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.unitaid.eu/lands-end-visa-credit-card-0etr.html)
+[Read →](https://www.unitaid.eu/comenity-bank-lands-end-visa-v6a3.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (7)</summary>
+<details><summary>Accounts with no material news this cycle (8)</summary>
 
 - CHARLES SCHWAB CORP
+- NORTHERN TRUST CORPORATION
 - PayPal, Inc.
-- AMERICAN EXPRESS COMPANY
+- BRIDGEWATER ASSOCIATES
+- Fidelity Investments
 - GOLDMAN SACHS & COMPANY
-- S&P Global
 - MasterCard International
-- MORGAN STANLEY
+- VANGUARD GROUP INC
 
 </details>
 

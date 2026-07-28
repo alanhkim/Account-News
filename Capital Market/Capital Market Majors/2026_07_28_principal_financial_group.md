@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Algonquin Power & Utilities Corp . $AQN Shares Purchased by Public Employees Retirement System of Ohio
+## <img src="https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Jurgi Camblong Sells 20 , 000 Shares of SOPHiA GENETICS ( NASDAQ : SOPH ) Stock
 
 | | |
 |---|---|
-| **Date** | 2026-07-26 |
-| **Potential impact** | 🟠 Medium |
+| **Date** | 2026-07-28 |
+| **Potential impact** | 🔴 High |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | Copilot |
-| **Source** | [www.tickerreport.com](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html) |
+| **Trigger events** | M&A |
+| **Solution plays** | — |
+| **Source** | [www.tickerreport.com](https://www.tickerreport.com/banking-finance/13519304/jurgi-camblong-sells-20000-shares-of-sophia-genetics-nasdaqsoph-stock.html) |
 
 **Summary.** 
 
-**Why it matters (Microsoft angle).** Potential Copilot opportunity — align outreach to this signal.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.tickerreport.com/banking-finance/13516164/algonquin-power-utilities-corp-aqn-shares-purchased-by-public-employees-retirement-system-of-ohio.html)
+[Read the article →](https://www.tickerreport.com/banking-finance/13519304/jurgi-camblong-sells-20000-shares-of-sophia-genetics-nasdaqsoph-stock.html)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._

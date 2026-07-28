@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Holding ( s ) in Company | Company Announcement
+## <img src="https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Renk Group AG : Release according to Article 40 ( 1 ) of the WpHG ( the German Securities Trading Act ) with the objective of Europe - wide distribution
 
 | | |
 |---|---|
-| **Date** | 2026-07-17 |
+| **Date** | 2026-07-28 |
 | **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
+| **Sentiment** | 🟢 Positive |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.investegate.co.uk](https://www.investegate.co.uk/announcement/rns/telecom-plus--tep/holding-s-in-company/9675636) |
+| **Source** | [www.manilatimes.net](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.investegate.co.uk/announcement/rns/telecom-plus--tep/holding-s-in-company/9675636)
+[Read the article →](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212)
 
 ---
 _Auto-generated on July 28, 2026. News older than 90 days is pruned automatically._
