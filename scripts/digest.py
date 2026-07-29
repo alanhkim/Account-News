@@ -14,13 +14,19 @@ REPO = sys.argv[1] if len(sys.argv) > 1 else "."
 WINDOW_DAYS = 30
 CUTOFF = date.today() - timedelta(days=WINDOW_DAYS)
 
-# AI relevance: an explicit AI signal in the headline/summary, or an AI-oriented
-# Microsoft solution play (Azure AI / Copilot) inferred by generate.enrich().
-AI_RE = re.compile(
+# AI / tech relevance: an explicit AI signal, OR broader digital-transformation
+# signals (automation, cloud, data & analytics), OR an AI/data Microsoft solution
+# play (Azure AI / Copilot / Fabric) inferred by generate.enrich().
+TECH_RE = re.compile(
     r"(?:\bAI\b|A\.I\.|artificial intelligence|machine learning|generative ai|gen ai|"
     r"genai|deep learning|neural network|large language model|\bLLM\b|copilot|"
-    r"chat\s?bot|AI[- ]?agent|AI[- ]?powered|AI[- ]?driven|autonomous agent)", re.I)
-AI_PLAYS = {"Azure AI", "Copilot"}
+    r"chat\s?bot|AI[- ]?agent|AI[- ]?powered|AI[- ]?driven|autonomous agent|"
+    r"automation|automate|robotic process|\bRPA\b|digital transformation|"
+    r"digitali[sz]ation|digiti[sz]ation|moderniz|modernis|\bcloud\b|\bazure\b|"
+    r"\bAWS\b|\bSaaS\b|data platform|data[- ]driven|data analytics|\banalytics\b|"
+    r"big data|data lake|data warehouse|business intelligence|predictive|"
+    r"machine intelligence|\bfintech\b)", re.I)
+TECH_PLAYS = {"Azure AI", "Copilot", "Fabric"}
 
 def in_window(d):
     """True when the article date (YYYY-MM-DD) is within the last WINDOW_DAYS."""
@@ -30,11 +36,11 @@ def in_window(d):
         return False
 
 def is_ai(blob, plays):
-    return bool(AI_RE.search(blob)) or bool(set(plays) & AI_PLAYS)
+    return bool(TECH_RE.search(blob)) or bool(set(plays) & TECH_PLAYS)
 
 def is_business(triggers, plays):
-    """A concrete business signal: a trigger event or a non-AI solution play."""
-    return bool(triggers) or bool([p for p in plays if p not in AI_PLAYS])
+    """A concrete business signal: a trigger event or any inferred solution play."""
+    return bool(triggers) or bool(plays)
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
