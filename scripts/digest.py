@@ -1,5 +1,5 @@
-import os, sys
-from datetime import date
+import os, re, sys
+from datetime import date, datetime, timedelta
 from urllib.parse import urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -9,6 +9,32 @@ from generate import enrich, level_badge, PRIORITY
 
 TODAY_HUMAN = date.today().strftime("%B %d, %Y")
 REPO = sys.argv[1] if len(sys.argv) > 1 else "."
+
+# ---- Filters: only business + AI news from the last 30 days ----------------
+WINDOW_DAYS = 30
+CUTOFF = date.today() - timedelta(days=WINDOW_DAYS)
+
+# AI relevance: an explicit AI signal in the headline/summary, or an AI-oriented
+# Microsoft solution play (Azure AI / Copilot) inferred by generate.enrich().
+AI_RE = re.compile(
+    r"(?:\bAI\b|A\.I\.|artificial intelligence|machine learning|generative ai|gen ai|"
+    r"genai|deep learning|neural network|large language model|\bLLM\b|copilot|"
+    r"chat\s?bot|AI[- ]?agent|AI[- ]?powered|AI[- ]?driven|autonomous agent)", re.I)
+AI_PLAYS = {"Azure AI", "Copilot"}
+
+def in_window(d):
+    """True when the article date (YYYY-MM-DD) is within the last WINDOW_DAYS."""
+    try:
+        return datetime.strptime(d, "%Y-%m-%d").date() >= CUTOFF
+    except Exception:
+        return False
+
+def is_ai(blob, plays):
+    return bool(AI_RE.search(blob)) or bool(set(plays) & AI_PLAYS)
+
+def is_business(triggers, plays):
+    """A concrete business signal: a trigger event or a non-AI solution play."""
+    return bool(triggers) or bool([p for p in plays if p not in AI_PLAYS])
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -32,13 +58,19 @@ for top, subs in ROSTERS.items():
         for a in accounts:
             if a in NEWS:
                 n = NEWS[a]
+                if not in_window(n["date"]):
+                    continue
                 plays, triggers, sentiment = enrich(n)
+                blob = f"{n['title']} {n['summary']} {n['impact']}"
+                if not (is_ai(blob, plays) and is_business(triggers, plays)):
+                    continue
                 items.append((a, n, plays, triggers, sentiment))
-        # Always render the sub-vertical, even when it has no news.
+        # Always render the sub-vertical, even when it has no qualifying news.
         if not items:
-            sub_blocks.append(f"<h3>{esc(sub)} <span style=\"font-weight:normal;color:#8b949e;\">(0)</span></h3><p><small><i>No news.</i></small></p>")
+            sub_blocks.append(f"<h3>{esc(sub)} <span style=\"font-weight:normal;color:#8b949e;\">(0)</span></h3><p><small><i>No business &amp; AI news in the last 30 days.</i></small></p>")
             continue
-        items.sort(key=lambda x: (PRIORITY.get(x[1]["level"], 0), 1 if x[3] else 0, x[1]["date"]), reverse=True)
+        # Newest first (dates are YYYY-MM-DD, so string sort is chronological).
+        items.sort(key=lambda x: x[1]["date"], reverse=True)
         total += len(items)
         top_total += len(items)
         high_count += sum(1 for i in items if i[1]["level"] == "High")
@@ -51,7 +83,7 @@ for top, subs in ROSTERS.items():
             rows.append(
                 f"<li><b>{esc(a)}</b><br/>"
                 f"<a href=\"{esc(n['url'])}\">{esc(n['title'])}</a><br/>"
-                f"<small>{level_badge(n['level'])} &middot; {sentiment}{tg}{pl}{src_tag}</small></li>"
+                f"<small><b>{esc(n['date'])}</b> &middot; {level_badge(n['level'])} &middot; {sentiment}{tg}{pl}{src_tag}</small></li>"
             )
         sub_blocks.append(f"<h3>{esc(sub)} <span style=\"font-weight:normal;color:#8b949e;\">({len(items)})</span></h3><ul>{''.join(rows)}</ul>")
     blocks.append(f"<h2>{esc(top)} <span style=\"font-weight:normal;color:#8b949e;\">({top_total})</span></h2>{''.join(sub_blocks)}")
@@ -59,7 +91,7 @@ for top, subs in ROSTERS.items():
 SITE = "https://alanhkim.github.io/Account-News/"
 header = (
     f"<h1>📊 FSI Account News</h1>"
-    f"<p style=\"color:#8b949e;\"><b>{TODAY_HUMAN}</b> &middot; <b>{total}</b> accounts with news &middot; <b>{high_count}</b> high-impact</p>"
+    f"<p style=\"color:#8b949e;\"><b>{TODAY_HUMAN}</b> &middot; <b>{total}</b> accounts with business &amp; AI news (last 30 days) &middot; <b>{high_count}</b> high-impact</p>"
     f"<p>🔗 <b><a href=\"{SITE}\">Open the FSI Account News dashboard →</a></b></p>"
     f"<p><small>Browse &amp; filter in the <a href=\"{SITE}\">dashboard</a> &middot; "
     f"source in the <a href=\"https://github.com/alanhkim/Account-News\">repo</a>.</small></p>"
