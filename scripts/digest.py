@@ -1,46 +1,15 @@
-import os, re, sys
-from datetime import date, datetime, timedelta
+import os, sys
+from datetime import date
 from urllib.parse import urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from rosters import ROSTERS
 from news import NEWS
-from generate import enrich, level_badge, PRIORITY
+# Filter/sort rules live in generate.py so the dashboard and this digest stay identical.
+from generate import enrich, level_badge, PRIORITY, in_window, is_ai, is_business
 
 TODAY_HUMAN = date.today().strftime("%B %d, %Y")
 REPO = sys.argv[1] if len(sys.argv) > 1 else "."
-
-# ---- Filters: only business + AI news from the last 30 days ----------------
-WINDOW_DAYS = 30
-CUTOFF = date.today() - timedelta(days=WINDOW_DAYS)
-
-# AI / tech relevance: an explicit AI signal, OR broader digital-transformation
-# signals (automation, cloud, data & analytics), OR an AI/data Microsoft solution
-# play (Azure AI / Copilot / Fabric) inferred by generate.enrich().
-TECH_RE = re.compile(
-    r"(?:\bAI\b|A\.I\.|artificial intelligence|machine learning|generative ai|gen ai|"
-    r"genai|deep learning|neural network|large language model|\bLLM\b|copilot|"
-    r"chat\s?bot|AI[- ]?agent|AI[- ]?powered|AI[- ]?driven|autonomous agent|"
-    r"automation|automate|robotic process|\bRPA\b|digital transformation|"
-    r"digitali[sz]ation|digiti[sz]ation|moderniz|modernis|\bcloud\b|\bazure\b|"
-    r"\bAWS\b|\bSaaS\b|data platform|data[- ]driven|data analytics|\banalytics\b|"
-    r"big data|data lake|data warehouse|business intelligence|predictive|"
-    r"machine intelligence|\bfintech\b)", re.I)
-TECH_PLAYS = {"Azure AI", "Copilot", "Fabric"}
-
-def in_window(d):
-    """True when the article date (YYYY-MM-DD) is within the last WINDOW_DAYS."""
-    try:
-        return datetime.strptime(d, "%Y-%m-%d").date() >= CUTOFF
-    except Exception:
-        return False
-
-def is_ai(blob, plays):
-    return bool(TECH_RE.search(blob)) or bool(set(plays) & TECH_PLAYS)
-
-def is_business(triggers, plays):
-    """A concrete business signal: a trigger event or any inferred solution play."""
-    return bool(triggers) or bool(plays)
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")

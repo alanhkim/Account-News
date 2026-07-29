@@ -82,6 +82,48 @@ def enrich(n):
 
 PRIORITY = {"High": 3, "Medium": 2, "Low": 1}
 
+# ---------------- Digest / dashboard relevance filter ----------------
+# Single source of truth for "what the Teams digest shows" so the dashboard
+# (docs/data.json) and DIGEST.html stay in lockstep. digest.py imports these.
+# Rule: business + AI/tech news from the last WINDOW_DAYS days.
+WINDOW_DAYS = 30
+CUTOFF = TODAY - timedelta(days=WINDOW_DAYS)
+
+# AI / tech relevance: an explicit AI signal, OR broader digital-transformation
+# signals (automation, cloud, data & analytics), OR an AI/data Microsoft solution
+# play (Azure AI / Copilot / Fabric) inferred by enrich().
+TECH_RE = re.compile(
+    r"(?:\bAI\b|A\.I\.|artificial intelligence|machine learning|generative ai|gen ai|"
+    r"genai|deep learning|neural network|large language model|\bLLM\b|copilot|"
+    r"chat\s?bot|AI[- ]?agent|AI[- ]?powered|AI[- ]?driven|autonomous agent|"
+    r"automation|automate|robotic process|\bRPA\b|digital transformation|"
+    r"digitali[sz]ation|digiti[sz]ation|moderniz|modernis|\bcloud\b|\bazure\b|"
+    r"\bAWS\b|\bSaaS\b|data platform|data[- ]driven|data analytics|\banalytics\b|"
+    r"big data|data lake|data warehouse|business intelligence|predictive|"
+    r"machine intelligence|\bfintech\b)", re.I)
+TECH_PLAYS = {"Azure AI", "Copilot", "Fabric"}
+
+def in_window(d):
+    """True when the article date (YYYY-MM-DD) is within the last WINDOW_DAYS."""
+    try:
+        return date.fromisoformat(d) >= CUTOFF
+    except Exception:
+        return False
+
+def is_ai(blob, plays):
+    return bool(TECH_RE.search(blob)) or bool(set(plays) & TECH_PLAYS)
+
+def is_business(triggers, plays):
+    """A concrete business signal: a trigger event or any inferred solution play."""
+    return bool(triggers) or bool(plays)
+
+def qualifies(n, plays, triggers):
+    """True when the article is in-window AND business + AI/tech relevant."""
+    if not in_window(n["date"]):
+        return False
+    blob = f"{n['title']} {n['summary']} {n['impact']}"
+    return is_ai(blob, plays) and is_business(triggers, plays)
+
 # ---------------- Per-account file ----------------
 def account_md(account, subvertical):
     n = NEWS.get(account)
@@ -243,24 +285,27 @@ def main():
                 total_accounts += 1
                 n = NEWS.get(a)
                 if n:
-                    total_news += 1
                     plays, triggers, sentiment = enrich(n)
-                    if n["level"] == "High":
-                        high_count += 1
-                    sub_items.append({
-                        "account": a, "title": n["title"], "url": n["url"],
-                        "date": n["date"], "level": n["level"],
-                        "summary": n.get("summary", ""), "impact": n.get("impact", ""),
-                        "plays": plays, "triggers": triggers,
-                        "sentiment": sentiment_word(sentiment),
-                        "image": n.get("image", ""), "favicon": favicon(n["url"]),
-                    })
+                    # Dashboard mirrors the Teams digest: only in-window business + AI/tech news.
+                    if qualifies(n, plays, triggers):
+                        total_news += 1
+                        if n["level"] == "High":
+                            high_count += 1
+                        sub_items.append({
+                            "account": a, "title": n["title"], "url": n["url"],
+                            "date": n["date"], "level": n["level"],
+                            "summary": n.get("summary", ""), "impact": n.get("impact", ""),
+                            "plays": plays, "triggers": triggers,
+                            "sentiment": sentiment_word(sentiment),
+                            "image": n.get("image", ""), "favicon": favicon(n["url"]),
+                        })
                 with open(os.path.join(d, f"{TODAY_STR}_{slug(a)}.md"), "w", encoding="utf-8") as f:
                     f.write(account_md(a, sub))
                 update_timeline(os.path.join(d, f"{slug(a)}_timeline.md"), a, n)
             with open(os.path.join(d, "Latest_News.md"), "w", encoding="utf-8") as f:
                 f.write(latest_news_md(sub, accounts))
-            sub_items.sort(key=lambda x: (PRIORITY.get(x["level"], 0), 1 if x["triggers"] else 0, x["date"]), reverse=True)
+            # Newest first (dates are YYYY-MM-DD, so string sort is chronological).
+            sub_items.sort(key=lambda x: x["date"], reverse=True)
             verticals.append({"top": top, "sub": sub, "count": len(sub_items), "items": sub_items})
 
     # ---------------- Front-end data ----------------
