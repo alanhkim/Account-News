@@ -1,7 +1,7 @@
 # Ascensus, Inc. — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-06-30 | Ascensus Launches National 403 ( b ) PEP for Nonprofits | 🔴 High | ⚪ Neutral | [link](https://www.plansponsor.com/ascensus-launches-national-403b-pep-for-nonprofits/) |

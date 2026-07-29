@@ -1,8 +1,8 @@
 # Latest News — Banking Strategic
 
-**Updated:** July 28, 2026  
+**Updated:** July 29, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 5  
+**Accounts with news this cycle:** 4  
 
 ---
 
@@ -10,77 +10,67 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Citigroup** | JetBlue Airways ( NASDAQ : JBLU ) Sees Large Volume Increase Following Earnings Beat | 2026-07-28 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13519449/jetblue-airways-nasdaqjblu-sees-large-volume-increase-following-earnings-beat.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.wvxu.org&sz=32) | **Capital One** | Addiction Recovery Care enters $16M settlement with DOJ on Medicaid fraud allegations | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Fabric, Security | [link](https://www.wvxu.org/2026-07-28/addiction-recovery-care-enters-16m-settlement-with-doj-on-medicaid-fraud-allegations) |
-| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | What are VA Loan Rates Today , July 28 , 2026 and the Best Lenders | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/select/va-loan-rates-today-july-28-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=www.wisbar.org&sz=32) | **US BANK** | Wisconsin Lawyer : Storm Surge : The Swell of Probate and Trust Litigation in Wisconsin : | 2026-07-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=99&Issue=7&ArticleID=31707&source=carousel) |
-| ![](https://www.google.com/s2/favicons?domain=newsindiatimes.com&sz=32) | **STATE STREET BOSTON CORPORATION** | Top banker Sunita Kanchinadam Named 15th President of TiE Boston | 2026-07-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/) |
+| ![](https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32) | **FIS Global** | FIS and Anthropic extend partnership - Asset Servicing Times | 2026-07-17 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158) |
+| ![](https://www.google.com/s2/favicons?domain=weartv.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | Pensacola grandmother nearly falls victim to scam targeting military community | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://weartv.com/news/local/pensacola-grandmother-nearly-falls-victim-to-scam-targeting-military-community) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Citigroup** | Rhino Bitcoin Adds 500 , 000 , 000 Splendor Labs ( SPLD ) Tokens to Corporate Balance Sheet | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/rhino-bitcoin-adds-500000000-splendor-labs-spld-tokens-to-corporate-balance-sheet/2394161) |
+| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **Bank of America** | 401 ( k ) Real Talk Episode 203 : July 29 , 2026 | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-203-july-29-2026) |
 
 ## Detail
 
-### Citigroup
-**JetBlue Airways ( NASDAQ : JBLU ) Sees Large Volume Increase Following Earnings Beat** — 2026-07-28 — 🔴 High — 🟢 Positive
+### FIS Global
+**FIS and Anthropic extend partnership - Asset Servicing Times** — 2026-07-17 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Earnings  
+_Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13519449/jetblue-airways-nasdaqjblu-sees-large-volume-increase-following-earnings-beat.html)
-
-### Capital One
-**Addiction Recovery Care enters $16M settlement with DOJ on Medicaid fraud allegations** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Fabric, Security  
-_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
-
-[Read →](https://www.wvxu.org/2026-07-28/addiction-recovery-care-enters-16m-settlement-with-doj-on-medicaid-fraud-allegations)
+[Read →](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158)
 
 ### NAVY FEDERAL CREDIT UNION M
-**What are VA Loan Rates Today , July 28 , 2026 and the Best Lenders** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+**Pensacola grandmother nearly falls victim to scam targeting military community** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.cnbc.com/select/va-loan-rates-today-july-28-2026/)
+[Read →](https://weartv.com/news/local/pensacola-grandmother-nearly-falls-victim-to-scam-targeting-military-community)
 
-### US BANK
-**Wisconsin Lawyer : Storm Surge : The Swell of Probate and Trust Litigation in Wisconsin :** — 2026-07-28 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=99&Issue=7&ArticleID=31707&source=carousel)
-
-### STATE STREET BOSTON CORPORATION
-**Top banker Sunita Kanchinadam Named 15th President of TiE Boston** — 2026-07-10 — 🟡 Low — ⚪ Neutral
+### Citigroup
+**Rhino Bitcoin Adds 500 , 000 , 000 Splendor Labs ( SPLD ) Tokens to Corporate Balance Sheet** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/)
+[Read →](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/rhino-bitcoin-adds-500000000-splendor-labs-spld-tokens-to-corporate-balance-sheet/2394161)
+
+### Bank of America
+**401 ( k ) Real Talk Episode 203 : July 29 , 2026** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-203-july-29-2026)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (10)</summary>
+<details><summary>Accounts with no material news this cycle (11)</summary>
 
-- FIS Global
 - FIDELITY NATIONAL FINANCIAL
 - FISERV Inc
 - TRUIST FINANCIAL
 - Wells Fargo & Company
+- US BANK
+- STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
 - BNY Mellon
 - JPMORGAN CHASE
 - P N C FINANCIAL CORP
-- Bank of America
+- Capital One
 
 </details>
 
 ---
-_Auto-generated on July 28, 2026._
+_Auto-generated on July 29, 2026._

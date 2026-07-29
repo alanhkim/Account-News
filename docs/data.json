@@ -3,109 +3,21 @@
   "generated_human": "July 29, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 6,
-    "high": 1
+    "with_news": 4,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 4,
-      "items": [
-        {
-          "account": "RAPID ADVANCE LLC",
-          "title": "Uncertain AI bets a growing credit risk - Investment Executive",
-          "url": "https://www.investmentexecutive.com/news/economy/uncertain-ai-bets-a-growing-credit-risk/",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Negative",
-          "image": "https://www.investmentexecutive.com/uploads/2023/09/AI-1.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.investmentexecutive.com&sz=32"
-        },
-        {
-          "account": "Jack Henry & Associates Inc.",
-          "title": "Jack Henry Is Sitting On A Data Asset Most Banks Can Only Dream Of",
-          "url": "https://www.forbes.com/sites/peterhigh/2026/07/28/jack-henry-is-sitting-on-a-data-asset-most-banks-can-only-dream-of/",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a679b780657ab6476b8faad/0x0.jpg?format=jpg&fit=bounds",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32"
-        },
-        {
-          "account": "Q2 Software",
-          "title": "IBM insists AI didnt kill software deals , just delayed them",
-          "url": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
-          "date": "2026-07-23",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://image.theregister.com/241548.jpg?imageId=241548&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.theregister.com&sz=32"
-        },
-        {
-          "account": "Advisor360",
-          "title": "Advisor360° Launches Meeting Prep , an AI Agent for Financial Advisors",
-          "url": "https://www.manilatimes.net/2026/07/07/tmt-newswire/globenewswire/advisor360-launches-meeting-prep-an-ai-agent-for-financial-advisors/2379960",
-          "date": "2026-07-07",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/07/1127838.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "Capital One",
-          "title": "Addiction Recovery Care enters $16M settlement with DOJ on Medicaid fraud allegations",
-          "url": "https://www.wvxu.org/2026-07-28/addiction-recovery-care-enters-16m-settlement-with-doj-on-medicaid-fraud-allegations",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "http://npr-brightspot.s3.amazonaws.com/58/5e/8fd75be949b3bbeb2e76419f890b/arc.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.wvxu.org&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Capital Market",
@@ -113,20 +25,20 @@
       "count": 1,
       "items": [
         {
-          "account": "Toppan Merrill LLC",
-          "title": "Toppan Merrill expands Quinn platform to simplify shareholder communications drafting , filing and distribution",
-          "url": "https://www.prnewswire.com/news-releases/toppan-merrill-expands-quinn-platform-to-simplify-shareholder-communications-drafting-filing-and-distribution-302819453.html",
-          "date": "2026-07-07",
+          "account": "D E SHAW & CO INC",
+          "title": "10 Stocks Lost Over 40 % in 2026 as Investors Dumped Everything AI Might Kill",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-stocks-lost-over-40-181945525.html",
+          "date": "2026-07-28",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
           "triggers": [],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32"
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/A2E0DADE48D3D6BE9B5DE629E8486FBF5A3671C3C256866B9363FD527530524E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcc4a1b492d807a16d0991a233e579f47",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
         }
       ]
     },
@@ -139,14 +51,66 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "EQUITABLE",
+          "title": "NEP at six : Is India education system ready for the AI age ?",
+          "url": "https://www.hindustantimes.com/ht-insight/future-tech/nep-at-six-is-indias-education-system-ready-for-the-ai-age-101785331690992.html",
+          "date": "2026-07-29",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "Marsh McLennan",
+          "title": "Marsh & McLennan ( MRSH ) Reinvents Operations with AI Productivity Push",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html",
+          "date": "2026-07-29",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Copilot opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Copilot"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/5040E8C71DCDA54EBD59A1A4843F752D6EED2C2A41E421C024D7AC7E4011B2F8/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb5928cd57b4b6fc7fcd6b58676ca83c2",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Willis Towers Watson",
+          "title": "Unclear risks drive excess data center coverage : Willis",
+          "url": "https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/",
+          "date": "2026-07-28",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://www.businessinsurance.com/wp-content/uploads/2023/03/cropped-BI-square-blue.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32"
+        }
+      ]
     }
   ]
 }

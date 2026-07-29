@@ -1,8 +1,8 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** July 28, 2026  
+**Updated:** July 29, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 3  
+**Accounts with news this cycle:** 5  
 
 ---
 
@@ -10,51 +10,70 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.wlwt.com&sz=32) | **PayPal, Inc.** | Using payment apps ? How to protect your money from scammers | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wlwt.com/article/payment-app-scams-how-to-get-money-back/73276450) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **AMERICAN EXPRESS COMPANY** | SLB Limited ( SLB ) Stock Forecasts | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000) |
-| ![](https://www.google.com/s2/favicons?domain=www.bondbuyer.com&sz=32) | **S&P Global** | Santee Cooper upgraded to A by Fitch | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bondbuyer.com/news/santee-cooper-upgraded-to-a-by-fitch) |
+| ![](https://www.google.com/s2/favicons?domain=www.dealstreetasia.com&sz=32) | **Brookfield Asset Management** | Brookfield Asset Management gets nod to acquire India Oaktree entities | 2026-07-29 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHERN TRUST CORPORATION** | Spyglass Capital Management LLC Purchases 45 , 919 Shares of AppLovin Corporation $APP | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/29/spyglass-capital-management-llc-purchases-45919-shares-of-applovin-corporation-app.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.singaporestar.com&sz=32) | **PayPal, Inc.** | Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.singaporestar.com/news/279214852/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks) |
+| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **Blackstone Inc.** | Toronto - area developers pivot toward rentals as condo construction continues to slide | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theglobeandmail.com/real-estate/article-toronto-rental-apartment-construction-condos-data/) |
+| ![](https://www.google.com/s2/favicons?domain=www.thesouthafrican.com&sz=32) | **S&P Global** | Binance holds the deepest liquidity for nearly two - thirds of listed crypto assets | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thesouthafrican.com/technology/cryptocurrencies/binance-holds-the-deepest-liquidity-for-nearly-two-thirds-of-listed-crypto-assets/) |
 
 ## Detail
 
+### Brookfield Asset Management
+**Brookfield Asset Management gets nod to acquire India Oaktree entities** — 2026-07-29 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544)
+
+### NORTHERN TRUST CORPORATION
+**Spyglass Capital Management LLC Purchases 45 , 919 Shares of AppLovin Corporation $APP** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/07/29/spyglass-capital-management-llc-purchases-45919-shares-of-applovin-corporation-app.html)
+
 ### PayPal, Inc.
-**Using payment apps ? How to protect your money from scammers** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+**Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.wlwt.com/article/payment-app-scams-how-to-get-money-back/73276450)
+[Read →](http://www.singaporestar.com/news/279214852/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks)
 
-### AMERICAN EXPRESS COMPANY
-**SLB Limited ( SLB ) Stock Forecasts** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+### Blackstone Inc.
+**Toronto - area developers pivot toward rentals as condo construction continues to slide** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000)
+[Read →](https://www.theglobeandmail.com/real-estate/article-toronto-rental-apartment-construction-condos-data/)
 
 ### S&P Global
-**Santee Cooper upgraded to A by Fitch** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+**Binance holds the deepest liquidity for nearly two - thirds of listed crypto assets** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.bondbuyer.com/news/santee-cooper-upgraded-to-a-by-fitch)
+[Read →](https://www.thesouthafrican.com/technology/cryptocurrencies/binance-holds-the-deepest-liquidity-for-nearly-two-thirds-of-listed-crypto-assets/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (13)</summary>
+<details><summary>Accounts with no material news this cycle (11)</summary>
 
 - CHARLES SCHWAB CORP
 - VISA U S A INC
-- Brookfield Asset Management
-- NORTHERN TRUST CORPORATION
+- AMERICAN EXPRESS COMPANY
 - BRIDGEWATER ASSOCIATES
 - Fidelity Investments
 - GOLDMAN SACHS & COMPANY
-- Blackstone Inc.
 - BLACKROCK FINANCIAL MANAGEMENT
 - NASDAQ OMX
 - MasterCard International
@@ -64,4 +83,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on July 28, 2026._
+_Auto-generated on July 29, 2026._

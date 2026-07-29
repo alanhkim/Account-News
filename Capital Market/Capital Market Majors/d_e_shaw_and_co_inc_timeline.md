@@ -1,7 +1,7 @@
 # D E SHAW & CO INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-28 | 10 Stocks Lost Over 40 % in 2026 as Investors Dumped Everything AI Might Kill | 🟠 Medium | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/10-stocks-lost-over-40-181945525.html) |

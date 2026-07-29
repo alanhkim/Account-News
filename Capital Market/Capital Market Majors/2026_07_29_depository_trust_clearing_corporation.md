@@ -1,0 +1,27 @@
+# DEPOSITORY TRUST CLEARING CORPORATION
+
+**Sub-vertical:** Capital Market Majors  
+**News gathered:** July 29, 2026  
+**History:** see [`depository_trust_clearing_corporation_timeline.md`](depository_trust_clearing_corporation_timeline.md)  
+
+---
+
+## <img src="https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Round - the - clock trading is coming , but retail investors are already there
+
+| | |
+|---|---|
+| **Date** | 2026-07-27 |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | — |
+| **Solution plays** | — |
+| **Source** | [www.investmentnews.com](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554)
+
+---
+_Auto-generated on July 29, 2026. News older than 90 days is pruned automatically._

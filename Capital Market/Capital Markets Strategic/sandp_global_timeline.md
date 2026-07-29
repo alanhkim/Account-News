@@ -1,7 +1,8 @@
 # S&P Global — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-29 | Binance holds the deepest liquidity for nearly two - thirds of listed crypto assets | 🟡 Low | ⚪ Neutral | [link](https://www.thesouthafrican.com/technology/cryptocurrencies/binance-holds-the-deepest-liquidity-for-nearly-two-thirds-of-listed-crypto-assets/) |
 | 2026-07-28 | Santee Cooper upgraded to A by Fitch | 🟡 Low | ⚪ Neutral | [link](https://www.bondbuyer.com/news/santee-cooper-upgraded-to-a-by-fitch) |

@@ -1,7 +1,8 @@
 # TWO SIGMA INVESTMENTS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-29 | Paycom Software ( PAYC ) to Release Quarterly Earnings on Wednesday | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/29/paycom-software-payc-to-release-quarterly-earnings-on-wednesday.html) |
 | 2026-07-27 | Ecopetrol ( EC ) to Release Quarterly Earnings on Monday | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/27/ecopetrol-ec-to-release-quarterly-earnings-on-monday.html) |

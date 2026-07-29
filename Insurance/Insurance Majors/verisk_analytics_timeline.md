@@ -1,6 +1,6 @@
 # VERISK ANALYTICS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Latest News — Insurance Strategic
 
-**Updated:** July 28, 2026  
+**Updated:** July 29, 2026  
 **Accounts tracked:** 15  
 **Accounts with news this cycle:** 6  
 
@@ -10,86 +10,89 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32) | **FIRST AMERICAN FINANCIAL CORP** | FinancialContent - Earnings To Watch : Markel Group ( MKL ) Reports Q2 Results Tomorrow | 2026-07-28 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-earnings-to-watch-markel-group-mkl-reports-q2-results-tomorrow) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Marsh McLennan** | Tokio Marine Highland names Matt LoPiccolo as chief growth officer | 2026-07-28 | 🟠 Medium | 🟢 Positive | CxO Change | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/tokio-marine-highland-names-matt-lopiccolo-as-chief-growth-officer-583890.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | Schwab High Yield Bond ETF ( NYSEARCA : SCYB ) Short Interest Update | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/28/schwab-high-yield-bond-etf-nysearcascyb-short-interest-update.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.sanfordherald.com&sz=32) | **Progressive Corporation** | Candidates bask in Trump endorsement | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sanfordherald.com/news/national/candidates-bask-in-trumps-endorsement/article_18fdc896-2e00-5157-9f8e-15557802a29c.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **ALLSTATE INSURANCE GROUP** | Forbes Daily : LeBron James Takes A Major Pay Cut With The 76ers | 2026-07-27 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.forbes.com/sites/daniellechemtob/2026/07/27/forbes-daily-lebron-james-takes-a-major-pay-cut-with-the-76ers/) |
-| ![](https://www.google.com/s2/favicons?domain=www.harrismartin.com&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | Calif . Court Denies Request to Certify Order Finding Coverage for Silica - Related Claims for Interlocutory Appeal | 2026-07-21 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.harrismartin.com/publications/10/benzene/articles/96759/calif-court-denies-request-to-certify-order-finding-coverage-for-silica-related-claims-for-interlocutory-appeal/) |
+| ![](https://www.google.com/s2/favicons?domain=phinphanatic.com&sz=32) | **Chubb** | Dolphins veteran RB workout raises new questions about the running back room | 2026-07-29 | 🔴 High | 🟢 Positive | M&A | — | [link](https://phinphanatic.com/miami-dolphins-veteran-rb-workout-raises-new-questions-about-the-running-back-room-01kyncxvcadr) |
+| ![](https://www.google.com/s2/favicons?domain=toronto.citynews.ca&sz=32) | **GEICO** | Female athletes surge in NIL deals as Learfield reports a 123 % jump in participation | 2026-07-28 | 🔴 High | 🟢 Positive | M&A | — | [link](https://toronto.citynews.ca/2026/07/28/female-athletes-surge-in-nil-deals-as-learfield-reports-a-123-jump-in-participation/) |
+| ![](https://www.google.com/s2/favicons?domain=tribuneonlineng.com&sz=32) | **Nationwide** | COAS appoints GOCs for new Army divisions | 2026-07-29 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://tribuneonlineng.com/coas-appoints-gocs-for-new-army-divisions/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Marsh McLennan** | Marsh & McLennan ( MRSH ) Reinvents Operations with AI Productivity Push | 2026-07-29 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Copilot | [link](https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **Willis Towers Watson** | Unclear risks drive excess data center coverage : Willis | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Fabric, Security | [link](https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/) |
+| ![](https://www.google.com/s2/favicons?domain=thenet.ng&sz=32) | **Metlife** | BTS Will Not Submit Music for 2027 Grammys , Saying Their Music Shouldnt Be Divided by Region or Language | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thenet.ng/bts-will-not-submit-music-for-2027-grammys-saying-their-music-shouldnt-be-divided-by-region-or-language/) |
 
 ## Detail
 
-### FIRST AMERICAN FINANCIAL CORP
-**FinancialContent - Earnings To Watch : Markel Group ( MKL ) Reports Q2 Results Tomorrow** — 2026-07-28 — 🔴 High — 🟢 Positive
+### Chubb
+**Dolphins veteran RB workout raises new questions about the running back room** — 2026-07-29 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ Earnings  
+_Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-earnings-to-watch-markel-group-mkl-reports-q2-results-tomorrow)
+[Read →](https://phinphanatic.com/miami-dolphins-veteran-rb-workout-raises-new-questions-about-the-running-back-room-01kyncxvcadr)
 
-### Marsh McLennan
-**Tokio Marine Highland names Matt LoPiccolo as chief growth officer** — 2026-07-28 — 🟠 Medium — 🟢 Positive
+### GEICO
+**Female athletes surge in NIL deals as Learfield reports a 123 % jump in participation** — 2026-07-28 — 🔴 High — 🟢 Positive
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://toronto.citynews.ca/2026/07/28/female-athletes-surge-in-nil-deals-as-learfield-reports-a-123-jump-in-participation/)
+
+### Nationwide
+**COAS appoints GOCs for new Army divisions** — 2026-07-29 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Trigger events:_ CxO Change  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/tokio-marine-highland-names-matt-lopiccolo-as-chief-growth-officer-583890.aspx)
+[Read →](https://tribuneonlineng.com/coas-appoints-gocs-for-new-army-divisions/)
 
-### NORTHWESTERN MUTUAL
-**Schwab High Yield Bond ETF ( NYSEARCA : SCYB ) Short Interest Update** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/28/schwab-high-yield-bond-etf-nysearcascyb-short-interest-update.html)
-
-### Progressive Corporation
-**Candidates bask in Trump endorsement** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+### Marsh McLennan
+**Marsh & McLennan ( MRSH ) Reinvents Operations with AI Productivity Push** — 2026-07-29 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI, Copilot  
+_Microsoft angle:_ Potential Azure AI, Copilot opportunity — align outreach to this signal.
 
-[Read →](https://www.sanfordherald.com/news/national/candidates-bask-in-trumps-endorsement/article_18fdc896-2e00-5157-9f8e-15557802a29c.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html)
 
-### ALLSTATE INSURANCE GROUP
-**Forbes Daily : LeBron James Takes A Major Pay Cut With The 76ers** — 2026-07-27 — 🟡 Low — 🔴 Negative
+### Willis Towers Watson
+**Unclear risks drive excess data center coverage : Willis** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
 
-[Read →](https://www.forbes.com/sites/daniellechemtob/2026/07/27/forbes-daily-lebron-james-takes-a-major-pay-cut-with-the-76ers/)
+[Read →](https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/)
 
-### LIBERTY MUTUAL INSURANCE COMPANY
-**Calif . Court Denies Request to Certify Order Finding Coverage for Silica - Related Claims for Interlocutory Appeal** — 2026-07-21 — 🟡 Low — 🔴 Negative
+### Metlife
+**BTS Will Not Submit Music for 2027 Grammys , Saying Their Music Shouldnt Be Divided by Region or Language** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.harrismartin.com/publications/10/benzene/articles/96759/calif-court-denies-request-to-certify-order-finding-coverage-for-silica-related-claims-for-interlocutory-appeal/)
+[Read →](https://thenet.ng/bts-will-not-submit-music-for-2027-grammys-saying-their-music-shouldnt-be-divided-by-region-or-language/)
 
 ---
 
 <details><summary>Accounts with no material news this cycle (9)</summary>
 
-- Nationwide
-- GEICO
 - STATE FARM LIFE INSURANCE CO
-- Metlife
+- NORTHWESTERN MUTUAL
 - American International Group Inc
+- ALLSTATE INSURANCE GROUP
+- FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
-- Chubb
+- LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
-- Willis Towers Watson
+- Progressive Corporation
 
 </details>
 
 ---
-_Auto-generated on July 28, 2026._
+_Auto-generated on July 29, 2026._

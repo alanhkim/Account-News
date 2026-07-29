@@ -1,7 +1,7 @@
 # BERKSHIRE HATHAWAY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 28, 2026.
+Rolling history of tracked news (last 90 days). Updated July 29, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-29 | 2 Billionaires , 1 Stock : Both Have More Than 15 % of Their Portfolios in Amazon | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/2-billionaires-1-stock-both-123035342.html) |
