@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** July 29, 2026  
+**Updated:** July 30, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 19  
+**Accounts with news this cycle:** 14  
 
 ---
 
@@ -10,181 +10,108 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | Verra Mobility ( VRRM ) to Release Quarterly Earnings on Wednesday | 2026-07-29 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.dailypolitical.com/2026/07/29/verra-mobility-vrrm-to-release-quarterly-earnings-on-wednesday.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **TWO SIGMA INVESTMENTS** | Paycom Software ( PAYC ) to Release Quarterly Earnings on Wednesday | 2026-07-29 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.dailypolitical.com/2026/07/29/paycom-software-payc-to-release-quarterly-earnings-on-wednesday.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Full Year Results and Publication of Annual Report \| Company Announcement | 2026-07-29 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/full-year-results-and-publication-of-annual-report/9693951) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | Meet the Dividend Growth Stock That Warren Buffett Held for Decades , and Greg Abel Pegged as One of Berkshire Hathaway Multidecade Compounders | 2026-07-27 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.fool.com/investing/2026/07/27/meet-the-dividend-growth-stock-that-warren-buffett/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **TPG Capital** | Bain Capital acquires Vitabiotics : united kingdom nutraceutical giant with India Meyer Organics valued at $850 - 900 million | 2026-07-25 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://economictimes.indiatimes.com/news/international/business/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/articleshow/132614546.cms) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Stone X** | Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript | 2026-07-25 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.plansponsor.com&sz=32) | **Ascensus, Inc.** | Ascensus Launches National 403 ( b ) PEP for Nonprofits | 2026-06-30 | 🔴 High | ⚪ Neutral | Earnings, Product Launch | — | [link](https://www.plansponsor.com/ascensus-launches-national-403b-pep-for-nonprofits/) |
-| ![](https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32) | **HARBOURVEST PARTNERS LLC** | Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street – Commercial Observer | 2026-07-20 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **D E SHAW & CO INC** | 10 Stocks Lost Over 40 % in 2026 as Investors Dumped Everything AI Might Kill | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://finance.yahoo.com/markets/stocks/articles/10-stocks-lost-over-40-181945525.html) |
-| ![](https://www.google.com/s2/favicons?domain=790waeb.iheart.com&sz=32) | **Guggenheim Partners** | Dodger , Laker Owner Linked to Loan Fraud Probe | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://790waeb.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **LPL Financial** | LPL Welcomes Sunny Day Financial \| The Manila Times | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/lpl-welcomes-sunny-day-financial/2394075) |
-| ![](https://www.google.com/s2/favicons?domain=www.indiainfoline.com&sz=32) | **JEFFERIES & COMPANY INC** | Closing Bell : Nifty Reclaims 24 , 250 as IT Rallies for Third Straight Day and FIIs Turn Net Buyers | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.indiainfoline.com/news/markets/closing-bell-nifty-reclaims-24250-as-it-rallies-for-third-straight-day-and-fiis-turn-net-buyers) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **JANUS HENDERSON GROUP** | Holding ( s ) in Company \| Company Announcement | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/british-land-company--blnd/holding-s-in-company/9694239) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **BERKSHIRE HATHAWAY INC** | 2 Billionaires , 1 Stock : Both Have More Than 15 % of Their Portfolios in Amazon | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/2-billionaires-1-stock-both-123035342.html) |
-| ![](https://www.google.com/s2/favicons?domain=grandforksgazette.ca&sz=32) | **Kroll, LLC** | Christina Lake rallies behind fire rescue boat campaign | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://grandforksgazette.ca/2026/07/28/christina-lake-rallies-behind-fire-rescue-boat-campaign/) |
-| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | Round - the - clock trading is coming , but retail investors are already there | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | Kirby ( NYSE : KEX ) Releases Earnings Results , Beats Expectations By $0 . 04 EPS | 2026-07-30 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.dailypolitical.com/2026/07/30/kirby-nysekex-releases-earnings-results-beats-expectations-by-0-04-eps.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Insperity ( NYSE : NSP ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 02 EPS | 2026-07-30 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.themarketsdaily.com/2026/07/30/insperity-nysensp-issues-quarterly-earnings-results-beats-estimates-by-0-02-eps.html) |
+| ![](https://www.google.com/s2/favicons?domain=bubblear.com&sz=32) | **D E SHAW & CO INC** | ThreatLocker Secures $190 Million in Series F Funding to Drive Product Innovation and Global Expansion | 2026-07-29 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://bubblear.com/threatlocker-secures-190-million-in-series-f-funding-to-drive-product-innovation-and-global-expansion/32106/) |
+| ![](https://www.google.com/s2/favicons?domain=www.proactiveinvestors.com&sz=32) | **Berkshire Hathaway Energy** | Berkshire Hathaway buyback binge fuels UBS price target hike ahead of earnings | 2026-07-29 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.proactiveinvestors.com/companies/news/1096233/berkshire-hathaway-buyback-binge-fuels-ubs-price-target-hike-ahead-of-earnings-1096233.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **Commonwealth Financial Network** | Big firm recruiting crazy and expensive in 2026 , CEOs say | 2026-07-27 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.investmentnews.com/practice-management/big-firm-recruiting-crazy-and-expensive-in-2026-ceos-say/267566) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **NEUBERGER BERMAN** | NBPE Announces Transaction in Own Shares \| The Manila Times | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2394647) |
+| ![](https://www.google.com/s2/favicons?domain=www.bostonglobe.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Mass . unemployment tax hike : Healey slow - walks financial fix | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bostonglobe.com/2026/07/30/business/healey-unemployment-insurance-tax-hike-2/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **ROCKEFELLER AND COMPANY** | iShares MSCI Intl Value Factor ETF ( NYSEARCA : IVLU ) Reaches New 12 - Month High – Should You Buy ? | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/30/ishares-msci-intl-value-factor-etf-nysearcaivlu-reaches-new-12-month-high-should-you-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | Oracle Stock Drops 2 . 3 % as Default Insurance Hits 200 Basis Points | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/oracle-stock-drops-2-3-185300368.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **CITADEL INVESTMENT GROUP** | XFLT Proxy Contest : Why the Board Believes the King Street Sub - Adviser Will Be Beneficial for XFLT Shareholders | 2026-07-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/xflt-proxy-contest-why-the-board-believes-the-king-street-sub-adviser-will-be-beneficial-for-xflt-shareholders/2391657) |
+| ![](https://www.google.com/s2/favicons?domain=www.sundaytimes.lk&sz=32) | **LAZARD FRERES AND COMPANY** | Lazard advice sought for likely debt buybacks , while debt affordability improves | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.livemint.com&sz=32) | **PLATINUM EQUITY LLC** | US stocks to Asian markets today : Global market equity heatmap you should know before trade begins on Dalal Street | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **DISCOVER FINANCIAL** | Cramer : this industrial stock faces a do - or - die moment for our investment | 2026-07-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/2026/07/22/cramer-this-industrial-stock-faces-a-do-or-die-moment-for-our-investment.html) |
 | ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **EDWARD D JONES AND COMPANY** | Edward Jones pushes back on lawsuit challenging diversity program | 2026-07-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html) |
 
 ## Detail
 
 ### WELLINGTON MANAGEMENT COMPANY LLC
-**Verra Mobility ( VRRM ) to Release Quarterly Earnings on Wednesday** — 2026-07-29 — 🔴 High — ⚪ Neutral
+**Kirby ( NYSE : KEX ) Releases Earnings Results , Beats Expectations By $0 . 04 EPS** — 2026-07-30 — 🔴 High — 🟢 Positive
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/07/29/verra-mobility-vrrm-to-release-quarterly-earnings-on-wednesday.html)
+[Read →](https://www.dailypolitical.com/2026/07/30/kirby-nysekex-releases-earnings-results-beats-expectations-by-0-04-eps.html)
 
 ### TWO SIGMA INVESTMENTS
-**Paycom Software ( PAYC ) to Release Quarterly Earnings on Wednesday** — 2026-07-29 — 🔴 High — ⚪ Neutral
+**Insperity ( NYSE : NSP ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 02 EPS** — 2026-07-30 — 🔴 High — 🟢 Positive
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/07/29/paycom-software-payc-to-release-quarterly-earnings-on-wednesday.html)
+[Read →](https://www.themarketsdaily.com/2026/07/30/insperity-nysensp-issues-quarterly-earnings-results-beats-estimates-by-0-02-eps.html)
 
-### PRINCIPAL FINANCIAL GROUP
-**Full Year Results and Publication of Annual Report | Company Announcement** — 2026-07-29 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/full-year-results-and-publication-of-annual-report/9693951)
-
-### Berkshire Hathaway Energy
-**Meet the Dividend Growth Stock That Warren Buffett Held for Decades , and Greg Abel Pegged as One of Berkshire Hathaway Multidecade Compounders** — 2026-07-27 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fool.com/investing/2026/07/27/meet-the-dividend-growth-stock-that-warren-buffett/?source=iedfolrf0000001)
-
-### TPG Capital
-**Bain Capital acquires Vitabiotics : united kingdom nutraceutical giant with India Meyer Organics valued at $850 - 900 million** — 2026-07-25 — 🔴 High — ⚪ Neutral
+### D E SHAW & CO INC
+**ThreatLocker Secures $190 Million in Series F Funding to Drive Product Innovation and Global Expansion** — 2026-07-29 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://economictimes.indiatimes.com/news/international/business/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/articleshow/132614546.cms)
+[Read →](https://bubblear.com/threatlocker-secures-190-million-in-series-f-funding-to-drive-product-innovation-and-global-expansion/32106/)
 
-### Stone X
-**Southside Bancshares ( SBSI ) Q2 2026 Earnings Call Transcript** — 2026-07-25 — 🔴 High — ⚪ Neutral
+### Berkshire Hathaway Energy
+**Berkshire Hathaway buyback binge fuels UBS price target hike ahead of earnings** — 2026-07-29 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.fool.com/earnings/call-transcripts/2026/07/24/southside-bancshares-sbsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
+[Read →](https://www.proactiveinvestors.com/companies/news/1096233/berkshire-hathaway-buyback-binge-fuels-ubs-price-target-hike-ahead-of-earnings-1096233.html)
 
-### Ascensus, Inc.
-**Ascensus Launches National 403 ( b ) PEP for Nonprofits** — 2026-06-30 — 🔴 High — ⚪ Neutral
+### Commonwealth Financial Network
+**Big firm recruiting crazy and expensive in 2026 , CEOs say** — 2026-07-27 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Earnings, Product Launch  
+_Trigger events:_ CxO Change  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.plansponsor.com/ascensus-launches-national-403b-pep-for-nonprofits/)
+[Read →](https://www.investmentnews.com/practice-management/big-firm-recruiting-crazy-and-expensive-in-2026-ceos-say/267566)
 
-### HARBOURVEST PARTNERS LLC
-**Investment Firm HarbourVest Partners Takes 20K SF at 9 West 57th Street – Commercial Observer** — 2026-07-20 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://commercialobserver.com/2026/07/harbourvest-partners-lease-9-west-57th-street/)
-
-### D E SHAW & CO INC
-**10 Stocks Lost Over 40 % in 2026 as Investors Dumped Everything AI Might Kill** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/10-stocks-lost-over-40-181945525.html)
-
-### Guggenheim Partners
-**Dodger , Laker Owner Linked to Loan Fraud Probe** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://790waeb.iheart.com/content/2026-07-28-dodgers-lakers-owner-linked-to-loan-fraud-probe/)
-
-### LPL Financial
-**LPL Welcomes Sunny Day Financial | The Manila Times** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### NEUBERGER BERMAN
+**NBPE Announces Transaction in Own Shares | The Manila Times** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/lpl-welcomes-sunny-day-financial/2394075)
+[Read →](https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2394647)
 
-### JEFFERIES & COMPANY INC
-**Closing Bell : Nifty Reclaims 24 , 250 as IT Rallies for Third Straight Day and FIIs Turn Net Buyers** — 2026-07-29 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.indiainfoline.com/news/markets/closing-bell-nifty-reclaims-24250-as-it-rallies-for-third-straight-day-and-fiis-turn-net-buyers)
-
-### JANUS HENDERSON GROUP
-**Holding ( s ) in Company | Company Announcement** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### CERBERUS CAPITAL MANAGEMENT LP
+**Mass . unemployment tax hike : Healey slow - walks financial fix** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investegate.co.uk/announcement/rns/british-land-company--blnd/holding-s-in-company/9694239)
+[Read →](https://www.bostonglobe.com/2026/07/30/business/healey-unemployment-insurance-tax-hike-2/)
 
-### BERKSHIRE HATHAWAY INC
-**2 Billionaires , 1 Stock : Both Have More Than 15 % of Their Portfolios in Amazon** — 2026-07-29 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/2-billionaires-1-stock-both-123035342.html)
-
-### Kroll, LLC
-**Christina Lake rallies behind fire rescue boat campaign** — 2026-07-28 — 🟡 Low — ⚪ Neutral
+### ROCKEFELLER AND COMPANY
+**iShares MSCI Intl Value Factor ETF ( NYSEARCA : IVLU ) Reaches New 12 - Month High – Should You Buy ?** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://grandforksgazette.ca/2026/07/28/christina-lake-rallies-behind-fire-rescue-boat-campaign/)
+[Read →](https://www.themarketsdaily.com/2026/07/30/ishares-msci-intl-value-factor-etf-nysearcaivlu-reaches-new-12-month-high-should-you-buy.html)
 
 ### DEPOSITORY TRUST CLEARING CORPORATION
-**Round - the - clock trading is coming , but retail investors are already there** — 2026-07-27 — 🟡 Low — ⚪ Neutral
+**Oracle Stock Drops 2 . 3 % as Default Insurance Hits 200 Basis Points** — 2026-07-29 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investmentnews.com/equities/round-the-clock-trading-is-coming-but-retail-investors-are-already-there/267554)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/oracle-stock-drops-2-3-185300368.html)
 
 ### CITADEL INVESTMENT GROUP
 **XFLT Proxy Contest : Why the Board Believes the King Street Sub - Adviser Will Be Beneficial for XFLT Shareholders** — 2026-07-26 — 🟡 Low — ⚪ Neutral
@@ -194,6 +121,24 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
 [Read →](https://www.manilatimes.net/2026/07/26/tmt-newswire/globenewswire/xflt-proxy-contest-why-the-board-believes-the-king-street-sub-adviser-will-be-beneficial-for-xflt-shareholders/2391657)
+
+### LAZARD FRERES AND COMPANY
+**Lazard advice sought for likely debt buybacks , while debt affordability improves** — 2026-07-25 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html)
+
+### PLATINUM EQUITY LLC
+**US stocks to Asian markets today : Global market equity heatmap you should know before trade begins on Dalal Street** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html)
 
 ### DISCOVER FINANCIAL
 **Cramer : this industrial stock faces a do - or - die moment for our investment** — 2026-07-22 — 🟡 Low — ⚪ Neutral
@@ -215,14 +160,13 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 ---
 
-<details><summary>Accounts with no material news this cycle (47)</summary>
+<details><summary>Accounts with no material news this cycle (52)</summary>
 
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
 - Apollo Management
 - BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
-- PLATINUM EQUITY LLC
 - Dun & Bradstreet Corporation
 - INVESCO
 - Raymond James and Associates Inc
@@ -230,10 +174,12 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
+- LPL Financial
 - gmo
 - Ion Trading
+- JEFFERIES & COMPANY INC
 - MSCI Inc
-- NEUBERGER BERMAN
+- Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
 - T ROWE PRICE ASSOCIATES
@@ -246,26 +192,30 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
 - Chicago mercantile Exchange
-- Commonwealth Financial Network
+- HARBOURVEST PARTNERS LLC
+- JANUS HENDERSON GROUP
 - ANTARES CAPITAL
 - CARLYLE
-- CERBERUS CAPITAL MANAGEMENT LP
+- TPG Capital
+- BERKSHIRE HATHAWAY INC
 - DAVIDSON KEMPNER
+- Guggenheim Partners
+- Kroll, LLC
 - MOODYS INVESTORS SERVICE
-- ROCKEFELLER AND COMPANY
 - First Advantage Corporation
 - FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
 - Voya Services Company
 - AMERIPRISE FINANCIAL INC
+- PRINCIPAL FINANCIAL GROUP
 - ROBERT W. BAIRD & CO INC
 - WILLIAM BLAIR & COMPANY
-- LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
+- Stone X
 
 </details>
 
 ---
-_Auto-generated on July 29, 2026._
+_Auto-generated on July 30, 2026._

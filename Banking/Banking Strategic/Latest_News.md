@@ -1,8 +1,8 @@
 # Latest News — Banking Strategic
 
-**Updated:** July 29, 2026  
+**Updated:** July 30, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 4  
+**Accounts with news this cycle:** 6  
 
 ---
 
@@ -10,67 +10,87 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32) | **FIS Global** | FIS and Anthropic extend partnership - Asset Servicing Times | 2026-07-17 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158) |
-| ![](https://www.google.com/s2/favicons?domain=weartv.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | Pensacola grandmother nearly falls victim to scam targeting military community | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://weartv.com/news/local/pensacola-grandmother-nearly-falls-victim-to-scam-targeting-military-community) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Citigroup** | Rhino Bitcoin Adds 500 , 000 , 000 Splendor Labs ( SPLD ) Tokens to Corporate Balance Sheet | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/rhino-bitcoin-adds-500000000-splendor-labs-spld-tokens-to-corporate-balance-sheet/2394161) |
-| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **Bank of America** | 401 ( k ) Real Talk Episode 203 : July 29 , 2026 | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-203-july-29-2026) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TRUIST FINANCIAL** | Insperity ( NYSE : NSP ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 02 EPS | 2026-07-30 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.themarketsdaily.com/2026/07/30/insperity-nysensp-issues-quarterly-earnings-results-beats-estimates-by-0-02-eps.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **JPMORGAN CHASE** | Reynolds Consumer Products ( NASDAQ : REYN ) Updates Q3 2026 Earnings Guidance | 2026-07-30 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13522943/reynolds-consumer-products-nasdaqreyn-updates-q3-2026-earnings-guidance.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Wells Fargo & Company** | InvenTrust Properties ( IVT ) – Analyst Recent Ratings Updates | 2026-07-30 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.tickerreport.com/banking-finance/13522948/inventrust-properties-ivt-analysts-recent-ratings-updates.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Citigroup** | Morgan Stanley Forecasts Strong Price Appreciation for Lyft ( NASDAQ : LYFT ) Stock | 2026-07-30 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/07/30/morgan-stanley-forecasts-strong-price-appreciation-for-lyft-nasdaqlyft-stock.html) |
+| ![](https://www.google.com/s2/favicons?domain=2.boredpanda.com&sz=32) | **Capital One** | 75 Marketing Tricks That Backfired Spectacularly | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://2.boredpanda.com/deceitful-advertising-lying-everyday?cexp_id=158476&_f=homepage_featured&cexp_var=42) |
+| ![](https://www.google.com/s2/favicons?domain=newsindiatimes.com&sz=32) | **STATE STREET BOSTON CORPORATION** | Top banker Sunita Kanchinadam Named 15th President of TiE Boston | 2026-07-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/) |
 
 ## Detail
 
-### FIS Global
-**FIS and Anthropic extend partnership - Asset Servicing Times** — 2026-07-17 — 🟠 Medium — ⚪ Neutral
+### TRUIST FINANCIAL
+**Insperity ( NYSE : NSP ) Issues Quarterly Earnings Results , Beats Estimates By $0 . 02 EPS** — 2026-07-30 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ Product Launch  
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158)
+[Read →](https://www.themarketsdaily.com/2026/07/30/insperity-nysensp-issues-quarterly-earnings-results-beats-estimates-by-0-02-eps.html)
 
-### NAVY FEDERAL CREDIT UNION M
-**Pensacola grandmother nearly falls victim to scam targeting military community** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### JPMORGAN CHASE
+**Reynolds Consumer Products ( NASDAQ : REYN ) Updates Q3 2026 Earnings Guidance** — 2026-07-30 — 🔴 High — ⚪ Neutral
 
 
 
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://weartv.com/news/local/pensacola-grandmother-nearly-falls-victim-to-scam-targeting-military-community)
+[Read →](https://www.tickerreport.com/banking-finance/13522943/reynolds-consumer-products-nasdaqreyn-updates-q3-2026-earnings-guidance.html)
+
+### Wells Fargo & Company
+**InvenTrust Properties ( IVT ) – Analyst Recent Ratings Updates** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13522948/inventrust-properties-ivt-analysts-recent-ratings-updates.html)
 
 ### Citigroup
-**Rhino Bitcoin Adds 500 , 000 , 000 Splendor Labs ( SPLD ) Tokens to Corporate Balance Sheet** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+**Morgan Stanley Forecasts Strong Price Appreciation for Lyft ( NASDAQ : LYFT ) Stock** — 2026-07-30 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/rhino-bitcoin-adds-500000000-splendor-labs-spld-tokens-to-corporate-balance-sheet/2394161)
+[Read →](https://www.themarketsdaily.com/2026/07/30/morgan-stanley-forecasts-strong-price-appreciation-for-lyft-nasdaqlyft-stock.html)
 
-### Bank of America
-**401 ( k ) Real Talk Episode 203 : July 29 , 2026** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### Capital One
+**75 Marketing Tricks That Backfired Spectacularly** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-203-july-29-2026)
+[Read →](https://2.boredpanda.com/deceitful-advertising-lying-everyday?cexp_id=158476&_f=homepage_featured&cexp_var=42)
+
+### STATE STREET BOSTON CORPORATION
+**Top banker Sunita Kanchinadam Named 15th President of TiE Boston** — 2026-07-10 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://newsindiatimes.com/top-banker-sunita-kanchinadam-named-15th-president-of-tie-boston/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (11)</summary>
+<details><summary>Accounts with no material news this cycle (9)</summary>
 
+- FIS Global
+- NAVY FEDERAL CREDIT UNION M
 - FIDELITY NATIONAL FINANCIAL
 - FISERV Inc
-- TRUIST FINANCIAL
-- Wells Fargo & Company
 - US BANK
-- STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
 - BNY Mellon
-- JPMORGAN CHASE
 - P N C FINANCIAL CORP
-- Capital One
+- Bank of America
 
 </details>
 
 ---
-_Auto-generated on July 29, 2026._
+_Auto-generated on July 30, 2026._

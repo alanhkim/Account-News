@@ -1,17 +1,52 @@
 {
-  "generated": "2026-07-29",
-  "generated_human": "July 29, 2026",
+  "generated": "2026-07-30",
+  "generated_human": "July 30, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 4,
-    "high": 0
+    "with_news": 7,
+    "high": 2
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "RAPID ADVANCE LLC",
+          "title": "More than 1 , 000 AI workers urge safeguards to slow AI development",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/more-than-1000-ai-workers-urge-safeguards-to-slow-ai-development",
+          "date": "2026-07-30",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/29/4033545.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.thestar.com.my&sz=32"
+        },
+        {
+          "account": "DUCK CREEK TECHNOLOGIES INC",
+          "title": "Duck Creek Acquires Send , Creating the Industry Only Agentic Underwriting - to - Core Platform",
+          "url": "http://www.singaporestar.com/news/279172562/duck-creek-acquires-send-creating-the-industry-only-agentic-underwriting-to-core-platform",
+          "date": "2026-07-07",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.singaporestar.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Banking",
@@ -22,93 +57,114 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 1,
-      "items": [
-        {
-          "account": "D E SHAW & CO INC",
-          "title": "10 Stocks Lost Over 40 % in 2026 as Investors Dumped Everything AI Might Kill",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-stocks-lost-over-40-181945525.html",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://s.yimg.com/lo/mysterio/api/A2E0DADE48D3D6BE9B5DE629E8486FBF5A3671C3C256866B9363FD527530524E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fcc4a1b492d807a16d0991a233e579f47",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Markets Strategic",
       "count": 0,
       "items": []
     },
     {
-      "top": "Insurance",
-      "sub": "Insurance Majors",
-      "count": 1,
+      "top": "Capital Market",
+      "sub": "Capital Markets Strategic",
+      "count": 2,
       "items": [
         {
-          "account": "EQUITABLE",
-          "title": "NEP at six : Is India education system ready for the AI age ?",
-          "url": "https://www.hindustantimes.com/ht-insight/future-tech/nep-at-six-is-indias-education-system-ready-for-the-ai-age-101785331690992.html",
-          "date": "2026-07-29",
+          "account": "Brookfield Asset Management",
+          "title": "Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex",
+          "url": "https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html",
+          "date": "2026-07-30",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI"
+            "Azure AI",
+            "Fabric"
           ],
           "triggers": [],
           "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=mymotherlode.com&sz=32"
+        },
+        {
+          "account": "NORTHERN TRUST CORPORATION",
+          "title": "Inside the Funds Europe Top 200 & Top 50 : what the data reveals about 0perational pressure in 2026",
+          "url": "https://funds-europe.com/inside-the-funds-europe-top-200-top-50-what-the-data-reveals-about-operational-pressure-in-2026/",
+          "date": "2026-07-30",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Negative",
+          "image": "https://funds-europe.com/wp-content/uploads/2026/07/available-online-now.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=funds-europe.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Insurance",
+      "sub": "Insurance Majors",
+      "count": 2,
+      "items": [
+        {
+          "account": "AMERICAN FAMILY CORPORATION",
+          "title": "Old Toyota Models That Shaped The Brand",
+          "url": "https://carbuzz.com/old-toyota-models-that-built-the-brand/",
+          "date": "2026-07-30",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/img_8953202-72913-scaled.jpg?&fit=crop",
+          "favicon": "https://www.google.com/s2/favicons?domain=carbuzz.com&sz=32"
+        },
+        {
+          "account": "GUARDIAN LIFE INSURANCE CO",
+          "title": "Mercer Global Advisors Launches AI - Native Apsen 2 . 0 Platform",
+          "url": "https://www.wealthmanagement.com/artificial-intelligence/mercer-global-advisors-launches-ai-native-aspen-20",
+          "date": "2026-07-30",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltfc2fabdcafa101f0/6734c1f4a9c5a45e8f3acb3b/mercer-advisors-office-new.jpeg?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
         }
       ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "Marsh McLennan",
-          "title": "Marsh & McLennan ( MRSH ) Reinvents Operations with AI Productivity Push",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html",
-          "date": "2026-07-29",
+          "account": "Chubb",
+          "title": "Global giants Chubb , Nordex to establish maiden Chennai centres as Tamil Nadu expands industrial base",
+          "url": "http://www.europesun.com/news/279216388/global-giants-chubb-nordex-to-establish-maiden-chennai-centres-as-tamil-nadu-expands-industrial-base",
+          "date": "2026-07-30",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI, Copilot opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI",
-            "Copilot"
+            "Azure AI"
           ],
           "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://s.yimg.com/lo/mysterio/api/5040E8C71DCDA54EBD59A1A4843F752D6EED2C2A41E421C024D7AC7E4011B2F8/subgraphmysterio/resizefill_w1200_h672;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb5928cd57b4b6fc7fcd6b58676ca83c2",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
-        },
-        {
-          "account": "Willis Towers Watson",
-          "title": "Unclear risks drive excess data center coverage : Willis",
-          "url": "https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://www.businessinsurance.com/wp-content/uploads/2023/03/cropped-BI-square-blue.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32"
+          "sentiment": "Positive",
+          "image": "https://image.chitra.live/api/v1/wps/5f5bcd3/a8dac7fb-af93-4d31-a906-8616934990bf/0/ANI-20260730074547-600x315.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.europesun.com&sz=32"
         }
       ]
     }

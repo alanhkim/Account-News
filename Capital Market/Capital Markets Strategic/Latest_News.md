@@ -1,8 +1,8 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** July 29, 2026  
+**Updated:** July 30, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 5  
+**Accounts with news this cycle:** 7  
 
 ---
 
@@ -10,77 +10,98 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.dealstreetasia.com&sz=32) | **Brookfield Asset Management** | Brookfield Asset Management gets nod to acquire India Oaktree entities | 2026-07-29 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHERN TRUST CORPORATION** | Spyglass Capital Management LLC Purchases 45 , 919 Shares of AppLovin Corporation $APP | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/07/29/spyglass-capital-management-llc-purchases-45919-shares-of-applovin-corporation-app.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.singaporestar.com&sz=32) | **PayPal, Inc.** | Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.singaporestar.com/news/279214852/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks) |
-| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **Blackstone Inc.** | Toronto - area developers pivot toward rentals as condo construction continues to slide | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theglobeandmail.com/real-estate/article-toronto-rental-apartment-construction-condos-data/) |
-| ![](https://www.google.com/s2/favicons?domain=www.thesouthafrican.com&sz=32) | **S&P Global** | Binance holds the deepest liquidity for nearly two - thirds of listed crypto assets | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thesouthafrican.com/technology/cryptocurrencies/binance-holds-the-deepest-liquidity-for-nearly-two-thirds-of-listed-crypto-assets/) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **CHARLES SCHWAB CORP** | Omega Healthcare Investors ( NYSE : OHI ) Announces Earnings Results | 2026-07-30 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13522923/omega-healthcare-investors-nyseohi-announces-earnings-results.html) |
+| ![](https://www.google.com/s2/favicons?domain=funds-europe.com&sz=32) | **NORTHERN TRUST CORPORATION** | Inside the Funds Europe Top 200 & Top 50 : what the data reveals about 0perational pressure in 2026 | 2026-07-30 | 🔴 High | 🔴 Negative | M&A | Fabric | [link](https://funds-europe.com/inside-the-funds-europe-top-200-top-50-what-the-data-reveals-about-operational-pressure-in-2026/) |
+| ![](https://www.google.com/s2/favicons?domain=mymotherlode.com&sz=32) | **Brookfield Asset Management** | Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex | 2026-07-30 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html) |
+| ![](https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32) | **MORGAN STANLEY** | FinancialContent - Why Wix ( WIX ) Shares Are Trading Lower Today | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-30-why-wix-wix-shares-are-trading-lower-today) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **VANGUARD GROUP INC** | History Says the S & P 500 Is Expensive : Should You Still Buy VOO ? | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/07/30/history-says-sp-500-expensive-still-buy-voo/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **NASDAQ OMX** | Okta Stock Pullback Could Be A Buying Opportunity | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.forbes.com/sites/greatspeculations/2026/07/29/okta-stocks-pullback-could-be-a-buying-opportunity/) |
+| ![](https://www.google.com/s2/favicons?domain=www.accountingtoday.com&sz=32) | **MasterCard International** | Intuit announces credit card with QB integration | 2026-07-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.accountingtoday.com/news/intuit-announces-credit-card-with-qb-integration) |
 
 ## Detail
 
-### Brookfield Asset Management
-**Brookfield Asset Management gets nod to acquire India Oaktree entities** — 2026-07-29 — 🔴 High — ⚪ Neutral
+### CHARLES SCHWAB CORP
+**Omega Healthcare Investors ( NYSE : OHI ) Announces Earnings Results** — 2026-07-30 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13522923/omega-healthcare-investors-nyseohi-announces-earnings-results.html)
+
+### NORTHERN TRUST CORPORATION
+**Inside the Funds Europe Top 200 & Top 50 : what the data reveals about 0perational pressure in 2026** — 2026-07-30 — 🔴 High — 🔴 Negative
 
 
 
 _Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544)
+[Read →](https://funds-europe.com/inside-the-funds-europe-top-200-top-50-what-the-data-reveals-about-operational-pressure-in-2026/)
 
-### NORTHERN TRUST CORPORATION
-**Spyglass Capital Management LLC Purchases 45 , 919 Shares of AppLovin Corporation $APP** — 2026-07-29 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/29/spyglass-capital-management-llc-purchases-45919-shares-of-applovin-corporation-app.html)
-
-### PayPal, Inc.
-**Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### Brookfield Asset Management
+**Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
 
-[Read →](http://www.singaporestar.com/news/279214852/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks)
+[Read →](https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html)
 
-### Blackstone Inc.
-**Toronto - area developers pivot toward rentals as condo construction continues to slide** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### MORGAN STANLEY
+**FinancialContent - Why Wix ( WIX ) Shares Are Trading Lower Today** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.theglobeandmail.com/real-estate/article-toronto-rental-apartment-construction-condos-data/)
+[Read →](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-30-why-wix-wix-shares-are-trading-lower-today)
 
-### S&P Global
-**Binance holds the deepest liquidity for nearly two - thirds of listed crypto assets** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### VANGUARD GROUP INC
+**History Says the S & P 500 Is Expensive : Should You Still Buy VOO ?** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thesouthafrican.com/technology/cryptocurrencies/binance-holds-the-deepest-liquidity-for-nearly-two-thirds-of-listed-crypto-assets/)
+[Read →](https://www.fool.com/investing/2026/07/30/history-says-sp-500-expensive-still-buy-voo/?source=iedfolrf0000001)
+
+### NASDAQ OMX
+**Okta Stock Pullback Could Be A Buying Opportunity** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.forbes.com/sites/greatspeculations/2026/07/29/okta-stocks-pullback-could-be-a-buying-opportunity/)
+
+### MasterCard International
+**Intuit announces credit card with QB integration** — 2026-07-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.accountingtoday.com/news/intuit-announces-credit-card-with-qb-integration)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (11)</summary>
+<details><summary>Accounts with no material news this cycle (9)</summary>
 
-- CHARLES SCHWAB CORP
 - VISA U S A INC
+- PayPal, Inc.
 - AMERICAN EXPRESS COMPANY
 - BRIDGEWATER ASSOCIATES
 - Fidelity Investments
 - GOLDMAN SACHS & COMPANY
+- Blackstone Inc.
 - BLACKROCK FINANCIAL MANAGEMENT
-- NASDAQ OMX
-- MasterCard International
-- MORGAN STANLEY
-- VANGUARD GROUP INC
+- S&P Global
 
 </details>
 
 ---
-_Auto-generated on July 29, 2026._
+_Auto-generated on July 30, 2026._

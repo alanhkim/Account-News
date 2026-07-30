@@ -1,7 +1,8 @@
 # Movement Mortgage — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 29, 2026.
+Rolling history of tracked news (last 90 days). Updated July 30, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-30 | Using Home Equity to Reduce Taxes in Retirement | 🟡 Low | ⚪ Neutral | [link](https://afr.net:443/podcasts/faith-finance/2026/july/using-home-equity-to-reduce-taxes-in-retirement/) |
 | 2026-07-24 | Power Moves : CBRE , MBA , TMO and others make key personnel decisions | 🟡 Low | ⚪ Neutral | [link](https://www.scotsmanguide.com/news/power-moves-july-6-to-24/) |

@@ -1,9 +1,10 @@
 # Chubb — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 29, 2026.
+Rolling history of tracked news (last 90 days). Updated July 30, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-30 | Global giants Chubb , Nordex to establish maiden Chennai centres as Tamil Nadu expands industrial base | 🟠 Medium | 🟢 Positive | [link](http://www.europesun.com/news/279216388/global-giants-chubb-nordex-to-establish-maiden-chennai-centres-as-tamil-nadu-expands-industrial-base) |
 | 2026-07-29 | Dolphins veteran RB workout raises new questions about the running back room | 🔴 High | 🟢 Positive | [link](https://phinphanatic.com/miami-dolphins-veteran-rb-workout-raises-new-questions-about-the-running-back-room-01kyncxvcadr) |
 | 2026-07-28 | Utica National names new chief operating officer | 🟠 Medium | ⚪ Neutral | [link](https://www.romesentinel.com/news/utica-national-names-new-chief-operating-officer/article_262e7abe-ec7d-40c5-a22a-0a4a60a32aca.html) |
 | 2026-07-22 | Chubb CEO Sounds Alarm on Casualty Pricing | 🟠 Medium | 🔴 Negative | [link](https://www.royalgazette.com/reinsurance/business/article/20260723/greenberg-warns-soft-market-is-spreading-into-casualty/) |

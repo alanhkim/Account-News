@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** July 29, 2026  
+**Updated:** July 30, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 26  
+**Accounts with news this cycle:** 21  
 
 ---
 
@@ -10,54 +10,29 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Tokio Marine Group** | iWOW Raises S$15 . 0 Million For Next Phase of Growth | 2026-07-29 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/media-outreach-newswire/iwow-raises-s150-million-for-next-phase-of-growth/2394022) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Silgan ( NYSE : SLGN ) Releases Q3 2026 Earnings Guidance | 2026-07-29 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.dailypolitical.com/2026/07/29/silgan-nyseslgn-releases-q3-2026-earnings-guidance.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **The Hanover Insurance Group** | Hanover posts record Q2 income with 91 . 2 % combined ratio | 2026-07-29 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/hanover-posts-record-q2-income-with-91-2-combined-ratio-584148.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **OLD REPUBLIC INTERNATIONAL** | Old Republic International ( NYSE : ORI ) Releases Quarterly Earnings Results , Misses Expectations By $0 . 03 EPS | 2026-07-25 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/07/25/old-republic-international-nyseori-releases-quarterly-earnings-results-misses-expectations-by-0-03-eps.html) |
-| ![](https://www.google.com/s2/favicons?domain=vir.com.vn&sz=32) | **AAA INSURANCE GROUP** | Non - life insurers rebound on strong first - half results | 2026-07-24 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://vir.com.vn/non-life-insurers-rebound-on-strong-first-half-results-157383.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32) | **RISK STRATEGIES COMPANY** | Inogen Alliance : From Water Risk to Water Resilience : Five Themes Shaping the Future of Water Stewardship | 2026-07-29 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.finanznachrichten.de/nachrichten-2026-07/69156530-inogen-alliance-from-water-risk-to-water-resilience-five-themes-shaping-the-future-of-water-stewardship-200.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.actuarialpost.co.uk&sz=32) | **STANDARD INSURANCE CO** | Increasing resilience across an interlinked financial system | 2026-07-29 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.actuarialpost.co.uk/article/increasing-resilience-across-an-interlinked-financial-system-26989.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32) | **EQUITABLE** | NEP at six : Is India education system ready for the AI age ? | 2026-07-29 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.hindustantimes.com/ht-insight/future-tech/nep-at-six-is-indias-education-system-ready-for-the-ai-age-101785331690992.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **REINSURANCE GROUP OF AMERICA** | PNC Financial Services Group Inc . Trims Stock Holdings in Reinsurance Group of America , Incorporated $RGA | 2026-07-29 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/07/29/pnc-financial-services-group-inc-trims-stock-holdings-in-reinsurance-group-of-america-incorporated-rga.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.bleedinggreennation.com&sz=32) | **MARKEL** | Eagles training camp preview : 53 - man roster prediction | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bleedinggreennation.com/philadelphia-eagles-roster/178055/eagles-training-camp-preview-53-man-roster-prediction) |
-| ![](https://www.google.com/s2/favicons?domain=wisr680.com&sz=32) | **ACRISURE LLC** | Steelers report to training camp in Latrobe today \| WISR 680 AM – Butler , PA | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wisr680.com/steelers-report-to-training-camp-in-latrobe-today/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Corebridge Financial** | Investment Analyst Recent Ratings Updates for Corebridge Financial ( CRBG ) | 2026-07-30 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.themarketsdaily.com/2026/07/30/investment-analysts-recent-ratings-updates-for-corebridge-financial-crbg.html) |
+| ![](https://www.google.com/s2/favicons?domain=hapakenya.com&sz=32) | **STANDARD INSURANCE CO** | CIC Insurance launches microinsurance arm to safeguard Kenya informal sector | 2026-07-30 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://hapakenya.com/2026/07/30/cic-insurance-launches-microinsurance-arm-to-safeguard-kenyas-informal-sector/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Mercer Global Advisors Launches AI - Native Apsen 2 . 0 Platform | 2026-07-30 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI, Fabric | [link](https://www.wealthmanagement.com/artificial-intelligence/mercer-global-advisors-launches-ai-native-aspen-20) |
+| ![](https://www.google.com/s2/favicons?domain=hartfordbusiness.com&sz=32) | **W R BERKLEY CORPORATION** | CT insurer makes string of leadership appointments in wake of founder death | 2026-07-29 | 🟠 Medium | 🟢 Positive | CxO Change | — | [link](https://hartfordbusiness.com/article/ct-insurer-makes-string-of-leadership-appointments-in-wake-of-founders-death/) |
+| ![](https://www.google.com/s2/favicons?domain=carbuzz.com&sz=32) | **AMERICAN FAMILY CORPORATION** | Old Toyota Models That Shaped The Brand | 2026-07-30 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://carbuzz.com/old-toyota-models-that-built-the-brand/) |
+| ![](https://www.google.com/s2/favicons?domain=www.captiveinsurancetimes.com&sz=32) | **AMYNTA GROUP** | Captive insurance people moves news \| Pompili joins Amynta Risk Solutions as accident and health president | 2026-07-28 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.captiveinsurancetimes.com/captiveinsurancenews/peoplemovesarticle.php?article_id=10493&navigationaction=latestnews&page=1&newssection=people) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **Tokio Marine Group** | Japan Earthquake Insurance Claims May Top $1 . 1 Billion : Bloomberg Intelligence | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/news/international/2026/07/30/879647.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **MERCURY INSURANCE COMPANY** | California Supreme Court eases pleading rules for insureds suing excess carriers | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/california-supreme-court-eases-pleading-rules-for-insureds-suing-excess-carriers-584206.aspx) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **LINCOLN NATIONAL CORPORATION** | Hilco Real Estate , LLC Announces Bankruptcy Sale of Landmark Hotel in Downtown Springfield , Illinois | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/hilco-real-estate-llc-announces-bankruptcy-sale-of-landmark-hotel-in-downtown-springfield-illinois-302839228.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.bristolpost.co.uk&sz=32) | **MARKEL** | Love Island Gemma Owen and her career now after huge post villa success | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bristolpost.co.uk/news/celebs-tv/love-islands-gemma-owen-career-11085998) |
+| ![](https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32) | **AMERICAN FINANCIAL GROUP INC** | Fifteen States File Amicus Brief Supporting Challenge To Oregon DIDMCA Opt - out Law - Financial Services | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mondaq.com:443/unitedstates/financial-services/1824254/fifteen-states-file-amicus-brief-supporting-challenge-to-oregons-didmca-opt-out-law) |
+| ![](https://www.google.com/s2/favicons?domain=napavalleyregister.com&sz=32) | **Hub International** | Community Calendar : Things to do in Napa Valley \| News \| napavalleyregister . com | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://napavalleyregister.com/news/community-calendar-napa-valley-events/article_a79e650f-4079-429a-9e45-4cb11e0d750e.html) |
+| ![](https://www.google.com/s2/favicons?domain=georgiatoday.ge&sz=32) | **National Life Group** | Georgia Linguistic Triumph over Soviet Power | 2026-07-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://georgiatoday.ge/georgias-linguistic-triumph-over-soviet-power/) |
+| ![](https://www.google.com/s2/favicons?domain=abovethelaw.com&sz=32) | **ASSURED PARTNERS** | S & C Bob Giuffra Put His Name On The Trump SCOTUS Petition He Was Going To Stay Away From | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://abovethelaw.com/2026/07/scs-bob-giuffra-put-his-name-on-the-trump-scotus-petition-he-was-going-to-stay-away-from/) |
 | ![](https://www.google.com/s2/favicons?domain=www.gigwise.com&sz=32) | **SHELTER INSURANCE COMPANY** | What to Do After a House Fire : A Step - by - Step Recovery Guide | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.gigwise.com/what-to-do-after-a-house-fire-a-step-by-step-recovery-guide/) |
-| ![](https://www.google.com/s2/favicons?domain=www.miragenews.com&sz=32) | **National Life Group** | Dr Doug Hilton At National Press Club | 2026-07-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.miragenews.com/dr-doug-hilton-at-national-press-club-1718179/) |
-| ![](https://www.google.com/s2/favicons?domain=www.liveinsurancenews.com&sz=32) | **MERCURY INSURANCE COMPANY** | Top 10 SUVs That Are The Cheapest to Insure in 2026 and Why Right Now Is One of the Best Times of Year to Actually Go Buy One » Live Insurance News | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.liveinsurancenews.com/top-10-suvs-cheapest-to-insure/8574565/) |
-| ![](https://www.google.com/s2/favicons?domain=www.erienewsnow.com&sz=32) | **ERIE INSURANCE GROUP** | New Public Art Installation Takes Shape Outside Erie Insurance Arena | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.erienewsnow.com/news/new-public-art-installation-takes-shape-outside-erie-insurance-arena/article_e4ded15d-d9d9-4339-a2c8-a78249c945da.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.faceofmalawi.com&sz=32) | **ASSURED PARTNERS** | Miss Malawi 2025 Thandi Chisi Calls for Patience Amid Ongoing Public Debate | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.faceofmalawi.com/2026/07/28/miss-malawi-2025-thandi-chisi-calls-for-patience-amid-ongoing-public-debate/) |
-| ![](https://www.google.com/s2/favicons?domain=280living.com&sz=32) | **USI INSURANCE** | Hoover City Council OKs extra $5 million in tax rebates for Stadium Trace Village | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://280living.com/news/hoover-city-council-oks-extra-5-million-in-tax-rebates-for-s/) |
-| ![](https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32) | **PROSPERITY LIFE GROUP** | JAB Holdings B . V . Announces Pricing of Tender Offers for Any and All of Its 2 . 200 % Senior Notes Due 2030 , 3 . 750 % Senior Notes Due 2051 and 4 . 500 % Sustainability - Linked Senior Notes Due 2052 | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.finanznachrichten.de/nachrichten-2026-07/69135878-jab-holdings-b-v-announces-pricing-of-tender-offers-for-any-and-all-of-its-2-200-senior-notes-due-2030-3-750-senior-notes-due-2051-and-4-500-sust-004.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **Genworth** | How Much Would A Public Long - Term Care Insurance Program Cost ? | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.forbes.com/sites/howardgleckman/2026/07/27/how-much-would-a-public-long-term-care-insurance-program-cost/) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **AmWINS Group** | People | 2026-07-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/magazines/mag-people/2026/07/27/878822.htm) |
 | ![](https://www.google.com/s2/favicons?domain=www.popularmechanics.com&sz=32) | **PROTECTIVE LIFE CORPORATION** | Scientists Say Consciousness Comes From Feelings , Not Thoughts | 2026-07-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.popularmechanics.com/science/a73249621/feelings-consciousness-neuroscience/) |
 | ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Berkshire Hathaway Specialty Insurance Company** | Women in Insurance Summit Australia 2026 set for August with early bird window closing | 2026-07-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/au/news/breaking-news/women-in-insurance-summit-australia-2026-set-for-august-with-early-bird-window-closing-583452.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=westfaironline.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Wealth management advisor Brighton Jones expands to Stamford | 2026-07-23 | 🟡 Low | 🟢 Positive | — | — | [link](https://westfaironline.com/fairfield/wealth-management-advisor-brighton-jones-expands-to-stamford/) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **HARTFORD FIRE INSURANCE COMPANY** | The Hartford sues Dallas firm over unpaid worker comp premiums | 2026-07-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/the-hartford-sues-dallas-firm-over-unpaid-workers-comp-premiums-583282.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.therecordlive.com&sz=32) | **American National Insurance Co** | Geneva Lou Humberson | 2026-07-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.therecordlive.com/story/2026/07/22/obituaries/geneva-lou-humberson/38333.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY** | Barings Bdc ( NYSE : BBDC ) Stock Price Up 1 . 3 % – Still a Buy ? | 2026-07-17 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/07/16/barings-bdc-nysebbdc-stock-price-up-1-3-still-a-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.times-herald.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | As insurance rates fall , tort reform takes much - deserved victory lap | 2026-07-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.times-herald.com/opinion/as-insurance-rates-fall-tort-reform-takes-much-deserved-victory-lap/article_0c0550bb-275e-4e47-8a9f-6cfab218f0bd.html) |
+| ![](https://www.google.com/s2/favicons?domain=therealdeal.com&sz=32) | **PACIFIC LIFE INSURANCE CO** | New 109 - unit Mid - Rise Could be Coming to Fulton Market | 2026-07-16 | 🟡 Low | ⚪ Neutral | — | — | [link](https://therealdeal.com/chicago/2026/07/16/new-109-unit-mid-rise-could-be-coming-to-fulton-market/) |
 
 ## Detail
-
-### Tokio Marine Group
-**iWOW Raises S$15 . 0 Million For Next Phase of Growth** — 2026-07-29 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/07/29/tmt-newswire/media-outreach-newswire/iwow-raises-s150-million-for-next-phase-of-growth/2394022)
-
-### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
-**Silgan ( NYSE : SLGN ) Releases Q3 2026 Earnings Guidance** — 2026-07-29 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/29/silgan-nyseslgn-releases-q3-2026-earnings-guidance.html)
 
 ### The Hanover Insurance Group
 **Hanover posts record Q2 income with 91 . 2 % combined ratio** — 2026-07-29 — 🔴 High — 🟢 Positive
@@ -69,82 +44,138 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/hanover-posts-record-q2-income-with-91-2-combined-ratio-584148.aspx)
 
-### OLD REPUBLIC INTERNATIONAL
-**Old Republic International ( NYSE : ORI ) Releases Quarterly Earnings Results , Misses Expectations By $0 . 03 EPS** — 2026-07-25 — 🔴 High — ⚪ Neutral
+### Corebridge Financial
+**Investment Analyst Recent Ratings Updates for Corebridge Financial ( CRBG )** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Earnings  
+_Trigger events:_ Regulatory  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/07/25/old-republic-international-nyseori-releases-quarterly-earnings-results-misses-expectations-by-0-03-eps.html)
-
-### AAA INSURANCE GROUP
-**Non - life insurers rebound on strong first - half results** — 2026-07-24 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://vir.com.vn/non-life-insurers-rebound-on-strong-first-half-results-157383.html)
-
-### RISK STRATEGIES COMPANY
-**Inogen Alliance : From Water Risk to Water Resilience : Five Themes Shaping the Future of Water Stewardship** — 2026-07-29 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.finanznachrichten.de/nachrichten-2026-07/69156530-inogen-alliance-from-water-risk-to-water-resilience-five-themes-shaping-the-future-of-water-stewardship-200.htm)
+[Read →](https://www.themarketsdaily.com/2026/07/30/investment-analysts-recent-ratings-updates-for-corebridge-financial-crbg.html)
 
 ### STANDARD INSURANCE CO
-**Increasing resilience across an interlinked financial system** — 2026-07-29 — 🟠 Medium — ⚪ Neutral
+**CIC Insurance launches microinsurance arm to safeguard Kenya informal sector** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://hapakenya.com/2026/07/30/cic-insurance-launches-microinsurance-arm-to-safeguard-kenyas-informal-sector/)
+
+### GUARDIAN LIFE INSURANCE CO
+**Mercer Global Advisors Launches AI - Native Apsen 2 . 0 Platform** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.wealthmanagement.com/artificial-intelligence/mercer-global-advisors-launches-ai-native-aspen-20)
+
+### W R BERKLEY CORPORATION
+**CT insurer makes string of leadership appointments in wake of founder death** — 2026-07-29 — 🟠 Medium — 🟢 Positive
+
+
+
+_Trigger events:_ CxO Change  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://hartfordbusiness.com/article/ct-insurer-makes-string-of-leadership-appointments-in-wake-of-founders-death/)
+
+### AMERICAN FAMILY CORPORATION
+**Old Toyota Models That Shaped The Brand** — 2026-07-30 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+
+[Read →](https://carbuzz.com/old-toyota-models-that-built-the-brand/)
+
+### AMYNTA GROUP
+**Captive insurance people moves news | Pompili joins Amynta Risk Solutions as accident and health president** — 2026-07-28 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Solution plays:_ Security  
 _Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
 
-[Read →](https://www.actuarialpost.co.uk/article/increasing-resilience-across-an-interlinked-financial-system-26989.htm)
+[Read →](https://www.captiveinsurancetimes.com/captiveinsurancenews/peoplemovesarticle.php?article_id=10493&navigationaction=latestnews&page=1&newssection=people)
 
-### EQUITABLE
-**NEP at six : Is India education system ready for the AI age ?** — 2026-07-29 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://www.hindustantimes.com/ht-insight/future-tech/nep-at-six-is-indias-education-system-ready-for-the-ai-age-101785331690992.html)
-
-### REINSURANCE GROUP OF AMERICA
-**PNC Financial Services Group Inc . Trims Stock Holdings in Reinsurance Group of America , Incorporated $RGA** — 2026-07-29 — 🟡 Low — 🟢 Positive
+### Tokio Marine Group
+**Japan Earthquake Insurance Claims May Top $1 . 1 Billion : Bloomberg Intelligence** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/07/29/pnc-financial-services-group-inc-trims-stock-holdings-in-reinsurance-group-of-america-incorporated-rga.html)
+[Read →](https://www.insurancejournal.com/news/international/2026/07/30/879647.htm)
+
+### MERCURY INSURANCE COMPANY
+**California Supreme Court eases pleading rules for insureds suing excess carriers** — 2026-07-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/california-supreme-court-eases-pleading-rules-for-insureds-suing-excess-carriers-584206.aspx)
+
+### LINCOLN NATIONAL CORPORATION
+**Hilco Real Estate , LLC Announces Bankruptcy Sale of Landmark Hotel in Downtown Springfield , Illinois** — 2026-07-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.prnewswire.com/news-releases/hilco-real-estate-llc-announces-bankruptcy-sale-of-landmark-hotel-in-downtown-springfield-illinois-302839228.html)
 
 ### MARKEL
-**Eagles training camp preview : 53 - man roster prediction** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+**Love Island Gemma Owen and her career now after huge post villa success** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.bleedinggreennation.com/philadelphia-eagles-roster/178055/eagles-training-camp-preview-53-man-roster-prediction)
+[Read →](https://www.bristolpost.co.uk/news/celebs-tv/love-islands-gemma-owen-career-11085998)
 
-### ACRISURE LLC
-**Steelers report to training camp in Latrobe today | WISR 680 AM – Butler , PA** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### AMERICAN FINANCIAL GROUP INC
+**Fifteen States File Amicus Brief Supporting Challenge To Oregon DIDMCA Opt - out Law - Financial Services** — 2026-07-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://wisr680.com/steelers-report-to-training-camp-in-latrobe-today/)
+[Read →](https://www.mondaq.com:443/unitedstates/financial-services/1824254/fifteen-states-file-amicus-brief-supporting-challenge-to-oregons-didmca-opt-out-law)
+
+### Hub International
+**Community Calendar : Things to do in Napa Valley | News | napavalleyregister . com** — 2026-07-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://napavalleyregister.com/news/community-calendar-napa-valley-events/article_a79e650f-4079-429a-9e45-4cb11e0d750e.html)
+
+### National Life Group
+**Georgia Linguistic Triumph over Soviet Power** — 2026-07-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://georgiatoday.ge/georgias-linguistic-triumph-over-soviet-power/)
+
+### ASSURED PARTNERS
+**S & C Bob Giuffra Put His Name On The Trump SCOTUS Petition He Was Going To Stay Away From** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://abovethelaw.com/2026/07/scs-bob-giuffra-put-his-name-on-the-trump-scotus-petition-he-was-going-to-stay-away-from/)
 
 ### SHELTER INSURANCE COMPANY
 **What to Do After a House Fire : A Step - by - Step Recovery Guide** — 2026-07-29 — 🟡 Low — ⚪ Neutral
@@ -155,68 +186,14 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.gigwise.com/what-to-do-after-a-house-fire-a-step-by-step-recovery-guide/)
 
-### National Life Group
-**Dr Doug Hilton At National Press Club** — 2026-07-29 — 🟡 Low — ⚪ Neutral
+### AmWINS Group
+**People** — 2026-07-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.miragenews.com/dr-doug-hilton-at-national-press-club-1718179/)
-
-### MERCURY INSURANCE COMPANY
-**Top 10 SUVs That Are The Cheapest to Insure in 2026 and Why Right Now Is One of the Best Times of Year to Actually Go Buy One » Live Insurance News** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.liveinsurancenews.com/top-10-suvs-cheapest-to-insure/8574565/)
-
-### ERIE INSURANCE GROUP
-**New Public Art Installation Takes Shape Outside Erie Insurance Arena** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.erienewsnow.com/news/new-public-art-installation-takes-shape-outside-erie-insurance-arena/article_e4ded15d-d9d9-4339-a2c8-a78249c945da.html)
-
-### ASSURED PARTNERS
-**Miss Malawi 2025 Thandi Chisi Calls for Patience Amid Ongoing Public Debate** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.faceofmalawi.com/2026/07/28/miss-malawi-2025-thandi-chisi-calls-for-patience-amid-ongoing-public-debate/)
-
-### USI INSURANCE
-**Hoover City Council OKs extra $5 million in tax rebates for Stadium Trace Village** — 2026-07-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://280living.com/news/hoover-city-council-oks-extra-5-million-in-tax-rebates-for-s/)
-
-### PROSPERITY LIFE GROUP
-**JAB Holdings B . V . Announces Pricing of Tender Offers for Any and All of Its 2 . 200 % Senior Notes Due 2030 , 3 . 750 % Senior Notes Due 2051 and 4 . 500 % Sustainability - Linked Senior Notes Due 2052** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.finanznachrichten.de/nachrichten-2026-07/69135878-jab-holdings-b-v-announces-pricing-of-tender-offers-for-any-and-all-of-its-2-200-senior-notes-due-2030-3-750-senior-notes-due-2051-and-4-500-sust-004.htm)
-
-### Genworth
-**How Much Would A Public Long - Term Care Insurance Program Cost ?** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.forbes.com/sites/howardgleckman/2026/07/27/how-much-would-a-public-long-term-care-insurance-program-cost/)
+[Read →](https://www.insurancejournal.com/magazines/mag-people/2026/07/27/878822.htm)
 
 ### PROTECTIVE LIFE CORPORATION
 **Scientists Say Consciousness Comes From Feelings , Not Thoughts** — 2026-07-26 — 🟡 Low — ⚪ Neutral
@@ -236,33 +213,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.insurancebusinessmag.com/au/news/breaking-news/women-in-insurance-summit-australia-2026-set-for-august-with-early-bird-window-closing-583452.aspx)
 
-### NEW YORK LIFE INSURANCE COMPANY
-**Wealth management advisor Brighton Jones expands to Stamford** — 2026-07-23 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://westfaironline.com/fairfield/wealth-management-advisor-brighton-jones-expands-to-stamford/)
-
-### HARTFORD FIRE INSURANCE COMPANY
-**The Hartford sues Dallas firm over unpaid worker comp premiums** — 2026-07-22 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/the-hartford-sues-dallas-firm-over-unpaid-workers-comp-premiums-583282.aspx)
-
-### American National Insurance Co
-**Geneva Lou Humberson** — 2026-07-20 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.therecordlive.com/story/2026/07/22/obituaries/geneva-lou-humberson/38333.html)
-
 ### MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 **Barings Bdc ( NYSE : BBDC ) Stock Price Up 1 . 3 % – Still a Buy ?** — 2026-07-17 — 🟡 Low — 🟢 Positive
 
@@ -272,44 +222,48 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.dailypolitical.com/2026/07/16/barings-bdc-nysebbdc-stock-price-up-1-3-still-a-buy.html)
 
-### TRAVELERS PROPERTY & CASUALTY
-**As insurance rates fall , tort reform takes much - deserved victory lap** — 2026-07-06 — 🟡 Low — ⚪ Neutral
+### PACIFIC LIFE INSURANCE CO
+**New 109 - unit Mid - Rise Could be Coming to Fulton Market** — 2026-07-16 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.times-herald.com/opinion/as-insurance-rates-fall-tort-reform-takes-much-deserved-victory-lap/article_0c0550bb-275e-4e47-8a9f-6cfab218f0bd.html)
+[Read →](https://therealdeal.com/chicago/2026/07/16/new-109-unit-mid-rise-could-be-coming-to-fulton-market/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (55)</summary>
+<details><summary>Accounts with no material news this cycle (60)</summary>
 
+- American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
 - MUTUAL OF OMAHA
+- PROSPERITY LIFE GROUP
+- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
 - AMERICAN FIDELITY
-- PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
 - aflac
-- AmWINS Group
+- ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
 - Guard Insurance
 - NSM Insurance Group
-- LINCOLN NATIONAL CORPORATION
+- Genworth
 - TIH Insurance Holdings, LLC
+- HARTFORD FIRE INSURANCE COMPANY
+- RISK STRATEGIES COMPANY
 - SELECTIVE INSURANCE
 - VERISK ANALYTICS
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- W R BERKLEY CORPORATION
-- Corebridge Financial
+- USI INSURANCE
+- REINSURANCE GROUP OF AMERICA
 - Sedgwick Claims Management Services, Inc.
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
 - BROWN AND BROWN, Inc.
+- AAA INSURANCE GROUP
 - Milliman USA
-- AMERICAN FAMILY CORPORATION
 - ARTHUR J GALLAGHER & CO
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
@@ -321,27 +275,28 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
-- AMERICAN FINANCIAL GROUP INC
+- ACRISURE LLC
 - CINCINNATI INSURANCE COMPANIES
 - CNO Services, LLC
 - JACKSON NATIONAL LIFE
 - CUNA MUTUAL INSURANCE SOCIETY
 - Jewelers Mutual Insurance
 - Loews Corp
+- OLD REPUBLIC INTERNATIONAL
 - SENTRY INSURANCE A MUTUAL CO
 - FARM BUREAU FINANCIAL SERVICES
-- Hub International
 - Kemper Corporation
 - LOCKTON INSURANCE AGENCY
-- AMYNTA GROUP
 - ARCH CAPITAL GROUP LTD
 - C V STARR
 - EVEREST GLOBAL SERVICES
+- NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
-- GUARDIAN LIFE INSURANCE CO
+- EQUITABLE
+- TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on July 29, 2026._
+_Auto-generated on July 30, 2026._

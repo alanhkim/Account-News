@@ -1,8 +1,9 @@
 # KeyCorp — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 29, 2026.
+Rolling history of tracked news (last 90 days). Updated July 30, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-30 | SiteOne Landscape Supply ( NYSE : SITE ) Announces Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/30/siteone-landscape-supply-nysesite-announces-earnings-results.html) |
 | 2026-07-29 | Spartan Wealth Advisory Services LLC Makes New Investment in Alphabet Inc . $GOOGL | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/29/spartan-wealth-advisory-services-llc-makes-new-investment-in-alphabet-inc-googl.html) |
 | 2026-07-28 | Freedom ( NASDAQ : FRHC ) Director Boris Cherdabayev Sells 300 Shares of Stock | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/28/freedom-nasdaqfrhc-director-boris-cherdabayev-sells-300-shares-of-stock.html) |
