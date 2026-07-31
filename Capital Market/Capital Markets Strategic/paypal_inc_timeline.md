@@ -1,8 +1,9 @@
 # PayPal, Inc. — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 30, 2026.
+Rolling history of tracked news (last 90 days). Updated July 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-31 | Stan Store & Beacons : Creator Storefronts | 🟡 Low | ⚪ Neutral | [link](https://everything-pr.com/stan-store-and-beacons-the-link-in-bio-platforms-that-became-creator-storefronts) |
 | 2026-07-29 | Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks | 🟡 Low | ⚪ Neutral | [link](http://www.singaporestar.com/news/279214852/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks) |
 | 2026-07-28 | Using payment apps ? How to protect your money from scammers | 🟡 Low | ⚪ Neutral | [link](https://www.wlwt.com/article/payment-app-scams-how-to-get-money-back/73276450) |

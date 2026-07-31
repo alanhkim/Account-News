@@ -1,7 +1,8 @@
 # FISHER INVESTMENTS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 30, 2026.
+Rolling history of tracked news (last 90 days). Updated July 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-07-31 | ARIAT TEXAS RATTLERS ANNOUNCE FIRST - OF - ITS - KIND ATHLETE PERFORMANCE CENTER IN DECATUR , TEXAS | 🟡 Low | ⚪ Neutral | [link](https://fortworthbusiness.com/entertainment/ariat-texas-rattlers-announce-first-of-its-kind-athlete-performance-center-in-decatur-texas/) |
 | 2026-07-27 | Carlyle , Bain in race to buy Wealth Enhancement for $7bn – report | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/carlyle-bain-race-buy-wealth-101733595.html) |

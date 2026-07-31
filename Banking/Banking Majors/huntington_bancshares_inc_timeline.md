@@ -1,7 +1,7 @@
 # HUNTINGTON BANCSHARES INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 30, 2026.
+Rolling history of tracked news (last 90 days). Updated July 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-07-30 | Prosperity blames loan - growth woes on newcomer pricing | 🟡 Low | 🟢 Positive | [link](https://www.americanbanker.com/news/prosperity-blames-loan-growth-woes-on-newcomers-pricing) |
+| 2026-07-30 | Huntington Bancshares Incorporated ( NASDAQ : HBANM ) Short Interest Down 41 . 8 % in July | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13523256/huntington-bancshares-incorporated-nasdaqhbanm-short-interest-down-41-8-in-july.html) |

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-30",
-  "generated_human": "July 30, 2026",
+  "generated": "2026-07-31",
+  "generated_human": "July 31, 2026",
   "counts": {
     "accounts_total": 284,
     "with_news": 7,
-    "high": 2
+    "high": 3
   },
   "verticals": [
     {
@@ -13,38 +13,41 @@
       "count": 2,
       "items": [
         {
-          "account": "RAPID ADVANCE LLC",
-          "title": "More than 1 , 000 AI workers urge safeguards to slow AI development",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/07/30/more-than-1000-ai-workers-urge-safeguards-to-slow-ai-development",
-          "date": "2026-07-30",
-          "level": "Medium",
+          "account": "WESTERN UNION",
+          "title": "PYMNTS | Western Union Pursues AI as Falling Migration Hits Revenue",
+          "url": "https://www.pymnts.com/earnings/2026/western-union-pursues-ai-savings-as-falling-migration-hits-revenue/",
+          "date": "2026-07-31",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/western-union-xxs-22.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.pymnts.com&sz=32"
+        },
+        {
+          "account": "Experian",
+          "title": "Tricentis acquires Tabnine to boost AI quality context",
+          "url": "https://itbrief.co.nz/story/tricentis-acquires-tabnine-to-boost-ai-quality-context",
+          "date": "2026-07-31",
+          "level": "High",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://apicms.thestar.com.my/uploads/images/2026/07/29/4033545.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.thestar.com.my&sz=32"
-        },
-        {
-          "account": "DUCK CREEK TECHNOLOGIES INC",
-          "title": "Duck Creek Acquires Send , Creating the Industry Only Agentic Underwriting - to - Core Platform",
-          "url": "http://www.singaporestar.com/news/279172562/duck-creek-acquires-send-creating-the-industry-only-agentic-underwriting-to-core-platform",
-          "date": "2026-07-07",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
           "triggers": [
             "M&A"
           ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.singaporestar.com&sz=32"
+          "sentiment": "Positive",
+          "image": "https://itbrief.co.nz/uploads/story/2026/07/31/compatible_kevin-thompson-and-dror-weiss-story-312637.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=itbrief.co.nz&sz=32"
         }
       ]
     },
@@ -57,50 +60,49 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "CERBERUS CAPITAL MANAGEMENT LP",
+          "title": "HD Hyundai Launches First Vessel Built at Revived Subic Bay Shipyard",
+          "url": "https://gcaptain.com/hd-hyundai-launches-first-vessel-built-at-revived-subic-bay-shipyard/",
+          "date": "2026-07-31",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://gcaptain.com/wp-content/uploads/2024/05/Subic-Bay.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=gcaptain.com&sz=32"
+        },
+        {
+          "account": "BERKSHIRE HATHAWAY INC",
+          "title": "Why Berkshire Cash Pile Keeps Growing ( and Which AI Stock It Might Buy Next )",
+          "url": "https://www.fool.com/investing/2026/07/31/why-berkshires-cash-pile-keeps-growing-and-which/?source=iedfolrf0000001",
+          "date": "2026-07-31",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://g.foolcdn.com/editorial/images/880929/gettyimages-1384978306.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 2,
-      "items": [
-        {
-          "account": "Brookfield Asset Management",
-          "title": "Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex",
-          "url": "https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html",
-          "date": "2026-07-30",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=mymotherlode.com&sz=32"
-        },
-        {
-          "account": "NORTHERN TRUST CORPORATION",
-          "title": "Inside the Funds Europe Top 200 & Top 50 : what the data reveals about 0perational pressure in 2026",
-          "url": "https://funds-europe.com/inside-the-funds-europe-top-200-top-50-what-the-data-reveals-about-operational-pressure-in-2026/",
-          "date": "2026-07-30",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Negative",
-          "image": "https://funds-europe.com/wp-content/uploads/2026/07/available-online-now.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=funds-europe.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",
@@ -108,40 +110,39 @@
       "count": 2,
       "items": [
         {
-          "account": "AMERICAN FAMILY CORPORATION",
-          "title": "Old Toyota Models That Shaped The Brand",
-          "url": "https://carbuzz.com/old-toyota-models-that-built-the-brand/",
+          "account": "Genworth",
+          "title": "Brookstone Capital Management Darryl Ronconi Named Senior Vice President , Wealth Management Platform Operations for AmeriLife Wealth",
+          "url": "http://www.hawaiitelegraph.com/news/279216419/brookstone-capital-management-darryl-ronconi-named-senior-vice-president-wealth-management-platform-operations-for-amerilife-wealth",
           "date": "2026-07-30",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI",
             "Fabric"
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/07/img_8953202-72913-scaled.jpg?&fit=crop",
-          "favicon": "https://www.google.com/s2/favicons?domain=carbuzz.com&sz=32"
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32"
         },
         {
-          "account": "GUARDIAN LIFE INSURANCE CO",
-          "title": "Mercer Global Advisors Launches AI - Native Apsen 2 . 0 Platform",
-          "url": "https://www.wealthmanagement.com/artificial-intelligence/mercer-global-advisors-launches-ai-native-aspen-20",
+          "account": "VERISK ANALYTICS",
+          "title": "Verisk Analytics Q2 Earnings Call Highlights",
+          "url": "https://www.tickerreport.com/banking-finance/13522910/verisk-analytics-q2-earnings-call-highlights.html",
           "date": "2026-07-30",
-          "level": "Medium",
+          "level": "High",
           "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI",
-            "Fabric"
+            "Fabric",
+            "Security"
           ],
           "triggers": [
-            "Product Launch"
+            "Earnings"
           ],
           "sentiment": "Neutral",
-          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltfc2fabdcafa101f0/6734c1f4a9c5a45e8f3acb3b/mercer-advisors-office-new.jpeg?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
         }
       ]
     },
@@ -151,20 +152,21 @@
       "count": 1,
       "items": [
         {
-          "account": "Chubb",
-          "title": "Global giants Chubb , Nordex to establish maiden Chennai centres as Tamil Nadu expands industrial base",
-          "url": "http://www.europesun.com/news/279216388/global-giants-chubb-nordex-to-establish-maiden-chennai-centres-as-tamil-nadu-expands-industrial-base",
-          "date": "2026-07-30",
+          "account": "Willis Towers Watson",
+          "title": "Unclear risks drive excess data center coverage : Willis",
+          "url": "https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/",
+          "date": "2026-07-28",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI"
+            "Fabric",
+            "Security"
           ],
           "triggers": [],
-          "sentiment": "Positive",
-          "image": "https://image.chitra.live/api/v1/wps/5f5bcd3/a8dac7fb-af93-4d31-a906-8616934990bf/0/ANI-20260730074547-600x315.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.europesun.com&sz=32"
+          "sentiment": "Neutral",
+          "image": "https://www.businessinsurance.com/wp-content/uploads/2023/03/cropped-BI-square-blue.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32"
         }
       ]
     }
