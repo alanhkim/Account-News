@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** July 31, 2026  
+**Updated:** August 12, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 20  
+**Accounts with news this cycle:** 23  
 
 ---
 
@@ -10,270 +10,297 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.plansponsor.com&sz=32) | **Securian** | PEP for 403 ( b ) Nonprofits Debuts | 2026-07-31 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.plansponsor.com/pep-for-403b-nonprofits-debuts/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **BROWN BROTHERS HARRIMAN AND COMPANY** | Service Corporation International ( NYSE : SCI ) Releases Earnings Results , Beats Expectations By $0 . 01 EPS | 2026-07-31 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.dailypolitical.com/2026/07/31/service-corporation-international-nysesci-releases-earnings-results-beats-expectations-by-0-01-eps.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.rediff.com&sz=32) | **First Advantage Corporation** | Eternal Q1 FY27 : Blinkit Quick Commerce Growth & Market Share Expansion | 2026-07-31 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.rediff.com/business/report/eternal-q1-fy27-blinkits-quick-commerce-growth--market-share-expansion/20260731.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Middlesex Water ( NASDAQ : MSEX ) Posts Quarterly Earnings Results , Beats Estimates By $0 . 17 EPS | 2026-07-31 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.dailypolitical.com/2026/07/31/middlesex-water-nasdaqmsex-posts-quarterly-earnings-results-beats-estimates-by-0-17-eps.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.ibtimes.co.uk&sz=32) | **CITADEL INVESTMENT GROUP** | The Hidden Reason Leopold Aschenbrenner Situational Awareness Fund Was Forced To Unwind | 2026-07-30 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.ibtimes.co.uk/ai-hedge-fund-collapse-market-reversal-1811628) |
-| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **TPG Capital** | Bain Capital acquires Vitabiotics : united kingdom nutraceutical giant with India Meyer Organics valued at $850 - 900 million | 2026-07-25 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://economictimes.indiatimes.com/news/international/business/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/articleshow/132614546.cms) |
-| ![](https://www.google.com/s2/favicons?domain=gcaptain.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | HD Hyundai Launches First Vessel Built at Revived Subic Bay Shipyard | 2026-07-31 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://gcaptain.com/hd-hyundai-launches-first-vessel-built-at-revived-subic-bay-shipyard/) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Why Berkshire Cash Pile Keeps Growing ( and Which AI Stock It Might Buy Next ) | 2026-07-31 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.fool.com/investing/2026/07/31/why-berkshires-cash-pile-keeps-growing-and-which/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **KOHLBERG KRAVIS ROBERTS & CO LLC** | Rule 38 . 5 _ A - Replacement of DCC Energy plc \| Company Announcement | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/rule-38-5_a-replacement-of-dcc-energy-plc/9699269) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **INVESCO** | Issue of Equity \| Company Announcement | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/mfn/invesco-bond-income-plus-limited-npv--bips/issue-of-equity/9699328) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Raymond James and Associates Inc** | FT Vest U . S . Equity Buffer ETF – July ( BATS : FJUL ) Sets New 12 - Month High – Here What Happened | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/31/ft-vest-u-s-equity-buffer-etf-july-batsfjul-sets-new-12-month-high-heres-what-happened.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **NEUBERGER BERMAN** | NBPE Announces Transaction in Own Shares \| The Manila Times | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2395679) |
-| ![](https://www.google.com/s2/favicons?domain=www.californiatelegraph.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | Transition from OTCQB to Unsponsored OTC Quotation | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.californiatelegraph.com/news/279217120/transition-from-otcqb-to-unsponsored-otc-quotation) |
-| ![](https://www.google.com/s2/favicons?domain=fortworthbusiness.com&sz=32) | **FISHER INVESTMENTS** | ARIAT TEXAS RATTLERS ANNOUNCE FIRST - OF - ITS - KIND ATHLETE PERFORMANCE CENTER IN DECATUR , TEXAS | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://fortworthbusiness.com/entertainment/ariat-texas-rattlers-announce-first-of-its-kind-athlete-performance-center-in-decatur-texas/) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Corning Incorporated $GLW Holdings Decreased by Leigh Baldwin & CO . LLC | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13524079/corning-incorporated-glw-holdings-decreased-by-leigh-baldwin-co-llc.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Neutron Holdings , Inc . ( NASDAQ : LIME ) Short Interest Update | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/07/31/neutron-holdings-inc-nasdaqlime-short-interest-update.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.sundaytimes.lk&sz=32) | **LAZARD FRERES AND COMPANY** | Lazard advice sought for likely debt buybacks , while debt affordability improves | 2026-07-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **DISCOVER FINANCIAL** | Cramer : this industrial stock faces a do - or - die moment for our investment | 2026-07-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/2026/07/22/cramer-this-industrial-stock-faces-a-do-or-die-moment-for-our-investment.html) |
-| ![](https://www.google.com/s2/favicons?domain=nlpc.org&sz=32) | **TIAA CREF** | American Airlines Flies More Than Delta & United ; Earns a Fraction of What They Do | 2026-07-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://nlpc.org/corporate-integrity-project/american-airlines-flies-more-than-delta-earns-a-fraction-of-what-they-do/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **EDWARD D JONES AND COMPANY** | Edward Jones pushes back on lawsuit challenging diversity program | 2026-07-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **MORNINGSTAR INC** | After Earnings , Is Disney Stock a Buy , a Sell , or Fairly Valued ? | 2026-08-12 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.morningstar.com/stocks/after-earnings-is-disney-stock-buy-sell-or-fairly-valued-10) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **Commonwealth Financial Network** | Merit Financial Advisors Acquires $900 Million firm , The Bridgeway Group , Expanding Southern California Presence | 2026-08-12 | 🔴 High | 🟢 Positive | M&A | — | [link](http://www.prnewswire.com/news-releases/merit-financial-advisors-acquires-900-million-firm-the-bridgeway-group-expanding-southern-california-presence-302847355.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.altassets.net&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Deal Roundup : TPG agrees $925m Lotte Rental buy , Lindsay Goldberg seals Alro Steel deal | 2026-08-12 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-tpg-agrees-925m-lotte-rental-buy-lindsay-goldberg-seals-alro-steel-deal.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | Immunome ( NASDAQ : IMNM ) Releases Quarterly Earnings Results , Misses Estimates By $0 . 14 EPS | 2026-08-11 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13538964/immunome-nasdaqimnm-releases-quarterly-earnings-results-misses-estimates-by-0-14-eps.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.efinancialcareers.com&sz=32) | **Balyasny Asset Management** | How to negotiate a contract when youre hired by a hedge fund now | 2026-08-11 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.efinancialcareers.com/news/hedge-fund-contract) |
+| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **Berkshire Hathaway Energy** | Berkshire Hathaway accelerates buybacks , lowers cash stake as profit tops forecasts | 2026-08-10 | 🔴 High | ⚪ Neutral | Earnings, M&A | — | [link](https://www.theglobeandmail.com/business/article-berkshire-hathaway-accelerates-buybacks-lowers-cash-stake-as-profit/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32) | **LPL Financial** | Vanguard Launches Custom Model Portfolios for Advisors | 2026-08-12 | 🟠 Medium | ⚪ Neutral | Product Launch | Fabric | [link](https://www.wealthmanagement.com/investing-strategies/vanguard-launches-custom-model-portfolios) |
+| ![](https://www.google.com/s2/favicons?domain=retailtimes.co.uk&sz=32) | **Fortress Investment Group** | Vagabond toasts first new venue outside London for five years as it unveils plans for experiential Brighton bar | 2026-08-11 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://retailtimes.co.uk/vagabond-toasts-first-new-venue-outside-london-for-five-years-as-it-unveils-plans-for-experiential-brighton-bar/) |
+| ![](https://www.google.com/s2/favicons?domain=www.longislandpress.com&sz=32) | **EDWARD D JONES AND COMPANY** | Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Apollo Management** | Intel Is Raising Billions in Equity . History Says This Is What the Stock Will Do Next . | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/08/12/intel-is-raising-billions-in-equity-history-says-t/) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **D E SHAW & CO INC** | Form 8 . 3 - DCC Energy plc \| Company Announcement | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9717657) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . Rowe Price International Equity ETF ( NYSEARCA : TOUS ) Short Interest Down 96 . 8 % in July | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/12/t-rowe-price-international-equity-etf-nysearcatous-short-interest-down-96-8-in-july.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
+| ![](https://www.google.com/s2/favicons?domain=www.beefcentral.com&sz=32) | **Chicago mercantile Exchange** | Export cow beef prices continue to deteriorate , as trade winds blow | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.beefcentral.com/trade/export-cow-beef-prices-continue-to-deteriorate-as-trade-winds-blow/) |
+| ![](https://www.google.com/s2/favicons?domain=jamaica-gleaner.com&sz=32) | **CARLYLE** | My mother waited 100 years for thi \| Entertainment | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://jamaica-gleaner.com/article/entertainment/20260812/my-mother-waited-100-years) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Guggenheim Partners** | Polestar Automotive Holding united kingdom PLC ( NASDAQ : PSNYW ) Sees Significant Growth in Short Interest | 2026-08-12 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/08/12/polestar-automotive-holding-uk-plc-nasdaqpsnyw-sees-significant-growth-in-short-interest.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.comingsoon.net&sz=32) | **Kroll, LLC** | Adults Season 2 Trailer : Hilarious FX Show Returns , Huge Stranger Things Star Joining Cast | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.comingsoon.net/tv/trailers/2175180-adults-season-2-trailer-fx-show-stranger-things-star) |
+| ![](https://www.google.com/s2/favicons?domain=fun107.com&sz=32) | **ROCKEFELLER AND COMPANY** | Dave Matthews Band Fall 2026 Tour Dates and Ticket Sale Info | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://fun107.com/dave-matthews-band-providence-fall-tour/) |
+| ![](https://www.google.com/s2/favicons?domain=www.vogue.com&sz=32) | **LOUIS DREYFUS CORP** | Raúl Esparza and Lily Rabe Talk  The Winter Tale | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.vogue.com/article/raul-esparza-and-lily-rabe-the-winters-tale) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **PLATINUM EQUITY LLC** | Ingram Micro ( NYSE : INGM ) Upgraded at Wall Street Zen | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13538018/ingram-micro-nyseingm-upgraded-at-wall-street-zen.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **CITADEL INVESTMENT GROUP** | Jim Cramer Says There Merit To Starbucks Corporation ( NASDAQ : SBUX ) Turnaround Efforts | 2026-08-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-merit-starbucks-183707712.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | Circle officially opens its national trust bank | 2026-08-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.americanbanker.com/payments/news/circle-officially-opens-its-national-trust-bank) |
+| ![](https://www.google.com/s2/favicons?domain=www.moneymarketing.co.uk&sz=32) | **HARBOURVEST PARTNERS LLC** | The Morning Briefing : Quilter record - breaking £6bn first half ; united kingdom investment management assets hit £11 . 1trn | 2026-08-06 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.moneymarketing.co.uk/news/the-morning-briefing-quilters-record-breaking-6bn-first-half-uk-investment-management-assets-hit-11-1trn/) |
 
 ## Detail
 
-### Securian
-**PEP for 403 ( b ) Nonprofits Debuts** — 2026-07-31 — 🔴 High — ⚪ Neutral
+### MORNINGSTAR INC
+**After Earnings , Is Disney Stock a Buy , a Sell , or Fairly Valued ?** — 2026-08-12 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.plansponsor.com/pep-for-403b-nonprofits-debuts/)
+[Read →](https://www.morningstar.com/stocks/after-earnings-is-disney-stock-buy-sell-or-fairly-valued-10)
 
-### BROWN BROTHERS HARRIMAN AND COMPANY
-**Service Corporation International ( NYSE : SCI ) Releases Earnings Results , Beats Expectations By $0 . 01 EPS** — 2026-07-31 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/31/service-corporation-international-nysesci-releases-earnings-results-beats-expectations-by-0-01-eps.html)
-
-### First Advantage Corporation
-**Eternal Q1 FY27 : Blinkit Quick Commerce Growth & Market Share Expansion** — 2026-07-31 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.rediff.com/business/report/eternal-q1-fy27-blinkits-quick-commerce-growth--market-share-expansion/20260731.htm)
-
-### ROBERT W. BAIRD & CO INC
-**Middlesex Water ( NASDAQ : MSEX ) Posts Quarterly Earnings Results , Beats Estimates By $0 . 17 EPS** — 2026-07-31 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/07/31/middlesex-water-nasdaqmsex-posts-quarterly-earnings-results-beats-estimates-by-0-17-eps.html)
-
-### CITADEL INVESTMENT GROUP
-**The Hidden Reason Leopold Aschenbrenner Situational Awareness Fund Was Forced To Unwind** — 2026-07-30 — 🔴 High — ⚪ Neutral
+### Commonwealth Financial Network
+**Merit Financial Advisors Acquires $900 Million firm , The Bridgeway Group , Expanding Southern California Presence** — 2026-08-12 — 🔴 High — 🟢 Positive
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.ibtimes.co.uk/ai-hedge-fund-collapse-market-reversal-1811628)
-
-### TPG Capital
-**Bain Capital acquires Vitabiotics : united kingdom nutraceutical giant with India Meyer Organics valued at $850 - 900 million** — 2026-07-25 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://economictimes.indiatimes.com/news/international/business/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/articleshow/132614546.cms)
+[Read →](http://www.prnewswire.com/news-releases/merit-financial-advisors-acquires-900-million-firm-the-bridgeway-group-expanding-southern-california-presence-302847355.html)
 
 ### CERBERUS CAPITAL MANAGEMENT LP
-**HD Hyundai Launches First Vessel Built at Revived Subic Bay Shipyard** — 2026-07-31 — 🟠 Medium — ⚪ Neutral
+**Deal Roundup : TPG agrees $925m Lotte Rental buy , Lindsay Goldberg seals Alro Steel deal** — 2026-08-12 — 🔴 High — 🟢 Positive
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-tpg-agrees-925m-lotte-rental-buy-lindsay-goldberg-seals-alro-steel-deal.html)
+
+### WELLINGTON MANAGEMENT COMPANY LLC
+**Immunome ( NASDAQ : IMNM ) Releases Quarterly Earnings Results , Misses Estimates By $0 . 14 EPS** — 2026-08-11 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13538964/immunome-nasdaqimnm-releases-quarterly-earnings-results-misses-estimates-by-0-14-eps.html)
+
+### Balyasny Asset Management
+**How to negotiate a contract when youre hired by a hedge fund now** — 2026-08-11 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.efinancialcareers.com/news/hedge-fund-contract)
+
+### Berkshire Hathaway Energy
+**Berkshire Hathaway accelerates buybacks , lowers cash stake as profit tops forecasts** — 2026-08-10 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings, M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.theglobeandmail.com/business/article-berkshire-hathaway-accelerates-buybacks-lowers-cash-stake-as-profit/)
+
+### LPL Financial
+**Vanguard Launches Custom Model Portfolios for Advisors** — 2026-08-12 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Trigger events:_ Product Launch  
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](https://gcaptain.com/hd-hyundai-launches-first-vessel-built-at-revived-subic-bay-shipyard/)
+[Read →](https://www.wealthmanagement.com/investing-strategies/vanguard-launches-custom-model-portfolios)
 
-### BERKSHIRE HATHAWAY INC
-**Why Berkshire Cash Pile Keeps Growing ( and Which AI Stock It Might Buy Next )** — 2026-07-31 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://www.fool.com/investing/2026/07/31/why-berkshires-cash-pile-keeps-growing-and-which/?source=iedfolrf0000001)
-
-### KOHLBERG KRAVIS ROBERTS & CO LLC
-**Rule 38 . 5 _ A - Replacement of DCC Energy plc | Company Announcement** — 2026-07-31 — 🟡 Low — ⚪ Neutral
+### Fortress Investment Group
+**Vagabond toasts first new venue outside London for five years as it unveils plans for experiential Brighton bar** — 2026-08-11 — 🟠 Medium — ⚪ Neutral
 
 
 
+_Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/rule-38-5_a-replacement-of-dcc-energy-plc/9699269)
-
-### INVESCO
-**Issue of Equity | Company Announcement** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investegate.co.uk/announcement/mfn/invesco-bond-income-plus-limited-npv--bips/issue-of-equity/9699328)
-
-### Raymond James and Associates Inc
-**FT Vest U . S . Equity Buffer ETF – July ( BATS : FJUL ) Sets New 12 - Month High – Here What Happened** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/07/31/ft-vest-u-s-equity-buffer-etf-july-batsfjul-sets-new-12-month-high-heres-what-happened.html)
-
-### NEUBERGER BERMAN
-**NBPE Announces Transaction in Own Shares | The Manila Times** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2395679)
-
-### DEPOSITORY TRUST CLEARING CORPORATION
-**Transition from OTCQB to Unsponsored OTC Quotation** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.californiatelegraph.com/news/279217120/transition-from-otcqb-to-unsponsored-otc-quotation)
-
-### FISHER INVESTMENTS
-**ARIAT TEXAS RATTLERS ANNOUNCE FIRST - OF - ITS - KIND ATHLETE PERFORMANCE CENTER IN DECATUR , TEXAS** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://fortworthbusiness.com/entertainment/ariat-texas-rattlers-announce-first-of-its-kind-athlete-performance-center-in-decatur-texas/)
-
-### PRINCIPAL FINANCIAL GROUP
-**Corning Incorporated $GLW Holdings Decreased by Leigh Baldwin & CO . LLC** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13524079/corning-incorporated-glw-holdings-decreased-by-leigh-baldwin-co-llc.html)
-
-### WILLIAM BLAIR & COMPANY
-**Neutron Holdings , Inc . ( NASDAQ : LIME ) Short Interest Update** — 2026-07-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/07/31/neutron-holdings-inc-nasdaqlime-short-interest-update.html)
-
-### LAZARD FRERES AND COMPANY
-**Lazard advice sought for likely debt buybacks , while debt affordability improves** — 2026-07-25 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.sundaytimes.lk/260726/news/lazard-advice-sought-for-likely-debt-buybacks-while-debt-affordability-improves-650533.html)
-
-### DISCOVER FINANCIAL
-**Cramer : this industrial stock faces a do - or - die moment for our investment** — 2026-07-22 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.cnbc.com/2026/07/22/cramer-this-industrial-stock-faces-a-do-or-die-moment-for-our-investment.html)
-
-### TIAA CREF
-**American Airlines Flies More Than Delta & United ; Earns a Fraction of What They Do** — 2026-07-21 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://nlpc.org/corporate-integrity-project/american-airlines-flies-more-than-delta-earns-a-fraction-of-what-they-do/)
+[Read →](https://retailtimes.co.uk/vagabond-toasts-first-new-venue-outside-london-for-five-years-as-it-unveils-plans-for-experiential-brighton-bar/)
 
 ### EDWARD D JONES AND COMPANY
-**Edward Jones pushes back on lawsuit challenging diversity program** — 2026-07-09 — 🟡 Low — ⚪ Neutral
+**Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion** — 2026-08-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/small-business/articles/edward-jones-pushes-back-lawsuit-121800705.html)
+[Read →](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/)
+
+### Apollo Management
+**Intel Is Raising Billions in Equity . History Says This Is What the Stock Will Do Next .** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.fool.com/investing/2026/08/12/intel-is-raising-billions-in-equity-history-says-t/)
+
+### D E SHAW & CO INC
+**Form 8 . 3 - DCC Energy plc | Company Announcement** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9717657)
+
+### T ROWE PRICE ASSOCIATES
+**T . Rowe Price International Equity ETF ( NYSEARCA : TOUS ) Short Interest Down 96 . 8 % in July** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/12/t-rowe-price-international-equity-etf-nysearcatous-short-interest-down-96-8-in-july.html)
+
+### Securian
+**July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764)
+
+### Chicago mercantile Exchange
+**Export cow beef prices continue to deteriorate , as trade winds blow** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.beefcentral.com/trade/export-cow-beef-prices-continue-to-deteriorate-as-trade-winds-blow/)
+
+### CARLYLE
+**My mother waited 100 years for thi | Entertainment** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://jamaica-gleaner.com/article/entertainment/20260812/my-mother-waited-100-years)
+
+### Guggenheim Partners
+**Polestar Automotive Holding united kingdom PLC ( NASDAQ : PSNYW ) Sees Significant Growth in Short Interest** — 2026-08-12 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/12/polestar-automotive-holding-uk-plc-nasdaqpsnyw-sees-significant-growth-in-short-interest.html)
+
+### Kroll, LLC
+**Adults Season 2 Trailer : Hilarious FX Show Returns , Huge Stranger Things Star Joining Cast** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.comingsoon.net/tv/trailers/2175180-adults-season-2-trailer-fx-show-stranger-things-star)
+
+### ROCKEFELLER AND COMPANY
+**Dave Matthews Band Fall 2026 Tour Dates and Ticket Sale Info** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://fun107.com/dave-matthews-band-providence-fall-tour/)
+
+### LOUIS DREYFUS CORP
+**Raúl Esparza and Lily Rabe Talk  The Winter Tale** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.vogue.com/article/raul-esparza-and-lily-rabe-the-winters-tale)
+
+### PLATINUM EQUITY LLC
+**Ingram Micro ( NYSE : INGM ) Upgraded at Wall Street Zen** — 2026-08-11 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13538018/ingram-micro-nyseingm-upgraded-at-wall-street-zen.html)
+
+### CITADEL INVESTMENT GROUP
+**Jim Cramer Says There Merit To Starbucks Corporation ( NASDAQ : SBUX ) Turnaround Efforts** — 2026-08-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-merit-starbucks-183707712.html)
+
+### DEPOSITORY TRUST CLEARING CORPORATION
+**Circle officially opens its national trust bank** — 2026-08-06 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.americanbanker.com/payments/news/circle-officially-opens-its-national-trust-bank)
+
+### HARBOURVEST PARTNERS LLC
+**The Morning Briefing : Quilter record - breaking £6bn first half ; united kingdom investment management assets hit £11 . 1trn** — 2026-08-06 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.moneymarketing.co.uk/news/the-morning-briefing-quilters-record-breaking-6bn-first-half-uk-investment-management-assets-hit-11-1trn/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (46)</summary>
+<details><summary>Accounts with no material news this cycle (43)</summary>
 
 - S A C CAPITAL ADVISORS LLC
-- Apollo Management
+- TIAA CREF
 - BAIN CAPITAL LLC
-- PLATINUM EQUITY LLC
+- KOHLBERG KRAVIS ROBERTS & CO LLC
 - Dun & Bradstreet Corporation
+- INVESCO
+- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
-- LPL Financial
-- D E SHAW & CO INC
 - gmo
 - Ion Trading
 - JEFFERIES & COMPANY INC
 - MSCI Inc
+- NEUBERGER BERMAN
 - Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
-- T ROWE PRICE ASSOCIATES
-- WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
-- MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
-- Fortress Investment Group
+- DISCOVER FINANCIAL
 - TWO SIGMA INVESTMENTS
-- Balyasny Asset Management
-- Chicago mercantile Exchange
-- Commonwealth Financial Network
-- HARBOURVEST PARTNERS LLC
+- BROWN BROTHERS HARRIMAN AND COMPANY
 - JANUS HENDERSON GROUP
 - ANTARES CAPITAL
-- CARLYLE
-- Berkshire Hathaway Energy
+- TPG Capital
+- BERKSHIRE HATHAWAY INC
 - DAVIDSON KEMPNER
-- Guggenheim Partners
-- Kroll, LLC
 - MOODYS INVESTORS SERVICE
-- ROCKEFELLER AND COMPANY
+- First Advantage Corporation
+- FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
 - Voya Services Company
 - AMERIPRISE FINANCIAL INC
-- LOUIS DREYFUS CORP
+- PRINCIPAL FINANCIAL GROUP
+- ROBERT W. BAIRD & CO INC
+- WILLIAM BLAIR & COMPANY
+- LAZARD FRERES AND COMPANY
 - SEI CORP
 - Stone X
 
 </details>
 
 ---
-_Auto-generated on July 31, 2026._
+_Auto-generated on August 12, 2026._

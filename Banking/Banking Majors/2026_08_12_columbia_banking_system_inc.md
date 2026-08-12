@@ -1,0 +1,27 @@
+# Columbia Banking System, Inc.
+
+**Sub-vertical:** Banking Majors  
+**News gathered:** August 12, 2026  
+**History:** see [`columbia_banking_system_inc_timeline.md`](columbia_banking_system_inc_timeline.md)  
+
+---
+
+## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Investment Analyst Recent Ratings Changes for Columbia Banking System ( COLB )
+
+| | |
+|---|---|
+| **Date** | 2026-08-11 |
+| **Potential impact** | 🟠 Medium |
+| **Sentiment** | ⚪ Neutral |
+| **Trigger events** | Regulatory |
+| **Solution plays** | — |
+| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/08/11/investment-analysts-recent-ratings-changes-for-columbia-banking-system-colb.html) |
+
+**Summary.** 
+
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+
+[Read the article →](https://www.dailypolitical.com/2026/08/11/investment-analysts-recent-ratings-changes-for-columbia-banking-system-colb.html)
+
+---
+_Auto-generated on August 12, 2026. News older than 90 days is pruned automatically._

@@ -1,7 +1,7 @@
 # REPUBLIC FINANCE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-31 | IFC Weighs Taking Up to 53 % of Alios Finance Cameroon CFA13 Billion Bond Offering | 🟡 Low | 🟢 Positive | [link](https://www.businessincameroon.com/finance/3107-16555-ifc-weighs-taking-up-to-53-of-alios-finance-cameroon-s-cfa13-billion-bond-offering) |

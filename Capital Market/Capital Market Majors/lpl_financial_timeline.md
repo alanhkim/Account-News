@@ -1,9 +1,10 @@
 # LPL Financial — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-12 | Vanguard Launches Custom Model Portfolios for Advisors | 🟠 Medium | ⚪ Neutral | [link](https://www.wealthmanagement.com/investing-strategies/vanguard-launches-custom-model-portfolios) |
 | 2026-07-29 | LPL Welcomes Sunny Day Financial \ | The Manila Times | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/lpl-welcomes-sunny-day-financial/2394075) |
 | 2026-07-28 | Insider Selling : Sagimet Biosciences ( NASDAQ : SGMT ) Director Sells 18 , 844 Shares | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/28/insider-selling-sagimet-biosciences-nasdaqsgmt-director-sells-18844-shares.html) |
 | 2026-07-27 | Goldman Sachs Access Inflation Protected USD Bond ETF ( BATS : GTIP ) Short Interest Down 74 . 9 % in July | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/27/goldman-sachs-access-inflation-protected-usd-bond-etf-batsgtip-short-interest-down-74-9-in-july.html) |

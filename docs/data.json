@@ -1,53 +1,32 @@
 {
-  "generated": "2026-07-31",
-  "generated_human": "July 31, 2026",
+  "generated": "2026-08-12",
+  "generated_human": "August 12, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 7,
-    "high": 3
+    "with_news": 3,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "WESTERN UNION",
-          "title": "PYMNTS | Western Union Pursues AI as Falling Migration Hits Revenue",
-          "url": "https://www.pymnts.com/earnings/2026/western-union-pursues-ai-savings-as-falling-migration-hits-revenue/",
-          "date": "2026-07-31",
-          "level": "High",
+          "account": "Insurity",
+          "title": "Insurity Partners with Insurance Technology Services to Execute Modernization and Implement Complex Programs with Greater Confidence",
+          "url": "https://montrealgazette.com/press-releases/business-wire/insurity-partners-with-insurance-technology-services-to-execute-modernization-and-implement-complex-programs-with-greater-confidence/",
+          "date": "2026-08-11",
+          "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
           "triggers": [
-            "Earnings"
+            "Product Launch"
           ],
-          "sentiment": "Neutral",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/western-union-xxs-22.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.pymnts.com&sz=32"
-        },
-        {
-          "account": "Experian",
-          "title": "Tricentis acquires Tabnine to boost AI quality context",
-          "url": "https://itbrief.co.nz/story/tricentis-acquires-tabnine-to-boost-ai-quality-context",
-          "date": "2026-07-31",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Positive",
-          "image": "https://itbrief.co.nz/uploads/story/2026/07/31/compatible_kevin-thompson-and-dror-weiss-story-312637.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=itbrief.co.nz&sz=32"
+          "sentiment": "Negative",
+          "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260811839275r1&sid=cnpm5&distro=ftp",
+          "favicon": "https://www.google.com/s2/favicons?domain=montrealgazette.com&sz=32"
         }
       ]
     },
@@ -60,41 +39,25 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "CERBERUS CAPITAL MANAGEMENT LP",
-          "title": "HD Hyundai Launches First Vessel Built at Revived Subic Bay Shipyard",
-          "url": "https://gcaptain.com/hd-hyundai-launches-first-vessel-built-at-revived-subic-bay-shipyard/",
-          "date": "2026-07-31",
+          "account": "LPL Financial",
+          "title": "Vanguard Launches Custom Model Portfolios for Advisors",
+          "url": "https://www.wealthmanagement.com/investing-strategies/vanguard-launches-custom-model-portfolios",
+          "date": "2026-08-12",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI"
+            "Fabric"
           ],
           "triggers": [
             "Product Launch"
           ],
           "sentiment": "Neutral",
-          "image": "https://gcaptain.com/wp-content/uploads/2024/05/Subic-Bay.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=gcaptain.com&sz=32"
-        },
-        {
-          "account": "BERKSHIRE HATHAWAY INC",
-          "title": "Why Berkshire Cash Pile Keeps Growing ( and Which AI Stock It Might Buy Next )",
-          "url": "https://www.fool.com/investing/2026/07/31/why-berkshires-cash-pile-keeps-growing-and-which/?source=iedfolrf0000001",
-          "date": "2026-07-31",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://g.foolcdn.com/editorial/images/880929/gettyimages-1384978306.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt6eee03aee8cee17d/67a2457637a78d2b594cf19d/vanguard-market-data.jpg?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
         }
       ]
     },
@@ -107,68 +70,31 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "Genworth",
-          "title": "Brookstone Capital Management Darryl Ronconi Named Senior Vice President , Wealth Management Platform Operations for AmeriLife Wealth",
-          "url": "http://www.hawaiitelegraph.com/news/279216419/brookstone-capital-management-darryl-ronconi-named-senior-vice-president-wealth-management-platform-operations-for-amerilife-wealth",
-          "date": "2026-07-30",
+          "account": "BROWN AND BROWN, Inc.",
+          "title": "Autonomous AI hit on Taiwan linked to China",
+          "url": "https://www.insurancebusinessmag.com/us/news/cyber/autonomous-ai-hit-on-taiwan-linked-to-china-585847.aspx",
+          "date": "2026-08-12",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32"
-        },
-        {
-          "account": "VERISK ANALYTICS",
-          "title": "Verisk Analytics Q2 Earnings Call Highlights",
-          "url": "https://www.tickerreport.com/banking-finance/13522910/verisk-analytics-q2-earnings-call-highlights.html",
-          "date": "2026-07-30",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [
-            "Earnings"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
+          "image": "https://cdn-res.keymedia.com/cms/images/us/003/0270_639221352889400259.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
         }
       ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "Willis Towers Watson",
-          "title": "Unclear risks drive excess data center coverage : Willis",
-          "url": "https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/",
-          "date": "2026-07-28",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://www.businessinsurance.com/wp-content/uploads/2023/03/cropped-BI-square-blue.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }

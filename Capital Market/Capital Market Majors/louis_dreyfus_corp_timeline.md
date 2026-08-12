@@ -1,7 +1,7 @@
 # LOUIS DREYFUS CORP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-08-12 | Raúl Esparza and Lily Rabe Talk  The Winter Tale | 🟡 Low | ⚪ Neutral | [link](https://www.vogue.com/article/raul-esparza-and-lily-rabe-the-winters-tale) |

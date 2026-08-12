@@ -1,7 +1,7 @@
 # AMTrust Financial Services INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-07-29 | US MGA market swells to $128 billion as specialization reshapes distribution | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/excess-surplus/us-mga-market-swells-to-128-billion-as-specialization-reshapes-distribution-584067.aspx) |

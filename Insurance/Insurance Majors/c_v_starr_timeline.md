@@ -1,7 +1,7 @@
 # C V STARR — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-08-04 | Disunion : The Final Q & A | 🟡 Low | ⚪ Neutral | [link](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2015/06/10/disunion-the-final-q-a/) |

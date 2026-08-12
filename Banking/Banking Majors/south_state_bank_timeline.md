@@ -1,7 +1,7 @@
 # South State Bank — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 31, 2026.
+Rolling history of tracked news (last 90 days). Updated August 12, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| — | _No tracked news in the current window._ | — | — | — |
+| 2026-08-11 | Heart 4 Winter Haven Wants Zero Homeless Children by 2030 Winter Haven | 🟡 Low | ⚪ Neutral | [link](https://dailyridge.com/2024/07/05/heart-4-winter-haven-wants-zero-homeless-children-by-2030/) |
