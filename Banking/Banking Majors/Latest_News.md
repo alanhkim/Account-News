@@ -1,8 +1,8 @@
 # Latest News — Banking Majors
 
-**Updated:** August 12, 2026  
+**Updated:** August 13, 2026  
 **Accounts tracked:** 91  
-**Accounts with news this cycle:** 25  
+**Accounts with news this cycle:** 31  
 
 ---
 
@@ -10,53 +10,69 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | Assurant ( AIZ ) Q2 2026 Earnings Call Transcript | 2026-08-12 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/08/11/assurant-aiz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIFTH THIRD BANCORP** | Ocean Park Asset Management LLC Raises Position in iShares Core S & P Small - Cap ETF $IJR | 2026-08-12 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.themarketsdaily.com/2026/08/12/ocean-park-asset-management-llc-raises-position-in-ishares-core-sp-small-cap-etf-ijr.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **EAST WEST BANCORP INC** | Jack Liu Sells 1 , 000 Shares of East West Bancorp ( NASDAQ : EWBC ) Stock | 2026-08-13 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.tickerreport.com/banking-finance/13540840/jack-liu-sells-1000-shares-of-east-west-bancorp-nasdaqewbc-stock.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIFTH THIRD BANCORP** | MIRA Pharmaceuticals ( NASDAQ : MIRA ) Releases Earnings Results | 2026-08-13 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/08/13/mira-pharmaceuticals-nasdaqmira-releases-earnings-results.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.macombdaily.com&sz=32) | **FANNIE MAE** | Real estate : How is a condo reserve fund handled when the property is sold ? – Macomb Daily | 2026-08-13 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.macombdaily.com/2026/08/13/real-estate-how-is-a-condos-reserve-fund-handled-when-the-property-is-sold/) |
 | ![](https://www.google.com/s2/favicons?domain=waateanews.com&sz=32) | **HEALTHEQUITY INC** | # hauora : Health System Under Pressure as Funding and Primary Care Face Scrutiny - Waatea News : Māori Radio Station | 2026-08-12 | 🔴 High | 🔴 Negative | M&A | — | [link](https://waateanews.com/2026/08/12/health-system-under-pressure-as-funding-and-primary-care-face-scrutiny/) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **WESTERN UNION** | Prediction : 3 Dividend Stocks That Will Cut Their Payouts Within the Next 3 Years | 2026-08-11 | 🔴 High | 🔴 Negative | Earnings | — | [link](https://www.fool.com/investing/2026/08/11/prediction-3-dividend-stocks-that-will-cut-their-p/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIRST CITIZENS BANK & TRUST COMPANY** | Union Square Park Capital Management LLC Buys New Stake in Amazon . com , Inc . $AMZN | 2026-08-09 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/09/union-square-park-capital-management-llc-buys-new-stake-in-amazon-com-inc-amzn.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **Roundpoint Mortgage Servicing** | Rocktop hires Two Harbors exec as CrossCountry deal pends | 2026-08-05 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.nationalmortgagenews.com/news/rocktop-hires-two-harbors-exec-as-crosscountry-deal-pends) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Wintrust Financial Corporation** | 5 Stocks Ready to Pay You a Dividend in August , but You Must Buy Them Today | 2026-08-05 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/5-stocks-ready-pay-dividend-143239729.html) |
-| ![](https://www.google.com/s2/favicons?domain=yellowhammernews.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | Regions announces leadership changes as Dave Keenan plans retirement | 2026-08-11 | 🟠 Medium | 🟢 Positive | CxO Change | — | [link](https://yellowhammernews.com/regions-announces-leadership-changes-as-dave-keenan-plans-retirement/) |
-| ![](https://www.google.com/s2/favicons?domain=montrealgazette.com&sz=32) | **Insurity** | Insurity Partners with Insurance Technology Services to Execute Modernization and Implement Complex Programs with Greater Confidence | 2026-08-11 | 🟠 Medium | 🔴 Negative | Product Launch | — | [link](https://montrealgazette.com/press-releases/business-wire/insurity-partners-with-insurance-technology-services-to-execute-modernization-and-implement-complex-programs-with-greater-confidence/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **HUNTINGTON BANCSHARES INC** | Huntington Bancshares Incorporated $HBAN Shares Sold by Pacer Advisors Inc . | 2026-08-09 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/09/huntington-bancshares-incorporated-hban-shares-sold-by-pacer-advisors-inc.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Old National Bancorp** | Old National Bancorp ( ONBPP ) To Go Ex - Dividend on August 5th | 2026-08-03 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13528055/old-national-bancorp-onbpp-to-go-ex-dividend-on-august-5th.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **Datasite** | RECOMMENDED ACQUISITION OF DCC ENERGY PLC \| Company Announcement | 2026-07-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/recommended-acquisition-of-dcc-energy-plc/9687627) |
+| ![](https://www.google.com/s2/favicons?domain=edition.cnn.com&sz=32) | **Bloomberg LP** | Flock rolls out new police auditing and accountability controls following surveillance concerns | 2026-08-13 | 🟠 Medium | 🔴 Negative | Product Launch | — | [link](https://edition.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls) |
 | ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Columbia Banking System, Inc.** | Investment Analyst Recent Ratings Changes for Columbia Banking System ( COLB ) | 2026-08-11 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.dailypolitical.com/2026/08/11/investment-analysts-recent-ratings-changes-for-columbia-banking-system-colb.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.twst.com&sz=32) | **Jack Henry & Associates Inc.** | Waystar and Jack Henry Stand Out as AI - Era Software Winners - The Wall Street Transcript | 2026-08-13 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.twst.com/interview/waystar-and-jack-henry-challenge-ai-software-disruption-fears) |
+| ![](https://www.google.com/s2/favicons?domain=www.sydneysun.com&sz=32) | **DUCK CREEK TECHNOLOGIES INC** | Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience | 2026-08-12 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience) |
 | ![](https://www.google.com/s2/favicons?domain=www.bradfordera.com&sz=32) | **NORTHWEST SAVINGS BANK** | Social Security Matters : Can spouse file at 63 , get half of mine when I claim later ? | 2026-07-17 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.bradfordera.com/2026/07/17/social-security-matters-can-spouse-file-63-get-half-mine-claim-later/) |
-| ![](https://www.google.com/s2/favicons?domain=www.arabnews.com&sz=32) | **HILLTOP HOLDINGS** | Spain prepares for rare solar eclipse against backdrop of heat and wildfires | 2026-08-12 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.arabnews.com/node/2654361/world) |
-| ![](https://www.google.com/s2/favicons?domain=www.hidesertstar.com&sz=32) | **FREDDIE MAC** | Why You Should Consider a Rate Lock - In When Securing Your Home Loan | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hidesertstar.com/online_features/real_estate/why-you-should-consider-a-rate-lock-in-when-securing-your-home-loan/article_b8b14285-90a4-5958-a2cc-b8a1c68c4b29.html) |
-| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **MORTGAGE RESEARCH CENTER** | Current ARM mortgage rates report for Aug . 11 , 2026 | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://fortune.com/article/current-arm-mortgage-rates-08-11-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=dailyridge.com&sz=32) | **South State Bank** | Heart 4 Winter Haven Wants Zero Homeless Children by 2030 Winter Haven | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://dailyridge.com/2024/07/05/heart-4-winter-haven-wants-zero-homeless-children-by-2030/) |
-| ![](https://www.google.com/s2/favicons?domain=horseshoeheroes.com&sz=32) | **GREEN DOT CORPORATION** | Rookie Bryce Boettcher puts Colts veterans on notice with a blunt take | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://horseshoeheroes.com/rookie-bryce-boettcher-puts-indianapolis-colts-veterans-notice-blunt-take) |
-| ![](https://www.google.com/s2/favicons?domain=www.cp24.com&sz=32) | **RAPID ADVANCE LLC** | Recap : B . C . declares state of emergency due to wildfires | 2026-08-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cp24.com/news/canada/2026/08/08/police-investigating-possible-fatality-from-summerland-bc-wildfire-live-updates-here/) |
-| ![](https://www.google.com/s2/favicons?domain=www.heraldextra.com&sz=32) | **MOUNTAIN AMERICA CREDIT UNION** | Money Matters : How to spot financial scams before they cost you \| News , Sports , Jobs | 2026-08-08 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.heraldextra.com/business/2026/aug/07/money-matters-how-to-spot-financial-scams-before-they-cost-you/) |
-| ![](https://www.google.com/s2/favicons?domain=www.baxterbulletin.com&sz=32) | **ARVEST BANK GROUP** | Local Briefs \| Baxter Bulletin | 2026-08-08 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.baxterbulletin.com/stories/local-briefs,155996) |
-| ![](https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=32) | **NELNET** | Student - loan borrowers are facing payment errors and customer service delays . A new federal report offers a solution . | 2026-08-07 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yahoo.com/news/politics/articles/student-loan-borrowers-facing-payment-161213358.html) |
-| ![](https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32) | **Valley National Bank** | Bridge Investment Group Provides $67M Refi for Value - Add Multifamily Outside Boston – Commercial Observer | 2026-08-07 | 🟡 Low | 🟢 Positive | — | — | [link](https://commercialobserver.com/2026/08/bridge-investment-group-67m-refi-eliot-on-ocean-revere/) |
+| ![](https://www.google.com/s2/favicons?domain=localnews8.com&sz=32) | **HILLTOP HOLDINGS** | Trapped and cut off : Palestinian families under settler siege in the West Bank - LocalNews8 . com | 2026-08-13 | 🟡 Low | 🔴 Negative | — | — | [link](https://localnews8.com/news/national-world/cnn-world/2026/08/13/trapped-and-cut-off-palestinian-families-under-settler-siege-in-the-west-bank/) |
+| ![](https://www.google.com/s2/favicons?domain=www.mirror.co.uk&sz=32) | **Movement Mortgage** | Halifax confirms change for customers  from Friday  with  cost cut | 2026-08-13 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.mirror.co.uk/money/halifax-confirms-change-customers-from-37547313) |
+| ![](https://www.google.com/s2/favicons?domain=en.people.cn&sz=32) | **RAPID ADVANCE LLC** | C919 completes first scheduled international commercial service | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](http://en.people.cn/n3/2026/0813/c90000-20488209.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Insurity** | Artizent , Insurity team up on insurer modernisation work | 2026-08-13 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/technology/articles/artizent-insurity-team-insurer-modernisation-121304576.html) |
+| ![](https://www.google.com/s2/favicons?domain=bamahammer.com&sz=32) | **GREEN DOT CORPORATION** | How much will get settled for Alabama during first Fall Camp scrimmage ? | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://bamahammer.com/how-much-will-get-settled-for-alabama-during-first-fall-camp-scrimmage-01kzw6m0nzaa) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIRST CITIZENS BANK & TRUST COMPANY** | Dimensional International Small Cap ETF ( BATS : DFIS ) Hits New 1 - Year High – Still a Buy ? | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/13/dimensional-international-small-cap-etf-batsdfis-hits-new-1-year-high-still-a-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **M & T BANK** | When Payment Infrastructure Stops Caring What Form Money Takes | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.forbes.com/councils/forbestechcouncil/2026/08/13/when-payment-infrastructure-stops-caring-what-form-money-takes/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **United Wholesale Mortgage** | Keefe , Bruyette & Woods Cuts UWM ( NYSE : UWMC ) Price Target to $2 . 75 | 2026-08-13 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.themarketsdaily.com/2026/08/13/keefe-bruyette-woods-cuts-uwm-nyseuwmc-price-target-to-2-75.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Valley National Bank** | Valley National Bancorp ( NASDAQ : VLYPO ) Trading 0 % Higher – What Next ? | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/08/12/valley-national-bancorp-nasdaqvlypo-trading-0-higher-whats-next.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.workerscompensation.com&sz=32) | **WEBSTER BANK** | Ametros to Address Often Forgotten Chapter of Worker Compensation at National Comp | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.workerscompensation.com/sponsored-content/ametros-to-address-often-forgotten-chapter-of-workers-compensation-at-national-comp/) |
+| ![](https://www.google.com/s2/favicons?domain=www.oilandgas360.com&sz=32) | **FIRST HORIZON BANK** | One - on - One Meeting Requests are Open for the 31st EnerCom Denver - The Energy Investment Conference , on August 19 , 2026 , in Denver , Colorado | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.oilandgas360.com/one-on-one-meeting-requests-are-open-for-the-31st-enercom-denver-the-energy-investment-conference-on-august-19-2026-in-denver-colorado-2-2-3/) |
+| ![](https://www.google.com/s2/favicons?domain=www.candgnews.com&sz=32) | **Flagstar Bank** | Arts , Beats & Eats to debut new plaza , music and food | 2026-08-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.candgnews.com/articles/features-news/arts-beats-eats-to-debut-new-plaza-music-and-food/) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Advisor360** | Advisor360° Makes Schwab Advisor Services Account Opening Available Natively , Advancing Its Multi - Custodial Offering | 2026-08-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/10/tmt-newswire/globenewswire/advisor360-makes-schwab-advisor-services-account-opening-available-natively-advancing-its-multi-custodial-offering/2402138) |
+| ![](https://www.google.com/s2/favicons?domain=www.mpamag.com&sz=32) | **NATIONSTAR MORTGAGE** | Homeowner alleges Nationstar foreclosed after serving her at a vacant house | 2026-08-07 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mpamag.com/us/mortgage-industry/industry-trends/homeowner-alleges-nationstar-foreclosed-after-serving-her-at-a-vacant-house/585386) |
+| ![](https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32) | **Navient** | FinancialContent - Why Navient ( NAVI ) Stock Is Falling Today | 2026-08-07 | 🟡 Low | ⚪ Neutral | — | — | [link](https://markets.financialcontent.com/stocks/article/stockstory-2026-8-7-why-navient-navi-stock-is-falling-today) |
 | ![](https://www.google.com/s2/favicons?domain=www.actionnewsjax.com&sz=32) | **VYSTAR CREDIT UNION** | VyStar Credit Union initiates food drive to support families across Florida and Georgia | 2026-08-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.actionnewsjax.com/news/local/vystar-credit-union-initiates-food-drive-support-families-across-florida-georgia/XH7PPL7JQNHYZJI7AYA7YGIPLM/) |
-| ![](https://www.google.com/s2/favicons?domain=www.pymnts.com&sz=32) | **LENDINGTREE.COM** | PYMNTS \| LendingTree Connects ChatGPT to Its Financial Marketplace | 2026-08-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.pymnts.com/loans/2026/lendingtree-connects-chatgpt-conversations-to-its-financial-services-marketplace/) |
-| ![](https://www.google.com/s2/favicons?domain=www.businessincameroon.com&sz=32) | **REPUBLIC FINANCE** | IFC Weighs Taking Up to 53 % of Alios Finance Cameroon CFA13 Billion Bond Offering | 2026-07-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.businessincameroon.com/finance/3107-16555-ifc-weighs-taking-up-to-53-of-alios-finance-cameroon-s-cfa13-billion-bond-offering) |
-| ![](https://www.google.com/s2/favicons?domain=fortworthbusiness.com&sz=32) | **Elevate Credit** | Fort Worth - Based Elevate Closes $655 Million Credit Facility to Fuel Next Phase of Growth | 2026-07-13 | 🟡 Low | 🟢 Positive | — | — | [link](https://fortworthbusiness.com/business/fort-worth-based-elevate-closes-655-million-credit-facility-to-fuel-next-phase-of-growth/) |
+| ![](https://www.google.com/s2/favicons?domain=www.thehindubusinessline.com&sz=32) | **Q2 Software** | Stock Market Today Highlights , August 5 : Sensex rises 152 points , Nifty ends above 24 , 620 after RBI keeps repo rate unchanged | 2026-08-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece) |
+| ![](https://www.google.com/s2/favicons?domain=beyondtheflag.com&sz=32) | **ALLY FINANCIAL** | Iconic NASCAR sponsor linked to sensational Daytona 500 return | 2026-08-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://beyondtheflag.com/iconic-nascar-sponsor-linked-sensational-daytona-500-return-01kz61wx6hn1) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **GREYSTONE SERVICING CORP** | Greystone Provides $105 . 8 Million in Freddie Mac Refinancing for Two Multifamily Communities in El Cajon , California | 2026-08-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/greystone-provides-1058-million-in-freddie-mac-refinancing-for-two-multifamily-communities-in-el-cajon-california/2397181) |
 
 ## Detail
 
-### FREEDOM MORTGAGE CORPORATION
-**Assurant ( AIZ ) Q2 2026 Earnings Call Transcript** — 2026-08-12 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fool.com/earnings/call-transcripts/2026/08/11/assurant-aiz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
-
-### FIFTH THIRD BANCORP
-**Ocean Park Asset Management LLC Raises Position in iShares Core S & P Small - Cap ETF $IJR** — 2026-08-12 — 🔴 High — 🟢 Positive
+### EAST WEST BANCORP INC
+**Jack Liu Sells 1 , 000 Shares of East West Bancorp ( NASDAQ : EWBC ) Stock** — 2026-08-13 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/12/ocean-park-asset-management-llc-raises-position-in-ishares-core-sp-small-cap-etf-ijr.html)
+[Read →](https://www.tickerreport.com/banking-finance/13540840/jack-liu-sells-1000-shares-of-east-west-bancorp-nasdaqewbc-stock.html)
+
+### FIFTH THIRD BANCORP
+**MIRA Pharmaceuticals ( NASDAQ : MIRA ) Releases Earnings Results** — 2026-08-13 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/13/mira-pharmaceuticals-nasdaqmira-releases-earnings-results.html)
+
+### FANNIE MAE
+**Real estate : How is a condo reserve fund handled when the property is sold ? – Macomb Daily** — 2026-08-13 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.macombdaily.com/2026/08/13/real-estate-how-is-a-condos-reserve-fund-handled-when-the-property-is-sold/)
 
 ### HEALTHEQUITY INC
 **# hauora : Health System Under Pressure as Funding and Primary Care Face Scrutiny - Waatea News : Māori Radio Station** — 2026-08-12 — 🔴 High — 🔴 Negative
@@ -68,65 +84,45 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://waateanews.com/2026/08/12/health-system-under-pressure-as-funding-and-primary-care-face-scrutiny/)
 
-### WESTERN UNION
-**Prediction : 3 Dividend Stocks That Will Cut Their Payouts Within the Next 3 Years** — 2026-08-11 — 🔴 High — 🔴 Negative
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fool.com/investing/2026/08/11/prediction-3-dividend-stocks-that-will-cut-their-p/?source=iedfolrf0000001)
-
-### FIRST CITIZENS BANK & TRUST COMPANY
-**Union Square Park Capital Management LLC Buys New Stake in Amazon . com , Inc . $AMZN** — 2026-08-09 — 🔴 High — ⚪ Neutral
+### HUNTINGTON BANCSHARES INC
+**Huntington Bancshares Incorporated $HBAN Shares Sold by Pacer Advisors Inc .** — 2026-08-09 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/09/union-square-park-capital-management-llc-buys-new-stake-in-amazon-com-inc-amzn.html)
+[Read →](https://www.themarketsdaily.com/2026/08/09/huntington-bancshares-incorporated-hban-shares-sold-by-pacer-advisors-inc.html)
 
-### Roundpoint Mortgage Servicing
-**Rocktop hires Two Harbors exec as CrossCountry deal pends** — 2026-08-05 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.nationalmortgagenews.com/news/rocktop-hires-two-harbors-exec-as-crosscountry-deal-pends)
-
-### Wintrust Financial Corporation
-**5 Stocks Ready to Pay You a Dividend in August , but You Must Buy Them Today** — 2026-08-05 — 🔴 High — ⚪ Neutral
+### Old National Bancorp
+**Old National Bancorp ( ONBPP ) To Go Ex - Dividend on August 5th** — 2026-08-03 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/5-stocks-ready-pay-dividend-143239729.html)
+[Read →](https://www.tickerreport.com/banking-finance/13528055/old-national-bancorp-onbpp-to-go-ex-dividend-on-august-5th.html)
 
-### REGIONS FINANCIAL CORPORATION
-**Regions announces leadership changes as Dave Keenan plans retirement** — 2026-08-11 — 🟠 Medium — 🟢 Positive
+### Datasite
+**RECOMMENDED ACQUISITION OF DCC ENERGY PLC | Company Announcement** — 2026-07-27 — 🔴 High — ⚪ Neutral
 
 
 
-_Trigger events:_ CxO Change  
+_Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://yellowhammernews.com/regions-announces-leadership-changes-as-dave-keenan-plans-retirement/)
+[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/recommended-acquisition-of-dcc-energy-plc/9687627)
 
-### Insurity
-**Insurity Partners with Insurance Technology Services to Execute Modernization and Implement Complex Programs with Greater Confidence** — 2026-08-11 — 🟠 Medium — 🔴 Negative
+### Bloomberg LP
+**Flock rolls out new police auditing and accountability controls following surveillance concerns** — 2026-08-13 — 🟠 Medium — 🔴 Negative
 
 
 
 _Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://montrealgazette.com/press-releases/business-wire/insurity-partners-with-insurance-technology-services-to-execute-modernization-and-implement-complex-programs-with-greater-confidence/)
+[Read →](https://edition.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls)
 
 ### Columbia Banking System, Inc.
 **Investment Analyst Recent Ratings Changes for Columbia Banking System ( COLB )** — 2026-08-11 — 🟠 Medium — ⚪ Neutral
@@ -137,6 +133,26 @@ _Trigger events:_ Regulatory
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
 [Read →](https://www.dailypolitical.com/2026/08/11/investment-analysts-recent-ratings-changes-for-columbia-banking-system-colb.html)
+
+### Jack Henry & Associates Inc.
+**Waystar and Jack Henry Stand Out as AI - Era Software Winners - The Wall Street Transcript** — 2026-08-13 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+
+[Read →](https://www.twst.com/interview/waystar-and-jack-henry-challenge-ai-software-disruption-fears)
+
+### DUCK CREEK TECHNOLOGIES INC
+**Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience** — 2026-08-12 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+
+[Read →](http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience)
 
 ### NORTHWEST SAVINGS BANK
 **Social Security Matters : Can spouse file at 63 , get half of mine when I claim later ?** — 2026-07-17 — 🟠 Medium — ⚪ Neutral
@@ -149,94 +165,139 @@ _Microsoft angle:_ Potential Security opportunity — align outreach to this sig
 [Read →](https://www.bradfordera.com/2026/07/17/social-security-matters-can-spouse-file-63-get-half-mine-claim-later/)
 
 ### HILLTOP HOLDINGS
-**Spain prepares for rare solar eclipse against backdrop of heat and wildfires** — 2026-08-12 — 🟡 Low — 🟢 Positive
+**Trapped and cut off : Palestinian families under settler siege in the West Bank - LocalNews8 . com** — 2026-08-13 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.arabnews.com/node/2654361/world)
+[Read →](https://localnews8.com/news/national-world/cnn-world/2026/08/13/trapped-and-cut-off-palestinian-families-under-settler-siege-in-the-west-bank/)
 
-### FREDDIE MAC
-**Why You Should Consider a Rate Lock - In When Securing Your Home Loan** — 2026-08-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.hidesertstar.com/online_features/real_estate/why-you-should-consider-a-rate-lock-in-when-securing-your-home-loan/article_b8b14285-90a4-5958-a2cc-b8a1c68c4b29.html)
-
-### MORTGAGE RESEARCH CENTER
-**Current ARM mortgage rates report for Aug . 11 , 2026** — 2026-08-11 — 🟡 Low — ⚪ Neutral
+### Movement Mortgage
+**Halifax confirms change for customers  from Friday  with  cost cut** — 2026-08-13 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://fortune.com/article/current-arm-mortgage-rates-08-11-2026/)
-
-### South State Bank
-**Heart 4 Winter Haven Wants Zero Homeless Children by 2030 Winter Haven** — 2026-08-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://dailyridge.com/2024/07/05/heart-4-winter-haven-wants-zero-homeless-children-by-2030/)
-
-### GREEN DOT CORPORATION
-**Rookie Bryce Boettcher puts Colts veterans on notice with a blunt take** — 2026-08-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://horseshoeheroes.com/rookie-bryce-boettcher-puts-indianapolis-colts-veterans-notice-blunt-take)
+[Read →](https://www.mirror.co.uk/money/halifax-confirms-change-customers-from-37547313)
 
 ### RAPID ADVANCE LLC
-**Recap : B . C . declares state of emergency due to wildfires** — 2026-08-09 — 🟡 Low — ⚪ Neutral
+**C919 completes first scheduled international commercial service** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.cp24.com/news/canada/2026/08/08/police-investigating-possible-fatality-from-summerland-bc-wildfire-live-updates-here/)
+[Read →](http://en.people.cn/n3/2026/0813/c90000-20488209.html)
 
-### MOUNTAIN AMERICA CREDIT UNION
-**Money Matters : How to spot financial scams before they cost you | News , Sports , Jobs** — 2026-08-08 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.heraldextra.com/business/2026/aug/07/money-matters-how-to-spot-financial-scams-before-they-cost-you/)
-
-### ARVEST BANK GROUP
-**Local Briefs | Baxter Bulletin** — 2026-08-08 — 🟡 Low — ⚪ Neutral
+### Insurity
+**Artizent , Insurity team up on insurer modernisation work** — 2026-08-13 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.baxterbulletin.com/stories/local-briefs,155996)
+[Read →](https://finance.yahoo.com/technology/articles/artizent-insurity-team-insurer-modernisation-121304576.html)
 
-### NELNET
-**Student - loan borrowers are facing payment errors and customer service delays . A new federal report offers a solution .** — 2026-08-07 — 🟡 Low — ⚪ Neutral
+### GREEN DOT CORPORATION
+**How much will get settled for Alabama during first Fall Camp scrimmage ?** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.yahoo.com/news/politics/articles/student-loan-borrowers-facing-payment-161213358.html)
+[Read →](https://bamahammer.com/how-much-will-get-settled-for-alabama-during-first-fall-camp-scrimmage-01kzw6m0nzaa)
+
+### FIRST CITIZENS BANK & TRUST COMPANY
+**Dimensional International Small Cap ETF ( BATS : DFIS ) Hits New 1 - Year High – Still a Buy ?** — 2026-08-13 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/13/dimensional-international-small-cap-etf-batsdfis-hits-new-1-year-high-still-a-buy.html)
+
+### M & T BANK
+**When Payment Infrastructure Stops Caring What Form Money Takes** — 2026-08-13 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.forbes.com/councils/forbestechcouncil/2026/08/13/when-payment-infrastructure-stops-caring-what-form-money-takes/)
+
+### United Wholesale Mortgage
+**Keefe , Bruyette & Woods Cuts UWM ( NYSE : UWMC ) Price Target to $2 . 75** — 2026-08-13 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/13/keefe-bruyette-woods-cuts-uwm-nyseuwmc-price-target-to-2-75.html)
 
 ### Valley National Bank
-**Bridge Investment Group Provides $67M Refi for Value - Add Multifamily Outside Boston – Commercial Observer** — 2026-08-07 — 🟡 Low — 🟢 Positive
+**Valley National Bancorp ( NASDAQ : VLYPO ) Trading 0 % Higher – What Next ?** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://commercialobserver.com/2026/08/bridge-investment-group-67m-refi-eliot-on-ocean-revere/)
+[Read →](https://www.dailypolitical.com/2026/08/12/valley-national-bancorp-nasdaqvlypo-trading-0-higher-whats-next.html)
+
+### WEBSTER BANK
+**Ametros to Address Often Forgotten Chapter of Worker Compensation at National Comp** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.workerscompensation.com/sponsored-content/ametros-to-address-often-forgotten-chapter-of-workers-compensation-at-national-comp/)
+
+### FIRST HORIZON BANK
+**One - on - One Meeting Requests are Open for the 31st EnerCom Denver - The Energy Investment Conference , on August 19 , 2026 , in Denver , Colorado** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.oilandgas360.com/one-on-one-meeting-requests-are-open-for-the-31st-enercom-denver-the-energy-investment-conference-on-august-19-2026-in-denver-colorado-2-2-3/)
+
+### Flagstar Bank
+**Arts , Beats & Eats to debut new plaza , music and food** — 2026-08-11 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.candgnews.com/articles/features-news/arts-beats-eats-to-debut-new-plaza-music-and-food/)
+
+### Advisor360
+**Advisor360° Makes Schwab Advisor Services Account Opening Available Natively , Advancing Its Multi - Custodial Offering** — 2026-08-10 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/08/10/tmt-newswire/globenewswire/advisor360-makes-schwab-advisor-services-account-opening-available-natively-advancing-its-multi-custodial-offering/2402138)
+
+### NATIONSTAR MORTGAGE
+**Homeowner alleges Nationstar foreclosed after serving her at a vacant house** — 2026-08-07 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.mpamag.com/us/mortgage-industry/industry-trends/homeowner-alleges-nationstar-foreclosed-after-serving-her-at-a-vacant-house/585386)
+
+### Navient
+**FinancialContent - Why Navient ( NAVI ) Stock Is Falling Today** — 2026-08-07 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://markets.financialcontent.com/stocks/article/stockstory-2026-8-7-why-navient-navi-stock-is-falling-today)
 
 ### VYSTAR CREDIT UNION
 **VyStar Credit Union initiates food drive to support families across Florida and Georgia** — 2026-08-06 — 🟡 Low — ⚪ Neutral
@@ -247,74 +308,73 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.actionnewsjax.com/news/local/vystar-credit-union-initiates-food-drive-support-families-across-florida-georgia/XH7PPL7JQNHYZJI7AYA7YGIPLM/)
 
-### LENDINGTREE.COM
-**PYMNTS | LendingTree Connects ChatGPT to Its Financial Marketplace** — 2026-08-05 — 🟡 Low — ⚪ Neutral
+### Q2 Software
+**Stock Market Today Highlights , August 5 : Sensex rises 152 points , Nifty ends above 24 , 620 after RBI keeps repo rate unchanged** — 2026-08-05 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.pymnts.com/loans/2026/lendingtree-connects-chatgpt-conversations-to-its-financial-services-marketplace/)
+[Read →](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece)
 
-### REPUBLIC FINANCE
-**IFC Weighs Taking Up to 53 % of Alios Finance Cameroon CFA13 Billion Bond Offering** — 2026-07-31 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.businessincameroon.com/finance/3107-16555-ifc-weighs-taking-up-to-53-of-alios-finance-cameroon-s-cfa13-billion-bond-offering)
-
-### Elevate Credit
-**Fort Worth - Based Elevate Closes $655 Million Credit Facility to Fuel Next Phase of Growth** — 2026-07-13 — 🟡 Low — 🟢 Positive
+### ALLY FINANCIAL
+**Iconic NASCAR sponsor linked to sensational Daytona 500 return** — 2026-08-04 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://fortworthbusiness.com/business/fort-worth-based-elevate-closes-655-million-credit-facility-to-fuel-next-phase-of-growth/)
+[Read →](https://beyondtheflag.com/iconic-nascar-sponsor-linked-sensational-daytona-500-return-01kz61wx6hn1)
+
+### GREYSTONE SERVICING CORP
+**Greystone Provides $105 . 8 Million in Freddie Mac Refinancing for Two Multifamily Communities in El Cajon , California** — 2026-08-03 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/greystone-provides-1058-million-in-freddie-mac-refinancing-for-two-multifamily-communities-in-el-cajon-california/2397181)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (66)</summary>
+<details><summary>Accounts with no material news this cycle (60)</summary>
 
 - Caliber Funding LLC
 - FHLB OF DALLAS
 - FROST NATIONAL BANK
-- NATIONSTAR MORTGAGE
 - Texas Capital Bank
 - WOODFOREST NATIONAL BANK
 - COMERICA INC
 - FAIRWAY MORTGAGE ACCOUNT OFC
-- GREYSTONE SERVICING CORP
-- Navient
+- FREEDOM MORTGAGE CORPORATION
+- Roundpoint Mortgage Servicing
 - CARRINGTON MORTGAGE SERVICE
-- EAST WEST BANCORP INC
 - Midland Credit Management
+- MORTGAGE RESEARCH CENTER
 - PINNACLE BANK
 - UNITED MISSOURI BANCSHARES INC
+- WESTERN UNION
 - BCU
 - Guaranteed Rate Inc
-- Old National Bancorp
+- MOUNTAIN AMERICA CREDIT UNION
 - TRANS UNION CORPORATION
+- Wintrust Financial Corporation
 - ZIONS BANK CORPORATION
+- ARVEST BANK GROUP
 - Co-op Financial Services
 - EXETER FINANCE CORP
-- Movement Mortgage
+- REGIONS FINANCIAL CORPORATION
+- REPUBLIC FINANCE
 - Simmons First National Bank Corporation
-- Advisor360
 - defi Auto, LLC
 - Global Payments
 - Sagent M&C, LLC
 - Versana LLC
 - APPLIED SYSTEMS INC
-- Bloomberg LP
-- Datasite
-- Q2 Software
-- ALLY FINANCIAL
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
 - FNB CORPORATION
+- South State Bank
 - State Employees Credit Union
 - SYNOVUS FINANCIAL CORP
 - Alight
@@ -323,29 +383,24 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Rock Holding Inc.
 - Select Portfolio Servicing, Inc.
 - AUTOBOOKS
-- Flagstar Bank
+- FREDDIE MAC
 - Synchrony Financial
-- WEBSTER BANK
 - Edfinancial Services
-- FIRST HORIZON BANK
-- HUNTINGTON BANCSHARES INC
 - KeyCorp
 - Boeing Employees Credit Union
 - CU DIRECT LENDING (CUDL Technology Center)
 - FIRST TECHNOLOGY CREDIT UNION
 - loanDepot
-- DUCK CREEK TECHNOLOGIES INC
 - Experian
+- NELNET
+- Elevate Credit
 - FACTSET RESEARCH SYSTEMS
-- Jack Henry & Associates Inc.
-- FANNIE MAE
+- LENDINGTREE.COM
 - CENLAR FSB INC
 - CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
-- M & T BANK
-- United Wholesale Mortgage
 
 </details>
 
 ---
-_Auto-generated on August 12, 2026._
+_Auto-generated on August 13, 2026._

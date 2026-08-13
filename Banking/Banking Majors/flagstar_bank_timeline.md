@@ -1,7 +1,8 @@
 # Flagstar Bank — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 12, 2026.
+Rolling history of tracked news (last 90 days). Updated August 13, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-11 | Arts , Beats & Eats to debut new plaza , music and food | 🟡 Low | 🟢 Positive | [link](https://www.candgnews.com/articles/features-news/arts-beats-eats-to-debut-new-plaza-music-and-food/) |
 | 2026-07-25 | Flagstar Bank , National Association ( NYSE : FLG ) Releases Earnings Results , Misses Expectations By $0 . 01 EPS | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/25/flagstar-bank-national-association-nyseflg-releases-earnings-results-misses-expectations-by-0-01-eps.html) |

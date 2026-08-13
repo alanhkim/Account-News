@@ -1,8 +1,8 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** August 12, 2026  
+**Updated:** August 13, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 3  
+**Accounts with news this cycle:** 4  
 
 ---
 
@@ -10,46 +10,58 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **NORTHERN TRUST CORPORATION** | Notice of Annual General Meeting \| Company Announcement | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/prn/twentyfour-select-monthly-income-fund-limited--smif/notice-of-annual-general-meeting/9718378) |
-| ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **BRIDGEWATER ASSOCIATES** | Why Philly is going bananas | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inquirer.com/food/bananas-drinks-philly-restaurants-20260812.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **BLACKROCK FINANCIAL MANAGEMENT** | Renk Group AG : Release according to Article 40 ( 1 ) of the WpHG ( the German Securities Trading Act ) with the objective of Europe - wide distribution | 2026-07-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212) |
+| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **CHARLES SCHWAB CORP** | Schwab Switched On Crypto For 40 Million Accounts And Priced It Like An Index Fund | 2026-08-13 | 🔴 High | ⚪ Neutral | M&A | Fabric | [link](https://www.forbes.com/sites/digital-assets/2026/08/13/schwab-switched-on-crypto-for-40-million-accounts-and-priced-it-like-an-index-fund/) |
+| ![](https://www.google.com/s2/favicons?domain=dailycaller.com&sz=32) | **BRIDGEWATER ASSOCIATES** | Russell Westbrook Announces Retirement Following 18 Seasons In NBA | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://dailycaller.com/2026/08/12/russell-westbrook-retrement-announcement-nba-18seasons/) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **BLACKROCK FINANCIAL MANAGEMENT** | Holding ( s ) in Company \| Company Announcement | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/greatland-gold--ggp/holding-s-in-company/9720098) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **MORGAN STANLEY** | Ten Largest Investments \| Company Announcement | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/jpmorgan-american-inv-trust--jam/ten-largest-investments/9721286) |
 
 ## Detail
 
-### NORTHERN TRUST CORPORATION
-**Notice of Annual General Meeting | Company Announcement** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+### CHARLES SCHWAB CORP
+**Schwab Switched On Crypto For 40 Million Accounts And Priced It Like An Index Fund** — 2026-08-13 — 🔴 High — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Trigger events:_ M&A  
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](https://www.investegate.co.uk/announcement/prn/twentyfour-select-monthly-income-fund-limited--smif/notice-of-annual-general-meeting/9718378)
+[Read →](https://www.forbes.com/sites/digital-assets/2026/08/13/schwab-switched-on-crypto-for-40-million-accounts-and-priced-it-like-an-index-fund/)
 
 ### BRIDGEWATER ASSOCIATES
-**Why Philly is going bananas** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+**Russell Westbrook Announces Retirement Following 18 Seasons In NBA** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.inquirer.com/food/bananas-drinks-philly-restaurants-20260812.html)
+[Read →](https://dailycaller.com/2026/08/12/russell-westbrook-retrement-announcement-nba-18seasons/)
 
 ### BLACKROCK FINANCIAL MANAGEMENT
-**Renk Group AG : Release according to Article 40 ( 1 ) of the WpHG ( the German Securities Trading Act ) with the objective of Europe - wide distribution** — 2026-07-28 — 🟡 Low — 🟢 Positive
+**Holding ( s ) in Company | Company Announcement** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution/2393212)
+[Read →](https://www.investegate.co.uk/announcement/rns/greatland-gold--ggp/holding-s-in-company/9720098)
+
+### MORGAN STANLEY
+**Ten Largest Investments | Company Announcement** — 2026-08-13 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investegate.co.uk/announcement/rns/jpmorgan-american-inv-trust--jam/ten-largest-investments/9721286)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (13)</summary>
+<details><summary>Accounts with no material news this cycle (12)</summary>
 
-- CHARLES SCHWAB CORP
 - VISA U S A INC
 - Brookfield Asset Management
+- NORTHERN TRUST CORPORATION
 - PayPal, Inc.
 - AMERICAN EXPRESS COMPANY
 - Fidelity Investments
@@ -58,10 +70,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - NASDAQ OMX
 - S&P Global
 - MasterCard International
-- MORGAN STANLEY
 - VANGUARD GROUP INC
 
 </details>
 
 ---
-_Auto-generated on August 12, 2026._
+_Auto-generated on August 13, 2026._
