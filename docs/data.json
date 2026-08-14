@@ -1,131 +1,48 @@
 {
-  "generated": "2026-08-13",
-  "generated_human": "August 13, 2026",
+  "generated": "2026-08-14",
+  "generated_human": "August 14, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 11,
-    "high": 3
+    "with_news": 3,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 2,
-      "items": [
-        {
-          "account": "Jack Henry & Associates Inc.",
-          "title": "Waystar and Jack Henry Stand Out as AI - Era Software Winners - The Wall Street Transcript",
-          "url": "https://www.twst.com/interview/waystar-and-jack-henry-challenge-ai-software-disruption-fears",
-          "date": "2026-08-13",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://www.twst.com/wp-content/uploads/2025/08/Aaron-Schaechterle-1-300x300.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.twst.com&sz=32"
-        },
-        {
-          "account": "DUCK CREEK TECHNOLOGIES INC",
-          "title": "Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience",
-          "url": "http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience",
-          "date": "2026-08-12",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.sydneysun.com&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Banking",
-      "sub": "Banking Strategic",
       "count": 1,
       "items": [
         {
-          "account": "US BANK",
-          "title": "Corning Stock : Well - Positioned AI Infrastructure Play ( NYSE : GLW )",
-          "url": "https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play",
-          "date": "2026-08-13",
+          "account": "APPLIED SYSTEMS INC",
+          "title": "HCLTech , NetApp expand partnership to deliver hybrid cloud storage - as - a - service for enterprise AI",
+          "url": "https://news.webindia123.com/news/Articles/Business/20260814/4486937.html",
+          "date": "2026-08-14",
           "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266839811/image_2266839811.jpg?io=getty-c-w1536",
-          "favicon": "https://www.google.com/s2/favicons?domain=seekingalpha.com&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Market Majors",
-      "count": 3,
-      "items": [
-        {
-          "account": "Raymond James and Associates Inc",
-          "title": "KraneShares Electric Vehicles and Future Mobility Index ETF ( NYSEARCA : KARS ) Short Interest Update",
-          "url": "https://www.tickerreport.com/banking-finance/13541730/kraneshares-electric-vehicles-and-future-mobility-index-etf-nysearcakars-short-interest-update.html",
-          "date": "2026-08-13",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
-        },
-        {
-          "account": "T ROWE PRICE ASSOCIATES",
-          "title": "Waste Connections , Rocket Mortgage Offer a Different Way to Play AI - The Wall Street Transcript",
-          "url": "https://www.twst.com/interview/waste-connections-rocket-mortgage-offer-a-different-way-to-play-ai",
-          "date": "2026-08-13",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://www.twst.com/wp-content/uploads/2026/07/Ashley-Woodruff-300x300.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.twst.com&sz=32"
-        },
-        {
-          "account": "TPG Capital",
-          "title": "FinancialContent - TPG Q2 Deep Dive : Asset Growth , Fundraising Momentum , and AI - Driven Value Creation",
-          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-6-tpg-q2-deep-dive-asset-growth-fundraising-momentum-and-ai-driven-value-creation",
-          "date": "2026-08-06",
-          "level": "High",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
           "triggers": [
-            "Earnings",
-            "M&A"
+            "Product Launch"
           ],
           "sentiment": "Positive",
-          "image": "https://stockstory.org/stockstory/company-image/TPG",
-          "favicon": "https://www.google.com/s2/favicons?domain=markets.financialcontent.com&sz=32"
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=news.webindia123.com&sz=32"
         }
       ]
+    },
+    {
+      "top": "Banking",
+      "sub": "Banking Strategic",
+      "count": 0,
+      "items": []
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Market Majors",
+      "count": 0,
+      "items": []
     },
     {
       "top": "Capital Market",
@@ -133,49 +50,28 @@
       "count": 1,
       "items": [
         {
-          "account": "CHARLES SCHWAB CORP",
-          "title": "Schwab Switched On Crypto For 40 Million Accounts And Priced It Like An Index Fund",
-          "url": "https://www.forbes.com/sites/digital-assets/2026/08/13/schwab-switched-on-crypto-for-40-million-accounts-and-priced-it-like-an-index-fund/",
-          "date": "2026-08-13",
-          "level": "High",
+          "account": "Brookfield Asset Management",
+          "title": "Bloom Energy vs . Oklo : Which AI - Power Stock Is the Smarter Buy Now ?",
+          "url": "https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/",
+          "date": "2026-08-14",
+          "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
-          "triggers": [
-            "M&A"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://imageio.forbes.com/specials-images/imageserve/6a72b06706d99f5b480662c6/0x0.jpg?format=jpg&fit=bounds",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32"
+          "image": "https://g.foolcdn.com/editorial/images/882362/ai-brain.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         }
       ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 2,
+      "count": 1,
       "items": [
-        {
-          "account": "Tokio Marine Group",
-          "title": "Philadelphia Technology Leaders to Gather Next Tuesday for HMG Strategy 11th Annual C - Level Technology Leadership Summit on AI Governance , Agentic AI and Cybersecurity Resilience",
-          "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/philadelphia-technology-leaders-to-gather-next-tuesday-for-hmg-strategys-11th-annual-c-level-technology-leadership-summit-on-ai-governance-agentic-ai-and-cybersecurity-resilience/2405167",
-          "date": "2026-08-13",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Security"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Positive",
-          "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/14/1176275.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32"
-        },
         {
           "account": "NEW YORK LIFE INSURANCE COMPANY",
           "title": "Empathy launches digital estate planning platform in united kingdom",
@@ -199,43 +95,8 @@
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 2,
-      "items": [
-        {
-          "account": "Nationwide",
-          "title": "DPH Office of Animal Welfare Using Innovative AI Technology from Petco Love Lost to Reunite Lost Pets with Families",
-          "url": "https://news.delaware.gov/2026/08/13/dph-office-of-animal-welfare-using-innovative-ai-technology-from-petco-love-lost-to-reunite-lost-pets-with-families/",
-          "date": "2026-08-13",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://news.delaware.gov/files/2026/08/Screenshot-2026-08-13-104002.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.delaware.gov&sz=32"
-        },
-        {
-          "account": "GEICO",
-          "title": "Virginia Beach sells land for colocation data center expansion",
-          "url": "https://www.pilotonline.com/2026/08/12/virginia-beach-sells-land-for-colocation-data-center-expansion/",
-          "date": "2026-08-13",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.pilotonline.com/wp-content/uploads/2026/08/TVP-L-NW-GLOBALINX-EXPANSION-LAND-0813-01.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.pilotonline.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }

@@ -1,9 +1,10 @@
 # Chubb — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Dividend Roundup : Microsoft , Chevron , Dow , Chubb , and more | 🔴 High | 🟢 Positive | [link](https://seekingalpha.com/news/4633137-dividend-roundup-microsoft-chevron-dow-chubb-and-more) |
 | 2026-07-30 | Global giants Chubb , Nordex to establish maiden Chennai centres as Tamil Nadu expands industrial base | 🟠 Medium | 🟢 Positive | [link](http://www.europesun.com/news/279216388/global-giants-chubb-nordex-to-establish-maiden-chennai-centres-as-tamil-nadu-expands-industrial-base) |
 | 2026-07-29 | Dolphins veteran RB workout raises new questions about the running back room | 🔴 High | 🟢 Positive | [link](https://phinphanatic.com/miami-dolphins-veteran-rb-workout-raises-new-questions-about-the-running-back-room-01kyncxvcadr) |
 | 2026-07-28 | Utica National names new chief operating officer | 🟠 Medium | ⚪ Neutral | [link](https://www.romesentinel.com/news/utica-national-names-new-chief-operating-officer/article_262e7abe-ec7d-40c5-a22a-0a4a60a32aca.html) |

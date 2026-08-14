@@ -1,9 +1,10 @@
 # Brookfield Asset Management — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Bloom Energy vs . Oklo : Which AI - Power Stock Is the Smarter Buy Now ? | 🟠 Medium | ⚪ Neutral | [link](https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/) |
 | 2026-07-30 | Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex | 🟠 Medium | ⚪ Neutral | [link](https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html) |
 | 2026-07-29 | Brookfield Asset Management gets nod to acquire India Oaktree entities | 🔴 High | ⚪ Neutral | [link](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544) |
 | 2026-07-28 | CCI approves merger of Go Digit holding firm into insurer | 🔴 High | ⚪ Neutral | [link](https://www.moneycontrol.com/news/business/cci-approves-merger-of-go-digit-holding-firm-into-insurer-13986275.html) |

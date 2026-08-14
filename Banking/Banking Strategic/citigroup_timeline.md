@@ -1,9 +1,10 @@
 # Citigroup — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | BETA Technologies ( NYSE : BETA ) Releases Earnings Results , Misses Estimates By $0 . 08 EPS | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13543263/beta-technologies-nysebeta-releases-earnings-results-misses-estimates-by-0-08-eps.html) |
 | 2026-08-13 | Thursday big Wall Street calls include Nvidia , SpaceX , AMD & Disney | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/2026/08/13/thursdays-big-wall-street-calls-include-nvidia-spacex-amd-disney.html) |
 | 2026-07-31 | Neurocrine Biosciences ( NASDAQ : NBIX ) Stock Price Expected to Rise , Piper Sandler Analyst Says | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/31/neurocrine-biosciences-nasdaqnbix-stock-price-expected-to-rise-piper-sandler-analyst-says.html) |
 | 2026-07-30 | Morgan Stanley Forecasts Strong Price Appreciation for Lyft ( NASDAQ : LYFT ) Stock | 🟡 Low | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/07/30/morgan-stanley-forecasts-strong-price-appreciation-for-lyft-nasdaqlyft-stock.html) |

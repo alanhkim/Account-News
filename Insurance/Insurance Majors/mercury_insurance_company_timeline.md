@@ -1,9 +1,10 @@
 # MERCURY INSURANCE COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-10 | 10 Tips to Vacation - Proof Your Home While Youre Away | 🟡 Low | ⚪ Neutral | [link](https://www.bigbeargrizzly.net/online_features/family_living/10-tips-to-vacation-proof-your-home-while-youre-away/article_f984ba61-5f70-50f8-8101-11f86a007494.html) |
 | 2026-07-30 | California Supreme Court eases pleading rules for insureds suing excess carriers | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/california-supreme-court-eases-pleading-rules-for-insureds-suing-excess-carriers-584206.aspx) |
 | 2026-07-28 | Top 10 SUVs That Are The Cheapest to Insure in 2026 and Why Right Now Is One of the Best Times of Year to Actually Go Buy One » Live Insurance News | 🟡 Low | ⚪ Neutral | [link](https://www.liveinsurancenews.com/top-10-suvs-cheapest-to-insure/8574565/) |
 | 2026-07-23 | Why Wildfire Risk Can Vary from One Home to the Next | 🟠 Medium | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/why-wildfire-risk-can-vary-from-one-home-to-the-next-302832958.html) |

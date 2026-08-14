@@ -1,9 +1,10 @@
 # KeyCorp — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Sequoia Financial Advisors LLC Purchases 2 , 377 Shares of Synopsys , Inc . $SNPS | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/14/sequoia-financial-advisors-llc-purchases-2377-shares-of-synopsys-inc-snps.html) |
 | 2026-07-31 | National Fuel Gas ( NYSE : NFG ) Releases Quarterly Earnings Results , Beats Expectations By $0 . 10 EPS | 🔴 High | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/07/31/national-fuel-gas-nysenfg-releases-quarterly-earnings-results-beats-expectations-by-0-10-eps.html) |
 | 2026-07-30 | SiteOne Landscape Supply ( NYSE : SITE ) Announces Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/30/siteone-landscape-supply-nysesite-announces-earnings-results.html) |
 | 2026-07-29 | Spartan Wealth Advisory Services LLC Makes New Investment in Alphabet Inc . $GOOGL | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/29/spartan-wealth-advisory-services-llc-makes-new-investment-in-alphabet-inc-googl.html) |

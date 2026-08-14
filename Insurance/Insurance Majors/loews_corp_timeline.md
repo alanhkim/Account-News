@@ -1,9 +1,10 @@
 # Loews Corp — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Taking the Kids : Last Gasp Summer | 🟡 Low | ⚪ Neutral | [link](https://www.theepochtimes.com/bright/taking-the-kids-last-gasp-summer-6075111) |
 | 2026-08-13 | CalCPA Annual Members Club Summit Brings Together Accounting Leaders to Chart the Future of the Profession | 🟡 Low | ⚪ Neutral | [link](https://www.cpapracticeadvisor.com/2026/08/12/calcpas-annual-members-club-summit-brings-together-californias-accounting-leaders-to-chart-the-future-of-the-profession/188419/) |
 | 2026-08-12 | BioSmile Health Dr . Derrick Johnson Presents on Ceramic Implants in Arlington | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/biosmile-healths-dr-derrick-johnson-presents-on-ceramic-implants-in-arlington-302848914.html) |
 | 2026-07-30 | Linda From Loews Miami Beach Hotel on the Show | 🟡 Low | ⚪ Neutral | [link](https://www.mix100lubbock.com/linda-from-loews-miami-beach-hotel-on-the-show/) |

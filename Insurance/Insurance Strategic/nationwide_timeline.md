@@ -1,9 +1,10 @@
 # Nationwide — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | How Eddie Paid Off $40k in Credit Card Debt \| Hot Country 106 . 5 FM | 🟡 Low | ⚪ Neutral | [link](https://kmcx.iheart.com/featured/bobby-bones/content/2026-08-14-how-eddie-paid-off-40k-in-credit-card-debt/) |
 | 2026-08-13 | DPH Office of Animal Welfare Using Innovative AI Technology from Petco Love Lost to Reunite Lost Pets with Families | 🟠 Medium | ⚪ Neutral | [link](https://news.delaware.gov/2026/08/13/dph-office-of-animal-welfare-using-innovative-ai-technology-from-petco-love-lost-to-reunite-lost-pets-with-families/) |
 | 2026-07-30 | How Medicaid fraud could affect your tax dollars and health care | 🟠 Medium | ⚪ Neutral | [link](https://wset.com/news/nation-world/medicare-fraud-health-care-taxpayer-dollars-medicaid-funding-federal-fraud-scamsmedicaid-investigations-dr-oz-jd-vance-trump-admin-california-minnesota-ohio-texas-florida) |
 | 2026-07-29 | COAS appoints GOCs for new Army divisions | 🟠 Medium | ⚪ Neutral | [link](https://tribuneonlineng.com/coas-appoints-gocs-for-new-army-divisions/) |

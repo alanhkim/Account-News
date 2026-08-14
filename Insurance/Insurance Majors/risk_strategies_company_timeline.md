@@ -1,9 +1,10 @@
 # RISK STRATEGIES COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Vacancy Advert - Head Strategy | 🟡 Low | ⚪ Neutral | [link](https://thepatriot.co.bw/vacancy-advert-head-strategy/) |
 | 2026-08-13 | Viewpoint : Storm Resilience Must Account for the Assets That Do Not Stay Put | 🟠 Medium | ⚪ Neutral | [link](https://www.insurancejournal.com/news/national/2026/08/13/881379.htm) |
 | 2026-08-12 | Using technology to protect China world - famous Mogao Grottoes | 🟡 Low | ⚪ Neutral | [link](https://www.thestar.com.my/lifestyle/travel/2026/08/12/using-technology-to-protect-china039s-world-famous-mogao-grottoes) |
 | 2026-07-29 | Inogen Alliance : From Water Risk to Water Resilience : Five Themes Shaping the Future of Water Stewardship | 🟠 Medium | ⚪ Neutral | [link](https://www.finanznachrichten.de/nachrichten-2026-07/69156530-inogen-alliance-from-water-risk-to-water-resilience-five-themes-shaping-the-future-of-water-stewardship-200.htm) |

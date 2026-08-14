@@ -1,9 +1,10 @@
 # FANNIE MAE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 13, 2026.
+Rolling history of tracked news (last 90 days). Updated August 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-14 | Essent ( ESNT ) Q2 2026 Earnings Call Transcript | 🔴 High | ⚪ Neutral | [link](https://www.fool.com/earnings/call-transcripts/2026/08/14/essent-esnt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
 | 2026-08-13 | Real estate : How is a condo reserve fund handled when the property is sold ? – Macomb Daily | 🔴 High | ⚪ Neutral | [link](https://www.macombdaily.com/2026/08/13/real-estate-how-is-a-condos-reserve-fund-handled-when-the-property-is-sold/) |
 | 2026-07-31 | Why do mortgages get sold ? And what you can do about it ? | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/news/why-mortgage-gets-sold-144001081.html) |
 | 2026-07-30 | Analyst Updated EPS Estimates for July 30th ( ABDN , ACTU , AEON , ALFA , AML , ARM , BREE , CMG , CRE , CVNA ) | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/30/analysts-updated-eps-estimates-for-july-30th-abdn-actu-aeon-alfa-aml-arm-bree-cmg-cre-cvna.html) |
