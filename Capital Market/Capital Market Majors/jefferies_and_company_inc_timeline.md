@@ -1,9 +1,10 @@
 # JEFFERIES & COMPANY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 14, 2026.
+Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | XP Inc . Q2 2026 Earnings : Revenue Beats at R$5 . 06 Billion | 🔴 High | 🟢 Positive | [link](https://www.sci-tech-today.com/news/xp-inc-q2-2026-earnings/) |
 | 2026-08-14 | Workday , Silver Lake in discussions over potential $43B deal | 🔴 High | ⚪ Neutral | [link](https://www.proactiveinvestors.com/companies/news/1097070/workday-silver-lake-in-discussions-over-potential-43b-deal-1097070.html) |
 | 2026-07-29 | Closing Bell : Nifty Reclaims 24 , 250 as IT Rallies for Third Straight Day and FIIs Turn Net Buyers | 🟡 Low | ⚪ Neutral | [link](https://www.indiainfoline.com/news/markets/closing-bell-nifty-reclaims-24250-as-it-rallies-for-third-straight-day-and-fiis-turn-net-buyers) |
 | 2026-07-28 | Coats Group ( LON : COA ) Trading Up 9 % – Time to Buy ? | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13519456/coats-group-loncoa-trading-up-9-time-to-buy.html) |

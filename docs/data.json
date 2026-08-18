@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-14",
-  "generated_human": "August 14, 2026",
+  "generated": "2026-08-18",
+  "generated_human": "August 18, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 3,
-    "high": 0
+    "with_news": 4,
+    "high": 1
   },
   "verticals": [
     {
@@ -13,47 +13,58 @@
       "count": 1,
       "items": [
         {
-          "account": "APPLIED SYSTEMS INC",
-          "title": "HCLTech , NetApp expand partnership to deliver hybrid cloud storage - as - a - service for enterprise AI",
-          "url": "https://news.webindia123.com/news/Articles/Business/20260814/4486937.html",
-          "date": "2026-08-14",
-          "level": "Medium",
+          "account": "Datasite",
+          "title": "AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions",
+          "url": "https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/",
+          "date": "2026-08-18",
+          "level": "High",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
           "triggers": [
-            "Product Launch"
+            "M&A"
           ],
-          "sentiment": "Positive",
+          "sentiment": "Neutral",
           "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.webindia123.com&sz=32"
+          "favicon": "https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32"
         }
       ]
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "FISERV Inc",
+          "title": "Clop Claims Data Theft From More Than 40 Companies",
+          "url": "https://www.bankinfosecurity.com/clop-claims-data-theft-from-more-than-40-companies-a-32581",
+          "date": "2026-08-18",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/clop-claims-data-theft-from-more-than-40-companies-image_large-7-a-32581.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.bankinfosecurity.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 0,
-      "items": []
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Markets Strategic",
-      "count": 1,
+      "count": 2,
       "items": [
         {
-          "account": "Brookfield Asset Management",
-          "title": "Bloom Energy vs . Oklo : Which AI - Power Stock Is the Smarter Buy Now ?",
-          "url": "https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/",
-          "date": "2026-08-14",
+          "account": "Dun & Bradstreet Corporation",
+          "title": "Asia agency AI race will be won below the surface",
+          "url": "https://www.campaignasia.com/article/asia-s-agency-ai-race-will-be-won-below-the-surface/476vgmd4q9ay56eqe5zchmtnnw",
+          "date": "2026-08-18",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
@@ -62,35 +73,38 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://g.foolcdn.com/editorial/images/882362/ai-brain.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Insurance",
-      "sub": "Insurance Majors",
-      "count": 1,
-      "items": [
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.campaignasia.com&sz=32"
+        },
         {
-          "account": "NEW YORK LIFE INSURANCE COMPANY",
-          "title": "Empathy launches digital estate planning platform in united kingdom",
-          "url": "https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/",
-          "date": "2026-08-06",
+          "account": "CITADEL INVESTMENT GROUP",
+          "title": "Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement",
+          "url": "https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/",
+          "date": "2026-08-14",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
             "Fabric"
           ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://www.international-adviser.com/wp-content/uploads/2018/01/2016-700-magnifying-glass-search-papers.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32"
+          "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/03/09034548/Jim-Cramer_IM.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32"
         }
       ]
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Markets Strategic",
+      "count": 0,
+      "items": []
+    },
+    {
+      "top": "Insurance",
+      "sub": "Insurance Majors",
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",

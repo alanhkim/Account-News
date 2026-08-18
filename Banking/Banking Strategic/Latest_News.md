@@ -1,8 +1,8 @@
 # Latest News — Banking Strategic
 
-**Updated:** August 14, 2026  
+**Updated:** August 18, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 6  
+**Accounts with news this cycle:** 4  
 
 ---
 
@@ -10,88 +10,69 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **FISERV Inc** | AltiGen Communications Q3 Earnings Call Highlights | 2026-08-14 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.dailypolitical.com/2026/08/14/altigen-communications-q3-earnings-call-highlights.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **BNY Mellon** | Money market funds | 2026-08-14 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.americanbanker.com/tag/money-market-funds) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Citigroup** | BETA Technologies ( NYSE : BETA ) Releases Earnings Results , Misses Estimates By $0 . 08 EPS | 2026-08-14 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13543263/beta-technologies-nysebeta-releases-earnings-results-misses-estimates-by-0-08-eps.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.assetservicingtimes.com&sz=32) | **FIS Global** | FIS and Anthropic extend partnership - Asset Servicing Times | 2026-07-17 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158) |
-| ![](https://www.google.com/s2/favicons?domain=www.wvgazettemail.com&sz=32) | **Capital One** | Joseph Wyatt : The scandal that not getting enough attention ( Opinion ) | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wvgazettemail.com/opinion/columnists/joseph-wyatt-the-scandal-thats-not-getting-enough-attention-opinion/article_8f02361d-2fba-4482-b3d3-082c68b29374.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.wemu.org&sz=32) | **Bank of America** | We learned 5 important things about the economy this week | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wemu.org/npr-national-news/2026-08-14/we-learned-5-important-things-about-the-economy-this-week) |
+| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **BNY Mellon** | 3 Great Dividend Stock ETFs | 2026-08-17 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.morningstar.com/funds/3-great-dividend-stock-etfs-2) |
+| ![](https://www.google.com/s2/favicons?domain=www.bankinfosecurity.com&sz=32) | **FISERV Inc** | Clop Claims Data Theft From More Than 40 Companies | 2026-08-18 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.bankinfosecurity.com/clop-claims-data-theft-from-more-than-40-companies-a-32581) |
+| ![](https://www.google.com/s2/favicons?domain=www.investors.com&sz=32) | **Bank of America** | Why Bank Of America Is Bullish On Cybersecurity Stocks | 2026-08-18 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/) |
+| ![](https://www.google.com/s2/favicons?domain=www.finanzen.ch&sz=32) | **Wells Fargo & Company** | U . S . Housing Starts Plunge 12 . 4 % In July , Much More Than Expected | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.finanzen.ch/nachrichten/zinsen/u-s-housing-starts-plunge-12-4percent-in-july-much-more-than-expected-1036470569) |
 
 ## Detail
 
-### FISERV Inc
-**AltiGen Communications Q3 Earnings Call Highlights** — 2026-08-14 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/08/14/altigen-communications-q3-earnings-call-highlights.html)
-
 ### BNY Mellon
-**Money market funds** — 2026-08-14 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.americanbanker.com/tag/money-market-funds)
-
-### Citigroup
-**BETA Technologies ( NYSE : BETA ) Releases Earnings Results , Misses Estimates By $0 . 08 EPS** — 2026-08-14 — 🔴 High — ⚪ Neutral
+**3 Great Dividend Stock ETFs** — 2026-08-17 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13543263/beta-technologies-nysebeta-releases-earnings-results-misses-estimates-by-0-08-eps.html)
+[Read →](https://www.morningstar.com/funds/3-great-dividend-stock-etfs-2)
 
-### FIS Global
-**FIS and Anthropic extend partnership - Asset Servicing Times** — 2026-07-17 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=18158)
-
-### Capital One
-**Joseph Wyatt : The scandal that not getting enough attention ( Opinion )** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+### FISERV Inc
+**Clop Claims Data Theft From More Than 40 Companies** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](https://www.wvgazettemail.com/opinion/columnists/joseph-wyatt-the-scandal-thats-not-getting-enough-attention-opinion/article_8f02361d-2fba-4482-b3d3-082c68b29374.html)
+[Read →](https://www.bankinfosecurity.com/clop-claims-data-theft-from-more-than-40-companies-a-32581)
 
 ### Bank of America
-**We learned 5 important things about the economy this week** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+**Why Bank Of America Is Bullish On Cybersecurity Stocks** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/)
+
+### Wells Fargo & Company
+**U . S . Housing Starts Plunge 12 . 4 % In July , Much More Than Expected** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.wemu.org/npr-national-news/2026-08-14/we-learned-5-important-things-about-the-economy-this-week)
+[Read →](https://www.finanzen.ch/nachrichten/zinsen/u-s-housing-starts-plunge-12-4percent-in-july-much-more-than-expected-1036470569)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (9)</summary>
+<details><summary>Accounts with no material news this cycle (11)</summary>
 
+- FIS Global
 - NAVY FEDERAL CREDIT UNION M
 - FIDELITY NATIONAL FINANCIAL
 - TRUIST FINANCIAL
-- Wells Fargo & Company
 - US BANK
 - STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
 - JPMORGAN CHASE
 - P N C FINANCIAL CORP
+- Citigroup
+- Capital One
 
 </details>
 
 ---
-_Auto-generated on August 14, 2026._
+_Auto-generated on August 18, 2026._

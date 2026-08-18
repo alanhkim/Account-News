@@ -1,9 +1,10 @@
 # Wells Fargo & Company — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 14, 2026.
+Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | U . S . Housing Starts Plunge 12 . 4 % In July , Much More Than Expected | 🟡 Low | ⚪ Neutral | [link](https://www.finanzen.ch/nachrichten/zinsen/u-s-housing-starts-plunge-12-4percent-in-july-much-more-than-expected-1036470569) |
 | 2026-07-31 | Sirius XM ( NASDAQ : SIRI ) Given New $31 . 00 Price Target at Wells Fargo & Company | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/31/sirius-xm-nasdaqsiri-given-new-31-00-price-target-at-wells-fargo-company.html) |
 | 2026-07-30 | InvenTrust Properties ( IVT ) – Analyst Recent Ratings Updates | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13522948/inventrust-properties-ivt-analysts-recent-ratings-updates.html) |
 | 2026-07-28 | Builders FirstSource ( NYSE : BLDR ) Given New $85 . 00 Price Target at BMO Capital Markets | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/28/builders-firstsource-nysebldr-given-new-85-00-price-target-at-bmo-capital-markets.html) |

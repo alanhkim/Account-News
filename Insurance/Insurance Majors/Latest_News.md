@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** August 14, 2026  
+**Updated:** August 18, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 24  
+**Accounts with news this cycle:** 20  
 
 ---
 
@@ -10,129 +10,149 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **ARTHUR J GALLAGHER & CO** | Top independent agencies kept profit margins strong even as growth slowed Big  I | 2026-08-13 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/top-independent-agencies-kept-profit-margins-strong-even-as-growth-slowed--big-i-585957.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Assurant** | Assurant ( AIZ ) Q2 2026 Earnings Call Transcript | 2026-08-12 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/08/11/assurant-aiz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **CINCINNATI INSURANCE COMPANIES** | Kellington returns to ACORD as CEO | 2026-08-11 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.businessinsurance.com/kellington-returns-to-acord-as-ceo/) |
-| ![](https://www.google.com/s2/favicons?domain=www.captiveinsurancetimes.com&sz=32) | **AmWINS Group** | Captive insurance people moves news \| MSIG united states appoints three independent directors to holdings board | 2026-08-10 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.captiveinsurancetimes.com/captiveinsurancenews/peoplemovesarticle.php?article_id=10516&navigationaction=latestnews&page=1&newssection=people) |
-| ![](https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Empathy launches digital estate planning platform in united kingdom | 2026-08-06 | 🟠 Medium | ⚪ Neutral | Product Launch | Fabric | [link](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/) |
-| ![](https://www.google.com/s2/favicons?domain=www.thedailystar.net&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Guardian Life Insurance , BKMEA partner to expand insurance coverage for knitwear workers | 2026-08-06 | 🟠 Medium | 🟢 Positive | Product Launch | — | [link](https://www.thedailystar.net/business/news/guardian-life-insurance-bkmea-partner-expand-insurance-coverage-knitwear-workers-4241676) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **aflac** | Aflac ( NYSE : AFL ) Price Target Raised to $125 . 00 | 2026-08-14 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13542415/aflac-nyseafl-price-target-raised-to-125-00.html) |
-| ![](https://www.google.com/s2/favicons?domain=thepatriot.co.bw&sz=32) | **RISK STRATEGIES COMPANY** | Vacancy Advert - Head Strategy | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thepatriot.co.bw/vacancy-advert-head-strategy/) |
-| ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **MARKEL** | These 12 Eagles the most on the line in preseason Week 1 vs . the Ravens | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inquirer.com/eagles/2026-preseason-week-1-players-to-watch-ravens-20260814.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERICAN FAMILY CORPORATION** | Parks ! America ( OTCMKTS : PRKA ) and Mattel ( NASDAQ : MAT ) Head - To - Head Survey | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/14/parks-america-otcmktsprka-and-mattel-nasdaqmat-head-to-head-survey.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Genworth** | Enact ( ACT ) Q2 2026 Earnings Call Transcript | 2026-08-13 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/08/12/enact-act-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=theeagleonline.com.ng&sz=32) | **FM GLOBAL** | GLOWFUX unveils ambitious programmes to mark 10 anniversary | 2026-08-18 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://theeagleonline.com.ng/glowfux-unveils-ambitious-programmes-to-mark-10-anniversary/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **The Hanover Insurance Group** | The Hanover Insurance Group ( THG ) – Research Analyst Recent Ratings Updates | 2026-08-13 | 🟠 Medium | 🟢 Positive | Regulatory | — | [link](https://www.themarketsdaily.com/2026/08/13/the-hanover-insurance-group-thg-research-analysts-recent-ratings-updates.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.daytonatimes.com&sz=32) | **MERCURY INSURANCE COMPANY** | 5 Summer Safety Risks Homeowners Often Overlook When Hosting | 2026-08-17 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.daytonatimes.com/online_features/home_decorating/5-summer-safety-risks-homeowners-often-overlook-when-hosting/article_28e5da74-607b-5a2f-a7e1-0254a9cd56a9.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.yourtango.com&sz=32) | **PROSPERITY LIFE GROUP** | Weekly Chinese Horoscopes Are Here For Each Animal Sign From August 17 - 23 , 2026 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yourtango.com/2026400094/weekly-chinese-horoscopes-animal-sign-august-17-23-2026) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **STANDARD INSURANCE CO** | HelloNation Features Real Estate Expert Angie Outlaw on Flood Insurance for Coastal Homes in Florida | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.prnewswire.com/news-releases/hellonation-features-real-estate-expert-angie-outlaw-on-flood-insurance-for-coastal-homes-in-florida-302854262.html) |
+| ![](https://www.google.com/s2/favicons?domain=netflixlife.com&sz=32) | **AMERICAN FAMILY CORPORATION** | When Calls the Heart spinoff series set for Netflix debut in September | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://netflixlife.com/when-calls-the-heart-spinoff-series-set-netflix-debut-september) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **ARTHUR J GALLAGHER & CO** | 10 New Firms Join Insurance Journal Top 100 Independent Agencies | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/news/national/2026/08/18/881935.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.stlouisstar.com&sz=32) | **Loews Corp** | ThrottleNet Climbs to No . 295 on the 2026 MSP 501 , Jumping Nearly 90 Spots in a Single Year | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.stlouisstar.com/news/279248294/throttlenet-climbs-to-no-295-on-the-2026-msp-501-jumping-nearly-90-spots-in-a-single-year) |
+| ![](https://www.google.com/s2/favicons?domain=www.newyorkstatesman.com&sz=32) | **EQUITABLE** | Your guide to CSW67 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.newyorkstatesman.com/news/279249408/your-guide-to-csw67) |
+| ![](https://www.google.com/s2/favicons?domain=www.wtok.com&sz=32) | **AMYNTA GROUP** | Lauderdale Co . Board of Supervisors approves the purchase of VFIS insurance for Volunteer Fire Departments | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wtok.com/2026/08/17/lauderdale-co-board-supervisors-approves-purchase-vfis-insurance-volunteer-fire-departments/) |
+| ![](https://www.google.com/s2/favicons?domain=www.abqjournal.com&sz=32) | **LINCOLN NATIONAL CORPORATION** | New Mexico iconic green chile , Route 66 , and Smokey Bear : A centennial look | 2026-08-16 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.abqjournal.com/opinion/three-nm-icons-a-fruit-a-road-and-a-bear/3099589) |
+| ![](https://www.google.com/s2/favicons?domain=www.sweetwaternow.com&sz=32) | **AAA INSURANCE GROUP** | Cooler days are on the way ! - SweetwaterNOW | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sweetwaternow.com/cooler-days-are-on-the-way/) |
 | ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **COUNTRY FINANCIAL SERVICES INC** | Director / PDMR Shareholding \| Company Announcement | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9722911) |
-| ![](https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32) | **Loews Corp** | Taking the Kids : Last Gasp Summer | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theepochtimes.com/bright/taking-the-kids-last-gasp-summer-6075111) |
 | ![](https://www.google.com/s2/favicons?domain=www.dmcityview.com&sz=32) | **FARM BUREAU FINANCIAL SERVICES** | Corporate Games Champions Honored | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dmcityview.com/just-released/2026/08/14/corporate-games-champions-honored/) |
-| ![](https://www.google.com/s2/favicons?domain=www.echopress.com&sz=32) | **EQUITABLE** | An Echo Press Editorial : One election done , another one looms | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.echopress.com/opinion/editorials/an-echo-press-editorial-one-election-done-another-one-looms) |
-| ![](https://www.google.com/s2/favicons?domain=www.globalsecurity.org&sz=32) | **FM GLOBAL** | China engages in normal cooperation with Cambodia and Thailand , promotes peace talks : FM spokesperson | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-globaltimes02.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **AMYNTA GROUP** | Amynta Group Buys Virginia - Based Southern States Underwriters MGU | 2026-08-13 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.insurancejournal.com/news/east/2026/08/13/881307.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.ketv.com&sz=32) | **MUTUAL OF OMAHA** | Heartland Honors 9 / 11 campaign honors lives lost | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ketv.com/article/heartland-honors-911-campaign/73419512) |
+| ![](https://www.google.com/s2/favicons?domain=www.galvnews.com&sz=32) | **American National Insurance Co** | Galveston economic , civic leaders seek to build a stronger , more vibrant downtown | 2026-08-12 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.galvnews.com/news/galveston-economic-civic-leaders-seek-to-build-a-stronger-more-vibrant-downtown/article_13d4c550-f907-4bbf-a83d-bc4eccb116d1.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=32) | **AMERICAN FIDELITY** | Tax rate , budget hearings set by County | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yahoo.com/news/politics/articles/tax-rate-budget-hearings-set-000000735.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Dhamu Thamodaran Purchases 2 , 500 Shares of StoneX Group ( NASDAQ : SNEX ) Stock | 2026-08-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13539023/dhamu-thamodaran-purchases-2500-shares-of-stonex-group-nasdaqsnex-stock.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.bigbeargrizzly.net&sz=32) | **MERCURY INSURANCE COMPANY** | 10 Tips to Vacation - Proof Your Home While Youre Away | 2026-08-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bigbeargrizzly.net/online_features/family_living/10-tips-to-vacation-proof-your-home-while-youre-away/article_f984ba61-5f70-50f8-8101-11f86a007494.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **JACKSON NATIONAL LIFE** | Wall Street Zen Upgrades Jackson Financial ( NYSE : JXN ) to Buy | 2026-08-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13537050/wall-street-zen-upgrades-jackson-financial-nysejxn-to-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.citizensvoice.com&sz=32) | **Guard Insurance** | Free Dire Straits concert Aug . 14 in Wilkes - Barre : What you need to know | 2026-08-07 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.citizensvoice.com/2026/08/07/free-dire-straits-concert-aug-14-in-wilkes-barre-what-you-need-to-know/) |
-| ![](https://www.google.com/s2/favicons?domain=archive.nytimes.com&sz=32) | **C V STARR** | Disunion : The Final Q & A | 2026-08-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2015/06/10/disunion-the-final-q-a/) |
-| ![](https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32) | **PROSPERITY LIFE GROUP** | JAB Holdings B . V . Announces Pricing of Tender Offers for Any and All of Its 2 . 200 % Senior Notes Due 2030 , 3 . 750 % Senior Notes Due 2051 and 4 . 500 % Sustainability - Linked Senior Notes Due 2052 | 2026-07-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.finanznachrichten.de/nachrichten-2026-07/69135878-jab-holdings-b-v-announces-pricing-of-tender-offers-for-any-and-all-of-its-2-200-senior-notes-due-2030-3-750-senior-notes-due-2051-and-4-500-sust-004.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.popularmechanics.com&sz=32) | **PROTECTIVE LIFE CORPORATION** | Scientists Say Consciousness Comes From Feelings , Not Thoughts | 2026-07-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.popularmechanics.com/science/a73249621/feelings-consciousness-neuroscience/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **GENERAL REINSURANCE COMPANY** | Berkshire Hathaway Hits an 8 Month High . It Now My Top Buy and Hold Forever Pick . | 2026-08-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-hits-8-month-121005151.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Berkshire Hathaway Specialty Insurance Company** | Women in Insurance Summit Australia 2026 set for August with early bird window closing | 2026-07-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/au/news/breaking-news/women-in-insurance-summit-australia-2026-set-for-august-with-early-bird-window-closing-583452.aspx) |
 
 ## Detail
 
-### ARTHUR J GALLAGHER & CO
-**Top independent agencies kept profit margins strong even as growth slowed Big  I** — 2026-08-13 — 🔴 High — 🟢 Positive
+### Genworth
+**Enact ( ACT ) Q2 2026 Earnings Call Transcript** — 2026-08-13 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/top-independent-agencies-kept-profit-margins-strong-even-as-growth-slowed--big-i-585957.aspx)
+[Read →](https://www.fool.com/earnings/call-transcripts/2026/08/12/enact-act-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
 
-### Assurant
-**Assurant ( AIZ ) Q2 2026 Earnings Call Transcript** — 2026-08-12 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fool.com/earnings/call-transcripts/2026/08/11/assurant-aiz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001)
-
-### CINCINNATI INSURANCE COMPANIES
-**Kellington returns to ACORD as CEO** — 2026-08-11 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.businessinsurance.com/kellington-returns-to-acord-as-ceo/)
-
-### AmWINS Group
-**Captive insurance people moves news | MSIG united states appoints three independent directors to holdings board** — 2026-08-10 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.captiveinsurancetimes.com/captiveinsurancenews/peoplemovesarticle.php?article_id=10516&navigationaction=latestnews&page=1&newssection=people)
-
-### NEW YORK LIFE INSURANCE COMPANY
-**Empathy launches digital estate planning platform in united kingdom** — 2026-08-06 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/)
-
-### GUARDIAN LIFE INSURANCE CO
-**Guardian Life Insurance , BKMEA partner to expand insurance coverage for knitwear workers** — 2026-08-06 — 🟠 Medium — 🟢 Positive
+### FM GLOBAL
+**GLOWFUX unveils ambitious programmes to mark 10 anniversary** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thedailystar.net/business/news/guardian-life-insurance-bkmea-partner-expand-insurance-coverage-knitwear-workers-4241676)
+[Read →](https://theeagleonline.com.ng/glowfux-unveils-ambitious-programmes-to-mark-10-anniversary/)
 
-### aflac
-**Aflac ( NYSE : AFL ) Price Target Raised to $125 . 00** — 2026-08-14 — 🟡 Low — 🟢 Positive
+### The Hanover Insurance Group
+**The Hanover Insurance Group ( THG ) – Research Analyst Recent Ratings Updates** — 2026-08-13 — 🟠 Medium — 🟢 Positive
+
+
+
+_Trigger events:_ Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/13/the-hanover-insurance-group-thg-research-analysts-recent-ratings-updates.html)
+
+### MERCURY INSURANCE COMPANY
+**5 Summer Safety Risks Homeowners Often Overlook When Hosting** — 2026-08-17 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.daytonatimes.com/online_features/home_decorating/5-summer-safety-risks-homeowners-often-overlook-when-hosting/article_28e5da74-607b-5a2f-a7e1-0254a9cd56a9.html)
+
+### PROSPERITY LIFE GROUP
+**Weekly Chinese Horoscopes Are Here For Each Animal Sign From August 17 - 23 , 2026** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13542415/aflac-nyseafl-price-target-raised-to-125-00.html)
+[Read →](https://www.yourtango.com/2026400094/weekly-chinese-horoscopes-animal-sign-august-17-23-2026)
 
-### RISK STRATEGIES COMPANY
-**Vacancy Advert - Head Strategy** — 2026-08-14 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thepatriot.co.bw/vacancy-advert-head-strategy/)
-
-### MARKEL
-**These 12 Eagles the most on the line in preseason Week 1 vs . the Ravens** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+### STANDARD INSURANCE CO
+**HelloNation Features Real Estate Expert Angie Outlaw on Flood Insurance for Coastal Homes in Florida** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.inquirer.com/eagles/2026-preseason-week-1-players-to-watch-ravens-20260814.html)
+[Read →](https://www.prnewswire.com/news-releases/hellonation-features-real-estate-expert-angie-outlaw-on-flood-insurance-for-coastal-homes-in-florida-302854262.html)
 
 ### AMERICAN FAMILY CORPORATION
-**Parks ! America ( OTCMKTS : PRKA ) and Mattel ( NASDAQ : MAT ) Head - To - Head Survey** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+**When Calls the Heart spinoff series set for Netflix debut in September** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/14/parks-america-otcmktsprka-and-mattel-nasdaqmat-head-to-head-survey.html)
+[Read →](https://netflixlife.com/when-calls-the-heart-spinoff-series-set-netflix-debut-september)
+
+### ARTHUR J GALLAGHER & CO
+**10 New Firms Join Insurance Journal Top 100 Independent Agencies** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insurancejournal.com/news/national/2026/08/18/881935.htm)
+
+### Loews Corp
+**ThrottleNet Climbs to No . 295 on the 2026 MSP 501 , Jumping Nearly 90 Spots in a Single Year** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.stlouisstar.com/news/279248294/throttlenet-climbs-to-no-295-on-the-2026-msp-501-jumping-nearly-90-spots-in-a-single-year)
+
+### EQUITABLE
+**Your guide to CSW67** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.newyorkstatesman.com/news/279249408/your-guide-to-csw67)
+
+### AMYNTA GROUP
+**Lauderdale Co . Board of Supervisors approves the purchase of VFIS insurance for Volunteer Fire Departments** — 2026-08-17 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.wtok.com/2026/08/17/lauderdale-co-board-supervisors-approves-purchase-vfis-insurance-volunteer-fire-departments/)
+
+### LINCOLN NATIONAL CORPORATION
+**New Mexico iconic green chile , Route 66 , and Smokey Bear : A centennial look** — 2026-08-16 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.abqjournal.com/opinion/three-nm-icons-a-fruit-a-road-and-a-bear/3099589)
+
+### AAA INSURANCE GROUP
+**Cooler days are on the way ! - SweetwaterNOW** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.sweetwaternow.com/cooler-days-are-on-the-way/)
 
 ### COUNTRY FINANCIAL SERVICES INC
 **Director / PDMR Shareholding | Company Announcement** — 2026-08-14 — 🟡 Low — ⚪ Neutral
@@ -143,15 +163,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.investegate.co.uk/announcement/rns/tbc-bank-group--tbcg/director-pdmr-shareholding/9722911)
 
-### Loews Corp
-**Taking the Kids : Last Gasp Summer** — 2026-08-14 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.theepochtimes.com/bright/taking-the-kids-last-gasp-summer-6075111)
-
 ### FARM BUREAU FINANCIAL SERVICES
 **Corporate Games Champions Honored** — 2026-08-14 — 🟡 Low — ⚪ Neutral
 
@@ -161,32 +172,23 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.dmcityview.com/just-released/2026/08/14/corporate-games-champions-honored/)
 
-### EQUITABLE
-**An Echo Press Editorial : One election done , another one looms** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+### MUTUAL OF OMAHA
+**Heartland Honors 9 / 11 campaign honors lives lost** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.echopress.com/opinion/editorials/an-echo-press-editorial-one-election-done-another-one-looms)
+[Read →](https://www.ketv.com/article/heartland-honors-911-campaign/73419512)
 
-### FM GLOBAL
-**China engages in normal cooperation with Cambodia and Thailand , promotes peace talks : FM spokesperson** — 2026-08-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-globaltimes02.htm)
-
-### AMYNTA GROUP
-**Amynta Group Buys Virginia - Based Southern States Underwriters MGU** — 2026-08-13 — 🟡 Low — 🟢 Positive
+### American National Insurance Co
+**Galveston economic , civic leaders seek to build a stronger , more vibrant downtown** — 2026-08-12 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancejournal.com/news/east/2026/08/13/881307.htm)
+[Read →](https://www.galvnews.com/news/galveston-economic-civic-leaders-seek-to-build-a-stronger-more-vibrant-downtown/article_13d4c550-f907-4bbf-a83d-bc4eccb116d1.html)
 
 ### AMERICAN FIDELITY
 **Tax rate , budget hearings set by County** — 2026-08-12 — 🟡 Low — ⚪ Neutral
@@ -197,95 +199,50 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.yahoo.com/news/politics/articles/tax-rate-budget-hearings-set-000000735.html)
 
-### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
-**Dhamu Thamodaran Purchases 2 , 500 Shares of StoneX Group ( NASDAQ : SNEX ) Stock** — 2026-08-11 — 🟡 Low — 🟢 Positive
+### GENERAL REINSURANCE COMPANY
+**Berkshire Hathaway Hits an 8 Month High . It Now My Top Buy and Hold Forever Pick .** — 2026-08-04 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13539023/dhamu-thamodaran-purchases-2500-shares-of-stonex-group-nasdaqsnex-stock.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-hits-8-month-121005151.html)
 
-### MERCURY INSURANCE COMPANY
-**10 Tips to Vacation - Proof Your Home While Youre Away** — 2026-08-10 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.bigbeargrizzly.net/online_features/family_living/10-tips-to-vacation-proof-your-home-while-youre-away/article_f984ba61-5f70-50f8-8101-11f86a007494.html)
-
-### JACKSON NATIONAL LIFE
-**Wall Street Zen Upgrades Jackson Financial ( NYSE : JXN ) to Buy** — 2026-08-10 — 🟡 Low — ⚪ Neutral
+### Berkshire Hathaway Specialty Insurance Company
+**Women in Insurance Summit Australia 2026 set for August with early bird window closing** — 2026-07-23 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13537050/wall-street-zen-upgrades-jackson-financial-nysejxn-to-buy.html)
-
-### Guard Insurance
-**Free Dire Straits concert Aug . 14 in Wilkes - Barre : What you need to know** — 2026-08-07 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.citizensvoice.com/2026/08/07/free-dire-straits-concert-aug-14-in-wilkes-barre-what-you-need-to-know/)
-
-### C V STARR
-**Disunion : The Final Q & A** — 2026-08-04 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2015/06/10/disunion-the-final-q-a/)
-
-### PROSPERITY LIFE GROUP
-**JAB Holdings B . V . Announces Pricing of Tender Offers for Any and All of Its 2 . 200 % Senior Notes Due 2030 , 3 . 750 % Senior Notes Due 2051 and 4 . 500 % Sustainability - Linked Senior Notes Due 2052** — 2026-07-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.finanznachrichten.de/nachrichten-2026-07/69135878-jab-holdings-b-v-announces-pricing-of-tender-offers-for-any-and-all-of-its-2-200-senior-notes-due-2030-3-750-senior-notes-due-2051-and-4-500-sust-004.htm)
-
-### PROTECTIVE LIFE CORPORATION
-**Scientists Say Consciousness Comes From Feelings , Not Thoughts** — 2026-07-26 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.popularmechanics.com/science/a73249621/feelings-consciousness-neuroscience/)
+[Read →](https://www.insurancebusinessmag.com/au/news/breaking-news/women-in-insurance-summit-australia-2026-set-for-august-with-early-bird-window-closing-583452.aspx)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (57)</summary>
+<details><summary>Accounts with no material news this cycle (61)</summary>
 
-- American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
-- MUTUAL OF OMAHA
 - Tokio Marine Group
+- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
 - PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
+- aflac
+- AmWINS Group
 - ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
+- Guard Insurance
 - NSM Insurance Group
+- PROTECTIVE LIFE CORPORATION
 - ASSURED PARTNERS
-- Genworth
-- LINCOLN NATIONAL CORPORATION
 - TIH Insurance Holdings, LLC
-- Berkshire Hathaway Specialty Insurance Company
 - HARTFORD FIRE INSURANCE COMPANY
+- RISK STRATEGIES COMPANY
 - SELECTIVE INSURANCE
 - VERISK ANALYTICS
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- The Hanover Insurance Group
 - USI INSURANCE
 - W R BERKLEY CORPORATION
 - Corebridge Financial
@@ -294,19 +251,20 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
 - BROWN AND BROWN, Inc.
-- AAA INSURANCE GROUP
+- MARKEL
 - Milliman USA
-- STANDARD INSURANCE CO
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
 - AMTrust Financial Services INC
+- Assurant
 - AXIS SPECIALTY US SERVICES INC
-- GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
 - ACRISURE LLC
 - AMERICAN FINANCIAL GROUP INC
+- CINCINNATI INSURANCE COMPANIES
 - CNO Services, LLC
+- JACKSON NATIONAL LIFE
 - CUNA MUTUAL INSURANCE SOCIETY
 - Jewelers Mutual Insurance
 - OLD REPUBLIC INTERNATIONAL
@@ -316,13 +274,16 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - LOCKTON INSURANCE AGENCY
 - SHELTER INSURANCE COMPANY
 - ARCH CAPITAL GROUP LTD
+- C V STARR
 - EVEREST GLOBAL SERVICES
+- NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
+- GUARDIAN LIFE INSURANCE CO
 - National Life Group
 - TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on August 14, 2026._
+_Auto-generated on August 18, 2026._
