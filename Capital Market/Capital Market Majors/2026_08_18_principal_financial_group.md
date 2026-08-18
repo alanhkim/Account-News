@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> 105 , 796 Shares in Bio - Techne Corp $TECH Acquired by Nuance Investments LLC
+## <img src="https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Vertical Data Appoints Chris Downs as Interim Chief Financial Officer
 
 | | |
 |---|---|
 | **Date** | 2026-08-18 |
-| **Potential impact** | 🔴 High |
+| **Potential impact** | 🟠 Medium |
 | **Sentiment** | ⚪ Neutral |
-| **Trigger events** | M&A |
-| **Solution plays** | — |
-| **Source** | [www.dailypolitical.com](https://www.dailypolitical.com/2026/08/18/105796-shares-in-bio-techne-corp-tech-acquired-by-nuance-investments-llc.html) |
+| **Trigger events** | CxO Change |
+| **Solution plays** | Fabric |
+| **Source** | [www.prnewswire.com](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html) |
 
 **Summary.** 
 
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
+**Why it matters (Microsoft angle).** Potential Fabric opportunity — align outreach to this signal.
 
-[Read the article →](https://www.dailypolitical.com/2026/08/18/105796-shares-in-bio-techne-corp-tech-acquired-by-nuance-investments-llc.html)
+[Read the article →](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html)
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

@@ -4,4 +4,5 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | No State Has Changed Its School Vaccine Requirements , and the New Federal Order Does Not Force One To | 🟡 Low | ⚪ Neutral | [link](https://www.medicaldaily.com/school-vaccine-requirements-unchanged-states-executive-order-back-school-477458) |
 | 2026-08-13 | Flock rolls out new police auditing and accountability controls following surveillance concerns | 🟠 Medium | 🔴 Negative | [link](https://edition.cnn.com/2026/08/13/tech/flock-cameras-police-auditing-controls) |

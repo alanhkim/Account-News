@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> America , Not China , Is World Energy Superpower
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-08-17 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | — |
-| **Source** | [www.theepochtimes.com](https://www.theepochtimes.com/opinion/america-not-china-is-worlds-energy-superpower-6076242) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
-
-[Read the article →](https://www.theepochtimes.com/opinion/america-not-china-is-worlds-energy-superpower-6076242)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | Brean Capital Welcomes Mat Parker as Managing Director and Head of Financial Institutions Group Sales | 🟡 Low | 🟢 Positive | [link](http://www.haitisun.com/news/279249146/brean-capital-welcomes-mat-parker-as-managing-director-and-head-of-financial-institutions-group-sales) |
 | 2026-08-13 | Trapped and cut off : Palestinian families under settler siege in the West Bank - LocalNews8 . com | 🟡 Low | 🔴 Negative | [link](https://localnews8.com/news/national-world/cnn-world/2026/08/13/trapped-and-cut-off-palestinian-families-under-settler-siege-in-the-west-bank/) |
 | 2026-08-12 | Spain prepares for rare solar eclipse against backdrop of heat and wildfires | 🟡 Low | 🟢 Positive | [link](https://www.arabnews.com/node/2654361/world) |
 | 2026-07-29 | KJo recalls life - changing conversations with SRK on Guru Purnima | 🟡 Low | ⚪ Neutral | [link](https://www.siasat.com/kjo-recalls-life-changing-conversations-with-srk-on-guru-purnima-3515323/) |

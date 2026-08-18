@@ -6,22 +6,22 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> IBD Elite 2026 : Costs of clearing and custody for advisors
+## <img src="https://www.google.com/s2/favicons?domain=www.nhmagazine.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Soup on at Fidelity for NH Food Bank - New Hampshire Magazine
 
 | | |
 |---|---|
 | **Date** | 2026-08-18 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | ⚪ Neutral |
+| **Potential impact** | 🟡 Low |
+| **Sentiment** | 🟢 Positive |
 | **Trigger events** | — |
-| **Solution plays** | Security |
-| **Source** | [www.americanbanker.com](https://www.americanbanker.com/news/ibd-elite-2026-costs-of-clearing-and-custody-for-advisors) |
+| **Solution plays** | — |
+| **Source** | [www.nhmagazine.com](https://www.nhmagazine.com/soups-on-at-fidelity-for-nh-food-bank/) |
 
 **Summary.** 
 
-**Why it matters (Microsoft angle).** Potential Security opportunity — align outreach to this signal.
+**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.americanbanker.com/news/ibd-elite-2026-costs-of-clearing-and-custody-for-advisors)
+[Read the article →](https://www.nhmagazine.com/soups-on-at-fidelity-for-nh-food-bank/)
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

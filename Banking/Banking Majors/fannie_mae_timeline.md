@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications | 🟠 Medium | ⚪ Neutral | [link](http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications) |
 | 2026-08-14 | Essent ( ESNT ) Q2 2026 Earnings Call Transcript | 🔴 High | ⚪ Neutral | [link](https://www.fool.com/earnings/call-transcripts/2026/08/14/essent-esnt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001) |
 | 2026-08-13 | Real estate : How is a condo reserve fund handled when the property is sold ? – Macomb Daily | 🔴 High | ⚪ Neutral | [link](https://www.macombdaily.com/2026/08/13/real-estate-how-is-a-condos-reserve-fund-handled-when-the-property-is-sold/) |
 | 2026-07-31 | Why do mortgages get sold ? And what you can do about it ? | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/news/why-mortgage-gets-sold-144001081.html) |

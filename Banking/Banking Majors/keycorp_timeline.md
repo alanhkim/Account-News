@@ -4,7 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-08-18 | Perigon Wealth Management LLC Invests $3 . 28 Million in Southern Company ( The ) $SO | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/18/perigon-wealth-management-llc-invests-3-28-million-in-southern-company-the-so.html) |
+| 2026-08-18 | Investment Analyst Recent Ratings Updates for Sprout Social ( SPT ) | 🟠 Medium | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/18/investment-analysts-recent-ratings-updates-for-sprout-social-spt.html) |
 | 2026-08-14 | Sequoia Financial Advisors LLC Purchases 2 , 377 Shares of Synopsys , Inc . $SNPS | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/14/sequoia-financial-advisors-llc-purchases-2377-shares-of-synopsys-inc-snps.html) |
 | 2026-07-31 | National Fuel Gas ( NYSE : NFG ) Releases Quarterly Earnings Results , Beats Expectations By $0 . 10 EPS | 🔴 High | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/07/31/national-fuel-gas-nysenfg-releases-quarterly-earnings-results-beats-expectations-by-0-10-eps.html) |
 | 2026-07-30 | SiteOne Landscape Supply ( NYSE : SITE ) Announces Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/30/siteone-landscape-supply-nysesite-announces-earnings-results.html) |

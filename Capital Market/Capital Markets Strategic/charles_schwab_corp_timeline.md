@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | 13 Investment Must Reads for This Week ( Aug . 18 , 2026 ) | 🟡 Low | ⚪ Neutral | [link](https://www.wealthmanagement.com/etfs/13-investment-must-reads-for-this-week-aug-18-2026-) |
 | 2026-08-13 | Schwab Switched On Crypto For 40 Million Accounts And Priced It Like An Index Fund | 🔴 High | ⚪ Neutral | [link](https://www.forbes.com/sites/digital-assets/2026/08/13/schwab-switched-on-crypto-for-40-million-accounts-and-priced-it-like-an-index-fund/) |
 | 2026-07-31 | 1 Unstoppable Dividend ETF Up 26 % in 2026 to Buy and Hold for the Next 20 Years | 🔴 High | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-dividend-etf-26-143800284.html) |
 | 2026-07-30 | Omega Healthcare Investors ( NYSE : OHI ) Announces Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13522923/omega-healthcare-investors-nyseohi-announces-earnings-results.html) |

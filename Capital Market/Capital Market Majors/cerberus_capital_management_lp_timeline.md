@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | Trump White House Has a Record Number of Ultra - Rich Officials : Here Who They Are | 🟡 Low | 🟢 Positive | [link](https://www.latintimes.com/trumps-white-house-has-record-number-ultra-rich-officials-heres-who-they-are-598628) |
 | 2026-08-13 | A Pentagon memo tells staff to spend $244m with Palantir . Its subject line is  Funding Palantir | 🔴 High | ⚪ Neutral | [link](https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo) |
 | 2026-08-12 | Deal Roundup : TPG agrees $925m Lotte Rental buy , Lindsay Goldberg seals Alro Steel deal | 🔴 High | 🟢 Positive | [link](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-tpg-agrees-925m-lotte-rental-buy-lindsay-goldberg-seals-alro-steel-deal.html) |
 | 2026-07-31 | HD Hyundai Launches First Vessel Built at Revived Subic Bay Shipyard | 🟠 Medium | ⚪ Neutral | [link](https://gcaptain.com/hd-hyundai-launches-first-vessel-built-at-revived-subic-bay-shipyard/) |

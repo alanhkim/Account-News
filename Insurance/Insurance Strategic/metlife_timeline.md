@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | Usher Chris Brown tour extension adds eight stadium dates | 🟡 Low | ⚪ Neutral | [link](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/) |
 | 2026-07-31 | NPK International ( NYSE : NPKI ) Issues Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13524692/npk-international-nysenpki-issues-earnings-results.html) |
 | 2026-07-30 | Giants Keep Nabers Off PUP List as Receiver Targets Week 1 Return | 🟡 Low | 🟢 Positive | [link](https://magic983.com/2026/07/30/giants-keep-nabers-off-pup-list-as-receiver-targets-week-1-return/) |
 | 2026-07-29 | BTS Will Not Submit Music for 2027 Grammys , Saying Their Music Shouldnt Be Divided by Region or Language | 🟡 Low | ⚪ Neutral | [link](https://thenet.ng/bts-will-not-submit-music-for-2027-grammys-saying-their-music-shouldnt-be-divided-by-region-or-language/) |

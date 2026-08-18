@@ -4,6 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-18 | Marikana was not just a tragedy but a place of resilience – Rev Makgoba | 🟠 Medium | ⚪ Neutral | [link](https://www.jacarandafm.com/news/news/marikana-was-not-a-tragedy-but-a-place-of-resilience/) |
 | 2026-07-31 | Many of Trump predecessors also trafficked in rumor mongering and demonized their opponents | 🟡 Low | ⚪ Neutral | [link](https://www.inquirer.com/politics/nation/donald-trump-franklin-roosevelt-thomas-jefferson-woodrow-wilson-andrew-johnson-andrew-jackson-20260731.html) |
 | 2026-07-30 | Georgia Linguistic Triumph over Soviet Power | 🟡 Low | ⚪ Neutral | [link](https://georgiatoday.ge/georgias-linguistic-triumph-over-soviet-power/) |
 | 2026-07-29 | Dr Doug Hilton At National Press Club | 🟡 Low | ⚪ Neutral | [link](https://www.miragenews.com/dr-doug-hilton-at-national-press-club-1718179/) |

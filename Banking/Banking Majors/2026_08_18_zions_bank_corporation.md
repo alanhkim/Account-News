@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=saltlakemagazine.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> Three Refugees Poised to Make their Mark on Utah Food Scene • Salt Lake Magazine
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-08-10 |
-| **Potential impact** | 🟡 Low |
-| **Sentiment** | ⚪ Neutral |
-| **Trigger events** | — |
-| **Solution plays** | — |
-| **Source** | [saltlakemagazine.com](https://saltlakemagazine.com/rise-culinary-institute/) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
-
-[Read the article →](https://saltlakemagazine.com/rise-culinary-institute/)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

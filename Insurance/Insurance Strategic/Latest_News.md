@@ -2,7 +2,7 @@
 
 **Updated:** August 18, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 6  
+**Accounts with news this cycle:** 5  
 
 ---
 
@@ -10,24 +10,22 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=today.uconn.edu&sz=32) | **Nationwide** | UConn and Voyager Technologies Expand Partnership to Advance In - Space Research | 2026-08-18 | 🟠 Medium | 🟢 Positive | Product Launch | — | [link](https://today.uconn.edu/2026/08/uconn-and-voyager-technologies-expand-partnership-to-advance-in-space-research/) |
+| ![](https://www.google.com/s2/favicons?domain=www.indiagazette.com&sz=32) | **Nationwide** | BJP plans nationwide  Seva Sankalp Mahotsav  to mark PM Modi 25 years of public service | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.indiagazette.com/news/279249714/bjp-plans-nationwide-seva-sankalp-mahotsav-to-mark-pm-modi-25-years-of-public-service) |
 | ![](https://www.google.com/s2/favicons?domain=www.41nbc.com&sz=32) | **GEICO** | Restaurant Report Card : Middle Georgia food service inspection scores August 10 - 14 - 41NBC News | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.41nbc.com/restaurant-report-card-middle-georgia-food-service-inspection-scores-august-10-14-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Chubb** | Cornerstone Advisors LLC Invests $6 . 81 Million in Chubb Limited $CB | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/18/cornerstone-advisors-llc-invests-6-81-million-in-chubb-limited-cb.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | People | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/magazines/mag-people/2026/08/17/881412.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32) | **American International Group Inc** | America , Not China , Is World Energy Superpower | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theepochtimes.com/opinion/america-not-china-is-worlds-energy-superpower-6076242) |
-| ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **Willis Towers Watson** | USI accuses three ex - brokers of taking clients to rival Howden | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.businessinsurance.com/usi-accuses-three-ex-brokers-of-taking-clients-to-rival-howden/) |
+| ![](https://www.google.com/s2/favicons?domain=www.jamaicantimes.com&sz=32) | **NORTHWESTERN MUTUAL** | Trapani Meyer : Built on Listening , Sustained by Trust | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.jamaicantimes.com/news/279249246/trapani-meyer-built-on-listening-sustained-by-trust) |
+| ![](https://www.google.com/s2/favicons?domain=thegrio.com&sz=32) | **Metlife** | Usher Chris Brown tour extension adds eight stadium dates | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **ALLSTATE INSURANCE GROUP** | In HelloNation ,  K . D . the Insurance Queen  Sakraida of Centennial , CO , explains homeowner insurance coverage for Colorado Storms . | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/in-hellonation-kd-the-insurance-queen-sakraida-of-centennial-co-explains-homeowners-insurance-coverage-for-colorado-storms-302847204.html) |
 
 ## Detail
 
 ### Nationwide
-**UConn and Voyager Technologies Expand Partnership to Advance In - Space Research** — 2026-08-18 — 🟠 Medium — 🟢 Positive
+**BJP plans nationwide  Seva Sankalp Mahotsav  to mark PM Modi 25 years of public service** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
-_Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://today.uconn.edu/2026/08/uconn-and-voyager-technologies-expand-partnership-to-advance-in-space-research/)
+[Read →](http://www.indiagazette.com/news/279249714/bjp-plans-nationwide-seva-sankalp-mahotsav-to-mark-pm-modi-25-years-of-public-service)
 
 ### GEICO
 **Restaurant Report Card : Middle Georgia food service inspection scores August 10 - 14 - 41NBC News** — 2026-08-18 — 🟡 Low — ⚪ Neutral
@@ -38,55 +36,47 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.41nbc.com/restaurant-report-card-middle-georgia-food-service-inspection-scores-august-10-14-2026/)
 
-### Chubb
-**Cornerstone Advisors LLC Invests $6 . 81 Million in Chubb Limited $CB** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### NORTHWESTERN MUTUAL
+**Trapani Meyer : Built on Listening , Sustained by Trust** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/18/cornerstone-advisors-llc-invests-6-81-million-in-chubb-limited-cb.html)
+[Read →](http://www.jamaicantimes.com/news/279249246/trapani-meyer-built-on-listening-sustained-by-trust)
 
-### LIBERTY MUTUAL INSURANCE COMPANY
-**People** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancejournal.com/magazines/mag-people/2026/08/17/881412.htm)
-
-### American International Group Inc
-**America , Not China , Is World Energy Superpower** — 2026-08-17 — 🟡 Low — ⚪ Neutral
+### Metlife
+**Usher Chris Brown tour extension adds eight stadium dates** — 2026-08-18 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.theepochtimes.com/opinion/america-not-china-is-worlds-energy-superpower-6076242)
+[Read →](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/)
 
-### Willis Towers Watson
-**USI accuses three ex - brokers of taking clients to rival Howden** — 2026-08-17 — 🟡 Low — ⚪ Neutral
+### ALLSTATE INSURANCE GROUP
+**In HelloNation ,  K . D . the Insurance Queen  Sakraida of Centennial , CO , explains homeowner insurance coverage for Colorado Storms .** — 2026-08-11 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.businessinsurance.com/usi-accuses-three-ex-brokers-of-taking-clients-to-rival-howden/)
+[Read →](http://www.prnewswire.com/news-releases/in-hellonation-kd-the-insurance-queen-sakraida-of-centennial-co-explains-homeowners-insurance-coverage-for-colorado-storms-302847204.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (9)</summary>
+<details><summary>Accounts with no material news this cycle (10)</summary>
 
 - STATE FARM LIFE INSURANCE CO
-- NORTHWESTERN MUTUAL
 - Marsh McLennan
-- Metlife
-- ALLSTATE INSURANCE GROUP
+- American International Group Inc
 - FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
+- Chubb
+- LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
 - Progressive Corporation
+- Willis Towers Watson
 
 </details>
 

@@ -4,7 +4,7 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-08-18 | 105 , 796 Shares in Bio - Techne Corp $TECH Acquired by Nuance Investments LLC | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/18/105796-shares-in-bio-techne-corp-tech-acquired-by-nuance-investments-llc.html) |
+| 2026-08-18 | Vertical Data Appoints Chris Downs as Interim Chief Financial Officer | 🟠 Medium | ⚪ Neutral | [link](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html) |
 | 2026-07-31 | Corning Incorporated $GLW Holdings Decreased by Leigh Baldwin & CO . LLC | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13524079/corning-incorporated-glw-holdings-decreased-by-leigh-baldwin-co-llc.html) |
 | 2026-07-29 | Full Year Results and Publication of Annual Report \ | Company Announcement | 🔴 High | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/great-southern-copper--gscu/full-year-results-and-publication-of-annual-report/9693951) |
 | 2026-07-28 | Jurgi Camblong Sells 20 , 000 Shares of SOPHiA GENETICS ( NASDAQ : SOPH ) Stock | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13519304/jurgi-camblong-sells-20000-shares-of-sophia-genetics-nasdaqsoph-stock.html) |

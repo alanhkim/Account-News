@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.hotelnewsresource.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> HVS Asia Pacific Hotel Transactions Bulletin Week Ending 14 August 2026
+## <img src="https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> People Moves : Carson Hires Recruiter for Indie Channel
 
 | | |
 |---|---|
@@ -15,13 +15,13 @@
 | **Sentiment** | ⚪ Neutral |
 | **Trigger events** | — |
 | **Solution plays** | — |
-| **Source** | [www.hotelnewsresource.com](https://www.hotelnewsresource.com/article142553.html) |
+| **Source** | [www.wealthmanagement.com](https://www.wealthmanagement.com/career-moves/people-moves-carson-hires-recruiter-from-osaic-for-indie-channel) |
 
 **Summary.** 
 
 **Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
 
-[Read the article →](https://www.hotelnewsresource.com/article142553.html)
+[Read the article →](https://www.wealthmanagement.com/career-moves/people-moves-carson-hires-recruiter-from-osaic-for-indie-channel)
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

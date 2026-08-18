@@ -6,22 +6,9 @@
 
 ---
 
-## <img src="https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32" width="24" height="24" align="left" style="margin-right:8px" /> The Hanover Insurance Group ( THG ) – Research Analyst Recent Ratings Updates
+## No material news identified in the past 30 days
 
-| | |
-|---|---|
-| **Date** | 2026-08-13 |
-| **Potential impact** | 🟠 Medium |
-| **Sentiment** | 🟢 Positive |
-| **Trigger events** | Regulatory |
-| **Solution plays** | — |
-| **Source** | [www.themarketsdaily.com](https://www.themarketsdaily.com/2026/08/13/the-hanover-insurance-group-thg-research-analysts-recent-ratings-updates.html) |
-
-**Summary.** 
-
-**Why it matters (Microsoft angle).** Account-planning context; no direct solution-play signal detected.
-
-[Read the article →](https://www.themarketsdaily.com/2026/08/13/the-hanover-insurance-group-thg-research-analysts-recent-ratings-updates.html)
+_No significant public news was found for this account in the current window. This file will refresh automatically on the next daily run._
 
 ---
 _Auto-generated on August 18, 2026. News older than 90 days is pruned automatically._

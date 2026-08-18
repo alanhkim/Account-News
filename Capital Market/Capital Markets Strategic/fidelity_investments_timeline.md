@@ -4,6 +4,6 @@ Rolling history of tracked news (last 90 days). Updated August 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-08-18 | IBD Elite 2026 : Costs of clearing and custody for advisors | 🟠 Medium | ⚪ Neutral | [link](https://www.americanbanker.com/news/ibd-elite-2026-costs-of-clearing-and-custody-for-advisors) |
+| 2026-08-18 | Soup on at Fidelity for NH Food Bank - New Hampshire Magazine | 🟡 Low | 🟢 Positive | [link](https://www.nhmagazine.com/soups-on-at-fidelity-for-nh-food-bank/) |
 | 2026-07-31 | 8 companies adding to their Irish research and development teams | 🟡 Low | ⚪ Neutral | [link](https://www.siliconrepublic.com/jobs-news/8-ireland-based-companies-research-development-teams) |
 | 2026-07-27 | Fidelity says retirees now face $185 , 500 in healthcare costs up 7 . 5 % from last year , and long - term care isnt included | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/healthcare/articles/fidelity-says-retirees-now-face-123000749.html) |
