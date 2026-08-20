@@ -1,9 +1,10 @@
 # BAIN CAPITAL LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-20 | Wall Street vishing attacks expose voice as a weak link in identity security | 🟠 Medium | 🔴 Negative | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
 | 2026-08-14 | Ropes & Gray Ranks # 14 in Law Firms Citation Share Audit 2026 | 🟡 Low | ⚪ Neutral | [link](https://everything-pr.com/ropes-gray-law-firms-citation-share-audit-2026) |
 | 2026-08-13 | India financial sector saw some large foreign investments in recent months . Here a list | 🟡 Low | ⚪ Neutral | [link](https://www.thehindubusinessline.com/money-and-banking/indias-financial-sector-saw-some-large-foreign-investments-in-recent-months-heres-a-list/article71339454.ece) |
 | 2026-07-28 | Bain Capital in talks over 25 % stake in IndusInd General Insurance – report | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/healthcare/articles/bain-capital-talks-over-25-150630612.html) |

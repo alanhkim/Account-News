@@ -1,9 +1,10 @@
 # FIRST HORIZON BANK — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-19 | Tokenized deposits are here . Banks need to manage the risks . | 🟠 Medium | ⚪ Neutral | [link](https://www.americanbanker.com/news/tokenized-deposits-are-here-banks-need-to-manage-the-risks) |
 | 2026-08-13 | Harvey Authement , Jr . Joins First Horizon Bank As Banking Center Manager In Houma | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/harvey-authement-jr-joins-first-horizon-bank-as-banking-center-manager-in-houma-302851313.html) |
 | 2026-08-12 | One - on - One Meeting Requests are Open for the 31st EnerCom Denver - The Energy Investment Conference , on August 19 , 2026 , in Denver , Colorado | 🟡 Low | ⚪ Neutral | [link](https://www.oilandgas360.com/one-on-one-meeting-requests-are-open-for-the-31st-enercom-denver-the-energy-investment-conference-on-august-19-2026-in-denver-colorado-2-2-3/) |
 | 2026-07-28 | First Horizon Declares Cash Dividends on Common and Preferred Stock | 🔴 High | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/first-horizon-declares-cash-dividends-on-common-and-preferred-stock-302836986.html) |

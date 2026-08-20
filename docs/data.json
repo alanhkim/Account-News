@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18",
-  "generated_human": "August 18, 2026",
+  "generated": "2026-08-20",
+  "generated_human": "August 20, 2026",
   "counts": {
     "accounts_total": 284,
     "with_news": 7,
@@ -10,8 +10,41 @@
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 4,
+      "count": 3,
       "items": [
+        {
+          "account": "FANNIE MAE",
+          "title": "The Digital Download | Alston & Bird Privacy & Data Security Newsletter | August 2026 - Data Protection",
+          "url": "https://www.mondaq.com:443/unitedstates/data-protection/1833466/the-digital-download-%7C-alston-birds-privacy-data-security-newsletter-%7C-august-2026",
+          "date": "2026-08-20",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "http://www.mondaq.com/images/profile/companythumb/28916.webp?v=20241101122302",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32"
+        },
+        {
+          "account": "RAPID ADVANCE LLC",
+          "title": "Work with the grain : Lawyers , judges must embrace AI",
+          "url": "https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai",
+          "date": "2026-08-19",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1787031604/Lawyers%20Weekly/articleImages-850x492/sir-geoffrey-vos_lw_casuaa.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.lawyersweekly.com.au&sz=32"
+        },
         {
           "account": "Datasite",
           "title": "AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions",
@@ -29,54 +62,6 @@
           "sentiment": "Neutral",
           "image": "",
           "favicon": "https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32"
-        },
-        {
-          "account": "FREDDIE MAC",
-          "title": "Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications",
-          "url": "http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications",
-          "date": "2026-08-18",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32"
-        },
-        {
-          "account": "FANNIE MAE",
-          "title": "Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications",
-          "url": "http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications",
-          "date": "2026-08-18",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32"
-        },
-        {
-          "account": "DUCK CREEK TECHNOLOGIES INC",
-          "title": "Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience",
-          "url": "http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience",
-          "date": "2026-08-12",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.sydneysun.com&sz=32"
         }
       ]
     },
@@ -92,10 +77,10 @@
       "count": 2,
       "items": [
         {
-          "account": "FINRA",
-          "title": "iTrustCapital Now Offers Stocks and ETFs Across All Accounts , Becoming the Most Comprehensive Multi - Asset Investing Platform",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69344419-itrustcapital-now-offers-stocks-and-etfs-across-all-accounts-becoming-the-most-comprehensive-multi-asset-investing-platform-200.htm",
-          "date": "2026-08-18",
+          "account": "Dun & Bradstreet Corporation",
+          "title": "Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place",
+          "url": "https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm",
+          "date": "2026-08-19",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
@@ -104,44 +89,13 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://www.finanznachrichten.de/content/g/fb.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32"
+          "image": "https://d.techtimes.com/en/full/466340/ann-thai-apple-senior-product-marketing-manager-app-store.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.techtimes.com&sz=32"
         },
         {
-          "account": "PRINCIPAL FINANCIAL GROUP",
-          "title": "Vertical Data Appoints Chris Downs as Interim Chief Financial Officer",
-          "url": "https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html",
-          "date": "2026-08-18",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://mmx.prnewswire.com/media/MS1968640/Vertical-Data-Inc-Vertical-Data-Appoints-Chris-Downs-as-Interim.jpg?id=OA2894079&p=facebook",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Markets Strategic",
-      "count": 0,
-      "items": []
-    },
-    {
-      "top": "Insurance",
-      "sub": "Insurance Majors",
-      "count": 1,
-      "items": [
-        {
-          "account": "Guard Insurance",
-          "title": "Ontario Court of Appeal affirms partial settlement in business interruption insurance class action",
-          "url": "https://www.canadianlawyermag.com/practice-areas/insurance/ontario-court-of-appeal-affirms-partial-settlement-in-business-interruption-insurance-class-action/394508",
+          "account": "CITADEL INVESTMENT GROUP",
+          "title": "Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement",
+          "url": "https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/",
           "date": "2026-08-14",
           "level": "Medium",
           "summary": "",
@@ -151,8 +105,56 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://cdn-res.keymedia.com/cms/images/lt/bern_638983747513632257.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.canadianlawyermag.com&sz=32"
+          "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/03/09034548/Jim-Cramer_IM.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Markets Strategic",
+      "count": 1,
+      "items": [
+        {
+          "account": "PayPal, Inc.",
+          "title": "China Tencent expands QR payment services with major Southeast Asian e - wallet platform",
+          "url": "http://www.laosnews.net/news/279254136/china-tencent-expands-qr-payment-services-with-major-southeast-asian-e-wallet-platform",
+          "date": "2026-08-20",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.laosnews.net&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Insurance",
+      "sub": "Insurance Majors",
+      "count": 1,
+      "items": [
+        {
+          "account": "NEW YORK LIFE INSURANCE COMPANY",
+          "title": "Empathy launches digital estate planning platform in united kingdom",
+          "url": "https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/",
+          "date": "2026-08-06",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://www.international-adviser.com/wp-content/uploads/2018/01/2016-700-magnifying-glass-search-papers.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32"
         }
       ]
     },

@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** August 18, 2026  
+**Updated:** August 20, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 16  
+**Accounts with news this cycle:** 20  
 
 ---
 
@@ -10,127 +10,189 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Vestis ( VSTS ) Q3 2026 Earnings Call Transcript | 2026-08-18 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/08/18/vestis-vsts-q3-2026-earnings-call-transcript/?source=iedfolrf0000001) |
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Vertical Data Appoints Chris Downs as Interim Chief Financial Officer | 2026-08-18 | 🟠 Medium | ⚪ Neutral | CxO Change | Fabric | [link](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32) | **FINRA** | iTrustCapital Now Offers Stocks and ETFs Across All Accounts , Becoming the Most Comprehensive Multi - Asset Investing Platform | 2026-08-18 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.finanznachrichten.de/nachrichten-2026-08/69344419-itrustcapital-now-offers-stocks-and-etfs-across-all-accounts-becoming-the-most-comprehensive-multi-asset-investing-platform-200.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **INVESCO** | Invesco Emerging Markets Sovereign Debt ETF ( NYSEARCA : PCY ) Sees Unusually - High Trading Volume – Here What Happened | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/18/invesco-emerging-markets-sovereign-debt-etf-nysearcapcy-sees-unusually-high-trading-volume-heres-what-happened.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Raymond James and Associates Inc** | Martin Marietta Materials ( NYSE : MLM ) Reaches New 1 - Year Low – What Next ? | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13548677/martin-marietta-materials-nysemlm-reaches-new-1-year-low-whats-next.html) |
-| ![](https://www.google.com/s2/favicons?domain=wdrm.iheart.com&sz=32) | **JEFFERIES & COMPANY INC** | Nashville  Cast Mourns Loss Of Hayden Panettiere :  We Are Heartbroken | 2026-08-18 | 🟡 Low | 🔴 Negative | — | — | [link](https://wdrm.iheart.com/content/2026-08-18-nashville-cast-mourns-loss-of-hayden-panettiere-we-are-heartbroken/) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **JANUS HENDERSON GROUP** | Issue of Equity \| Company Announcement | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/issue-of-equity/9728311) |
-| ![](https://www.google.com/s2/favicons?domain=www.latintimes.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Trump White House Has a Record Number of Ultra - Rich Officials : Here Who They Are | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.latintimes.com/trumps-white-house-has-record-number-ultra-rich-officials-heres-who-they-are-598628) |
-| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **Guggenheim Partners** | Dodgers Ticketing Arm Linked To Mark Walter $17 Billion Shuffle Amid Probe | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.forbes.com/sites/peterchawaga/2026/08/18/dodgers-ticketing-arm-linked-to-mark-walters-17-billion-shuffle-amid-probe/) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Kroll, LLC** | Brokers warned of widening property valuation gaps as costs accelerate | 2026-08-18 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.insurancebusinessmag.com/us/news/property/brokers-warned-of-widening-property-valuation-gaps-as-costs-accelerate-586527.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.foodbev.com&sz=32) | **Stone X** | Whey too much ? How the protein boom has reshaped the whey supply chain | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.foodbev.com/news/whey-too-much-how-the-protein-boom-has-reshaped-the-whey-supply-chain) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Deere & Company ( NYSE : DE ) Issues Quarterly Earnings Results | 2026-08-20 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/08/20/deere-company-nysede-issues-quarterly-earnings-results.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.bostonglobe.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Mass . health care regulators monitoring private equity deal flow | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.bostonglobe.com/2026/08/19/business/massachusetts-health-care-regulators-private-equity-deal/) |
+| ![](https://www.google.com/s2/favicons?domain=sbr.com.sg&sz=32) | **Kroll, LLC** | Timah Partners secures $60m debt facility for SME acquisitions | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A, Product Launch | — | [link](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERIPRISE FINANCIAL INC** | Pallas Capital Advisors LLC Acquires Shares of 6 , 745 International Flavors & Fragrances Inc . $IFF | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/20/pallas-capital-advisors-llc-acquires-shares-of-6745-international-flavors-fragrances-inc-iff.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.biometricupdate.com&sz=32) | **Apollo Management** | Wall Street vishing attacks expose voice as a weak link in identity security | 2026-08-20 | 🟠 Medium | 🔴 Negative | — | Security | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
+| ![](https://www.google.com/s2/favicons?domain=www.biometricupdate.com&sz=32) | **BAIN CAPITAL LLC** | Wall Street vishing attacks expose voice as a weak link in identity security | 2026-08-20 | 🟠 Medium | 🔴 Negative | — | Security | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
+| ![](https://www.google.com/s2/favicons?domain=www.techtimes.com&sz=32) | **Dun & Bradstreet Corporation** | Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place | 2026-08-19 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32) | **CITADEL INVESTMENT GROUP** | Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement | 2026-08-14 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/) |
+| ![](https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32) | **LPL Financial** | US Unemployment Claims Unexpectedly Dropped Last Week | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theepochtimes.com/business/us-unemployment-claims-unexpectedly-dropped-last-week-6077397) |
+| ![](https://www.google.com/s2/favicons?domain=whyy.org&sz=32) | **JEFFERIES & COMPANY INC** | Things to do this weekend in Pa ., N . J ., and Del . | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/) |
+| ![](https://www.google.com/s2/favicons?domain=www.californiatelegraph.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | HM Exploration Announces DTC Eligibility of Its Common Shares in the United States | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.californiatelegraph.com/news/279253228/hm-exploration-announces-dtc-eligibility-of-its-common-shares-in-the-united-states) |
+| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **Chicago mercantile Exchange** | Gold crosses $4 , 550 , silver tops $67 in global market on weak dollar | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.business-standard.com/markets/commodities/gold-crosses-4-550-silver-tops-67-in-global-market-on-weak-dollar-126082000249_1.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Chevron ( NYSE : CVX ) Trading 1 . 5 % Higher – Still a Buy ? | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/20/chevron-nysecvx-trading-1-5-higher-still-a-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.compositesworld.com:443&sz=32) | **PLATINUM EQUITY LLC** | Praana , 3B and Original Composites & Fiberglass : The Next Chapter | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.compositesworld.com:443/articles/praana-3b-and-original-composites-fiberglass-the-next-chapter-) |
+| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **Commonwealth Financial Network** | Giant Cambridge group in Pennsylvania bolts to LPL | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.investmentnews.com/independent-broker-dealers/giant-cambridge-group-in-pennsylvania-bolts-to-lpl/267870) |
+| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **TPG Capital** | Tata Son capital call : Listed giants find their own growth fuel | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.business-standard.com/specials/news/tata-sons-capital-call-listed-giants-find-their-own-growth-fuel-126081801526_1.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **DAVIDSON KEMPNER** | Davidson Kempner Capital Management LP : Form 8 . 3 - Tate & Lyle plc | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-tate-lyle-plc/2407817) |
 | ![](https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32) | **Fortress Investment Group** | How Trent Johnson , Brian Landrum at Harbert Management Corp . Invest in Senior Housing – Commercial Observer | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Berkshire Hathaway Energy** | Did Greg Abel Just End Berkshire Hathaway ( BRK - B ) Cash - Hoard Problem ? | 2026-08-16 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/did-greg-abel-just-end-182906702.html) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Commonwealth Financial Network** | Merit buys Southern California wealth manager Bridgeway | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/merit-buys-southern-california-wealth-115748088.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.longislandpress.com&sz=32) | **EDWARD D JONES AND COMPANY** | Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/) |
-| ![](https://www.google.com/s2/favicons?domain=www.daily-tribune.com&sz=32) | **Voya Services Company** | Voya Financial to Present at the Canaccord Genuity 46th Annual Growth Conference | 2026-08-05 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.daily-tribune.com/online_features/press_releases/voya-financial-to-present-at-the-canaccord-genuity-46th-annual-growth-conference/article_60aabe0e-e59c-5f30-ab00-076448cb1880.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
 
 ## Detail
 
-### WILLIAM BLAIR & COMPANY
-**Vestis ( VSTS ) Q3 2026 Earnings Call Transcript** — 2026-08-18 — 🔴 High — ⚪ Neutral
+### TWO SIGMA INVESTMENTS
+**Deere & Company ( NYSE : DE ) Issues Quarterly Earnings Results** — 2026-08-20 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.fool.com/earnings/call-transcripts/2026/08/18/vestis-vsts-q3-2026-earnings-call-transcript/?source=iedfolrf0000001)
-
-### PRINCIPAL FINANCIAL GROUP
-**Vertical Data Appoints Chris Downs as Interim Chief Financial Officer** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html)
-
-### FINRA
-**iTrustCapital Now Offers Stocks and ETFs Across All Accounts , Becoming the Most Comprehensive Multi - Asset Investing Platform** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.finanznachrichten.de/nachrichten-2026-08/69344419-itrustcapital-now-offers-stocks-and-etfs-across-all-accounts-becoming-the-most-comprehensive-multi-asset-investing-platform-200.htm)
-
-### INVESCO
-**Invesco Emerging Markets Sovereign Debt ETF ( NYSEARCA : PCY ) Sees Unusually - High Trading Volume – Here What Happened** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/18/invesco-emerging-markets-sovereign-debt-etf-nysearcapcy-sees-unusually-high-trading-volume-heres-what-happened.html)
-
-### Raymond James and Associates Inc
-**Martin Marietta Materials ( NYSE : MLM ) Reaches New 1 - Year Low – What Next ?** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13548677/martin-marietta-materials-nysemlm-reaches-new-1-year-low-whats-next.html)
-
-### JEFFERIES & COMPANY INC
-**Nashville  Cast Mourns Loss Of Hayden Panettiere :  We Are Heartbroken** — 2026-08-18 — 🟡 Low — 🔴 Negative
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://wdrm.iheart.com/content/2026-08-18-nashville-cast-mourns-loss-of-hayden-panettiere-we-are-heartbroken/)
-
-### JANUS HENDERSON GROUP
-**Issue of Equity | Company Announcement** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/issue-of-equity/9728311)
+[Read →](https://www.themarketsdaily.com/2026/08/20/deere-company-nysede-issues-quarterly-earnings-results.html)
 
 ### CERBERUS CAPITAL MANAGEMENT LP
-**Trump White House Has a Record Number of Ultra - Rich Officials : Here Who They Are** — 2026-08-18 — 🟡 Low — 🟢 Positive
+**Mass . health care regulators monitoring private equity deal flow** — 2026-08-20 — 🔴 High — ⚪ Neutral
 
 
 
+_Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.latintimes.com/trumps-white-house-has-record-number-ultra-rich-officials-heres-who-they-are-598628)
-
-### Guggenheim Partners
-**Dodgers Ticketing Arm Linked To Mark Walter $17 Billion Shuffle Amid Probe** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.forbes.com/sites/peterchawaga/2026/08/18/dodgers-ticketing-arm-linked-to-mark-walters-17-billion-shuffle-amid-probe/)
+[Read →](https://www.bostonglobe.com/2026/08/19/business/massachusetts-health-care-regulators-private-equity-deal/)
 
 ### Kroll, LLC
-**Brokers warned of widening property valuation gaps as costs accelerate** — 2026-08-18 — 🟡 Low — 🔴 Negative
+**Timah Partners secures $60m debt facility for SME acquisitions** — 2026-08-20 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A, Product Launch  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions)
+
+### AMERIPRISE FINANCIAL INC
+**Pallas Capital Advisors LLC Acquires Shares of 6 , 745 International Flavors & Fragrances Inc . $IFF** — 2026-08-20 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/20/pallas-capital-advisors-llc-acquires-shares-of-6745-international-flavors-fragrances-inc-iff.html)
+
+### Apollo Management
+**Wall Street vishing attacks expose voice as a weak link in identity security** — 2026-08-20 — 🟠 Medium — 🔴 Negative
+
+
+
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security)
+
+### BAIN CAPITAL LLC
+**Wall Street vishing attacks expose voice as a weak link in identity security** — 2026-08-20 — 🟠 Medium — 🔴 Negative
+
+
+
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security)
+
+### Dun & Bradstreet Corporation
+**Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place** — 2026-08-19 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm)
+
+### CITADEL INVESTMENT GROUP
+**Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement** — 2026-08-14 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/)
+
+### LPL Financial
+**US Unemployment Claims Unexpectedly Dropped Last Week** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancebusinessmag.com/us/news/property/brokers-warned-of-widening-property-valuation-gaps-as-costs-accelerate-586527.aspx)
+[Read →](https://www.theepochtimes.com/business/us-unemployment-claims-unexpectedly-dropped-last-week-6077397)
 
-### Stone X
-**Whey too much ? How the protein boom has reshaped the whey supply chain** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### JEFFERIES & COMPANY INC
+**Things to do this weekend in Pa ., N . J ., and Del .** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.foodbev.com/news/whey-too-much-how-the-protein-boom-has-reshaped-the-whey-supply-chain)
+[Read →](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/)
+
+### DEPOSITORY TRUST CLEARING CORPORATION
+**HM Exploration Announces DTC Eligibility of Its Common Shares in the United States** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.californiatelegraph.com/news/279253228/hm-exploration-announces-dtc-eligibility-of-its-common-shares-in-the-united-states)
+
+### Chicago mercantile Exchange
+**Gold crosses $4 , 550 , silver tops $67 in global market on weak dollar** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.business-standard.com/markets/commodities/gold-crosses-4-550-silver-tops-67-in-global-market-on-weak-dollar-126082000249_1.html)
+
+### BERKSHIRE HATHAWAY INC
+**Chevron ( NYSE : CVX ) Trading 1 . 5 % Higher – Still a Buy ?** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/20/chevron-nysecvx-trading-1-5-higher-still-a-buy.html)
+
+### PLATINUM EQUITY LLC
+**Praana , 3B and Original Composites & Fiberglass : The Next Chapter** — 2026-08-19 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.compositesworld.com:443/articles/praana-3b-and-original-composites-fiberglass-the-next-chapter-)
+
+### Commonwealth Financial Network
+**Giant Cambridge group in Pennsylvania bolts to LPL** — 2026-08-18 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investmentnews.com/independent-broker-dealers/giant-cambridge-group-in-pennsylvania-bolts-to-lpl/267870)
+
+### TPG Capital
+**Tata Son capital call : Listed giants find their own growth fuel** — 2026-08-18 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.business-standard.com/specials/news/tata-sons-capital-call-listed-giants-find-their-own-growth-fuel-126081801526_1.html)
+
+### DAVIDSON KEMPNER
+**Davidson Kempner Capital Management LP : Form 8 . 3 - Tate & Lyle plc** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-tate-lyle-plc/2407817)
 
 ### Fortress Investment Group
 **How Trent Johnson , Brian Landrum at Harbert Management Corp . Invest in Senior Housing – Commercial Observer** — 2026-08-17 — 🟡 Low — ⚪ Neutral
@@ -141,24 +203,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/)
 
-### Berkshire Hathaway Energy
-**Did Greg Abel Just End Berkshire Hathaway ( BRK - B ) Cash - Hoard Problem ?** — 2026-08-16 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/did-greg-abel-just-end-182906702.html)
-
-### Commonwealth Financial Network
-**Merit buys Southern California wealth manager Bridgeway** — 2026-08-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/merit-buys-southern-california-wealth-115748088.html)
-
 ### EDWARD D JONES AND COMPANY
 **Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion** — 2026-08-12 — 🟡 Low — ⚪ Neutral
 
@@ -168,38 +212,35 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/)
 
-### Voya Services Company
-**Voya Financial to Present at the Canaccord Genuity 46th Annual Growth Conference** — 2026-08-05 — 🟡 Low — 🟢 Positive
+### Securian
+**July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.daily-tribune.com/online_features/press_releases/voya-financial-to-present-at-the-canaccord-genuity-46th-annual-growth-conference/article_60aabe0e-e59c-5f30-ab00-076448cb1880.html)
+[Read →](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (50)</summary>
+<details><summary>Accounts with no material news this cycle (46)</summary>
 
-- CITADEL INVESTMENT GROUP
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
-- Apollo Management
-- BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
-- PLATINUM EQUITY LLC
-- Dun & Bradstreet Corporation
+- INVESCO
+- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
-- LPL Financial
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
 - MSCI Inc
 - NEUBERGER BERMAN
 - Ascensus, Inc.
+- FINRA
 - SUSQUEHANNA PARTNERS G P
 - T ROWE PRICE ASSOCIATES
 - WELLINGTON MANAGEMENT COMPANY LLC
@@ -207,32 +248,31 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
-- DEPOSITORY TRUST CLEARING CORPORATION
 - DISCOVER FINANCIAL
-- Securian
-- TWO SIGMA INVESTMENTS
 - Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
-- Chicago mercantile Exchange
 - HARBOURVEST PARTNERS LLC
+- JANUS HENDERSON GROUP
 - ANTARES CAPITAL
 - CARLYLE
-- TPG Capital
-- BERKSHIRE HATHAWAY INC
-- DAVIDSON KEMPNER
+- Berkshire Hathaway Energy
+- Guggenheim Partners
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
 - First Advantage Corporation
 - FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
-- AMERIPRISE FINANCIAL INC
+- Voya Services Company
+- PRINCIPAL FINANCIAL GROUP
 - ROBERT W. BAIRD & CO INC
+- WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
+- Stone X
 
 </details>
 
 ---
-_Auto-generated on August 18, 2026._
+_Auto-generated on August 20, 2026._

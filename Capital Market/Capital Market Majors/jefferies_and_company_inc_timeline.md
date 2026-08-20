@@ -1,9 +1,10 @@
 # JEFFERIES & COMPANY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-20 | Things to do this weekend in Pa ., N . J ., and Del . | 🟡 Low | ⚪ Neutral | [link](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/) |
 | 2026-08-18 | Nashville  Cast Mourns Loss Of Hayden Panettiere :  We Are Heartbroken | 🟡 Low | 🔴 Negative | [link](https://wdrm.iheart.com/content/2026-08-18-nashville-cast-mourns-loss-of-hayden-panettiere-we-are-heartbroken/) |
 | 2026-08-14 | Workday , Silver Lake in discussions over potential $43B deal | 🔴 High | ⚪ Neutral | [link](https://www.proactiveinvestors.com/companies/news/1097070/workday-silver-lake-in-discussions-over-potential-43b-deal-1097070.html) |
 | 2026-07-29 | Closing Bell : Nifty Reclaims 24 , 250 as IT Rallies for Third Straight Day and FIIs Turn Net Buyers | 🟡 Low | ⚪ Neutral | [link](https://www.indiainfoline.com/news/markets/closing-bell-nifty-reclaims-24250-as-it-rallies-for-third-straight-day-and-fiis-turn-net-buyers) |

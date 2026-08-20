@@ -1,6 +1,6 @@
 # Latest News — Banking Majors
 
-**Updated:** August 18, 2026  
+**Updated:** August 20, 2026  
 **Accounts tracked:** 91  
 **Accounts with news this cycle:** 22  
 
@@ -10,40 +10,40 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.dailypost.co.uk&sz=32) | **WESTERN UNION** | Drug addict ex - soldier who swindled dad claimed stolen cash was spent on Harley Davidson parts | 2026-08-18 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypost.co.uk/news/north-wales-news/drug-addict-ex-soldier-who-34475741) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Texas Capital Bank** | K2 Principal Fund L . P . Buys Shares of 4 , 000 Keysight Technologies Inc . $KEYS | 2026-08-19 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.tickerreport.com/banking-finance/13550066/k2-principal-fund-l-p-buys-shares-of-4000-keysight-technologies-inc-keys.html) |
 | ![](https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32) | **Datasite** | AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions | 2026-08-18 | 🔴 High | ⚪ Neutral | M&A | Azure AI | [link](https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIFTH THIRD BANCORP** | Fifth Third Bancorp Acquires 9 , 470 Shares of Mondelez International , Inc . $MDLZ | 2026-08-18 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/18/fifth-third-bancorp-acquires-9470-shares-of-mondelez-international-inc-mdlz.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **KeyCorp** | Investment Analyst Recent Ratings Updates for Sprout Social ( SPT ) | 2026-08-18 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.dailypolitical.com/2026/08/18/investment-analysts-recent-ratings-updates-for-sprout-social-spt.html) |
-| ![](https://www.google.com/s2/favicons?domain=speedwaymedia.com&sz=32) | **SYNOVUS FINANCIAL CORP** | Pinnacle Financial Partners Continues Partnership with 23XI Racing in Multi - Year Renewal | 2026-08-14 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://speedwaymedia.com/2026/08/14/pinnacle-financial-partners-continues-partnership-with-23xi-racing-in-multi-year-renewal/) |
-| ![](https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32) | **FREDDIE MAC** | Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications | 2026-08-18 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications) |
-| ![](https://www.google.com/s2/favicons?domain=www.hawaiitelegraph.com&sz=32) | **FANNIE MAE** | Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications | 2026-08-18 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications) |
-| ![](https://www.google.com/s2/favicons?domain=www.sydneysun.com&sz=32) | **DUCK CREEK TECHNOLOGIES INC** | Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience | 2026-08-12 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience) |
-| ![](https://www.google.com/s2/favicons?domain=www.haitisun.com&sz=32) | **HILLTOP HOLDINGS** | Brean Capital Welcomes Mat Parker as Managing Director and Head of Financial Institutions Group Sales | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](http://www.haitisun.com/news/279249146/brean-capital-welcomes-mat-parker-as-managing-director-and-head-of-financial-institutions-group-sales) |
-| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **MORTGAGE RESEARCH CENTER** | Current ARM mortgage rates report for Aug . 18 , 2026 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://fortune.com/article/current-arm-mortgage-rates-08-18-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=cdispatch.com&sz=32) | **PINNACLE BANK** | Education briefs for 8 - 18 - 26 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://cdispatch.com/news/education-briefs-for-8-18-26/) |
-| ![](https://www.google.com/s2/favicons?domain=www.medicaldaily.com&sz=32) | **Bloomberg LP** | No State Has Changed Its School Vaccine Requirements , and the New Federal Order Does Not Force One To | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.medicaldaily.com/school-vaccine-requirements-unchanged-states-executive-order-back-school-477458) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **CITIZENS FINANCIAL GROUP** | Tiemann Investment Advisors LLC Buys Shares of 29 , 547 Oracle Corporation $ORCL | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/18/tiemann-investment-advisors-llc-buys-shares-of-29547-oracle-corporation-orcl.html) |
-| ![](https://www.google.com/s2/favicons?domain=thegrio.com&sz=32) | **M & T BANK** | Usher Chris Brown tour extension adds eight stadium dates | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/) |
-| ![](https://www.google.com/s2/favicons?domain=www.housingwire.com&sz=32) | **Roundpoint Mortgage Servicing** | UWM shareholder lawsuit alleges hedge misstatements | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.housingwire.com/articles/uwm-two-harbors-hedging-lawsuit/) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Flagstar Bank** | Fiserv and Flagstar Bank Announce Strategic Core Banking Relationship | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/fiserv-and-flagstar-bank-announce-strategic-core-banking-relationship/2406825) |
-| ![](https://www.google.com/s2/favicons?domain=www.wsws.org&sz=32) | **United Wholesale Mortgage** | Significant loss by major Wall Street trading firm | 2026-08-17 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Old National Bancorp** | KBC Group NV Buys 22 , 978 Shares of Cigna Group $CI | 2026-08-16 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/08/16/kbc-group-nv-buys-22978-shares-of-cigna-group-ci.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Old National Bancorp** | Quartz Partners LLC Invests $494 , 000 in Booking Holdings Inc . $BKNG | 2026-08-20 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.dailypolitical.com/2026/08/20/quartz-partners-llc-invests-494000-in-booking-holdings-inc-bkng.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **FIFTH THIRD BANCORP** | SEC sues three ex - Tricolor executives over bond fraud | 2026-08-20 | 🟠 Medium | 🔴 Negative | Regulatory | Security | [link](https://www.americanbanker.com/news/sec-sues-three-ex-tricolor-executives-over-bond-fraud) |
+| ![](https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32) | **FANNIE MAE** | The Digital Download \| Alston & Bird Privacy & Data Security Newsletter \| August 2026 - Data Protection | 2026-08-20 | 🟠 Medium | ⚪ Neutral | — | Fabric, Security | [link](https://www.mondaq.com:443/unitedstates/data-protection/1833466/the-digital-download-%7C-alston-birds-privacy-data-security-newsletter-%7C-august-2026) |
+| ![](https://www.google.com/s2/favicons?domain=www.lawyersweekly.com.au&sz=32) | **RAPID ADVANCE LLC** | Work with the grain : Lawyers , judges must embrace AI | 2026-08-19 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai) |
+| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **FIRST HORIZON BANK** | Tokenized deposits are here . Banks need to manage the risks . | 2026-08-19 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.americanbanker.com/news/tokenized-deposits-are-here-banks-need-to-manage-the-risks) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailymail.com&sz=32) | **HILLTOP HOLDINGS** | Harry and Meghan Cotswold kingdom ? Sussexes made  secret reconnaissance  of sought - after celebrity enclave before announcing move to united kingdom | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailymail.com/news/article-16066759/Harry-Meghan-Cotswold-kingdom-secret-UK.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com:443&sz=32) | **ALLY FINANCIAL** | Ally Financial to present at the Barclays Global Financial Services Conference | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.prnewswire.com:443/news-releases/ally-financial-to-present-at-the-barclays-global-financial-services-conference-302855820.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.wbry.com&sz=32) | **DUCK CREEK TECHNOLOGIES INC** | Raymond Allen Minix - WBRY FM 107 . 1 AM 1540 | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wbry.com/raymond-allen-minix/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nola.com&sz=32) | **Jack Henry & Associates Inc.** | Football Scrimmage Between St . Paul and John Curtis \| St . Tammany community news | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nola.com/news/communities/st_tammany/a-junior-qb-scored-three-times-during-the-curtis-st-pauls-scrimmage/article_824f0d95-0fbc-4e78-ab05-e609d58f4289.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.hitc.com&sz=32) | **United Wholesale Mortgage** | Phoenix Suns owner might be pressured to sell his NBA franchise weeks after Mark Walter LA Lakers | 2026-08-20 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.hitc.com/phoenix-suns-owner-might-be-pressured-to-sell-his-nba-franchise-weeks-after-mark-walters-la-lakers/) |
+| ![](https://www.google.com/s2/favicons?domain=afr.net:443&sz=32) | **Movement Mortgage** | Planning Ahead for Long - Term Care | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://afr.net:443/podcasts/faith-finance/2026/august/planning-ahead-for-long-term-care/) |
+| ![](https://www.google.com/s2/favicons?domain=www.kyivpost.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | Ukraine War Latest Update : Putin Says Russian Economy Remains Stable Despite Attacks | 2026-08-19 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.kyivpost.com/post/82697) |
+| ![](https://www.google.com/s2/favicons?domain=northcountrynow.com&sz=32) | **OneMain Financial** | When is debt consolidation a good idea ? - North Country Now | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](http://northcountrynow.com/premium/stacker/stories/when-is-debt-consolidation-a-good-idea,386437) |
+| ![](https://www.google.com/s2/favicons?domain=www.news4jax.com&sz=32) | **VYSTAR CREDIT UNION** | Jacksonville woman sues VyStar , alleges credit union failed to properly investigate $42K impersonation scam | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.news4jax.com/news/local/2026/08/19/jacksonville-woman-sues-vystar-alleges-credit-union-failed-to-properly-investigate-42k-impersonation-scam/) |
+| ![](https://www.google.com/s2/favicons?domain=waateanews.com&sz=32) | **HEALTHEQUITY INC** | # national : Aged Care Time Bomb : Cunliffe Warns Reform Cannot Wait - Waatea News : Māori Radio Station | 2026-08-18 | 🟡 Low | 🔴 Negative | — | — | [link](https://waateanews.com/2026/08/19/aged-care-time-bomb-cunliffe-warns-reform-cannot-wait/) |
 | ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **Select Portfolio Servicing, Inc.** | SPIRE latest effort will sell $413 . 7 million in RMBS | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nationalmortgagenews.com/news/spires-latest-effort-will-sell-413-7-million-in-rmbs) |
 | ![](https://www.google.com/s2/favicons?domain=gazette.com&sz=32) | **Columbia Banking System, Inc.** | Columbia Bank continues Centennial State expansion with opening of Colorado Springs facility | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://gazette.com/2026/08/14/columbia-bank-continues-centennial-state-expansion-with-opening-of-colorado-springs-facility/) |
 | ![](https://www.google.com/s2/favicons?domain=wcyb.com&sz=32) | **Valley National Bank** | GALLERY : News 5 WCYB 70th Anniversary Block Party | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wcyb.com/features/70th-anniversary/gallery-news-5-wcyb-70th-anniversary-block-party) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **GREYSTONE SERVICING CORP** | Greystone Provides $105 . 8 Million in Freddie Mac Refinancing for Two Multifamily Communities in El Cajon , California | 2026-08-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/greystone-provides-1058-million-in-freddie-mac-refinancing-for-two-multifamily-communities-in-el-cajon-california/2397181) |
+| ![](https://www.google.com/s2/favicons?domain=www.heraldextra.com&sz=32) | **MOUNTAIN AMERICA CREDIT UNION** | Money Matters : How to spot financial scams before they cost you \| News , Sports , Jobs | 2026-08-08 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.heraldextra.com/business/2026/aug/07/money-matters-how-to-spot-financial-scams-before-they-cost-you/) |
+| ![](https://www.google.com/s2/favicons?domain=www.thehindubusinessline.com&sz=32) | **Q2 Software** | Stock Market Today Highlights , August 5 : Sensex rises 152 points , Nifty ends above 24 , 620 after RBI keeps repo rate unchanged | 2026-08-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece) |
 
 ## Detail
 
-### WESTERN UNION
-**Drug addict ex - soldier who swindled dad claimed stolen cash was spent on Harley Davidson parts** — 2026-08-18 — 🔴 High — ⚪ Neutral
+### Texas Capital Bank
+**K2 Principal Fund L . P . Buys Shares of 4 , 000 Keysight Technologies Inc . $KEYS** — 2026-08-19 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypost.co.uk/news/north-wales-news/drug-addict-ex-soldier-who-34475741)
+[Read →](https://www.tickerreport.com/banking-finance/13550066/k2-principal-fund-l-p-buys-shares-of-4000-keysight-technologies-inc-keys.html)
 
 ### Datasite
 **AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions** — 2026-08-18 — 🔴 High — ⚪ Neutral
@@ -56,155 +56,146 @@ _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this sig
 
 [Read →](https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/)
 
-### FIFTH THIRD BANCORP
-**Fifth Third Bancorp Acquires 9 , 470 Shares of Mondelez International , Inc . $MDLZ** — 2026-08-18 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/18/fifth-third-bancorp-acquires-9470-shares-of-mondelez-international-inc-mdlz.html)
-
-### KeyCorp
-**Investment Analyst Recent Ratings Updates for Sprout Social ( SPT )** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/08/18/investment-analysts-recent-ratings-updates-for-sprout-social-spt.html)
-
-### SYNOVUS FINANCIAL CORP
-**Pinnacle Financial Partners Continues Partnership with 23XI Racing in Multi - Year Renewal** — 2026-08-14 — 🟠 Medium — ⚪ Neutral
+### Old National Bancorp
+**Quartz Partners LLC Invests $494 , 000 in Booking Holdings Inc . $BKNG** — 2026-08-20 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Trigger events:_ Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://speedwaymedia.com/2026/08/14/pinnacle-financial-partners-continues-partnership-with-23xi-racing-in-multi-year-renewal/)
+[Read →](https://www.dailypolitical.com/2026/08/20/quartz-partners-llc-invests-494000-in-booking-holdings-inc-bkng.html)
 
-### FREDDIE MAC
-**Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
+### FIFTH THIRD BANCORP
+**SEC sues three ex - Tricolor executives over bond fraud** — 2026-08-20 — 🟠 Medium — 🔴 Negative
 
 
 
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+_Trigger events:_ Regulatory  
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
 
-[Read →](http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications)
+[Read →](https://www.americanbanker.com/news/sec-sues-three-ex-tricolor-executives-over-bond-fraud)
 
 ### FANNIE MAE
-**Clear Capital Verified by Fannie Mae and Freddie Mac to Support the New Uniform Property Data Report ( UPDR ) Specifications** — 2026-08-18 — 🟠 Medium — ⚪ Neutral
+**The Digital Download | Alston & Bird Privacy & Data Security Newsletter | August 2026 - Data Protection** — 2026-08-20 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
 
-[Read →](http://www.hawaiitelegraph.com/news/279249227/clear-capital-verified-by-fannie-mae-and-freddie-mac-to-support-the-new-uniform-property-data-report-updr-specifications)
+[Read →](https://www.mondaq.com:443/unitedstates/data-protection/1833466/the-digital-download-%7C-alston-birds-privacy-data-security-newsletter-%7C-august-2026)
 
-### DUCK CREEK TECHNOLOGIES INC
-**Capricorn Mutual Goes Live on Duck Creek , Strengthening Service , Automation and Member Experience** — 2026-08-12 — 🟠 Medium — ⚪ Neutral
+### RAPID ADVANCE LLC
+**Work with the grain : Lawyers , judges must embrace AI** — 2026-08-19 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Solution plays:_ Azure AI  
 _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](http://www.sydneysun.com/news/279235007/capricorn-mutual-goes-live-on-duck-creek-strengthening-service-automation-and-member-experience)
+[Read →](https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai)
+
+### FIRST HORIZON BANK
+**Tokenized deposits are here . Banks need to manage the risks .** — 2026-08-19 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.americanbanker.com/news/tokenized-deposits-are-here-banks-need-to-manage-the-risks)
 
 ### HILLTOP HOLDINGS
-**Brean Capital Welcomes Mat Parker as Managing Director and Head of Financial Institutions Group Sales** — 2026-08-18 — 🟡 Low — 🟢 Positive
+**Harry and Meghan Cotswold kingdom ? Sussexes made  secret reconnaissance  of sought - after celebrity enclave before announcing move to united kingdom** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.haitisun.com/news/279249146/brean-capital-welcomes-mat-parker-as-managing-director-and-head-of-financial-institutions-group-sales)
+[Read →](https://www.dailymail.com/news/article-16066759/Harry-Meghan-Cotswold-kingdom-secret-UK.html)
 
-### MORTGAGE RESEARCH CENTER
-**Current ARM mortgage rates report for Aug . 18 , 2026** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://fortune.com/article/current-arm-mortgage-rates-08-18-2026/)
-
-### PINNACLE BANK
-**Education briefs for 8 - 18 - 26** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### ALLY FINANCIAL
+**Ally Financial to present at the Barclays Global Financial Services Conference** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://cdispatch.com/news/education-briefs-for-8-18-26/)
+[Read →](https://www.prnewswire.com:443/news-releases/ally-financial-to-present-at-the-barclays-global-financial-services-conference-302855820.html)
 
-### Bloomberg LP
-**No State Has Changed Its School Vaccine Requirements , and the New Federal Order Does Not Force One To** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.medicaldaily.com/school-vaccine-requirements-unchanged-states-executive-order-back-school-477458)
-
-### CITIZENS FINANCIAL GROUP
-**Tiemann Investment Advisors LLC Buys Shares of 29 , 547 Oracle Corporation $ORCL** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### DUCK CREEK TECHNOLOGIES INC
+**Raymond Allen Minix - WBRY FM 107 . 1 AM 1540** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/18/tiemann-investment-advisors-llc-buys-shares-of-29547-oracle-corporation-orcl.html)
+[Read →](https://www.wbry.com/raymond-allen-minix/)
 
-### M & T BANK
-**Usher Chris Brown tour extension adds eight stadium dates** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/)
-
-### Roundpoint Mortgage Servicing
-**UWM shareholder lawsuit alleges hedge misstatements** — 2026-08-17 — 🟡 Low — ⚪ Neutral
+### Jack Henry & Associates Inc.
+**Football Scrimmage Between St . Paul and John Curtis | St . Tammany community news** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.housingwire.com/articles/uwm-two-harbors-hedging-lawsuit/)
-
-### Flagstar Bank
-**Fiserv and Flagstar Bank Announce Strategic Core Banking Relationship** — 2026-08-17 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/fiserv-and-flagstar-bank-announce-strategic-core-banking-relationship/2406825)
+[Read →](https://www.nola.com/news/communities/st_tammany/a-junior-qb-scored-three-times-during-the-curtis-st-pauls-scrimmage/article_824f0d95-0fbc-4e78-ab05-e609d58f4289.html)
 
 ### United Wholesale Mortgage
-**Significant loss by major Wall Street trading firm** — 2026-08-17 — 🟡 Low — 🔴 Negative
+**Phoenix Suns owner might be pressured to sell his NBA franchise weeks after Mark Walter LA Lakers** — 2026-08-20 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html)
+[Read →](https://www.hitc.com/phoenix-suns-owner-might-be-pressured-to-sell-his-nba-franchise-weeks-after-mark-walters-la-lakers/)
 
-### Old National Bancorp
-**KBC Group NV Buys 22 , 978 Shares of Cigna Group $CI** — 2026-08-16 — 🟡 Low — 🟢 Positive
+### Movement Mortgage
+**Planning Ahead for Long - Term Care** — 2026-08-19 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/08/16/kbc-group-nv-buys-22978-shares-of-cigna-group-ci.html)
+[Read →](https://afr.net:443/podcasts/faith-finance/2026/august/planning-ahead-for-long-term-care/)
+
+### REGIONS FINANCIAL CORPORATION
+**Ukraine War Latest Update : Putin Says Russian Economy Remains Stable Despite Attacks** — 2026-08-19 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.kyivpost.com/post/82697)
+
+### OneMain Financial
+**When is debt consolidation a good idea ? - North Country Now** — 2026-08-19 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://northcountrynow.com/premium/stacker/stories/when-is-debt-consolidation-a-good-idea,386437)
+
+### VYSTAR CREDIT UNION
+**Jacksonville woman sues VyStar , alleges credit union failed to properly investigate $42K impersonation scam** — 2026-08-19 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.news4jax.com/news/local/2026/08/19/jacksonville-woman-sues-vystar-alleges-credit-union-failed-to-properly-investigate-42k-impersonation-scam/)
+
+### HEALTHEQUITY INC
+**# national : Aged Care Time Bomb : Cunliffe Warns Reform Cannot Wait - Waatea News : Māori Radio Station** — 2026-08-18 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://waateanews.com/2026/08/19/aged-care-time-bomb-cunliffe-warns-reform-cannot-wait/)
 
 ### Select Portfolio Servicing, Inc.
 **SPIRE latest effort will sell $413 . 7 million in RMBS** — 2026-08-14 — 🟡 Low — ⚪ Neutral
@@ -233,14 +224,23 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://wcyb.com/features/70th-anniversary/gallery-news-5-wcyb-70th-anniversary-block-party)
 
-### GREYSTONE SERVICING CORP
-**Greystone Provides $105 . 8 Million in Freddie Mac Refinancing for Two Multifamily Communities in El Cajon , California** — 2026-08-03 — 🟡 Low — ⚪ Neutral
+### MOUNTAIN AMERICA CREDIT UNION
+**Money Matters : How to spot financial scams before they cost you | News , Sports , Jobs** — 2026-08-08 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/greystone-provides-1058-million-in-freddie-mac-refinancing-for-two-multifamily-communities-in-el-cajon-california/2397181)
+[Read →](https://www.heraldextra.com/business/2026/aug/07/money-matters-how-to-spot-financial-scams-before-they-cost-you/)
+
+### Q2 Software
+**Stock Market Today Highlights , August 5 : Sensex rises 152 points , Nifty ends above 24 , 620 after RBI keeps repo rate unchanged** — 2026-08-05 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-august-2026/article71306480.ece)
 
 ---
 
@@ -250,73 +250,73 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - FHLB OF DALLAS
 - FROST NATIONAL BANK
 - NATIONSTAR MORTGAGE
-- Texas Capital Bank
 - WOODFOREST NATIONAL BANK
 - COMERICA INC
 - FAIRWAY MORTGAGE ACCOUNT OFC
 - FREEDOM MORTGAGE CORPORATION
+- GREYSTONE SERVICING CORP
 - Navient
 - NORTHWEST SAVINGS BANK
+- Roundpoint Mortgage Servicing
 - CARRINGTON MORTGAGE SERVICE
 - EAST WEST BANCORP INC
 - Midland Credit Management
+- MORTGAGE RESEARCH CENTER
+- PINNACLE BANK
 - UNITED MISSOURI BANCSHARES INC
+- WESTERN UNION
 - BCU
 - Guaranteed Rate Inc
-- MOUNTAIN AMERICA CREDIT UNION
 - TRANS UNION CORPORATION
 - Wintrust Financial Corporation
 - ZIONS BANK CORPORATION
 - ARVEST BANK GROUP
 - Co-op Financial Services
 - EXETER FINANCE CORP
-- Movement Mortgage
-- REGIONS FINANCIAL CORPORATION
 - REPUBLIC FINANCE
 - Simmons First National Bank Corporation
 - Advisor360
 - defi Auto, LLC
 - Global Payments
-- RAPID ADVANCE LLC
 - Sagent M&C, LLC
 - Versana LLC
 - APPLIED SYSTEMS INC
+- Bloomberg LP
 - Insurity
-- Q2 Software
-- ALLY FINANCIAL
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
 - FNB CORPORATION
 - South State Bank
 - State Employees Credit Union
+- SYNOVUS FINANCIAL CORP
 - Alight
 - DOVENMUEHLE MORTGAGE INC
-- OneMain Financial
 - Rock Holding Inc.
 - AUTOBOOKS
+- Flagstar Bank
+- FREDDIE MAC
 - Synchrony Financial
 - WEBSTER BANK
 - Edfinancial Services
-- FIRST HORIZON BANK
 - HUNTINGTON BANCSHARES INC
+- KeyCorp
 - Boeing Employees Credit Union
 - CU DIRECT LENDING (CUDL Technology Center)
 - FIRST TECHNOLOGY CREDIT UNION
-- HEALTHEQUITY INC
 - loanDepot
 - Experian
 - NELNET
 - Elevate Credit
 - FACTSET RESEARCH SYSTEMS
 - GREEN DOT CORPORATION
-- Jack Henry & Associates Inc.
 - FIRST CITIZENS BANK & TRUST COMPANY
 - LENDINGTREE.COM
-- VYSTAR CREDIT UNION
 - CENLAR FSB INC
+- CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
+- M & T BANK
 
 </details>
 
 ---
-_Auto-generated on August 18, 2026._
+_Auto-generated on August 20, 2026._

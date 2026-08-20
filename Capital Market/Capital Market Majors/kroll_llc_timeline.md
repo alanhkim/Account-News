@@ -1,9 +1,10 @@
 # Kroll, LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-20 | Timah Partners secures $60m debt facility for SME acquisitions | 🔴 High | ⚪ Neutral | [link](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions) |
 | 2026-08-18 | Brokers warned of widening property valuation gaps as costs accelerate | 🟡 Low | 🔴 Negative | [link](https://www.insurancebusinessmag.com/us/news/property/brokers-warned-of-widening-property-valuation-gaps-as-costs-accelerate-586527.aspx) |
 | 2026-08-12 | Adults Season 2 Trailer : Hilarious FX Show Returns , Huge Stranger Things Star Joining Cast | 🟡 Low | ⚪ Neutral | [link](https://www.comingsoon.net/tv/trailers/2175180-adults-season-2-trailer-fx-show-stranger-things-star) |
 | 2026-07-28 | Christina Lake rallies behind fire rescue boat campaign | 🟡 Low | ⚪ Neutral | [link](https://grandforksgazette.ca/2026/07/28/christina-lake-rallies-behind-fire-rescue-boat-campaign/) |

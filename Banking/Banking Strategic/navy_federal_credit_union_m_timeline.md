@@ -1,9 +1,10 @@
 # NAVY FEDERAL CREDIT UNION M — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-20 | What Are VA Loan Rates Today , August 20 , 2026 and the Best Lenders | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/what-are-va-loan-rates-today-august-20-2026/) |
 | 2026-08-18 | When is a good time to buy a house ? | 🟡 Low | ⚪ Neutral | [link](https://www.mtdemocrat.com/online_features/real_estate/when-is-a-good-time-to-buy-a-house/article_02e97ee0-95d4-592a-9111-cd65f4827111.html) |
 | 2026-08-13 | Prices up 3 . 4 % for shoppers in July \ | Northwest Arkansas Democrat - Gazette | 🟡 Low | 🟢 Positive | [link](https://www.nwaonline.com/news/2026/aug/13/prices-up-34-for-shoppers-in-july/) |
 | 2026-08-12 | July inflation eased , despite recent energy shocks | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/economy/article/july-inflation-eased-despite-recent-energy-shocks-182926153.html) |

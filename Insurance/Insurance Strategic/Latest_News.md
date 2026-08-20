@@ -1,8 +1,8 @@
 # Latest News — Insurance Strategic
 
-**Updated:** August 18, 2026  
+**Updated:** August 20, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 5  
+**Accounts with news this cycle:** 3  
 
 ---
 
@@ -10,75 +10,57 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.indiagazette.com&sz=32) | **Nationwide** | BJP plans nationwide  Seva Sankalp Mahotsav  to mark PM Modi 25 years of public service | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.indiagazette.com/news/279249714/bjp-plans-nationwide-seva-sankalp-mahotsav-to-mark-pm-modi-25-years-of-public-service) |
-| ![](https://www.google.com/s2/favicons?domain=www.41nbc.com&sz=32) | **GEICO** | Restaurant Report Card : Middle Georgia food service inspection scores August 10 - 14 - 41NBC News | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.41nbc.com/restaurant-report-card-middle-georgia-food-service-inspection-scores-august-10-14-2026/) |
-| ![](https://www.google.com/s2/favicons?domain=www.jamaicantimes.com&sz=32) | **NORTHWESTERN MUTUAL** | Trapani Meyer : Built on Listening , Sustained by Trust | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.jamaicantimes.com/news/279249246/trapani-meyer-built-on-listening-sustained-by-trust) |
-| ![](https://www.google.com/s2/favicons?domain=thegrio.com&sz=32) | **Metlife** | Usher Chris Brown tour extension adds eight stadium dates | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/) |
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **ALLSTATE INSURANCE GROUP** | In HelloNation ,  K . D . the Insurance Queen  Sakraida of Centennial , CO , explains homeowner insurance coverage for Colorado Storms . | 2026-08-11 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/in-hellonation-kd-the-insurance-queen-sakraida-of-centennial-co-explains-homeowners-insurance-coverage-for-colorado-storms-302847204.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | MidAtlantic Capital Management Inc . Takes $571 , 000 Position in Deere & Company $DE | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/08/20/midatlantic-capital-management-inc-takes-571000-position-in-deere-company-de.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.opinionnigeria.com&sz=32) | **Progressive Corporation** | PRP : Donald Duke Can Win 2027 Presidency With Broad Coalition | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.opinionnigeria.com/donald-duke-can-win-2027-presidency-with-broad-coalition-grassroots-structure-prp-chairman/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **FIRST AMERICAN FINANCIAL CORP** | Previously owned home sales decline to three - month low | 2026-08-11 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.nationalmortgagenews.com/articles/previously-owned-home-sales-decline-to-three-month-low) |
 
 ## Detail
 
-### Nationwide
-**BJP plans nationwide  Seva Sankalp Mahotsav  to mark PM Modi 25 years of public service** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.indiagazette.com/news/279249714/bjp-plans-nationwide-seva-sankalp-mahotsav-to-mark-pm-modi-25-years-of-public-service)
-
-### GEICO
-**Restaurant Report Card : Middle Georgia food service inspection scores August 10 - 14 - 41NBC News** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.41nbc.com/restaurant-report-card-middle-georgia-food-service-inspection-scores-august-10-14-2026/)
-
 ### NORTHWESTERN MUTUAL
-**Trapani Meyer : Built on Listening , Sustained by Trust** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+**MidAtlantic Capital Management Inc . Takes $571 , 000 Position in Deere & Company $DE** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.jamaicantimes.com/news/279249246/trapani-meyer-built-on-listening-sustained-by-trust)
+[Read →](https://www.dailypolitical.com/2026/08/20/midatlantic-capital-management-inc-takes-571000-position-in-deere-company-de.html)
 
-### Metlife
-**Usher Chris Brown tour extension adds eight stadium dates** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/)
-
-### ALLSTATE INSURANCE GROUP
-**In HelloNation ,  K . D . the Insurance Queen  Sakraida of Centennial , CO , explains homeowner insurance coverage for Colorado Storms .** — 2026-08-11 — 🟡 Low — ⚪ Neutral
+### Progressive Corporation
+**PRP : Donald Duke Can Win 2027 Presidency With Broad Coalition** — 2026-08-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.prnewswire.com/news-releases/in-hellonation-kd-the-insurance-queen-sakraida-of-centennial-co-explains-homeowners-insurance-coverage-for-colorado-storms-302847204.html)
+[Read →](https://www.opinionnigeria.com/donald-duke-can-win-2027-presidency-with-broad-coalition-grassroots-structure-prp-chairman/)
+
+### FIRST AMERICAN FINANCIAL CORP
+**Previously owned home sales decline to three - month low** — 2026-08-11 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.nationalmortgagenews.com/articles/previously-owned-home-sales-decline-to-three-month-low)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (10)</summary>
+<details><summary>Accounts with no material news this cycle (12)</summary>
 
+- Nationwide
+- GEICO
 - STATE FARM LIFE INSURANCE CO
 - Marsh McLennan
+- Metlife
 - American International Group Inc
-- FIRST AMERICAN FINANCIAL CORP
+- ALLSTATE INSURANCE GROUP
 - Aon Corporation
 - Chubb
 - LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
-- Progressive Corporation
 - Willis Towers Watson
 
 </details>
 
 ---
-_Auto-generated on August 18, 2026._
+_Auto-generated on August 20, 2026._

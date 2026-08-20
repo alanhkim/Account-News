@@ -1,9 +1,10 @@
 # Progressive Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-20 | PRP : Donald Duke Can Win 2027 Presidency With Broad Coalition | 🟡 Low | ⚪ Neutral | [link](https://www.opinionnigeria.com/donald-duke-can-win-2027-presidency-with-broad-coalition-grassroots-structure-prp-chairman/) |
 | 2026-08-14 | White House official says violent crime decreased in 2025 , FBI to put out report | 🟡 Low | ⚪ Neutral | [link](https://local21news.com/news/nation-world/white-house-official-says-violent-crime-decreased-in-2025-fbi-to-put-out-report-donald-trump-national-guard) |
 | 2026-08-12 | Democratic voters are making clear they just want change | 🟡 Low | ⚪ Neutral | [link](https://www.wdbo.com/news/politics/forget-left-vs/MYDWNIZG64ZYXHZ5IXYN2E35NE/) |
 | 2026-07-30 | Joe Rogan Warns Texas Turning Blue Could  Ruin  Its  Great Balance | 🟡 Low | 🔴 Negative | [link](https://globemagazine.com/joe-rogan-sounds-alarm-over-texas-turning-blue-could-ruin-states-great-balance/) |

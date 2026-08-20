@@ -1,9 +1,10 @@
 # RAPID ADVANCE LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 18, 2026.
+Rolling history of tracked news (last 90 days). Updated August 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-19 | Work with the grain : Lawyers , judges must embrace AI | 🟠 Medium | ⚪ Neutral | [link](https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai) |
 | 2026-08-14 | C919 completes first scheduled international commercial service | 🟡 Low | ⚪ Neutral | [link](https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260813-globaltimes02.htm) |
 | 2026-08-13 | C919 completes first scheduled international commercial service | 🟡 Low | ⚪ Neutral | [link](http://en.people.cn/n3/2026/0813/c90000-20488209.html) |
 | 2026-08-09 | Recap : B . C . declares state of emergency due to wildfires | 🟡 Low | ⚪ Neutral | [link](https://www.cp24.com/news/canada/2026/08/08/police-investigating-possible-fatality-from-summerland-bc-wildfire-live-updates-here/) |
