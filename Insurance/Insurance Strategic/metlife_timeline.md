@@ -1,9 +1,10 @@
 # Metlife — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 20, 2026.
+Rolling history of tracked news (last 90 days). Updated August 25, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-25 | I ditched T - Mobile for Mint and found 3 major drawbacks of smaller carriers - and their workarounds | 🟡 Low | ⚪ Neutral | [link](https://www.zdnet.com/article/i-ditched-t-mobile-for-mint-and-found-3-major-drawbacks-of-smaller-carriers-and-workarounds/) |
 | 2026-08-18 | Usher Chris Brown tour extension adds eight stadium dates | 🟡 Low | ⚪ Neutral | [link](https://thegrio.com/2026/08/18/usher-chris-brown-tour-extension-eight-dates/) |
 | 2026-07-31 | NPK International ( NYSE : NPKI ) Issues Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13524692/npk-international-nysenpki-issues-earnings-results.html) |
 | 2026-07-30 | Giants Keep Nabers Off PUP List as Receiver Targets Week 1 Return | 🟡 Low | 🟢 Positive | [link](https://magic983.com/2026/07/30/giants-keep-nabers-off-pup-list-as-receiver-targets-week-1-return/) |

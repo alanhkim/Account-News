@@ -1,39 +1,22 @@
 {
-  "generated": "2026-08-20",
-  "generated_human": "August 20, 2026",
+  "generated": "2026-08-25",
+  "generated_human": "August 25, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 7,
+    "with_news": 5,
     "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 3,
+      "count": 2,
       "items": [
         {
-          "account": "FANNIE MAE",
-          "title": "The Digital Download | Alston & Bird Privacy & Data Security Newsletter | August 2026 - Data Protection",
-          "url": "https://www.mondaq.com:443/unitedstates/data-protection/1833466/the-digital-download-%7C-alston-birds-privacy-data-security-newsletter-%7C-august-2026",
-          "date": "2026-08-20",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "http://www.mondaq.com/images/profile/companythumb/28916.webp?v=20241101122302",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32"
-        },
-        {
-          "account": "RAPID ADVANCE LLC",
-          "title": "Work with the grain : Lawyers , judges must embrace AI",
-          "url": "https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai",
-          "date": "2026-08-19",
+          "account": "Alight",
+          "title": "From once lawless Bastar , a teen speedgun jumps into Mumbai Indians radar",
+          "url": "https://timesofindia.indiatimes.com/city/raipur/from-once-lawless-bastar-a-teen-speedgun-jumps-into-mumbai-indians-radar/articleshow/133513580.cms",
+          "date": "2026-08-25",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
@@ -42,26 +25,24 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/v1787031604/Lawyers%20Weekly/articleImages-850x492/sir-geoffrey-vos_lw_casuaa.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.lawyersweekly.com.au&sz=32"
+          "image": "https://static.toiimg.com/thumb/msid-133513576,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=timesofindia.indiatimes.com&sz=32"
         },
         {
-          "account": "Datasite",
-          "title": "AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions",
-          "url": "https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/",
-          "date": "2026-08-18",
-          "level": "High",
+          "account": "Jack Henry & Associates Inc.",
+          "title": "What Colorado amended AI law means for banks",
+          "url": "https://www.americanbanker.com/news/what-colorados-amended-ai-law-means-for-banks",
+          "date": "2026-08-24",
+          "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [
-            "M&A"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32"
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/a0/68/b283f8304b3793a35a8232a0f5f9/adobestock-382871329.jpeg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32"
         }
       ]
     },
@@ -74,39 +55,23 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "Dun & Bradstreet Corporation",
-          "title": "Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place",
-          "url": "https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm",
-          "date": "2026-08-19",
+          "account": "TWO SIGMA INVESTMENTS",
+          "title": "5 Billionaire Money Managers Dumped Palantir in the Second Quarter . This Is the AI Applications Stock Theyre Buying Hand Over Fist Instead .",
+          "url": "https://www.fool.com/investing/2026/08/25/5-billionaires-dump-pltr-buy-ai-applications-googl/?source=iedfolrf0000001",
+          "date": "2026-08-25",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://d.techtimes.com/en/full/466340/ann-thai-apple-senior-product-marketing-manager-app-store.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.techtimes.com&sz=32"
-        },
-        {
-          "account": "CITADEL INVESTMENT GROUP",
-          "title": "Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement",
-          "url": "https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/",
-          "date": "2026-08-14",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/03/09034548/Jim-Cramer_IM.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32"
+          "image": "https://g.foolcdn.com/editorial/images/884472/money-manager-billionaire-fund-stock-chart-market-level-2-data-invest-getty.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         }
       ]
     },
@@ -116,20 +81,22 @@
       "count": 1,
       "items": [
         {
-          "account": "PayPal, Inc.",
-          "title": "China Tencent expands QR payment services with major Southeast Asian e - wallet platform",
-          "url": "http://www.laosnews.net/news/279254136/china-tencent-expands-qr-payment-services-with-major-southeast-asian-e-wallet-platform",
-          "date": "2026-08-20",
-          "level": "Medium",
+          "account": "Brookfield Asset Management",
+          "title": "Bloom Energy vs . Plug Power : 1 Stock Clearly Wins the AI Revenue Race",
+          "url": "https://www.fool.com/coverage/charts/2026/08/24/bloom-energy-vs-plug-power-1-stock-clearly-wins-the-ai-revenue-race/?source=iedfolrf0000001",
+          "date": "2026-08-24",
+          "level": "High",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
-          "triggers": [],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.laosnews.net&sz=32"
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://g.foolcdn.com/charts/production/processed/be-plug/quarter/revenue/bar/primary/standard/limit-12/latest/be-plug_quarter_revenue_bar_primary_standard_limit12.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         }
       ]
     },

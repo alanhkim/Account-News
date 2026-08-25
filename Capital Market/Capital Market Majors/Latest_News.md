@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** August 20, 2026  
+**Updated:** August 25, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 20  
+**Accounts with news this cycle:** 23  
 
 ---
 
@@ -10,180 +10,218 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Deere & Company ( NYSE : DE ) Issues Quarterly Earnings Results | 2026-08-20 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/08/20/deere-company-nysede-issues-quarterly-earnings-results.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.bostonglobe.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Mass . health care regulators monitoring private equity deal flow | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.bostonglobe.com/2026/08/19/business/massachusetts-health-care-regulators-private-equity-deal/) |
-| ![](https://www.google.com/s2/favicons?domain=sbr.com.sg&sz=32) | **Kroll, LLC** | Timah Partners secures $60m debt facility for SME acquisitions | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A, Product Launch | — | [link](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERIPRISE FINANCIAL INC** | Pallas Capital Advisors LLC Acquires Shares of 6 , 745 International Flavors & Fragrances Inc . $IFF | 2026-08-20 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/20/pallas-capital-advisors-llc-acquires-shares-of-6745-international-flavors-fragrances-inc-iff.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.biometricupdate.com&sz=32) | **Apollo Management** | Wall Street vishing attacks expose voice as a weak link in identity security | 2026-08-20 | 🟠 Medium | 🔴 Negative | — | Security | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
-| ![](https://www.google.com/s2/favicons?domain=www.biometricupdate.com&sz=32) | **BAIN CAPITAL LLC** | Wall Street vishing attacks expose voice as a weak link in identity security | 2026-08-20 | 🟠 Medium | 🔴 Negative | — | Security | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
-| ![](https://www.google.com/s2/favicons?domain=www.techtimes.com&sz=32) | **Dun & Bradstreet Corporation** | Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place | 2026-08-19 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32) | **CITADEL INVESTMENT GROUP** | Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement | 2026-08-14 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/) |
-| ![](https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32) | **LPL Financial** | US Unemployment Claims Unexpectedly Dropped Last Week | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theepochtimes.com/business/us-unemployment-claims-unexpectedly-dropped-last-week-6077397) |
-| ![](https://www.google.com/s2/favicons?domain=whyy.org&sz=32) | **JEFFERIES & COMPANY INC** | Things to do this weekend in Pa ., N . J ., and Del . | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/) |
-| ![](https://www.google.com/s2/favicons?domain=www.californiatelegraph.com&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | HM Exploration Announces DTC Eligibility of Its Common Shares in the United States | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.californiatelegraph.com/news/279253228/hm-exploration-announces-dtc-eligibility-of-its-common-shares-in-the-united-states) |
-| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **Chicago mercantile Exchange** | Gold crosses $4 , 550 , silver tops $67 in global market on weak dollar | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.business-standard.com/markets/commodities/gold-crosses-4-550-silver-tops-67-in-global-market-on-weak-dollar-126082000249_1.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Chevron ( NYSE : CVX ) Trading 1 . 5 % Higher – Still a Buy ? | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/20/chevron-nysecvx-trading-1-5-higher-still-a-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.compositesworld.com:443&sz=32) | **PLATINUM EQUITY LLC** | Praana , 3B and Original Composites & Fiberglass : The Next Chapter | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.compositesworld.com:443/articles/praana-3b-and-original-composites-fiberglass-the-next-chapter-) |
-| ![](https://www.google.com/s2/favicons?domain=www.investmentnews.com&sz=32) | **Commonwealth Financial Network** | Giant Cambridge group in Pennsylvania bolts to LPL | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.investmentnews.com/independent-broker-dealers/giant-cambridge-group-in-pennsylvania-bolts-to-lpl/267870) |
-| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **TPG Capital** | Tata Son capital call : Listed giants find their own growth fuel | 2026-08-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.business-standard.com/specials/news/tata-sons-capital-call-listed-giants-find-their-own-growth-fuel-126081801526_1.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Raymond James and Associates Inc** | L2 Asset Management LLC Buys New Stake in Union Pacific Corporation $UNP | 2026-08-25 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/25/l2-asset-management-llc-buys-new-stake-in-union-pacific-corporation-unp.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **JEFFERIES & COMPANY INC** | Scotiabank posts record quarter as capital markets surge lifts profit past estimates | 2026-08-25 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **T ROWE PRICE ASSOCIATES** | Why Passive Inflows May be Pulling Down Active Fund Performance | 2026-08-25 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://finance.yahoo.com/markets/stocks/articles/why-passive-inflows-may-pulling-040200015.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **Fortress Investment Group** | Volatile treasuries push IMBs toward bank , insurer deals | 2026-08-25 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.nationalmortgagenews.com/opinion/volatile-treasuries-push-imbs-toward-bank-insurer-deals) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Intellia Therapeutics ( NASDAQ : NTLA ) Receives  Market Outperform  Rating from Citizens Jmp | 2026-08-25 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.dailypolitical.com/2026/08/25/intellia-therapeutics-nasdaqntla-receives-market-outperform-rating-from-citizens-jmp.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **BROWN BROTHERS HARRIMAN AND COMPANY** | Reliance ( NYSE : RS ) Rating Increased to Strong - Buy at Wall Street Zen | 2026-08-24 | 🟠 Medium | 🟢 Positive | Regulatory | — | [link](https://www.tickerreport.com/banking-finance/13555807/reliance-nysers-rating-increased-to-strong-buy-at-wall-street-zen.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **TWO SIGMA INVESTMENTS** | 5 Billionaire Money Managers Dumped Palantir in the Second Quarter . This Is the AI Applications Stock Theyre Buying Hand Over Fist Instead . | 2026-08-25 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.fool.com/investing/2026/08/25/5-billionaires-dump-pltr-buy-ai-applications-googl/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.kentonline.co.uk&sz=32) | **BAIN CAPITAL LLC** | Brakes name to disappear as Ashford - based food wholesaler rebranded | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.kentonline.co.uk/ashford/news/famous-kent-brand-name-to-be-phased-out-after-almost-70-year-344306/) |
+| ![](https://www.google.com/s2/favicons?domain=smallbiztrends.com&sz=32) | **Dun & Bradstreet Corporation** | What Is Your Business Owner Structure ? | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://smallbiztrends.com/owner-structure/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **FINRA** | Vanguard strategist says retirees need  a complete mind shift  and shares 4 principles to ease financial anxiety | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.thepigsite.com&sz=32) | **Chicago mercantile Exchange** | Hog futures gain , pork carcass values climb $1 . 97 - CME | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thepigsite.com/news/2026/08/cattle-futures-fall-on-mexico-border-reopening-cme) |
+| ![](https://www.google.com/s2/favicons?domain=discoverestevan.com&sz=32) | **CARLYLE** | Arcola rodeo sees biggest crowd yet with 10th anniversary on the horizon - DiscoverEstevan . com - Local news , Weather , Sports , Free Classifieds and Business Listings for the Estevan , Saskatchewan | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://discoverestevan.com/articles/arcola-rodeo-sees-biggest-crowd-yet-with-10th-anniversary-on-the-horizon) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company , Bypassing the Open Market | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **The Capital Group Companies, Inc.** | Head - To - Head Comparison : Medallion Financial ( NASDAQ : MFIN ) vs . Atlanticus Holdings Co . 6 . 125 % Senior Notes due 2026 ( NASDAQ : ATLCL ) | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/25/head-to-head-comparison-medallion-financial-nasdaqmfin-vs-atlanticus-holdings-co-6-125-senior-notes-due-2026-nasdaqatlcl.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Korea Investment CORP Takes Position in Cencora , Inc . $COR | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/25/korea-investment-corp-takes-position-in-cencora-inc-cor.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.westmeathexaminer.ie&sz=32) | **LOUIS DREYFUS CORP** | WATCH OF THE WEEK : The Traitors Ireland returns | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.westmeathexaminer.ie/2026/08/25/watch-of-the-week-the-traitors-ireland-returns/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | Berkshire Hathaway Hasnt Done This in Over 3 Years | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fool.com/investing/2026/08/24/berkshire-hathaway-hasnt-done-this-in-over-3-years/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=mainebiz.biz&sz=32) | **AMERIPRISE FINANCIAL INC** | Residential broker relocates its Saco business center | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://mainebiz.biz/article/residential-broker-relocates-its-saco-business-center/) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **KOHLBERG KRAVIS ROBERTS & CO LLC** | Form 38 . 5a ( EPT / RI ) DCC plc BNPP Financial Markets \| Company Announcement | 2026-08-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-plc-bnpp-financial-markets/9734512) |
+| ![](https://www.google.com/s2/favicons?domain=www.irishecho.com&sz=32) | **Stone X** | Mayo vs . Kerry again in November | 2026-08-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.irishecho.com/2026/8/mayo-vs-kerry-again-in-november) |
 | ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **DAVIDSON KEMPNER** | Davidson Kempner Capital Management LP : Form 8 . 3 - Tate & Lyle plc | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-tate-lyle-plc/2407817) |
-| ![](https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32) | **Fortress Investment Group** | How Trent Johnson , Brian Landrum at Harbert Management Corp . Invest in Senior Housing – Commercial Observer | 2026-08-17 | 🟡 Low | ⚪ Neutral | — | — | [link](https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/) |
-| ![](https://www.google.com/s2/favicons?domain=www.longislandpress.com&sz=32) | **EDWARD D JONES AND COMPANY** | Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/) |
+| ![](https://www.google.com/s2/favicons?domain=betakit.com&sz=32) | **HARBOURVEST PARTNERS LLC** | High - profile investors , tech leaders to speak at CVCA global investment forum | 2026-08-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://betakit.com/high-profile-investors-tech-leaders-to-speak-at-cvca-global-investment-forum/) |
 | ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
 
 ## Detail
 
-### TWO SIGMA INVESTMENTS
-**Deere & Company ( NYSE : DE ) Issues Quarterly Earnings Results** — 2026-08-20 — 🔴 High — ⚪ Neutral
+### Raymond James and Associates Inc
+**L2 Asset Management LLC Buys New Stake in Union Pacific Corporation $UNP** — 2026-08-25 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/25/l2-asset-management-llc-buys-new-stake-in-union-pacific-corporation-unp.html)
+
+### JEFFERIES & COMPANY INC
+**Scotiabank posts record quarter as capital markets surge lifts profit past estimates** — 2026-08-25 — 🔴 High — 🟢 Positive
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/20/deere-company-nysede-issues-quarterly-earnings-results.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html)
 
-### CERBERUS CAPITAL MANAGEMENT LP
-**Mass . health care regulators monitoring private equity deal flow** — 2026-08-20 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.bostonglobe.com/2026/08/19/business/massachusetts-health-care-regulators-private-equity-deal/)
-
-### Kroll, LLC
-**Timah Partners secures $60m debt facility for SME acquisitions** — 2026-08-20 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A, Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions)
-
-### AMERIPRISE FINANCIAL INC
-**Pallas Capital Advisors LLC Acquires Shares of 6 , 745 International Flavors & Fragrances Inc . $IFF** — 2026-08-20 — 🔴 High — ⚪ Neutral
+### T ROWE PRICE ASSOCIATES
+**Why Passive Inflows May be Pulling Down Active Fund Performance** — 2026-08-25 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/20/pallas-capital-advisors-llc-acquires-shares-of-6745-international-flavors-fragrances-inc-iff.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/why-passive-inflows-may-pulling-040200015.html)
 
-### Apollo Management
-**Wall Street vishing attacks expose voice as a weak link in identity security** — 2026-08-20 — 🟠 Medium — 🔴 Negative
+### Fortress Investment Group
+**Volatile treasuries push IMBs toward bank , insurer deals** — 2026-08-25 — 🔴 High — ⚪ Neutral
 
 
 
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security)
+[Read →](https://www.nationalmortgagenews.com/opinion/volatile-treasuries-push-imbs-toward-bank-insurer-deals)
+
+### ROBERT W. BAIRD & CO INC
+**Intellia Therapeutics ( NASDAQ : NTLA ) Receives  Market Outperform  Rating from Citizens Jmp** — 2026-08-25 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/08/25/intellia-therapeutics-nasdaqntla-receives-market-outperform-rating-from-citizens-jmp.html)
+
+### BROWN BROTHERS HARRIMAN AND COMPANY
+**Reliance ( NYSE : RS ) Rating Increased to Strong - Buy at Wall Street Zen** — 2026-08-24 — 🟠 Medium — 🟢 Positive
+
+
+
+_Trigger events:_ Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13555807/reliance-nysers-rating-increased-to-strong-buy-at-wall-street-zen.html)
+
+### TWO SIGMA INVESTMENTS
+**5 Billionaire Money Managers Dumped Palantir in the Second Quarter . This Is the AI Applications Stock Theyre Buying Hand Over Fist Instead .** — 2026-08-25 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+
+[Read →](https://www.fool.com/investing/2026/08/25/5-billionaires-dump-pltr-buy-ai-applications-googl/?source=iedfolrf0000001)
 
 ### BAIN CAPITAL LLC
-**Wall Street vishing attacks expose voice as a weak link in identity security** — 2026-08-20 — 🟠 Medium — 🔴 Negative
+**Brakes name to disappear as Ashford - based food wholesaler rebranded** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security)
+[Read →](https://www.kentonline.co.uk/ashford/news/famous-kent-brand-name-to-be-phased-out-after-almost-70-year-344306/)
 
 ### Dun & Bradstreet Corporation
-**Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place** — 2026-08-19 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm)
-
-### CITADEL INVESTMENT GROUP
-**Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement** — 2026-08-14 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/)
-
-### LPL Financial
-**US Unemployment Claims Unexpectedly Dropped Last Week** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+**What Is Your Business Owner Structure ?** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.theepochtimes.com/business/us-unemployment-claims-unexpectedly-dropped-last-week-6077397)
+[Read →](https://smallbiztrends.com/owner-structure/)
 
-### JEFFERIES & COMPANY INC
-**Things to do this weekend in Pa ., N . J ., and Del .** — 2026-08-20 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/)
-
-### DEPOSITORY TRUST CLEARING CORPORATION
-**HM Exploration Announces DTC Eligibility of Its Common Shares in the United States** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+### FINRA
+**Vanguard strategist says retirees need  a complete mind shift  and shares 4 principles to ease financial anxiety** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.californiatelegraph.com/news/279253228/hm-exploration-announces-dtc-eligibility-of-its-common-shares-in-the-united-states)
+[Read →](https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html)
 
 ### Chicago mercantile Exchange
-**Gold crosses $4 , 550 , silver tops $67 in global market on weak dollar** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+**Hog futures gain , pork carcass values climb $1 . 97 - CME** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.business-standard.com/markets/commodities/gold-crosses-4-550-silver-tops-67-in-global-market-on-weak-dollar-126082000249_1.html)
+[Read →](https://www.thepigsite.com/news/2026/08/cattle-futures-fall-on-mexico-border-reopening-cme)
+
+### CARLYLE
+**Arcola rodeo sees biggest crowd yet with 10th anniversary on the horizon - DiscoverEstevan . com - Local news , Weather , Sports , Free Classifieds and Business Listings for the Estevan , Saskatchewan** — 2026-08-25 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://discoverestevan.com/articles/arcola-rodeo-sees-biggest-crowd-yet-with-10th-anniversary-on-the-horizon)
 
 ### BERKSHIRE HATHAWAY INC
-**Chevron ( NYSE : CVX ) Trading 1 . 5 % Higher – Still a Buy ?** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+**Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company , Bypassing the Open Market** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/20/chevron-nysecvx-trading-1-5-higher-still-a-buy.html)
+[Read →](https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?source=iedfolrf0000001)
 
-### PLATINUM EQUITY LLC
-**Praana , 3B and Original Composites & Fiberglass : The Next Chapter** — 2026-08-19 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.compositesworld.com:443/articles/praana-3b-and-original-composites-fiberglass-the-next-chapter-)
-
-### Commonwealth Financial Network
-**Giant Cambridge group in Pennsylvania bolts to LPL** — 2026-08-18 — 🟡 Low — 🟢 Positive
+### The Capital Group Companies, Inc.
+**Head - To - Head Comparison : Medallion Financial ( NASDAQ : MFIN ) vs . Atlanticus Holdings Co . 6 . 125 % Senior Notes due 2026 ( NASDAQ : ATLCL )** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investmentnews.com/independent-broker-dealers/giant-cambridge-group-in-pennsylvania-bolts-to-lpl/267870)
+[Read →](https://www.themarketsdaily.com/2026/08/25/head-to-head-comparison-medallion-financial-nasdaqmfin-vs-atlanticus-holdings-co-6-125-senior-notes-due-2026-nasdaqatlcl.html)
 
-### TPG Capital
-**Tata Son capital call : Listed giants find their own growth fuel** — 2026-08-18 — 🟡 Low — 🟢 Positive
+### WILLIAM BLAIR & COMPANY
+**Korea Investment CORP Takes Position in Cencora , Inc . $COR** — 2026-08-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.business-standard.com/specials/news/tata-sons-capital-call-listed-giants-find-their-own-growth-fuel-126081801526_1.html)
+[Read →](https://www.themarketsdaily.com/2026/08/25/korea-investment-corp-takes-position-in-cencora-inc-cor.html)
+
+### LOUIS DREYFUS CORP
+**WATCH OF THE WEEK : The Traitors Ireland returns** — 2026-08-25 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.westmeathexaminer.ie/2026/08/25/watch-of-the-week-the-traitors-ireland-returns/)
+
+### Berkshire Hathaway Energy
+**Berkshire Hathaway Hasnt Done This in Over 3 Years** — 2026-08-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.fool.com/investing/2026/08/24/berkshire-hathaway-hasnt-done-this-in-over-3-years/?source=iedfolrf0000001)
+
+### AMERIPRISE FINANCIAL INC
+**Residential broker relocates its Saco business center** — 2026-08-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://mainebiz.biz/article/residential-broker-relocates-its-saco-business-center/)
+
+### KOHLBERG KRAVIS ROBERTS & CO LLC
+**Form 38 . 5a ( EPT / RI ) DCC plc BNPP Financial Markets | Company Announcement** — 2026-08-21 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-plc-bnpp-financial-markets/9734512)
+
+### Stone X
+**Mayo vs . Kerry again in November** — 2026-08-20 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.irishecho.com/2026/8/mayo-vs-kerry-again-in-november)
 
 ### DAVIDSON KEMPNER
 **Davidson Kempner Capital Management LP : Form 8 . 3 - Tate & Lyle plc** — 2026-08-18 — 🟡 Low — ⚪ Neutral
@@ -194,23 +232,14 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-tate-lyle-plc/2407817)
 
-### Fortress Investment Group
-**How Trent Johnson , Brian Landrum at Harbert Management Corp . Invest in Senior Housing – Commercial Observer** — 2026-08-17 — 🟡 Low — ⚪ Neutral
+### HARBOURVEST PARTNERS LLC
+**High - profile investors , tech leaders to speak at CVCA global investment forum** — 2026-08-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/)
-
-### EDWARD D JONES AND COMPANY
-**Going Places : Biking Missouri Katy Trail Following Lewis & Clark , Daniel Boone & the Westward Expansion** — 2026-08-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.longislandpress.com/2026/08/11/going-places-biking-missouris-katy-trail-following-lewis-clark-daniel-boone-the-westward-expansion/)
+[Read →](https://betakit.com/high-profile-investors-tech-leaders-to-speak-at-cvca-global-investment-forum/)
 
 ### Securian
 **July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
@@ -223,56 +252,53 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 ---
 
-<details><summary>Accounts with no material news this cycle (46)</summary>
+<details><summary>Accounts with no material news this cycle (43)</summary>
 
+- CITADEL INVESTMENT GROUP
+- EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
-- KOHLBERG KRAVIS ROBERTS & CO LLC
+- Apollo Management
+- PLATINUM EQUITY LLC
 - INVESCO
-- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
+- LPL Financial
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
 - MSCI Inc
 - NEUBERGER BERMAN
 - Ascensus, Inc.
-- FINRA
 - SUSQUEHANNA PARTNERS G P
-- T ROWE PRICE ASSOCIATES
 - WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
 - MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
+- DEPOSITORY TRUST CLEARING CORPORATION
 - DISCOVER FINANCIAL
 - Balyasny Asset Management
-- BROWN BROTHERS HARRIMAN AND COMPANY
-- HARBOURVEST PARTNERS LLC
+- Commonwealth Financial Network
 - JANUS HENDERSON GROUP
 - ANTARES CAPITAL
-- CARLYLE
-- Berkshire Hathaway Energy
+- CERBERUS CAPITAL MANAGEMENT LP
+- TPG Capital
 - Guggenheim Partners
+- Kroll, LLC
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
 - First Advantage Corporation
 - FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
-- The Capital Group Companies, Inc.
 - Voya Services Company
 - PRINCIPAL FINANCIAL GROUP
-- ROBERT W. BAIRD & CO INC
-- WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
-- LOUIS DREYFUS CORP
 - SEI CORP
-- Stone X
 
 </details>
 
 ---
-_Auto-generated on August 20, 2026._
+_Auto-generated on August 25, 2026._

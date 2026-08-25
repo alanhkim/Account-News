@@ -1,9 +1,10 @@
 # Progressive Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 20, 2026.
+Rolling history of tracked news (last 90 days). Updated August 25, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-25 | Sandra Bullock heartbreaking revelation about navigating late partner illness | 🟠 Medium | ⚪ Neutral | [link](https://www.cairnspost.com.au/entertainment/celebrity-life/sandra-bullocks-heartbreaking-revelation-about-navigating-late-partners-illness/news-story/6a471b82960f043983c8d8258537a4f0?nk=f137374eba6c48cc2771789eb99edc9d-1787675497) |
 | 2026-08-20 | PRP : Donald Duke Can Win 2027 Presidency With Broad Coalition | 🟡 Low | ⚪ Neutral | [link](https://www.opinionnigeria.com/donald-duke-can-win-2027-presidency-with-broad-coalition-grassroots-structure-prp-chairman/) |
 | 2026-08-14 | White House official says violent crime decreased in 2025 , FBI to put out report | 🟡 Low | ⚪ Neutral | [link](https://local21news.com/news/nation-world/white-house-official-says-violent-crime-decreased-in-2025-fbi-to-put-out-report-donald-trump-national-guard) |
 | 2026-08-12 | Democratic voters are making clear they just want change | 🟡 Low | ⚪ Neutral | [link](https://www.wdbo.com/news/politics/forget-left-vs/MYDWNIZG64ZYXHZ5IXYN2E35NE/) |

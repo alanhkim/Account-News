@@ -1,9 +1,10 @@
 # RAPID ADVANCE LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 20, 2026.
+Rolling history of tracked news (last 90 days). Updated August 25, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-25 | Bitcoin Breaks $80K , Hits Three - Month High : CoinEx , BlockBeats and Bitcoin . com Experts Assess What Comes Next | 🟡 Low | 🟢 Positive | [link](https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/bitcoin-breaks-80k-hits-three-month-high-coinex-blockbeats-and-bitcoincom-experts-assess-what-comes-next/2411648) |
 | 2026-08-19 | Work with the grain : Lawyers , judges must embrace AI | 🟠 Medium | ⚪ Neutral | [link](https://www.lawyersweekly.com.au/biglaw/44871-work-with-the-grain-lawyers-judges-must-embrace-ai) |
 | 2026-08-14 | C919 completes first scheduled international commercial service | 🟡 Low | ⚪ Neutral | [link](https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260813-globaltimes02.htm) |
 | 2026-08-13 | C919 completes first scheduled international commercial service | 🟡 Low | ⚪ Neutral | [link](http://en.people.cn/n3/2026/0813/c90000-20488209.html) |

@@ -1,9 +1,10 @@
 # BAIN CAPITAL LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 20, 2026.
+Rolling history of tracked news (last 90 days). Updated August 25, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-25 | Brakes name to disappear as Ashford - based food wholesaler rebranded | 🟡 Low | ⚪ Neutral | [link](https://www.kentonline.co.uk/ashford/news/famous-kent-brand-name-to-be-phased-out-after-almost-70-year-344306/) |
 | 2026-08-20 | Wall Street vishing attacks expose voice as a weak link in identity security | 🟠 Medium | 🔴 Negative | [link](https://www.biometricupdate.com/202608/wall-street-vishing-attacks-expose-voice-as-a-weak-link-in-identity-security) |
 | 2026-08-14 | Ropes & Gray Ranks # 14 in Law Firms Citation Share Audit 2026 | 🟡 Low | ⚪ Neutral | [link](https://everything-pr.com/ropes-gray-law-firms-citation-share-audit-2026) |
 | 2026-08-13 | India financial sector saw some large foreign investments in recent months . Here a list | 🟡 Low | ⚪ Neutral | [link](https://www.thehindubusinessline.com/money-and-banking/indias-financial-sector-saw-some-large-foreign-investments-in-recent-months-heres-a-list/article71339454.ece) |

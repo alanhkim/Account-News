@@ -32,11 +32,11 @@ ROSTERS = {
             "COMENITY SERVICES LLC", "M & T BANK", "United Wholesale Mortgage", "Valley National Bank",
         ],
         "Banking Strategic": [
+            "P N C FINANCIAL CORP", "Citigroup", "Capital One", "Bank of America",
             "FIS Global", "NAVY FEDERAL CREDIT UNION M", "FIDELITY NATIONAL FINANCIAL",
             "FISERV Inc", "TRUIST FINANCIAL", "Wells Fargo & Company", "US BANK",
             "STATE STREET BOSTON CORPORATION", "Dayforce US, Inc", "BNY Mellon",
-            "JPMORGAN CHASE", "P N C FINANCIAL CORP", "Citigroup", "Capital One",
-            "Bank of America",
+            "JPMORGAN CHASE",
         ],
     },
     "Capital Market": {
