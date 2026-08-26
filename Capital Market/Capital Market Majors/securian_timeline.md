@@ -1,6 +1,6 @@
 # Securian — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 25, 2026.
+Rolling history of tracked news (last 90 days). Updated August 26, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|

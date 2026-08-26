@@ -1,9 +1,10 @@
 # RISK STRATEGIES COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 25, 2026.
+Rolling history of tracked news (last 90 days). Updated August 26, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-26 | Dangerous offender granted day parole after 2009 attacks | 🟡 Low | 🔴 Negative | [link](https://www.insidehalton.com/news/dangerous-offender-gets-parole-caledon/article_405f2904-095a-56c5-b95f-c10361546558.html) |
 | 2026-08-14 | Vacancy Advert - Head Strategy | 🟡 Low | ⚪ Neutral | [link](https://thepatriot.co.bw/vacancy-advert-head-strategy/) |
 | 2026-08-13 | Viewpoint : Storm Resilience Must Account for the Assets That Do Not Stay Put | 🟠 Medium | ⚪ Neutral | [link](https://www.insurancejournal.com/news/national/2026/08/13/881379.htm) |
 | 2026-08-12 | Using technology to protect China world - famous Mogao Grottoes | 🟡 Low | ⚪ Neutral | [link](https://www.thestar.com.my/lifestyle/travel/2026/08/12/using-technology-to-protect-china039s-world-famous-mogao-grottoes) |

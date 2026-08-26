@@ -1,9 +1,10 @@
 # MERCURY INSURANCE COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 25, 2026.
+Rolling history of tracked news (last 90 days). Updated August 26, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-26 | 10 Tips to Vacation - Proof Your Home While Youre Away | 🟡 Low | ⚪ Neutral | [link](https://www.tigersroar.com/online_features/family_living/article_78094b01-3044-59b3-9d4c-2ce6a2e8c817.html) |
 | 2026-08-25 | The Wildfire Calendar Has Changed ; Has Yours ? | 🟡 Low | ⚪ Neutral | [link](https://www.prnewswire.com:443/news-releases/the-wildfire-calendar-has-changed-has-yours-302858942.html) |
 | 2026-08-17 | 5 Summer Safety Risks Homeowners Often Overlook When Hosting | 🟠 Medium | ⚪ Neutral | [link](https://www.daytonatimes.com/online_features/home_decorating/5-summer-safety-risks-homeowners-often-overlook-when-hosting/article_28e5da74-607b-5a2f-a7e1-0254a9cd56a9.html) |
 | 2026-08-10 | 10 Tips to Vacation - Proof Your Home While Youre Away | 🟡 Low | ⚪ Neutral | [link](https://www.bigbeargrizzly.net/online_features/family_living/10-tips-to-vacation-proof-your-home-while-youre-away/article_f984ba61-5f70-50f8-8101-11f86a007494.html) |

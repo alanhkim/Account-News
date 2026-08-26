@@ -1,6 +1,6 @@
 # Latest News — Banking Strategic
 
-**Updated:** August 25, 2026  
+**Updated:** August 26, 2026  
 **Accounts tracked:** 15  
 **Accounts with news this cycle:** 4  
 
@@ -10,50 +10,48 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **BNY Mellon** | Westpac Banking Corp Acquires New Position in Bank of New York Mellon Corporation $BNY | 2026-08-22 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/22/westpac-banking-corp-acquires-new-position-in-bank-of-new-york-mellon-corporation-bny.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.moneycontrol.com&sz=32) | **FIS Global** | Cybersecurity professional quits Rs 65 LPA job in Abu Dhabi due to health , loneliness ; lands Rs 44 LPA role in India | 2026-08-25 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.moneycontrol.com/news/trends/cybersecurity-professional-quits-rs-65-lpa-job-in-abu-dhabi-due-to-health-loneliness-later-lands-rs-44-lpa-role-in-india-14014834.html) |
-| ![](https://www.google.com/s2/favicons?domain=b98fm.iheart.com&sz=32) | **Capital One** | Ciara , Smashing Pumpkins , Stella Lefty Join 2026 iHeartRadio Music Festival | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://b98fm.iheart.com/content/2026-08-25-ciara-smashing-pumpkins-stella-lefty-join-2026-iheartradio-music-festival/) |
-| ![](https://www.google.com/s2/favicons?domain=www.investors.com&sz=32) | **FISERV Inc** | S & P 500 : Nearly Two - Thirds Of Stocks Already Sell Off In A Big Way | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investors.com/etfs-and-funds/sectors/sp500-nearly-two-thirds-of-already-sold-off-in-a-big-way/) |
+| ![](https://www.google.com/s2/favicons?domain=www.thevillager.com.na&sz=32) | **Capital One** | Namibia Capital Market Not Fully Unlocked - The Villager Newspaper | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thevillager.com.na/national/2026/namibias-capital-market-not-fully-unlocked/) |
+| ![](https://www.google.com/s2/favicons?domain=www.local10.com&sz=32) | **Bank of America** | Ex - manager accused of stealing $33 , 000 from Flanigan | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.local10.com/news/local/2026/08/26/ex-manager-accused-of-stealing-33000-from-flanigans/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TRUIST FINANCIAL** | Oklo ( NYSE : OKLO ) Stock Price Down 5 . 5 % – Should You Sell ? | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/26/oklo-nyseoklo-stock-price-down-5-5-should-you-sell.html) |
+| ![](https://www.google.com/s2/favicons?domain=mix929.com&sz=32) | **STATE STREET BOSTON CORPORATION** | QUOTE BOX – Investor reactions to Senate hearing for Fed chair candidate Kevin Warsh | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://mix929.com/2026/04/21/quote-box-investor-reactions-to-senate-hearing-for-fed-chair-candidate-kevin-warsh/) |
 
 ## Detail
 
-### BNY Mellon
-**Westpac Banking Corp Acquires New Position in Bank of New York Mellon Corporation $BNY** — 2026-08-22 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/22/westpac-banking-corp-acquires-new-position-in-bank-of-new-york-mellon-corporation-bny.html)
-
-### FIS Global
-**Cybersecurity professional quits Rs 65 LPA job in Abu Dhabi due to health , loneliness ; lands Rs 44 LPA role in India** — 2026-08-25 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.moneycontrol.com/news/trends/cybersecurity-professional-quits-rs-65-lpa-job-in-abu-dhabi-due-to-health-loneliness-later-lands-rs-44-lpa-role-in-india-14014834.html)
-
 ### Capital One
-**Ciara , Smashing Pumpkins , Stella Lefty Join 2026 iHeartRadio Music Festival** — 2026-08-25 — 🟡 Low — ⚪ Neutral
+**Namibia Capital Market Not Fully Unlocked - The Villager Newspaper** — 2026-08-26 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://b98fm.iheart.com/content/2026-08-25-ciara-smashing-pumpkins-stella-lefty-join-2026-iheartradio-music-festival/)
+[Read →](https://www.thevillager.com.na/national/2026/namibias-capital-market-not-fully-unlocked/)
 
-### FISERV Inc
-**S & P 500 : Nearly Two - Thirds Of Stocks Already Sell Off In A Big Way** — 2026-08-25 — 🟡 Low — ⚪ Neutral
+### Bank of America
+**Ex - manager accused of stealing $33 , 000 from Flanigan** — 2026-08-26 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.investors.com/etfs-and-funds/sectors/sp500-nearly-two-thirds-of-already-sold-off-in-a-big-way/)
+[Read →](https://www.local10.com/news/local/2026/08/26/ex-manager-accused-of-stealing-33000-from-flanigans/)
+
+### TRUIST FINANCIAL
+**Oklo ( NYSE : OKLO ) Stock Price Down 5 . 5 % – Should You Sell ?** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/08/26/oklo-nyseoklo-stock-price-down-5-5-should-you-sell.html)
+
+### STATE STREET BOSTON CORPORATION
+**QUOTE BOX – Investor reactions to Senate hearing for Fed chair candidate Kevin Warsh** — 2026-08-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://mix929.com/2026/04/21/quote-box-investor-reactions-to-senate-hearing-for-fed-chair-candidate-kevin-warsh/)
 
 ---
 
@@ -61,17 +59,17 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 - P N C FINANCIAL CORP
 - Citigroup
-- Bank of America
+- FIS Global
 - NAVY FEDERAL CREDIT UNION M
 - FIDELITY NATIONAL FINANCIAL
-- TRUIST FINANCIAL
+- FISERV Inc
 - Wells Fargo & Company
 - US BANK
-- STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
+- BNY Mellon
 - JPMORGAN CHASE
 
 </details>
 
 ---
-_Auto-generated on August 25, 2026._
+_Auto-generated on August 26, 2026._

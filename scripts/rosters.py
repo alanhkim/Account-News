@@ -4,7 +4,7 @@
 ROSTERS = {
     "Banking": {
         "Banking Majors": [
-            "Caliber Funding LLC", "FHLB OF DALLAS", "FROST NATIONAL BANK", "HILLTOP HOLDINGS",
+            "New Rez (Caliber Funding )LLC", "FHLB OF DALLAS", "FROST NATIONAL BANK", "HILLTOP HOLDINGS",
             "NATIONSTAR MORTGAGE", "Texas Capital Bank", "WOODFOREST NATIONAL BANK", "COMERICA INC",
             "FAIRWAY MORTGAGE ACCOUNT OFC", "FREEDOM MORTGAGE CORPORATION", "GREYSTONE SERVICING CORP",
             "Navient", "NORTHWEST SAVINGS BANK", "Roundpoint Mortgage Servicing",
@@ -12,7 +12,7 @@ ROSTERS = {
             "MORTGAGE RESEARCH CENTER", "PINNACLE BANK", "UNITED MISSOURI BANCSHARES INC",
             "WESTERN UNION", "BCU", "Guaranteed Rate Inc", "MOUNTAIN AMERICA CREDIT UNION",
             "Old National Bancorp", "TRANS UNION CORPORATION", "Wintrust Financial Corporation",
-            "ZIONS BANK CORPORATION", "ARVEST BANK GROUP", "Co-op Financial Services",
+            "ZIONS BANK CORPORATION", "ARVEST BANK GROUP", "Velera (Co-op Financial Services)",
             "EXETER FINANCE CORP", "Movement Mortgage", "REGIONS FINANCIAL CORPORATION",
             "REPUBLIC FINANCE", "Simmons First National Bank Corporation", "Advisor360",
             "defi Auto, LLC", "Global Payments", "RAPID ADVANCE LLC", "Sagent M&C, LLC",
@@ -25,7 +25,7 @@ ROSTERS = {
             "FIFTH THIRD BANCORP", "FIRST HORIZON BANK", "HUNTINGTON BANCSHARES INC", "KeyCorp",
             "Boeing Employees Credit Union", "Columbia Banking System, Inc.",
             "CU DIRECT LENDING (CUDL Technology Center)", "FIRST TECHNOLOGY CREDIT UNION",
-            "HEALTHEQUITY INC", "loanDepot", "DUCK CREEK TECHNOLOGIES INC", "Experian", "NELNET",
+            "HEALTHEQUITY INC", "loanDepot", "DUCK CREEK TECHNOLOGIES INC", "Experian", "Nelnet",
             "Elevate Credit", "FACTSET RESEARCH SYSTEMS", "GREEN DOT CORPORATION",
             "Jack Henry & Associates Inc.", "FANNIE MAE", "FIRST CITIZENS BANK & TRUST COMPANY",
             "LENDINGTREE.COM", "VYSTAR CREDIT UNION", "CENLAR FSB INC", "CITIZENS FINANCIAL GROUP",
