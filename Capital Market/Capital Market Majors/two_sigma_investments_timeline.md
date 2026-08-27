@@ -1,9 +1,10 @@
 # TWO SIGMA INVESTMENTS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 26, 2026.
+Rolling history of tracked news (last 90 days). Updated August 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-27 | Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html) |
 | 2026-08-26 | Ondas ( NASDAQ : ONDS ) Trading Down 5 . 4 % – Here Why | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/26/ondas-nasdaqonds-trading-down-5-4-heres-why.html) |
 | 2026-08-25 | 5 Billionaire Money Managers Dumped Palantir in the Second Quarter . This Is the AI Applications Stock Theyre Buying Hand Over Fist Instead . | 🟠 Medium | ⚪ Neutral | [link](https://www.fool.com/investing/2026/08/25/5-billionaires-dump-pltr-buy-ai-applications-googl/?source=iedfolrf0000001) |
 | 2026-08-20 | Deere & Company ( NYSE : DE ) Issues Quarterly Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/20/deere-company-nysede-issues-quarterly-earnings-results.html) |

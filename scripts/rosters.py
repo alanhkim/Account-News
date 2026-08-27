@@ -4,7 +4,7 @@
 ROSTERS = {
     "Banking": {
         "Banking Majors": [
-            "New Rez (Caliber Funding )LLC", "FHLB OF DALLAS", "FROST NATIONAL BANK", "HILLTOP HOLDINGS",
+            "Caliber Funding LLC", "FHLB OF DALLAS", "FROST NATIONAL BANK", "HILLTOP HOLDINGS",
             "NATIONSTAR MORTGAGE", "Texas Capital Bank", "WOODFOREST NATIONAL BANK", "COMERICA INC",
             "FAIRWAY MORTGAGE ACCOUNT OFC", "FREEDOM MORTGAGE CORPORATION", "GREYSTONE SERVICING CORP",
             "Navient", "NORTHWEST SAVINGS BANK", "Roundpoint Mortgage Servicing",
@@ -12,7 +12,7 @@ ROSTERS = {
             "MORTGAGE RESEARCH CENTER", "PINNACLE BANK", "UNITED MISSOURI BANCSHARES INC",
             "WESTERN UNION", "BCU", "Guaranteed Rate Inc", "MOUNTAIN AMERICA CREDIT UNION",
             "Old National Bancorp", "TRANS UNION CORPORATION", "Wintrust Financial Corporation",
-            "ZIONS BANK CORPORATION", "ARVEST BANK GROUP", "Velera (Co-op Financial Services)",
+            "ZIONS BANK CORPORATION", "ARVEST BANK GROUP", "Co-op Financial Services",
             "EXETER FINANCE CORP", "Movement Mortgage", "REGIONS FINANCIAL CORPORATION",
             "REPUBLIC FINANCE", "Simmons First National Bank Corporation", "Advisor360",
             "defi Auto, LLC", "Global Payments", "RAPID ADVANCE LLC", "Sagent M&C, LLC",
@@ -25,7 +25,7 @@ ROSTERS = {
             "FIFTH THIRD BANCORP", "FIRST HORIZON BANK", "HUNTINGTON BANCSHARES INC", "KeyCorp",
             "Boeing Employees Credit Union", "Columbia Banking System, Inc.",
             "CU DIRECT LENDING (CUDL Technology Center)", "FIRST TECHNOLOGY CREDIT UNION",
-            "HEALTHEQUITY INC", "loanDepot", "DUCK CREEK TECHNOLOGIES INC", "Experian", "Nelnet",
+            "HEALTHEQUITY INC", "loanDepot", "DUCK CREEK TECHNOLOGIES INC", "Experian", "NELNET",
             "Elevate Credit", "FACTSET RESEARCH SYSTEMS", "GREEN DOT CORPORATION",
             "Jack Henry & Associates Inc.", "FANNIE MAE", "FIRST CITIZENS BANK & TRUST COMPANY",
             "LENDINGTREE.COM", "VYSTAR CREDIT UNION", "CENLAR FSB INC", "CITIZENS FINANCIAL GROUP",
@@ -33,10 +33,6 @@ ROSTERS = {
         ],
         "Banking Strategic": [
             "P N C FINANCIAL CORP", "Citigroup", "Capital One", "Bank of America",
-            "FIS Global", "NAVY FEDERAL CREDIT UNION M", "FIDELITY NATIONAL FINANCIAL",
-            "FISERV Inc", "TRUIST FINANCIAL", "Wells Fargo & Company", "US BANK",
-            "STATE STREET BOSTON CORPORATION", "Dayforce US, Inc", "BNY Mellon",
-            "JPMORGAN CHASE",
         ],
     },
     "Capital Market": {
@@ -87,20 +83,6 @@ ROSTERS = {
             "USI INSURANCE", "W R BERKLEY CORPORATION", "Corebridge Financial",
             "REINSURANCE GROUP OF AMERICA", "Sedgwick Claims Management Services, Inc.",
             "Stewart Title Guaranty Company", "ASURION INSURANCE SERVICES INC", "BROWN AND BROWN, Inc.",
-            "MARKEL", "AAA INSURANCE GROUP", "Milliman USA", "STANDARD INSURANCE CO",
-            "AMERICAN FAMILY CORPORATION", "ARTHUR J GALLAGHER & CO", "TRUSTMARK INSURANCE COMPANY",
-            "AEGON USA", "AMTrust Financial Services INC", "Assurant", "COUNTRY FINANCIAL SERVICES INC",
-            "AXIS SPECIALTY US SERVICES INC", "FM GLOBAL", "GENERAL REINSURANCE COMPANY",
-            "U N U M LIFE INSURANCE COMPANY", "AAA AUTO CLUB INSURANCE ASSOCIATION", "ACRISURE LLC",
-            "AMERICAN FINANCIAL GROUP INC", "CINCINNATI INSURANCE COMPANIES", "CNO Services, LLC",
-            "JACKSON NATIONAL LIFE", "CUNA MUTUAL INSURANCE SOCIETY", "Jewelers Mutual Insurance",
-            "Loews Corp", "OLD REPUBLIC INTERNATIONAL", "SENTRY INSURANCE A MUTUAL CO",
-            "FARM BUREAU FINANCIAL SERVICES", "Hub International", "Kemper Corporation",
-            "LOCKTON INSURANCE AGENCY", "SHELTER INSURANCE COMPANY", "AMYNTA GROUP",
-            "ARCH CAPITAL GROUP LTD", "C V STARR", "EVEREST GLOBAL SERVICES",
-            "NEW YORK LIFE INSURANCE COMPANY", "QBE REINSURANCE SYDNEY REINSURANCE",
-            "TRANSATLANTIC REINSURANCE", "EQUITABLE", "GUARDIAN LIFE INSURANCE CO",
-            "National Life Group", "TRAVELERS PROPERTY & CASUALTY",
         ],
         "Insurance Strategic": [
             "Nationwide", "GEICO", "STATE FARM LIFE INSURANCE CO", "NORTHWESTERN MUTUAL",

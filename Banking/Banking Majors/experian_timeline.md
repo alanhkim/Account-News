@@ -1,9 +1,10 @@
 # Experian — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 26, 2026.
+Rolling history of tracked news (last 90 days). Updated August 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-27 | Household debt in Brazil shadows the 2027 outlook | 🟡 Low | ⚪ Neutral | [link](https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/) |
 | 2026-08-26 | Student Loan Scams 2026 : How To Protect Yourself | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/student-loan-scams-2026-how-to-protect-yourself/) |
 | 2026-08-25 | Finfind partnership aims to unlock finance for Western Cape MSMEs | 🟠 Medium | ⚪ Neutral | [link](https://www.bizcommunity.com/article/finfind-partnership-aims-to-unlock-finance-for-western-cape-msmes-419449a) |
 | 2026-07-31 | Tricentis acquires Tabnine to boost AI quality context | 🔴 High | 🟢 Positive | [link](https://itbrief.co.nz/story/tricentis-acquires-tabnine-to-boost-ai-quality-context) |

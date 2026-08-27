@@ -1,17 +1,52 @@
 {
-  "generated": "2026-08-26",
-  "generated_human": "August 26, 2026",
+  "generated": "2026-08-27",
+  "generated_human": "August 27, 2026",
   "counts": {
-    "accounts_total": 284,
-    "with_news": 5,
+    "accounts_total": 231,
+    "with_news": 2,
     "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "Insurity",
+          "title": "Insurity Partners with Radity to Bridge Insurance Modernization Strategy and Execution",
+          "url": "https://leaderpost.com/press-releases/business-wire/insurity-partners-with-radity-to-bridge-insurance-modernization-strategy-and-execution/",
+          "date": "2026-08-25",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Account-planning context; no direct solution-play signal detected.",
+          "plays": [],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Negative",
+          "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260825791450r1&sid=cnpm5&distro=ftp",
+          "favicon": "https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32"
+        },
+        {
+          "account": "Datasite",
+          "title": "AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions",
+          "url": "https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/",
+          "date": "2026-08-18",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Banking",
@@ -22,115 +57,26 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 2,
-      "items": [
-        {
-          "account": "Dun & Bradstreet Corporation",
-          "title": "Agentic AI : Google Cloud Rolls Out Gemini Enterprise For Financial Services",
-          "url": "https://www.crowdfundinsider.com/2026/08/301772-agentic-ai-google-cloud-rolls-out-gemini-enterprise-for-financial-services/",
-          "date": "2026-08-26",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Google-London.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.crowdfundinsider.com&sz=32"
-        },
-        {
-          "account": "D E SHAW & CO INC",
-          "title": "This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html",
-          "date": "2026-08-26",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Positive",
-          "image": "https://s.yimg.com/lo/mysterio/api/7998f5ed3e21e7fffa988b214a9f89296fa59bbe8f576bd9970b897e1ca66036/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F9ad8313057c9004ce09bb5d02bd99077.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "CHARLES SCHWAB CORP",
-          "title": "Salim Ramji Vanguard strikes $4 billion deal to buy wealth platform Altruist : Report",
-          "url": "https://www.livemint.com/companies/news/salim-ramji-s-vanguard-strikes-4-billion-deal-to-buy-wealth-platform-altruist-11787753034929.html",
-          "date": "2026-08-26",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.livemint.com/lm-img/img/2026/08/26/600x338/vanguard_1787754779322_1787754787575_680d38ad-e112-4be0-b000-9afac8bdb7c3.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.livemint.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 1,
-      "items": [
-        {
-          "account": "VERISK ANALYTICS",
-          "title": "Verisk Analytics , Inc . ( NASDAQ : VRSK ) Receives $236 . 27 Consensus Price Target from Analysts",
-          "url": "https://www.tickerreport.com/banking-finance/13555803/verisk-analytics-inc-nasdaqvrsk-receives-236-27-consensus-price-target-from-analysts.html",
-          "date": "2026-08-24",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",
       "sub": "Insurance Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "Progressive Corporation",
-          "title": "Jewish High Holy Day Services at Congregation Bnai Harim at the Nevada County Jewish Community Center",
-          "url": "https://yubanet.com/regional/jewish-high-holy-day-services-at-congregation-bnai-harim-at-the-nevada-county-jewish-community-center/",
-          "date": "2026-08-26",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://i0.wp.com/yubanet.com/wp-content/uploads/2026/08/Unrolling-the-Torah-for-Simchat-Torah-scaled.jpg?fit=1920%2C2560&ssl=1",
-          "favicon": "https://www.google.com/s2/favicons?domain=yubanet.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     }
   ]
 }

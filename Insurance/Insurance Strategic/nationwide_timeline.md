@@ -1,9 +1,10 @@
 # Nationwide — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 26, 2026.
+Rolling history of tracked news (last 90 days). Updated August 27, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-27 | Amy Moved Houses Over a Pizza Prank We Still Havent Solved \| B93 . 9 | 🟡 Low | ⚪ Neutral | [link](https://b939country.iheart.com/featured/bobby-bones/content/2026-08-27-amy-moved-houses-over-a-pizza-prank-we-still-havent-solved/) |
 | 2026-08-25 | Seafarers get certificate in lieu of record book | 🟡 Low | 🟢 Positive | [link](https://www.manilatimes.net/2026/08/26/business/maritime/seafarers-get-certificate-in-lieu-of-record-book/2411500) |
 | 2026-08-18 | BJP plans nationwide  Seva Sankalp Mahotsav  to mark PM Modi 25 years of public service | 🟡 Low | ⚪ Neutral | [link](http://www.indiagazette.com/news/279249714/bjp-plans-nationwide-seva-sankalp-mahotsav-to-mark-pm-modi-25-years-of-public-service) |
 | 2026-08-14 | How Eddie Paid Off $40k in Credit Card Debt \ | Hot Country 106 . 5 FM | 🟡 Low | ⚪ Neutral | [link](https://kmcx.iheart.com/featured/bobby-bones/content/2026-08-14-how-eddie-paid-off-40k-in-credit-card-debt/) |

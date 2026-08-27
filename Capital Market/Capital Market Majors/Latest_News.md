@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** August 26, 2026  
+**Updated:** August 27, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 14  
+**Accounts with news this cycle:** 7  
 
 ---
 
@@ -10,169 +10,94 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **BROWN BROTHERS HARRIMAN AND COMPANY** | Delek US ( NYSE : DK ) Director Sells $142 , 100 . 00 in Stock | 2026-08-26 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypolitical.com/2026/08/25/delek-us-nysedk-director-sells-142100-00-in-stock.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.forbes.com&sz=32) | **Guggenheim Partners** | Dodgers Sends  Fire Sale  Message After $1 . 2 Billion Deal | 2026-08-26 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.forbes.com/sites/peterchawaga/2026/08/26/dodgers-sends-fire-sale-message-after-12-billion-deal/) |
-| ![](https://www.google.com/s2/favicons?domain=www.crowdfundinsider.com&sz=32) | **Dun & Bradstreet Corporation** | Agentic AI : Google Cloud Rolls Out Gemini Enterprise For Financial Services | 2026-08-26 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://www.crowdfundinsider.com/2026/08/301772-agentic-ai-google-cloud-rolls-out-gemini-enterprise-for-financial-services/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | Chewy ( CHWY ) Outperform Rating Reiterated at Royal Bank Of Canada | 2026-08-26 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.themarketsdaily.com/2026/08/26/chewys-chwy-outperform-rating-reiterated-at-royal-bank-of-canada.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **ROBERT W. BAIRD & CO INC** | McDonald ( MCD ) – Analyst Weekly Ratings Updates | 2026-08-26 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.themarketsdaily.com/2026/08/26/mcdonalds-mcd-analysts-weekly-ratings-updates.html) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **D E SHAW & CO INC** | This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story | 2026-08-26 | 🟠 Medium | 🟢 Positive | — | Fabric | [link](https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **Apollo Management** | How Should Investors Read the Mixed Signals Coming From Private Markets ? | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.morningstar.com/stocks/how-should-investors-read-mixed-signals-coming-private-markets) |
-| ![](https://www.google.com/s2/favicons?domain=www.alligator.org&sz=32) | **DEPOSITORY TRUST CLEARING CORPORATION** | Why become a Gator ? Here why freshmen said  ye - The Independent Florida Alligator | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.alligator.org/article/2026/08/why-become-a-gator-here-s-why-freshmen-said-yes) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Ondas ( NASDAQ : ONDS ) Trading Down 5 . 4 % – Here Why | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/26/ondas-nasdaqonds-trading-down-5-4-heres-why.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.pr-inside.com&sz=32) | **Kroll, LLC** | BHG Financial Closes a New ABS Transaction of $432 Million | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.pr-inside.com/bhg-financial-closes-a-new-abs-transaction-of-432-million-r5216418.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **First Advantage Corporation** | Blinkit expands beyond metros in India quick - commerce market race | 2026-08-26 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.business-standard.com/industry/news/blinkit-expands-beyond-metros-in-india-s-quick-commerce-market-race-126082601002_1.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Sanctuary Advisors LLC Invests $3 . 80 Million in Hubbell Inc $HUBB | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/26/sanctuary-advisors-llc-invests-3-80-million-in-hubbell-inc-hubb.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **WILLIAM BLAIR & COMPANY** | LandBridge ( NYSE : LB ) Shares Up 4 . 6 % – Here Why | 2026-08-26 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/08/26/landbridge-nyselb-shares-up-4-6-heres-why.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.asiabulletin.com&sz=32) | **NEUBERGER BERMAN** | India seeks deeper Japanese investment across sectors , pitches GIFT City as gateway for cross - border capital flows | 2026-08-25 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.asiabulletin.com/news/279263744/india-seeks-deeper-japanese-investment-across-sectors-pitches-gift-city-as-gateway-for-cross-border-capital-flows) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock | 2026-08-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Raymond James and Associates Inc** | Segall Bryant & Hamill Select Equity ETF ( NYSEARCA : USSE ) Sees Large Growth in Short Interest | 2026-08-27 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13561484/segall-bryant-hamill-select-equity-etf-nysearcausse-sees-large-growth-in-short-interest.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **D E SHAW & CO INC** | Form 8 . 3 - DCC Energy plc \| Company Announcement | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Balyasny Asset Management** | Lantronix , Inc . ( NASDAQ : LTRX ) Receives $10 . 40 Consensus Price Target from Brokerages | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/27/lantronix-inc-nasdaqltrx-receives-10-40-consensus-price-target-from-brokerages.html) |
+| ![](https://www.google.com/s2/favicons?domain=mycolumbuspower.com&sz=32) | **Guggenheim Partners** | Investigating LeBron Jame $300 Million Loan | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://mycolumbuspower.com/4899554/lebron-james-300-million-loan/) |
+| ![](https://www.google.com/s2/favicons?domain=retail.economictimes.indiatimes.com&sz=32) | **First Advantage Corporation** | Quick Commerce Thrives : Now in 477 Cities as New Players Enter the Market , ETRetail | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-expands-to-477-cities-as-players-target-smaller-untapped-markets-clsa/133559422) |
+| ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
 
 ## Detail
 
-### BROWN BROTHERS HARRIMAN AND COMPANY
-**Delek US ( NYSE : DK ) Director Sells $142 , 100 . 00 in Stock** — 2026-08-26 — 🔴 High — ⚪ Neutral
+### TWO SIGMA INVESTMENTS
+**Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock** — 2026-08-27 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/08/25/delek-us-nysedk-director-sells-142100-00-in-stock.html)
+[Read →](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html)
 
-### Guggenheim Partners
-**Dodgers Sends  Fire Sale  Message After $1 . 2 Billion Deal** — 2026-08-26 — 🔴 High — ⚪ Neutral
+### Raymond James and Associates Inc
+**Segall Bryant & Hamill Select Equity ETF ( NYSEARCA : USSE ) Sees Large Growth in Short Interest** — 2026-08-27 — 🟡 Low — 🟢 Positive
 
 
 
-_Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.forbes.com/sites/peterchawaga/2026/08/26/dodgers-sends-fire-sale-message-after-12-billion-deal/)
-
-### Dun & Bradstreet Corporation
-**Agentic AI : Google Cloud Rolls Out Gemini Enterprise For Financial Services** — 2026-08-26 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://www.crowdfundinsider.com/2026/08/301772-agentic-ai-google-cloud-rolls-out-gemini-enterprise-for-financial-services/)
-
-### WELLINGTON MANAGEMENT COMPANY LLC
-**Chewy ( CHWY ) Outperform Rating Reiterated at Royal Bank Of Canada** — 2026-08-26 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/26/chewys-chwy-outperform-rating-reiterated-at-royal-bank-of-canada.html)
-
-### ROBERT W. BAIRD & CO INC
-**McDonald ( MCD ) – Analyst Weekly Ratings Updates** — 2026-08-26 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/26/mcdonalds-mcd-analysts-weekly-ratings-updates.html)
+[Read →](https://www.tickerreport.com/banking-finance/13561484/segall-bryant-hamill-select-equity-etf-nysearcausse-sees-large-growth-in-short-interest.html)
 
 ### D E SHAW & CO INC
-**This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story** — 2026-08-26 — 🟠 Medium — 🟢 Positive
-
-
-
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html)
-
-### Apollo Management
-**How Should Investors Read the Mixed Signals Coming From Private Markets ?** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+**Form 8 . 3 - DCC Energy plc | Company Announcement** — 2026-08-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.morningstar.com/stocks/how-should-investors-read-mixed-signals-coming-private-markets)
+[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509)
 
-### DEPOSITORY TRUST CLEARING CORPORATION
-**Why become a Gator ? Here why freshmen said  ye - The Independent Florida Alligator** — 2026-08-26 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.alligator.org/article/2026/08/why-become-a-gator-here-s-why-freshmen-said-yes)
-
-### TWO SIGMA INVESTMENTS
-**Ondas ( NASDAQ : ONDS ) Trading Down 5 . 4 % – Here Why** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+### Balyasny Asset Management
+**Lantronix , Inc . ( NASDAQ : LTRX ) Receives $10 . 40 Consensus Price Target from Brokerages** — 2026-08-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/26/ondas-nasdaqonds-trading-down-5-4-heres-why.html)
+[Read →](https://www.themarketsdaily.com/2026/08/27/lantronix-inc-nasdaqltrx-receives-10-40-consensus-price-target-from-brokerages.html)
 
-### Kroll, LLC
-**BHG Financial Closes a New ABS Transaction of $432 Million** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+### Guggenheim Partners
+**Investigating LeBron Jame $300 Million Loan** — 2026-08-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.pr-inside.com/bhg-financial-closes-a-new-abs-transaction-of-432-million-r5216418.htm)
+[Read →](https://mycolumbuspower.com/4899554/lebron-james-300-million-loan/)
 
 ### First Advantage Corporation
-**Blinkit expands beyond metros in India quick - commerce market race** — 2026-08-26 — 🟡 Low — 🟢 Positive
+**Quick Commerce Thrives : Now in 477 Cities as New Players Enter the Market , ETRetail** — 2026-08-27 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.business-standard.com/industry/news/blinkit-expands-beyond-metros-in-india-s-quick-commerce-market-race-126082601002_1.html)
+[Read →](https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-expands-to-477-cities-as-players-target-smaller-untapped-markets-clsa/133559422)
 
-### PRINCIPAL FINANCIAL GROUP
-**Sanctuary Advisors LLC Invests $3 . 80 Million in Hubbell Inc $HUBB** — 2026-08-26 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/26/sanctuary-advisors-llc-invests-3-80-million-in-hubbell-inc-hubb.html)
-
-### WILLIAM BLAIR & COMPANY
-**LandBridge ( NYSE : LB ) Shares Up 4 . 6 % – Here Why** — 2026-08-26 — 🟡 Low — 🟢 Positive
+### Securian
+**July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/26/landbridge-nyselb-shares-up-4-6-heres-why.html)
-
-### NEUBERGER BERMAN
-**India seeks deeper Japanese investment across sectors , pitches GIFT City as gateway for cross - border capital flows** — 2026-08-25 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.asiabulletin.com/news/279263744/india-seeks-deeper-japanese-investment-across-sectors-pitches-gift-city-as-gateway-for-cross-border-capital-flows)
+[Read →](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (52)</summary>
+<details><summary>Accounts with no material news this cycle (59)</summary>
 
 - CITADEL INVESTMENT GROUP
 - EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
+- Apollo Management
 - BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
 - PLATINUM EQUITY LLC
+- Dun & Bradstreet Corporation
 - INVESCO
-- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
@@ -182,18 +107,20 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Ion Trading
 - JEFFERIES & COMPANY INC
 - MSCI Inc
+- NEUBERGER BERMAN
 - Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
 - T ROWE PRICE ASSOCIATES
+- WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
 - MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
+- DEPOSITORY TRUST CLEARING CORPORATION
 - DISCOVER FINANCIAL
 - Fortress Investment Group
-- Securian
-- Balyasny Asset Management
+- BROWN BROTHERS HARRIMAN AND COMPANY
 - Chicago mercantile Exchange
 - Commonwealth Financial Network
 - HARBOURVEST PARTNERS LLC
@@ -205,6 +132,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Berkshire Hathaway Energy
 - BERKSHIRE HATHAWAY INC
 - DAVIDSON KEMPNER
+- Kroll, LLC
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
 - FISHER INVESTMENTS
@@ -212,6 +140,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - The Capital Group Companies, Inc.
 - Voya Services Company
 - AMERIPRISE FINANCIAL INC
+- PRINCIPAL FINANCIAL GROUP
+- ROBERT W. BAIRD & CO INC
+- WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
@@ -220,4 +151,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on August 26, 2026._
+_Auto-generated on August 27, 2026._
