@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** August 27, 2026  
-**Accounts tracked:** 39  
-**Accounts with news this cycle:** 7  
+**Updated:** August 31, 2026  
+**Accounts tracked:** 81  
+**Accounts with news this cycle:** 11  
 
 ---
 
@@ -10,101 +10,149 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.tigersroar.com&sz=32) | **MERCURY INSURANCE COMPANY** | 10 Tips to Vacation - Proof Your Home While Youre Away | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tigersroar.com/online_features/family_living/article_78094b01-3044-59b3-9d4c-2ce6a2e8c817.html) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Guard Insurance** | Travel Guard travel insurance review : 4 . 6 out of 5 stars | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/personal-finance/insurance/review/travel-guard-travel-insurance-153454282.html) |
-| ![](https://www.google.com/s2/favicons?domain=ipowerrichmond.com&sz=32) | **Genworth** | BLK RVA Community Awards Celebrates Black Excellence in RVA | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://ipowerrichmond.com/4572703/blk-rva-community-awards-celebrates-black-excellence-in-rva/) |
-| ![](https://www.google.com/s2/favicons?domain=lancasteronline.com&sz=32) | **ASSURED PARTNERS** | Lancaster County government calendar : Aug . 24 , 2026 | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://lancasteronline.com/news/community/lancaster-county-government-calendar-aug-24-2026/article_4a43ae4c-f6a5-4759-bf9f-114c6aa50ea8.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.yourtango.com&sz=32) | **PROSPERITY LIFE GROUP** | Weekly Chinese Horoscopes Are Here For Each Animal Sign From August 17 - 23 , 2026 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yourtango.com/2026400094/weekly-chinese-horoscopes-animal-sign-august-17-23-2026) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Berkshire Hathaway Specialty Insurance Company** | Best Insurance Professionals Under 40 in California \| InsuranceFest NextGen California 2026 | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/best-insurance/best-insurance-professionals-under-40-in-california--insurancefest-nextgen-california-2026-586555.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.nhgazette.com&sz=32) | **HARTFORD FIRE INSURANCE COMPANY** | Fri , July 31 - The New Hampshire Gazette | 2026-07-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nhgazette.com/2026/07/31/fri-july-31-2/) |
+| ![](https://www.google.com/s2/favicons?domain=en.antaranews.com&sz=32) | **Hub International** | SF Holding Reports Solid First Half 2026 Results , Accelerating International Growth and Enhancing Shareholder Returns | 2026-08-31 | 🔴 High | 🟢 Positive | Earnings, Regulatory | — | [link](https://en.antaranews.com/news/429111/sf-holding-reports-solid-first-half-2026-results-accelerating-international-growth-and-enhancing-shareholder-returns) |
+| ![](https://www.google.com/s2/favicons?domain=www.kswo.com&sz=32) | **Kemper Corporation** | Lawton pancake breakfast raises money for community programs | 2026-08-31 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.kswo.com/2026/08/31/lawton-pancake-breakfast-raises-money-community-programs/) |
+| ![](https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Empathy launches digital estate planning platform in united kingdom | 2026-08-06 | 🟠 Medium | ⚪ Neutral | Product Launch | Fabric | [link](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/) |
+| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **STANDARD INSURANCE CO** | Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms) |
+| ![](https://www.google.com/s2/favicons?domain=www.eagledayton.com&sz=32) | **AMERICAN FAMILY CORPORATION** | How far apart American siblings live , and what happens when the distance grows | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.eagledayton.com/news/how-far-apart/JRAXYP2OSE6U5CAQK6CGTB4LBY/) |
+| ![](https://www.google.com/s2/favicons?domain=baystreet.ca&sz=32) | **ARTHUR J GALLAGHER & CO** | Baystreet . ca - Aon To Buy USI Insurance For $17 Billion | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](http://baystreet.ca/stockstowatch/23961/Aon-To-Buy-USI-Insurance-For-17-Billion) |
+| ![](https://www.google.com/s2/favicons?domain=cnycentral.com&sz=32) | **aflac** | Beyond the weekend : Here what happening at the NYSF and in CNY | 2026-08-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://cnycentral.com/news/local/beyond-the-weekend-heres-whats-happening-at-the-nysf-and-in-cny) |
+| ![](https://www.google.com/s2/favicons?domain=asia.nikkei.com&sz=32) | **Tokio Marine Group** | Tokio Marine to buy united kingdom fleet insurer Direct Commercial in Europe push | 2026-08-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://asia.nikkei.com/business/business-deals/tokio-marine-to-buy-uk-fleet-insurer-direct-commercial-in-europe-push) |
+| ![](https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=32) | **AMERICAN FIDELITY** | County set to spend $6M on new health department building | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yahoo.com/news/us/articles/county-set-spend-6m-health-154600681.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tnonline.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Musikfest 2026 ranks among top three most attended festivals – Times News Online | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/) |
+| ![](https://www.google.com/s2/favicons?domain=meridianstar.com&sz=32) | **AMYNTA GROUP** | Supervisors approve purchasing VFIS insurance for volunteer firefighters | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://meridianstar.com/2026/08/18/supervisors-approve-purchasing-vfis-insurance-for-volunteer-firefighters/) |
 
 ## Detail
 
-### MERCURY INSURANCE COMPANY
-**10 Tips to Vacation - Proof Your Home While Youre Away** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+### Hub International
+**SF Holding Reports Solid First Half 2026 Results , Accelerating International Growth and Enhancing Shareholder Returns** — 2026-08-31 — 🔴 High — 🟢 Positive
+
+
+
+_Trigger events:_ Earnings, Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://en.antaranews.com/news/429111/sf-holding-reports-solid-first-half-2026-results-accelerating-international-growth-and-enhancing-shareholder-returns)
+
+### Kemper Corporation
+**Lawton pancake breakfast raises money for community programs** — 2026-08-31 — 🔴 High — 🟢 Positive
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.kswo.com/2026/08/31/lawton-pancake-breakfast-raises-money-community-programs/)
+
+### NEW YORK LIFE INSURANCE COMPANY
+**Empathy launches digital estate planning platform in united kingdom** — 2026-08-06 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/)
+
+### STANDARD INSURANCE CO
+**Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started** — 2026-08-31 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tigersroar.com/online_features/family_living/article_78094b01-3044-59b3-9d4c-2ce6a2e8c817.html)
+[Read →](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms)
 
-### Guard Insurance
-**Travel Guard travel insurance review : 4 . 6 out of 5 stars** — 2026-08-26 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/personal-finance/insurance/review/travel-guard-travel-insurance-153454282.html)
-
-### Genworth
-**BLK RVA Community Awards Celebrates Black Excellence in RVA** — 2026-08-26 — 🟡 Low — ⚪ Neutral
+### AMERICAN FAMILY CORPORATION
+**How far apart American siblings live , and what happens when the distance grows** — 2026-08-31 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://ipowerrichmond.com/4572703/blk-rva-community-awards-celebrates-black-excellence-in-rva/)
+[Read →](https://www.eagledayton.com/news/how-far-apart/JRAXYP2OSE6U5CAQK6CGTB4LBY/)
 
-### ASSURED PARTNERS
-**Lancaster County government calendar : Aug . 24 , 2026** — 2026-08-24 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://lancasteronline.com/news/community/lancaster-county-government-calendar-aug-24-2026/article_4a43ae4c-f6a5-4759-bf9f-114c6aa50ea8.html)
-
-### PROSPERITY LIFE GROUP
-**Weekly Chinese Horoscopes Are Here For Each Animal Sign From August 17 - 23 , 2026** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### ARTHUR J GALLAGHER & CO
+**Baystreet . ca - Aon To Buy USI Insurance For $17 Billion** — 2026-08-31 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.yourtango.com/2026400094/weekly-chinese-horoscopes-animal-sign-august-17-23-2026)
+[Read →](http://baystreet.ca/stockstowatch/23961/Aon-To-Buy-USI-Insurance-For-17-Billion)
 
-### Berkshire Hathaway Specialty Insurance Company
-**Best Insurance Professionals Under 40 in California | InsuranceFest NextGen California 2026** — 2026-08-18 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancebusinessmag.com/us/best-insurance/best-insurance-professionals-under-40-in-california--insurancefest-nextgen-california-2026-586555.aspx)
-
-### HARTFORD FIRE INSURANCE COMPANY
-**Fri , July 31 - The New Hampshire Gazette** — 2026-07-31 — 🟡 Low — ⚪ Neutral
+### aflac
+**Beyond the weekend : Here what happening at the NYSF and in CNY** — 2026-08-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.nhgazette.com/2026/07/31/fri-july-31-2/)
+[Read →](https://cnycentral.com/news/local/beyond-the-weekend-heres-whats-happening-at-the-nysf-and-in-cny)
+
+### Tokio Marine Group
+**Tokio Marine to buy united kingdom fleet insurer Direct Commercial in Europe push** — 2026-08-28 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://asia.nikkei.com/business/business-deals/tokio-marine-to-buy-uk-fleet-insurer-direct-commercial-in-europe-push)
+
+### AMERICAN FIDELITY
+**County set to spend $6M on new health department building** — 2026-08-24 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.yahoo.com/news/us/articles/county-set-spend-6m-health-154600681.html)
+
+### GUARDIAN LIFE INSURANCE CO
+**Musikfest 2026 ranks among top three most attended festivals – Times News Online** — 2026-08-19 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/)
+
+### AMYNTA GROUP
+**Supervisors approve purchasing VFIS insurance for volunteer firefighters** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://meridianstar.com/2026/08/18/supervisors-approve-purchasing-vfis-insurance-for-volunteer-firefighters/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (32)</summary>
+<details><summary>Accounts with no material news this cycle (70)</summary>
 
 - American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
 - MUTUAL OF OMAHA
-- Tokio Marine Group
+- PROSPERITY LIFE GROUP
 - UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
-- AMERICAN FIDELITY
+- MERCURY INSURANCE COMPANY
 - PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
-- aflac
 - AmWINS Group
 - ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
+- Guard Insurance
 - NSM Insurance Group
 - PROTECTIVE LIFE CORPORATION
+- ASSURED PARTNERS
+- Genworth
 - LINCOLN NATIONAL CORPORATION
 - TIH Insurance Holdings, LLC
+- Berkshire Hathaway Specialty Insurance Company
+- HARTFORD FIRE INSURANCE COMPANY
 - RISK STRATEGIES COMPANY
 - SELECTIVE INSURANCE
 - VERISK ANALYTICS
@@ -119,8 +167,42 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
 - BROWN AND BROWN, Inc.
+- MARKEL
+- AAA INSURANCE GROUP
+- Milliman USA
+- TRUSTMARK INSURANCE COMPANY
+- AEGON USA
+- AMTrust Financial Services INC
+- Assurant
+- COUNTRY FINANCIAL SERVICES INC
+- AXIS SPECIALTY US SERVICES INC
+- FM GLOBAL
+- GENERAL REINSURANCE COMPANY
+- U N U M LIFE INSURANCE COMPANY
+- AAA AUTO CLUB INSURANCE ASSOCIATION
+- ACRISURE LLC
+- AMERICAN FINANCIAL GROUP INC
+- CINCINNATI INSURANCE COMPANIES
+- CNO Services, LLC
+- JACKSON NATIONAL LIFE
+- CUNA MUTUAL INSURANCE SOCIETY
+- Jewelers Mutual Insurance
+- Loews Corp
+- OLD REPUBLIC INTERNATIONAL
+- SENTRY INSURANCE A MUTUAL CO
+- FARM BUREAU FINANCIAL SERVICES
+- LOCKTON INSURANCE AGENCY
+- SHELTER INSURANCE COMPANY
+- ARCH CAPITAL GROUP LTD
+- C V STARR
+- EVEREST GLOBAL SERVICES
+- QBE REINSURANCE SYDNEY REINSURANCE
+- TRANSATLANTIC REINSURANCE
+- EQUITABLE
+- National Life Group
+- TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on August 27, 2026._
+_Auto-generated on August 31, 2026._

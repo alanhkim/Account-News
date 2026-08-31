@@ -1,9 +1,10 @@
 # STANDARD INSURANCE CO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 26, 2026.
+Rolling history of tracked news (last 90 days). Updated August 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-31 | Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started | 🟡 Low | 🟢 Positive | [link](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms) |
 | 2026-08-18 | Andy Burnham and Angela Rayner speak out on insurance following fire | 🟡 Low | ⚪ Neutral | [link](https://www.dudleynews.co.uk/news/26475369.andy-burnham-angela-rayner-speak-insurance-following-fire/) |
 | 2026-08-12 | This day in history : Local officials endorse new healthcare organization . Woman goes on robbery spree | 🟡 Low | ⚪ Neutral | [link](https://www.spokesman.com/stories/2026/aug/12/this-day-in-history-local-officials-endorse-new-he/) |
 | 2026-07-30 | CIC Insurance launches microinsurance arm to safeguard Kenya informal sector | 🟠 Medium | ⚪ Neutral | [link](https://hapakenya.com/2026/07/30/cic-insurance-launches-microinsurance-arm-to-safeguard-kenyas-informal-sector/) |

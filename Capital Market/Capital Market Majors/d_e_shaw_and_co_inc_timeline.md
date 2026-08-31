@@ -1,10 +1,10 @@
 # D E SHAW & CO INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 27, 2026.
+Rolling history of tracked news (last 90 days). Updated August 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-08-27 | Form 8 . 3 - DCC Energy plc \| Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
+| 2026-08-27 | Form 8 . 3 - DCC Energy plc \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
 | 2026-08-26 | This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story | 🟠 Medium | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html) |
 | 2026-08-18 | Intel and AMD Fall 4 % as 13F Filings Reveal Concentrated Chip Bets | 🟡 Low | ⚪ Neutral | [link](https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/) |
 | 2026-08-12 | Form 8 . 3 - DCC Energy plc \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9717657) |

@@ -1,9 +1,10 @@
 # AMERIPRISE FINANCIAL INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 27, 2026.
+Rolling history of tracked news (last 90 days). Updated August 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-31 | Rakuten Investment Management Inc . Purchases Shares of 19 , 277 Jacobs Solutions Inc . $J | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13567106/rakuten-investment-management-inc-purchases-shares-of-19277-jacobs-solutions-inc-j.html) |
 | 2026-08-24 | Residential broker relocates its Saco business center | 🟡 Low | ⚪ Neutral | [link](https://mainebiz.biz/article/residential-broker-relocates-its-saco-business-center/) |
 | 2026-08-20 | Pallas Capital Advisors LLC Acquires Shares of 6 , 745 International Flavors & Fragrances Inc . $IFF | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/20/pallas-capital-advisors-llc-acquires-shares-of-6745-international-flavors-fragrances-inc-iff.html) |
 | 2026-08-18 | Advisor moves : Veteran teams with $580M in assets leave Wells Fargo | 🟡 Low | ⚪ Neutral | [link](https://www.investmentnews.com/independent-broker-dealers/veteran-advisors-with-580m-in-assets-leave-wells-fargo/267851) |

@@ -1,9 +1,10 @@
 # Tokio Marine Group — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 27, 2026.
+Rolling history of tracked news (last 90 days). Updated August 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-28 | Tokio Marine to buy united kingdom fleet insurer Direct Commercial in Europe push | 🟡 Low | ⚪ Neutral | [link](https://asia.nikkei.com/business/business-deals/tokio-marine-to-buy-uk-fleet-insurer-direct-commercial-in-europe-push) |
 | 2026-08-13 | Philadelphia Technology Leaders to Gather Next Tuesday for HMG Strategy 11th Annual C - Level Technology Leadership Summit on AI Governance , Agentic AI and Cybersecurity Resilience | 🟠 Medium | 🟢 Positive | [link](https://www.manilatimes.net/2026/08/14/tmt-newswire/globenewswire/philadelphia-technology-leaders-to-gather-next-tuesday-for-hmg-strategys-11th-annual-c-level-technology-leadership-summit-on-ai-governance-agentic-ai-and-cybersecurity-resilience/2405167) |
 | 2026-07-30 | Japan Earthquake Insurance Claims May Top $1 . 1 Billion : Bloomberg Intelligence | 🟡 Low | ⚪ Neutral | [link](https://www.insurancejournal.com/news/international/2026/07/30/879647.htm) |
 | 2026-07-29 | iWOW Raises S$15 . 0 Million For Next Phase of Growth | 🔴 High | 🟢 Positive | [link](https://www.manilatimes.net/2026/07/29/tmt-newswire/media-outreach-newswire/iwow-raises-s150-million-for-next-phase-of-growth/2394022) |

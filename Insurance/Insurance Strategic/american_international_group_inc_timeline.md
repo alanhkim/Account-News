@@ -1,9 +1,10 @@
 # American International Group Inc — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 27, 2026.
+Rolling history of tracked news (last 90 days). Updated August 31, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-31 | Vilnius council approves 83 - year lease extension for American school | 🟡 Low | ⚪ Neutral | [link](https://www.lrt.lt/en/news-in-english/19/3038078/vilnius-council-approves-83-year-lease-extension-for-american-school) |
 | 2026-08-17 | America , Not China , Is World Energy Superpower | 🟡 Low | ⚪ Neutral | [link](https://www.theepochtimes.com/opinion/america-not-china-is-worlds-energy-superpower-6076242) |
 | 2026-08-14 | Burnley interested in signing American defender Mark McKenzie | 🟡 Low | ⚪ Neutral | [link](https://the72.co.uk/2026/08/14/burnley-interested-signing-mark-mckenzie/) |
 | 2026-07-31 | Final Vintage Ohio taking place Aug . 7 and 8 at Farmpark | 🟡 Low | ⚪ Neutral | [link](https://www.morningjournal.com/2026/07/31/final-vintage-ohio-taking-place-aug-7-and-8-at-lake-metroparks-farmpark/) |

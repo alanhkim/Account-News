@@ -1,52 +1,17 @@
 {
-  "generated": "2026-08-27",
-  "generated_human": "August 27, 2026",
+  "generated": "2026-08-31",
+  "generated_human": "August 31, 2026",
   "counts": {
-    "accounts_total": 231,
-    "with_news": 2,
-    "high": 1
+    "accounts_total": 284,
+    "with_news": 1,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 2,
-      "items": [
-        {
-          "account": "Insurity",
-          "title": "Insurity Partners with Radity to Bridge Insurance Modernization Strategy and Execution",
-          "url": "https://leaderpost.com/press-releases/business-wire/insurity-partners-with-radity-to-bridge-insurance-modernization-strategy-and-execution/",
-          "date": "2026-08-25",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Account-planning context; no direct solution-play signal detected.",
-          "plays": [],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Negative",
-          "image": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20260825791450r1&sid=cnpm5&distro=ftp",
-          "favicon": "https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32"
-        },
-        {
-          "account": "Datasite",
-          "title": "AI Due Diligence : How AI Is Reshaping Mergers and Acquisitions",
-          "url": "https://thecherrycreeknews.com/ai-due-diligence-how-ai-is-reshaping-mergers-and-acquisitions/",
-          "date": "2026-08-18",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=thecherrycreeknews.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Banking",
@@ -69,8 +34,27 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "NEW YORK LIFE INSURANCE COMPANY",
+          "title": "Empathy launches digital estate planning platform in united kingdom",
+          "url": "https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/",
+          "date": "2026-08-06",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://www.international-adviser.com/wp-content/uploads/2018/01/2016-700-magnifying-glass-search-papers.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",

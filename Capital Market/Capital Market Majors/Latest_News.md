@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** August 27, 2026  
+**Updated:** August 31, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 7  
+**Accounts with news this cycle:** 6  
 
 ---
 
@@ -10,99 +10,92 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **TWO SIGMA INVESTMENTS** | Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock | 2026-08-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Raymond James and Associates Inc** | Segall Bryant & Hamill Select Equity ETF ( NYSEARCA : USSE ) Sees Large Growth in Short Interest | 2026-08-27 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13561484/segall-bryant-hamill-select-equity-etf-nysearcausse-sees-large-growth-in-short-interest.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **D E SHAW & CO INC** | Form 8 . 3 - DCC Energy plc \| Company Announcement | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Balyasny Asset Management** | Lantronix , Inc . ( NASDAQ : LTRX ) Receives $10 . 40 Consensus Price Target from Brokerages | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/08/27/lantronix-inc-nasdaqltrx-receives-10-40-consensus-price-target-from-brokerages.html) |
-| ![](https://www.google.com/s2/favicons?domain=mycolumbuspower.com&sz=32) | **Guggenheim Partners** | Investigating LeBron Jame $300 Million Loan | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://mycolumbuspower.com/4899554/lebron-james-300-million-loan/) |
-| ![](https://www.google.com/s2/favicons?domain=retail.economictimes.indiatimes.com&sz=32) | **First Advantage Corporation** | Quick Commerce Thrives : Now in 477 Cities as New Players Enter the Market , ETRetail | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-expands-to-477-cities-as-players-target-smaller-untapped-markets-clsa/133559422) |
-| ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
+| ![](https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32) | **Apollo Management** | Corporate America Profits Are Booming and Signal More Good Times Ahead | 2026-08-31 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.hindustantimes.com/world-news/corporate-america-s-profits-are-booming-and-signal-more-good-times-ahead-101788167561661.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.livemint.com&sz=32) | **DAVIDSON KEMPNER** | Megha Engineering PV Krishna Reddy taps $700 million private credit to buy out uncle stake | 2026-08-31 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.livemint.com/companies/people/megha-engineerings-pv-krishna-reddy-taps-700-million-private-credit-to-buy-out-uncles-stake-11788149415782.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **First Advantage Corporation** | Weak Wind Resources and Lower Tariffs Continue to Pressure China Longyuan Earnings | 2026-08-31 | 🔴 High | 🔴 Negative | Earnings | — | [link](https://www.morningstar.com/company-reports/1497900-weak-wind-resources-and-lower-tariffs-continue-to-pressure-china-longyuans-earnings) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . Rowe Price Group ( NASDAQ : TROW ) Stock Price Expected to Rise , TD Cowen Analyst Says | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/08/31/t-rowe-price-group-nasdaqtrow-stock-price-expected-to-rise-td-cowen-analyst-says.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **AMERIPRISE FINANCIAL INC** | Rakuten Investment Management Inc . Purchases Shares of 19 , 277 Jacobs Solutions Inc . $J | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13567106/rakuten-investment-management-inc-purchases-shares-of-19277-jacobs-solutions-inc-j.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.ign.com&sz=32) | **Stone X** | Mines Guide - Fields of Mistria Guide | 2026-08-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ign.com/wikis/fields-of-mistria/Mines_Guide) |
 
 ## Detail
 
-### TWO SIGMA INVESTMENTS
-**Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock** — 2026-08-27 — 🔴 High — ⚪ Neutral
+### Apollo Management
+**Corporate America Profits Are Booming and Signal More Good Times Ahead** — 2026-08-31 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.hindustantimes.com/world-news/corporate-america-s-profits-are-booming-and-signal-more-good-times-ahead-101788167561661.html)
+
+### DAVIDSON KEMPNER
+**Megha Engineering PV Krishna Reddy taps $700 million private credit to buy out uncle stake** — 2026-08-31 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html)
-
-### Raymond James and Associates Inc
-**Segall Bryant & Hamill Select Equity ETF ( NYSEARCA : USSE ) Sees Large Growth in Short Interest** — 2026-08-27 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13561484/segall-bryant-hamill-select-equity-etf-nysearcausse-sees-large-growth-in-short-interest.html)
-
-### D E SHAW & CO INC
-**Form 8 . 3 - DCC Energy plc | Company Announcement** — 2026-08-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509)
-
-### Balyasny Asset Management
-**Lantronix , Inc . ( NASDAQ : LTRX ) Receives $10 . 40 Consensus Price Target from Brokerages** — 2026-08-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/27/lantronix-inc-nasdaqltrx-receives-10-40-consensus-price-target-from-brokerages.html)
-
-### Guggenheim Partners
-**Investigating LeBron Jame $300 Million Loan** — 2026-08-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://mycolumbuspower.com/4899554/lebron-james-300-million-loan/)
+[Read →](https://www.livemint.com/companies/people/megha-engineerings-pv-krishna-reddy-taps-700-million-private-credit-to-buy-out-uncles-stake-11788149415782.html)
 
 ### First Advantage Corporation
-**Quick Commerce Thrives : Now in 477 Cities as New Players Enter the Market , ETRetail** — 2026-08-27 — 🟡 Low — ⚪ Neutral
+**Weak Wind Resources and Lower Tariffs Continue to Pressure China Longyuan Earnings** — 2026-08-31 — 🔴 High — 🔴 Negative
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.morningstar.com/company-reports/1497900-weak-wind-resources-and-lower-tariffs-continue-to-pressure-china-longyuans-earnings)
+
+### T ROWE PRICE ASSOCIATES
+**T . Rowe Price Group ( NASDAQ : TROW ) Stock Price Expected to Rise , TD Cowen Analyst Says** — 2026-08-31 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/quick-commerce-expands-to-477-cities-as-players-target-smaller-untapped-markets-clsa/133559422)
+[Read →](https://www.dailypolitical.com/2026/08/31/t-rowe-price-group-nasdaqtrow-stock-price-expected-to-rise-td-cowen-analyst-says.html)
 
-### Securian
-**July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
+### AMERIPRISE FINANCIAL INC
+**Rakuten Investment Management Inc . Purchases Shares of 19 , 277 Jacobs Solutions Inc . $J** — 2026-08-31 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764)
+[Read →](https://www.tickerreport.com/banking-finance/13567106/rakuten-investment-management-inc-purchases-shares-of-19277-jacobs-solutions-inc-j.html)
+
+### Stone X
+**Mines Guide - Fields of Mistria Guide** — 2026-08-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.ign.com/wikis/fields-of-mistria/Mines_Guide)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (59)</summary>
+<details><summary>Accounts with no material news this cycle (60)</summary>
 
 - CITADEL INVESTMENT GROUP
 - EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
-- Apollo Management
 - BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
 - PLATINUM EQUITY LLC
 - Dun & Bradstreet Corporation
 - INVESCO
+- Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
 - LPL Financial
+- D E SHAW & CO INC
 - gmo
 - Ion Trading
 - JEFFERIES & COMPANY INC
@@ -111,7 +104,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
-- T ROWE PRICE ASSOCIATES
 - WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
 - MORNINGSTAR INC
@@ -120,6 +112,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - DEPOSITORY TRUST CLEARING CORPORATION
 - DISCOVER FINANCIAL
 - Fortress Investment Group
+- Securian
+- TWO SIGMA INVESTMENTS
+- Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
 - Chicago mercantile Exchange
 - Commonwealth Financial Network
@@ -131,7 +126,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - TPG Capital
 - Berkshire Hathaway Energy
 - BERKSHIRE HATHAWAY INC
-- DAVIDSON KEMPNER
+- Guggenheim Partners
 - Kroll, LLC
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
@@ -139,16 +134,14 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
 - Voya Services Company
-- AMERIPRISE FINANCIAL INC
 - PRINCIPAL FINANCIAL GROUP
 - ROBERT W. BAIRD & CO INC
 - WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
-- Stone X
 
 </details>
 
 ---
-_Auto-generated on August 27, 2026._
+_Auto-generated on August 31, 2026._
