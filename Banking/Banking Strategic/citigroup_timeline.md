@@ -1,9 +1,10 @@
 # Citigroup — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Swedbank ( OTCMKTS : SWDBY ) Share Price Passes Above 50 - Day Moving Average – Here Why | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/02/swedbank-otcmktsswdby-share-price-passes-above-50-day-moving-average-heres-why.html) |
 | 2026-08-18 | China New Anti - Sanctions Laws Are Ensnaring Western Companies | 🟡 Low | ⚪ Neutral | [link](https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/) |
 | 2026-08-14 | BETA Technologies ( NYSE : BETA ) Releases Earnings Results , Misses Estimates By $0 . 08 EPS | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13543263/beta-technologies-nysebeta-releases-earnings-results-misses-estimates-by-0-08-eps.html) |
 | 2026-08-13 | Thursday big Wall Street calls include Nvidia , SpaceX , AMD & Disney | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/2026/08/13/thursdays-big-wall-street-calls-include-nvidia-spacex-amd-disney.html) |

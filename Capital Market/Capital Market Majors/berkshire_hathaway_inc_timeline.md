@@ -1,6 +1,6 @@
 # BERKSHIRE HATHAWAY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|

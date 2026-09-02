@@ -1,9 +1,10 @@
 # Blackstone Inc. — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell . | 🔴 High | ⚪ Neutral | [link](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/) |
 | 2026-08-31 | How the US is Driving the Rise of the Businessmen - Politician | 🟡 Low | ⚪ Neutral | [link](https://www.counterpunch.org/2026/08/31/how-the-us-is-driving-the-rise-of-the-businessmen-politician/) |
 | 2026-08-26 | How Mid - Market Advisory Firms Can Win Against Big Names In Audit | 🟠 Medium | 🟢 Positive | [link](https://www.forbes.com/councils/forbesbusinesscouncil/2026/08/26/how-mid-market-advisory-firms-can-win-a-three-front-war-against-big-names-in-audit/) |
 | 2026-08-18 | 13 Investment Must Reads for This Week ( Aug . 18 , 2026 ) | 🟡 Low | ⚪ Neutral | [link](https://www.wealthmanagement.com/etfs/13-investment-must-reads-for-this-week-aug-18-2026-) |

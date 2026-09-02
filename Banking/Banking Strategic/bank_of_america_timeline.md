@@ -1,9 +1,10 @@
 # Bank of America — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Where did mortgage rates land at the end of August ? | 🟡 Low | ⚪ Neutral | [link](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html) |
 | 2026-08-31 | argenex ( ARGX ) – Analyst Weekly Ratings Changes | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13567732/argenex-argx-analysts-weekly-ratings-changes.html) |
 | 2026-08-26 | Ex - manager accused of stealing $33 , 000 from Flanigan | 🟡 Low | ⚪ Neutral | [link](https://www.local10.com/news/local/2026/08/26/ex-manager-accused-of-stealing-33000-from-flanigans/) |
 | 2026-08-18 | Shakira pledges to rebuild 10 schools in earthquake - hit Colombia | 🟡 Low | ⚪ Neutral | [link](http://www.argentinastar.com/news/279249224/shakira-pledges-to-rebuild-10-schools-in-earthquake-hit-colombia) |

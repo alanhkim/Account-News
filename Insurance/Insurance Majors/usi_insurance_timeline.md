@@ -1,9 +1,10 @@
 # USI INSURANCE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html) |
 | 2026-08-24 | USI Recognized as a Top Insurance Employer by Insurance Business America for the Ninth Consecutive Year | 🟡 Low | 🔴 Negative | [link](https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/usi-recognized-as-a-top-insurance-employer-by-insurance-business-america-for-the-ninth-consecutive-year/2410927) |
 | 2026-08-17 | USI accuses three ex - brokers of taking clients to rival Howden | 🟡 Low | ⚪ Neutral | [link](https://www.businessinsurance.com/usi-accuses-three-ex-brokers-of-taking-clients-to-rival-howden/) |
 | 2026-08-05 | Insurance moves : Chubb , Marsh , Aon , United Educators , IGP Specialty , EMPLOYERS , More | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-chubb-marsh-aon-united-educators-igp-specialty-employers-more-584946.aspx) |

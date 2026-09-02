@@ -1,8 +1,8 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** August 31, 2026  
+**Updated:** September 02, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 4  
+**Accounts with news this cycle:** 2  
 
 ---
 
@@ -10,63 +10,45 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.wuwf.org&sz=32) | **BRIDGEWATER ASSOCIATES** | How NIL deals have changed the landscape of Florida high school athletics | 2026-08-31 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.wuwf.org/florida-news/2026-08-31/how-nil-deals-have-changed-the-landscape-of-florida-high-school-athletics) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **CHARLES SCHWAB CORP** | Quantitative Investment Management LLC Makes New $3 . 75 Million Investment in SLB Limited $SLB | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/08/31/quantitative-investment-management-llc-makes-new-3-75-million-investment-in-slb-limited-slb.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.counterpunch.org&sz=32) | **Blackstone Inc.** | How the US is Driving the Rise of the Businessmen - Politician | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.counterpunch.org/2026/08/31/how-the-us-is-driving-the-rise-of-the-businessmen-politician/) |
-| ![](https://www.google.com/s2/favicons?domain=www.gdnonline.com:443&sz=32) | **S&P Global** | KSA Business : Saudi Energy boosts sustainability score by 5pc in 2026 S & P Global Assessment | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.gdnonline.com:443/Details/1404920) |
+| ![](https://www.google.com/s2/favicons?domain=247wallst.com&sz=32) | **Blackstone Inc.** | Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell . | 2026-09-02 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **NASDAQ OMX** | Contrarian Signal Flashing for Ciena Stock | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html) |
 
 ## Detail
 
-### BRIDGEWATER ASSOCIATES
-**How NIL deals have changed the landscape of Florida high school athletics** — 2026-08-31 — 🔴 High — ⚪ Neutral
+### Blackstone Inc.
+**Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell .** — 2026-09-02 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.wuwf.org/florida-news/2026-08-31/how-nil-deals-have-changed-the-landscape-of-florida-high-school-athletics)
+[Read →](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/)
 
-### CHARLES SCHWAB CORP
-**Quantitative Investment Management LLC Makes New $3 . 75 Million Investment in SLB Limited $SLB** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/08/31/quantitative-investment-management-llc-makes-new-3-75-million-investment-in-slb-limited-slb.html)
-
-### Blackstone Inc.
-**How the US is Driving the Rise of the Businessmen - Politician** — 2026-08-31 — 🟡 Low — ⚪ Neutral
+### NASDAQ OMX
+**Contrarian Signal Flashing for Ciena Stock** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.counterpunch.org/2026/08/31/how-the-us-is-driving-the-rise-of-the-businessmen-politician/)
-
-### S&P Global
-**KSA Business : Saudi Energy boosts sustainability score by 5pc in 2026 S & P Global Assessment** — 2026-08-31 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.gdnonline.com:443/Details/1404920)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (12)</summary>
+<details><summary>Accounts with no material news this cycle (14)</summary>
 
+- CHARLES SCHWAB CORP
 - VISA U S A INC
 - Brookfield Asset Management
 - NORTHERN TRUST CORPORATION
 - PayPal, Inc.
 - AMERICAN EXPRESS COMPANY
+- BRIDGEWATER ASSOCIATES
 - Fidelity Investments
 - GOLDMAN SACHS & COMPANY
 - BLACKROCK FINANCIAL MANAGEMENT
-- NASDAQ OMX
+- S&P Global
 - MasterCard International
 - MORGAN STANLEY
 - VANGUARD GROUP INC
@@ -74,4 +56,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on August 31, 2026._
+_Auto-generated on September 02, 2026._

@@ -1,9 +1,10 @@
 # Metlife — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Giants legend Leonard Marshall behind Big Blue resurgence | 🟡 Low | 🟢 Positive | [link](https://www.nydailynews.com/2026/09/02/giants-legend-leonard-marshall-defense-resurgence-harbaugh/) |
 | 2026-08-27 | Bruno Mars Adds Australian Dates To The Romantic Tour With Tyla And Anderson . Paak | 🟡 Low | ⚪ Neutral | [link](https://www.noise11.com/news/bruno-mars-australia-new-zealand-tour-2027-20260827) |
 | 2026-08-26 | Brighthouse Financial , Inc . ( NASDAQ : BHFAM ) Sees Large Drop in Short Interest | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13559840/brighthouse-financial-inc-nasdaqbhfam-sees-large-drop-in-short-interest.html) |
 | 2026-08-25 | I ditched T - Mobile for Mint and found 3 major drawbacks of smaller carriers - and their workarounds | 🟡 Low | ⚪ Neutral | [link](https://www.zdnet.com/article/i-ditched-t-mobile-for-mint-and-found-3-major-drawbacks-of-smaller-carriers-and-workarounds/) |

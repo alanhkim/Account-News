@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** August 31, 2026  
+**Updated:** September 02, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 11  
+**Accounts with news this cycle:** 8  
 
 ---
 
@@ -10,137 +10,103 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=en.antaranews.com&sz=32) | **Hub International** | SF Holding Reports Solid First Half 2026 Results , Accelerating International Growth and Enhancing Shareholder Returns | 2026-08-31 | 🔴 High | 🟢 Positive | Earnings, Regulatory | — | [link](https://en.antaranews.com/news/429111/sf-holding-reports-solid-first-half-2026-results-accelerating-international-growth-and-enhancing-shareholder-returns) |
-| ![](https://www.google.com/s2/favicons?domain=www.kswo.com&sz=32) | **Kemper Corporation** | Lawton pancake breakfast raises money for community programs | 2026-08-31 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.kswo.com/2026/08/31/lawton-pancake-breakfast-raises-money-community-programs/) |
-| ![](https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Empathy launches digital estate planning platform in united kingdom | 2026-08-06 | 🟠 Medium | ⚪ Neutral | Product Launch | Fabric | [link](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/) |
-| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **STANDARD INSURANCE CO** | Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms) |
-| ![](https://www.google.com/s2/favicons?domain=www.eagledayton.com&sz=32) | **AMERICAN FAMILY CORPORATION** | How far apart American siblings live , and what happens when the distance grows | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.eagledayton.com/news/how-far-apart/JRAXYP2OSE6U5CAQK6CGTB4LBY/) |
-| ![](https://www.google.com/s2/favicons?domain=baystreet.ca&sz=32) | **ARTHUR J GALLAGHER & CO** | Baystreet . ca - Aon To Buy USI Insurance For $17 Billion | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](http://baystreet.ca/stockstowatch/23961/Aon-To-Buy-USI-Insurance-For-17-Billion) |
-| ![](https://www.google.com/s2/favicons?domain=cnycentral.com&sz=32) | **aflac** | Beyond the weekend : Here what happening at the NYSF and in CNY | 2026-08-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://cnycentral.com/news/local/beyond-the-weekend-heres-whats-happening-at-the-nysf-and-in-cny) |
-| ![](https://www.google.com/s2/favicons?domain=asia.nikkei.com&sz=32) | **Tokio Marine Group** | Tokio Marine to buy united kingdom fleet insurer Direct Commercial in Europe push | 2026-08-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://asia.nikkei.com/business/business-deals/tokio-marine-to-buy-uk-fleet-insurer-direct-commercial-in-europe-push) |
-| ![](https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=32) | **AMERICAN FIDELITY** | County set to spend $6M on new health department building | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yahoo.com/news/us/articles/county-set-spend-6m-health-154600681.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tnonline.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Musikfest 2026 ranks among top three most attended festivals – Times News Online | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/) |
-| ![](https://www.google.com/s2/favicons?domain=meridianstar.com&sz=32) | **AMYNTA GROUP** | Supervisors approve purchasing VFIS insurance for volunteer firefighters | 2026-08-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://meridianstar.com/2026/08/18/supervisors-approve-purchasing-vfis-insurance-for-volunteer-firefighters/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **USI INSURANCE** | Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.ijpr.org&sz=32) | **Hub International** | Germany blames Russia for last month attempted drone attack at Leipzig airport | 2026-09-02 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **MUTUAL OF OMAHA** | Get $1M in Life Insurance for Only $25 / mo , Quote . com Study Finds | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/get-1m-in-life-insurance-for-only-25mo-quotecom-study-finds-302862586.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Jefferies Financial Group Inc . Makes New $765 , 000 Investment in Conagra Brands $CAG | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/08/31/jefferies-financial-group-inc-makes-new-765000-investment-in-conagra-brands-cag.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **The Hanover Insurance Group** | Comparing Brighthouse Financial ( NASDAQ : BHFAL ) and The Hanover Insurance Group ( NYSE : THG ) | 2026-08-30 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13566492/comparing-brighthouse-financial-nasdaqbhfal-and-the-hanover-insurance-group-nysethg.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.ocregister.com&sz=32) | **PACIFIC LIFE INSURANCE CO** | Real estate news : Enderle Center sale complete , Campo on 17th moves ahead | 2026-08-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ocregister.com/2026/08/28/real-estate-news-enderle-center-sale-complete-campo-on-17th-moves-ahead/) |
+| ![](https://www.google.com/s2/favicons?domain=www.ky3.com&sz=32) | **SHELTER INSURANCE COMPANY** | Mizzou Athletics sees record - setting sponsorship growth | 2026-08-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.ky3.com/2026/08/28/mizzou-athletics-sees-record-setting-sponsorship-growth/) |
+| ![](https://www.google.com/s2/favicons?domain=richmondbizsense.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | The Docket : Local court roundup for 8 . 6 . 26 - Richmond BizSense | 2026-08-06 | 🟡 Low | 🟢 Positive | — | — | [link](https://richmondbizsense.com/2026/08/06/the-docket-local-court-roundup-for-8-6-26/) |
 
 ## Detail
 
+### USI INSURANCE
+**Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields** — 2026-09-02 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html)
+
 ### Hub International
-**SF Holding Reports Solid First Half 2026 Results , Accelerating International Growth and Enhancing Shareholder Returns** — 2026-08-31 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings, Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://en.antaranews.com/news/429111/sf-holding-reports-solid-first-half-2026-results-accelerating-international-growth-and-enhancing-shareholder-returns)
-
-### Kemper Corporation
-**Lawton pancake breakfast raises money for community programs** — 2026-08-31 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.kswo.com/2026/08/31/lawton-pancake-breakfast-raises-money-community-programs/)
-
-### NEW YORK LIFE INSURANCE COMPANY
-**Empathy launches digital estate planning platform in united kingdom** — 2026-08-06 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/)
-
-### STANDARD INSURANCE CO
-**Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started** — 2026-08-31 — 🟡 Low — 🟢 Positive
+**Germany blames Russia for last month attempted drone attack at Leipzig airport** — 2026-09-02 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms)
+[Read →](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport)
 
-### AMERICAN FAMILY CORPORATION
-**How far apart American siblings live , and what happens when the distance grows** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.eagledayton.com/news/how-far-apart/JRAXYP2OSE6U5CAQK6CGTB4LBY/)
-
-### ARTHUR J GALLAGHER & CO
-**Baystreet . ca - Aon To Buy USI Insurance For $17 Billion** — 2026-08-31 — 🟡 Low — ⚪ Neutral
+### MUTUAL OF OMAHA
+**Get $1M in Life Insurance for Only $25 / mo , Quote . com Study Finds** — 2026-08-31 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://baystreet.ca/stockstowatch/23961/Aon-To-Buy-USI-Insurance-For-17-Billion)
+[Read →](http://www.prnewswire.com/news-releases/get-1m-in-life-insurance-for-only-25mo-quotecom-study-finds-302862586.html)
 
-### aflac
-**Beyond the weekend : Here what happening at the NYSF and in CNY** — 2026-08-30 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://cnycentral.com/news/local/beyond-the-weekend-heres-whats-happening-at-the-nysf-and-in-cny)
-
-### Tokio Marine Group
-**Tokio Marine to buy united kingdom fleet insurer Direct Commercial in Europe push** — 2026-08-28 — 🟡 Low — ⚪ Neutral
+### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
+**Jefferies Financial Group Inc . Makes New $765 , 000 Investment in Conagra Brands $CAG** — 2026-08-31 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://asia.nikkei.com/business/business-deals/tokio-marine-to-buy-uk-fleet-insurer-direct-commercial-in-europe-push)
+[Read →](https://www.themarketsdaily.com/2026/08/31/jefferies-financial-group-inc-makes-new-765000-investment-in-conagra-brands-cag.html)
 
-### AMERICAN FIDELITY
-**County set to spend $6M on new health department building** — 2026-08-24 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.yahoo.com/news/us/articles/county-set-spend-6m-health-154600681.html)
-
-### GUARDIAN LIFE INSURANCE CO
-**Musikfest 2026 ranks among top three most attended festivals – Times News Online** — 2026-08-19 — 🟡 Low — ⚪ Neutral
+### The Hanover Insurance Group
+**Comparing Brighthouse Financial ( NASDAQ : BHFAL ) and The Hanover Insurance Group ( NYSE : THG )** — 2026-08-30 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/)
+[Read →](https://www.tickerreport.com/banking-finance/13566492/comparing-brighthouse-financial-nasdaqbhfal-and-the-hanover-insurance-group-nysethg.html)
 
-### AMYNTA GROUP
-**Supervisors approve purchasing VFIS insurance for volunteer firefighters** — 2026-08-18 — 🟡 Low — ⚪ Neutral
+### PACIFIC LIFE INSURANCE CO
+**Real estate news : Enderle Center sale complete , Campo on 17th moves ahead** — 2026-08-28 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://meridianstar.com/2026/08/18/supervisors-approve-purchasing-vfis-insurance-for-volunteer-firefighters/)
+[Read →](https://www.ocregister.com/2026/08/28/real-estate-news-enderle-center-sale-complete-campo-on-17th-moves-ahead/)
+
+### SHELTER INSURANCE COMPANY
+**Mizzou Athletics sees record - setting sponsorship growth** — 2026-08-28 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.ky3.com/2026/08/28/mizzou-athletics-sees-record-setting-sponsorship-growth/)
+
+### TRAVELERS PROPERTY & CASUALTY
+**The Docket : Local court roundup for 8 . 6 . 26 - Richmond BizSense** — 2026-08-06 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://richmondbizsense.com/2026/08/06/the-docket-local-court-roundup-for-8-6-26/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (70)</summary>
+<details><summary>Accounts with no material news this cycle (73)</summary>
 
 - American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
-- MUTUAL OF OMAHA
 - PROSPERITY LIFE GROUP
-- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
+- Tokio Marine Group
 - AAA AUTO CLUB ENTERPRISES
+- AMERICAN FIDELITY
 - MERCURY INSURANCE COMPANY
-- PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
+- aflac
 - AmWINS Group
 - ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
@@ -158,8 +124,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - VERISK ANALYTICS
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- The Hanover Insurance Group
-- USI INSURANCE
 - W R BERKLEY CORPORATION
 - Corebridge Financial
 - REINSURANCE GROUP OF AMERICA
@@ -170,6 +134,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - MARKEL
 - AAA INSURANCE GROUP
 - Milliman USA
+- STANDARD INSURANCE CO
+- AMERICAN FAMILY CORPORATION
+- ARTHUR J GALLAGHER & CO
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
 - AMTrust Financial Services INC
@@ -191,18 +158,20 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - OLD REPUBLIC INTERNATIONAL
 - SENTRY INSURANCE A MUTUAL CO
 - FARM BUREAU FINANCIAL SERVICES
+- Kemper Corporation
 - LOCKTON INSURANCE AGENCY
-- SHELTER INSURANCE COMPANY
+- AMYNTA GROUP
 - ARCH CAPITAL GROUP LTD
 - C V STARR
 - EVEREST GLOBAL SERVICES
+- NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
 - EQUITABLE
+- GUARDIAN LIFE INSURANCE CO
 - National Life Group
-- TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on August 31, 2026._
+_Auto-generated on September 02, 2026._

@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** August 31, 2026  
+**Updated:** September 02, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 6  
+**Accounts with news this cycle:** 8  
 
 ---
 
@@ -10,80 +10,102 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32) | **Apollo Management** | Corporate America Profits Are Booming and Signal More Good Times Ahead | 2026-08-31 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.hindustantimes.com/world-news/corporate-america-s-profits-are-booming-and-signal-more-good-times-ahead-101788167561661.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.livemint.com&sz=32) | **DAVIDSON KEMPNER** | Megha Engineering PV Krishna Reddy taps $700 million private credit to buy out uncle stake | 2026-08-31 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.livemint.com/companies/people/megha-engineerings-pv-krishna-reddy-taps-700-million-private-credit-to-buy-out-uncles-stake-11788149415782.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **First Advantage Corporation** | Weak Wind Resources and Lower Tariffs Continue to Pressure China Longyuan Earnings | 2026-08-31 | 🔴 High | 🔴 Negative | Earnings | — | [link](https://www.morningstar.com/company-reports/1497900-weak-wind-resources-and-lower-tariffs-continue-to-pressure-china-longyuans-earnings) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . Rowe Price Group ( NASDAQ : TROW ) Stock Price Expected to Rise , TD Cowen Analyst Says | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/08/31/t-rowe-price-group-nasdaqtrow-stock-price-expected-to-rise-td-cowen-analyst-says.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **AMERIPRISE FINANCIAL INC** | Rakuten Investment Management Inc . Purchases Shares of 19 , 277 Jacobs Solutions Inc . $J | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13567106/rakuten-investment-management-inc-purchases-shares-of-19277-jacobs-solutions-inc-j.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.ign.com&sz=32) | **Stone X** | Mines Guide - Fields of Mistria Guide | 2026-08-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ign.com/wikis/fields-of-mistria/Mines_Guide) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **Guggenheim Partners** | Guggenheim Strategic Opportunities Fund ( GOF ) Faces Investor Scrutiny Amid Report On Distributions Funding , Portfolio Quality | 2026-09-01 | 🔴 High | ⚪ Neutral | M&A | — | [link](http://www.prnewswire.com/news-releases/guggenheim-strategic-opportunities-fund-gof-faces-investor-scrutiny-amid-report-on-distributions-funding-portfolio-quality--hbss-302866510.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.financial-news.co.uk&sz=32) | **FINRA** | Equinix Launches AI Inference Exchange With Nvidia , Together AI | 2026-09-02 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/) |
+| ![](https://www.google.com/s2/favicons?domain=www.professionaladviser.com&sz=32) | **MORNINGSTAR INC** | Marloo adds Morningstar research and data to AI platform | 2026-09-02 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . Rowe Price Ultra Short - Term Bond ETF ( NYSEARCA : TBUX ) Sees Unusually - High Trading Volume – Time to Buy ? | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13570587/t-rowe-price-ultra-short-term-bond-etf-nysearcatbux-sees-unusually-high-trading-volume-time-to-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.thepigsite.com&sz=32) | **Chicago mercantile Exchange** | Hog futures little changed as carcass values steady - CME | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thepigsite.com/news/2026/09/cattle-futures-fall-as-bearish-news-continues-to-weigh-cme) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **JANUS HENDERSON GROUP** | Geron ( NASDAQ : GERN ) Shares Up 7 . 1 % – Here Why | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13570915/geron-nasdaqgern-shares-up-7-1-heres-why.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.proactiveinvestors.com&sz=32) | **LPL Financial** | Wall Street closes lower as oil tops $95 and bond yields climb | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.proactiveinvestors.com/companies/news/1097916/wall-street-closes-lower-as-oil-tops-95-and-bond-yields-climb-1097916.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | How the Pentagon is getting into the Venezuelan oil business under Trump | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inquirer.com/news/nation-world/pentagon-partnership-private-oil-venezuela-20260901.html) |
 
 ## Detail
 
-### Apollo Management
-**Corporate America Profits Are Booming and Signal More Good Times Ahead** — 2026-08-31 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.hindustantimes.com/world-news/corporate-america-s-profits-are-booming-and-signal-more-good-times-ahead-101788167561661.html)
-
-### DAVIDSON KEMPNER
-**Megha Engineering PV Krishna Reddy taps $700 million private credit to buy out uncle stake** — 2026-08-31 — 🔴 High — ⚪ Neutral
+### Guggenheim Partners
+**Guggenheim Strategic Opportunities Fund ( GOF ) Faces Investor Scrutiny Amid Report On Distributions Funding , Portfolio Quality** — 2026-09-01 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.livemint.com/companies/people/megha-engineerings-pv-krishna-reddy-taps-700-million-private-credit-to-buy-out-uncles-stake-11788149415782.html)
+[Read →](http://www.prnewswire.com/news-releases/guggenheim-strategic-opportunities-fund-gof-faces-investor-scrutiny-amid-report-on-distributions-funding-portfolio-quality--hbss-302866510.html)
 
-### First Advantage Corporation
-**Weak Wind Resources and Lower Tariffs Continue to Pressure China Longyuan Earnings** — 2026-08-31 — 🔴 High — 🔴 Negative
+### FINRA
+**Equinix Launches AI Inference Exchange With Nvidia , Together AI** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Trigger events:_ Product Launch  
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.morningstar.com/company-reports/1497900-weak-wind-resources-and-lower-tariffs-continue-to-pressure-china-longyuans-earnings)
+[Read →](https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/)
+
+### MORNINGSTAR INC
+**Marloo adds Morningstar research and data to AI platform** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform)
 
 ### T ROWE PRICE ASSOCIATES
-**T . Rowe Price Group ( NASDAQ : TROW ) Stock Price Expected to Rise , TD Cowen Analyst Says** — 2026-08-31 — 🟡 Low — 🟢 Positive
+**T . Rowe Price Ultra Short - Term Bond ETF ( NYSEARCA : TBUX ) Sees Unusually - High Trading Volume – Time to Buy ?** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/08/31/t-rowe-price-group-nasdaqtrow-stock-price-expected-to-rise-td-cowen-analyst-says.html)
+[Read →](https://www.tickerreport.com/banking-finance/13570587/t-rowe-price-ultra-short-term-bond-etf-nysearcatbux-sees-unusually-high-trading-volume-time-to-buy.html)
 
-### AMERIPRISE FINANCIAL INC
-**Rakuten Investment Management Inc . Purchases Shares of 19 , 277 Jacobs Solutions Inc . $J** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13567106/rakuten-investment-management-inc-purchases-shares-of-19277-jacobs-solutions-inc-j.html)
-
-### Stone X
-**Mines Guide - Fields of Mistria Guide** — 2026-08-29 — 🟡 Low — ⚪ Neutral
+### Chicago mercantile Exchange
+**Hog futures little changed as carcass values steady - CME** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.ign.com/wikis/fields-of-mistria/Mines_Guide)
+[Read →](https://www.thepigsite.com/news/2026/09/cattle-futures-fall-as-bearish-news-continues-to-weigh-cme)
+
+### JANUS HENDERSON GROUP
+**Geron ( NASDAQ : GERN ) Shares Up 7 . 1 % – Here Why** — 2026-09-02 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13570915/geron-nasdaqgern-shares-up-7-1-heres-why.html)
+
+### LPL Financial
+**Wall Street closes lower as oil tops $95 and bond yields climb** — 2026-09-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.proactiveinvestors.com/companies/news/1097916/wall-street-closes-lower-as-oil-tops-95-and-bond-yields-climb-1097916.html)
+
+### CERBERUS CAPITAL MANAGEMENT LP
+**How the Pentagon is getting into the Venezuelan oil business under Trump** — 2026-09-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.inquirer.com/news/nation-world/pentagon-partnership-private-oil-venezuela-20260901.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (60)</summary>
+<details><summary>Accounts with no material news this cycle (58)</summary>
 
 - CITADEL INVESTMENT GROUP
 - EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
+- Apollo Management
 - BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
 - PLATINUM EQUITY LLC
@@ -94,7 +116,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
-- LPL Financial
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
@@ -102,11 +123,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - MSCI Inc
 - NEUBERGER BERMAN
 - Ascensus, Inc.
-- FINRA
 - SUSQUEHANNA PARTNERS G P
 - WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
-- MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
 - DEPOSITORY TRUST CLEARING CORPORATION
@@ -116,32 +135,32 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - TWO SIGMA INVESTMENTS
 - Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
-- Chicago mercantile Exchange
 - Commonwealth Financial Network
 - HARBOURVEST PARTNERS LLC
-- JANUS HENDERSON GROUP
 - ANTARES CAPITAL
 - CARLYLE
-- CERBERUS CAPITAL MANAGEMENT LP
 - TPG Capital
 - Berkshire Hathaway Energy
 - BERKSHIRE HATHAWAY INC
-- Guggenheim Partners
+- DAVIDSON KEMPNER
 - Kroll, LLC
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
+- First Advantage Corporation
 - FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
 - Voya Services Company
+- AMERIPRISE FINANCIAL INC
 - PRINCIPAL FINANCIAL GROUP
 - ROBERT W. BAIRD & CO INC
 - WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
+- Stone X
 
 </details>
 
 ---
-_Auto-generated on August 31, 2026._
+_Auto-generated on September 02, 2026._

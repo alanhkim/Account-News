@@ -1,9 +1,10 @@
 # CERBERUS CAPITAL MANAGEMENT LP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-01 | How the Pentagon is getting into the Venezuelan oil business under Trump | 🟡 Low | ⚪ Neutral | [link](https://www.inquirer.com/news/nation-world/pentagon-partnership-private-oil-venezuela-20260901.html) |
 | 2026-08-20 | Mass . health care regulators monitoring private equity deal flow | 🔴 High | ⚪ Neutral | [link](https://www.bostonglobe.com/2026/08/19/business/massachusetts-health-care-regulators-private-equity-deal/) |
 | 2026-08-18 | Trump White House Has a Record Number of Ultra - Rich Officials : Here Who They Are | 🟡 Low | 🟢 Positive | [link](https://www.latintimes.com/trumps-white-house-has-record-number-ultra-rich-officials-heres-who-they-are-598628) |
 | 2026-08-13 | A Pentagon memo tells staff to spend $244m with Palantir . Its subject line is  Funding Palantir | 🔴 High | ⚪ Neutral | [link](https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo) |

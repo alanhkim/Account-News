@@ -1,9 +1,10 @@
 # LPL Financial — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated August 31, 2026.
+Rolling history of tracked news (last 90 days). Updated September 02, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-01 | Wall Street closes lower as oil tops $95 and bond yields climb | 🟡 Low | ⚪ Neutral | [link](https://www.proactiveinvestors.com/companies/news/1097916/wall-street-closes-lower-as-oil-tops-95-and-bond-yields-climb-1097916.html) |
 | 2026-08-20 | US Unemployment Claims Unexpectedly Dropped Last Week | 🟡 Low | ⚪ Neutral | [link](https://www.theepochtimes.com/business/us-unemployment-claims-unexpectedly-dropped-last-week-6077397) |
 | 2026-08-18 | LPL Financial Welcomes Advisor Chris Stockton | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/lpl-financial-welcomes-advisor-chris-stockton/2407647) |
 | 2026-08-13 | Merit buys Southern California wealth manager Bridgeway | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/merit-buys-southern-california-wealth-115748088.html) |
