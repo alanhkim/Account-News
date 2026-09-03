@@ -1,6 +1,6 @@
 # Latest News — Capital Market Majors
 
-**Updated:** September 02, 2026  
+**Updated:** September 03, 2026  
 **Accounts tracked:** 66  
 **Accounts with news this cycle:** 8  
 
@@ -10,92 +10,93 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **Guggenheim Partners** | Guggenheim Strategic Opportunities Fund ( GOF ) Faces Investor Scrutiny Amid Report On Distributions Funding , Portfolio Quality | 2026-09-01 | 🔴 High | ⚪ Neutral | M&A | — | [link](http://www.prnewswire.com/news-releases/guggenheim-strategic-opportunities-fund-gof-faces-investor-scrutiny-amid-report-on-distributions-funding-portfolio-quality--hbss-302866510.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.financial-news.co.uk&sz=32) | **FINRA** | Equinix Launches AI Inference Exchange With Nvidia , Together AI | 2026-09-02 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/) |
-| ![](https://www.google.com/s2/favicons?domain=www.professionaladviser.com&sz=32) | **MORNINGSTAR INC** | Marloo adds Morningstar research and data to AI platform | 2026-09-02 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . Rowe Price Ultra Short - Term Bond ETF ( NYSEARCA : TBUX ) Sees Unusually - High Trading Volume – Time to Buy ? | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13570587/t-rowe-price-ultra-short-term-bond-etf-nysearcatbux-sees-unusually-high-trading-volume-time-to-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.thepigsite.com&sz=32) | **Chicago mercantile Exchange** | Hog futures little changed as carcass values steady - CME | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thepigsite.com/news/2026/09/cattle-futures-fall-as-bearish-news-continues-to-weigh-cme) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **JANUS HENDERSON GROUP** | Geron ( NASDAQ : GERN ) Shares Up 7 . 1 % – Here Why | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13570915/geron-nasdaqgern-shares-up-7-1-heres-why.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.proactiveinvestors.com&sz=32) | **LPL Financial** | Wall Street closes lower as oil tops $95 and bond yields climb | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.proactiveinvestors.com/companies/news/1097916/wall-street-closes-lower-as-oil-tops-95-and-bond-yields-climb-1097916.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | How the Pentagon is getting into the Venezuelan oil business under Trump | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inquirer.com/news/nation-world/pentagon-partnership-private-oil-venezuela-20260901.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **T ROWE PRICE ASSOCIATES** | T . ROWE PRICE CONTINUES ACTIVE EXCHANGE TRADED FUND EXPANSION WITH SECURITIZED CREDIT OFFERING | 2026-09-03 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.aol.com/articles/t-rowe-price-continues-active-143700000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fooddive.com&sz=32) | **PLATINUM EQUITY LLC** | Nestlé reaches $1B deal to sell 7 vitamin , mineral and supplement brands | 2026-09-01 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Chicago mercantile Exchange** | TD Cowen Reaffirms  Buy  Rating for CME Group ( NASDAQ : CME ) | 2026-09-03 | 🟠 Medium | 🟢 Positive | Regulatory | — | [link](https://www.themarketsdaily.com/2026/09/03/td-cowen-reaffirms-buy-rating-for-cme-group-nasdaqcme.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Balyasny Asset Management** | Billionaires Were Buying These Two Nancy Pelosi AI Stocks | 2026-09-03 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Berkshire Hathaway Energy** | Greg Abel Just Quantified Berkshire AI Power Opportunity | 2026-09-02 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.fool.com/investing/2026/09/02/greg-abel-just-quantified-berkshire-s-ai-power-opportunity/) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **Kroll, LLC** | Result of Tender Offer \| Company Announcement | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/result-of-tender-offer/9754095) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **First Advantage Corporation** | Juhl Energy ( OTCMKTS : JUHL ) and First Advantage ( NYSE : FA ) Head to Head Analysis | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13572054/juhl-energy-otcmktsjuhl-and-first-advantage-nysefa-head-to-head-analysis.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.bostonglobe.com&sz=32) | **HARBOURVEST PARTNERS LLC** | Boston boat crash : man charged with involuntary manslaughter | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bostonglobe.com/2026/08/26/metro/oui-boat-dankert-shieh-boat-crash-drunk-logan-airport/) |
 
 ## Detail
 
-### Guggenheim Partners
-**Guggenheim Strategic Opportunities Fund ( GOF ) Faces Investor Scrutiny Amid Report On Distributions Funding , Portfolio Quality** — 2026-09-01 — 🔴 High — ⚪ Neutral
+### T ROWE PRICE ASSOCIATES
+**T . ROWE PRICE CONTINUES ACTIVE EXCHANGE TRADED FUND EXPANSION WITH SECURITIZED CREDIT OFFERING** — 2026-09-03 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.prnewswire.com/news-releases/guggenheim-strategic-opportunities-fund-gof-faces-investor-scrutiny-amid-report-on-distributions-funding-portfolio-quality--hbss-302866510.html)
+[Read →](https://www.aol.com/articles/t-rowe-price-continues-active-143700000.html)
 
-### FINRA
-**Equinix Launches AI Inference Exchange With Nvidia , Together AI** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
+### PLATINUM EQUITY LLC
+**Nestlé reaches $1B deal to sell 7 vitamin , mineral and supplement brands** — 2026-09-01 — 🔴 High — ⚪ Neutral
 
 
 
-_Trigger events:_ Product Launch  
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/)
+
+### Chicago mercantile Exchange
+**TD Cowen Reaffirms  Buy  Rating for CME Group ( NASDAQ : CME )** — 2026-09-03 — 🟠 Medium — 🟢 Positive
+
+
+
+_Trigger events:_ Regulatory  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/09/03/td-cowen-reaffirms-buy-rating-for-cme-group-nasdaqcme.html)
+
+### Balyasny Asset Management
+**Billionaires Were Buying These Two Nancy Pelosi AI Stocks** — 2026-09-03 — 🟠 Medium — ⚪ Neutral
+
+
+
 _Solution plays:_ Azure AI  
 _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html)
 
-### MORNINGSTAR INC
-**Marloo adds Morningstar research and data to AI platform** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI, Fabric  
-_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform)
-
-### T ROWE PRICE ASSOCIATES
-**T . Rowe Price Ultra Short - Term Bond ETF ( NYSEARCA : TBUX ) Sees Unusually - High Trading Volume – Time to Buy ?** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+### Berkshire Hathaway Energy
+**Greg Abel Just Quantified Berkshire AI Power Opportunity** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.tickerreport.com/banking-finance/13570587/t-rowe-price-ultra-short-term-bond-etf-nysearcatbux-sees-unusually-high-trading-volume-time-to-buy.html)
+[Read →](https://www.fool.com/investing/2026/09/02/greg-abel-just-quantified-berkshire-s-ai-power-opportunity/)
 
-### Chicago mercantile Exchange
-**Hog futures little changed as carcass values steady - CME** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+### Kroll, LLC
+**Result of Tender Offer | Company Announcement** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thepigsite.com/news/2026/09/cattle-futures-fall-as-bearish-news-continues-to-weigh-cme)
+[Read →](https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/result-of-tender-offer/9754095)
 
-### JANUS HENDERSON GROUP
-**Geron ( NASDAQ : GERN ) Shares Up 7 . 1 % – Here Why** — 2026-09-02 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13570915/geron-nasdaqgern-shares-up-7-1-heres-why.html)
-
-### LPL Financial
-**Wall Street closes lower as oil tops $95 and bond yields climb** — 2026-09-01 — 🟡 Low — ⚪ Neutral
+### First Advantage Corporation
+**Juhl Energy ( OTCMKTS : JUHL ) and First Advantage ( NYSE : FA ) Head to Head Analysis** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.proactiveinvestors.com/companies/news/1097916/wall-street-closes-lower-as-oil-tops-95-and-bond-yields-climb-1097916.html)
+[Read →](https://www.tickerreport.com/banking-finance/13572054/juhl-energy-otcmktsjuhl-and-first-advantage-nysefa-head-to-head-analysis.html)
 
-### CERBERUS CAPITAL MANAGEMENT LP
-**How the Pentagon is getting into the Venezuelan oil business under Trump** — 2026-09-01 — 🟡 Low — ⚪ Neutral
+### HARBOURVEST PARTNERS LLC
+**Boston boat crash : man charged with involuntary manslaughter** — 2026-08-26 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.inquirer.com/news/nation-world/pentagon-partnership-private-oil-venezuela-20260901.html)
+[Read →](https://www.bostonglobe.com/2026/08/26/metro/oui-boat-dankert-shieh-boat-crash-drunk-logan-airport/)
 
 ---
 
@@ -108,7 +109,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Apollo Management
 - BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
-- PLATINUM EQUITY LLC
 - Dun & Bradstreet Corporation
 - INVESCO
 - Raymond James and Associates Inc
@@ -116,6 +116,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
 - Intercontinentalexchange
+- LPL Financial
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
@@ -123,9 +124,11 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - MSCI Inc
 - NEUBERGER BERMAN
 - Ascensus, Inc.
+- FINRA
 - SUSQUEHANNA PARTNERS G P
 - WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
+- MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
 - DEPOSITORY TRUST CLEARING CORPORATION
@@ -133,20 +136,18 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Fortress Investment Group
 - Securian
 - TWO SIGMA INVESTMENTS
-- Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
 - Commonwealth Financial Network
-- HARBOURVEST PARTNERS LLC
+- JANUS HENDERSON GROUP
 - ANTARES CAPITAL
 - CARLYLE
+- CERBERUS CAPITAL MANAGEMENT LP
 - TPG Capital
-- Berkshire Hathaway Energy
 - BERKSHIRE HATHAWAY INC
 - DAVIDSON KEMPNER
-- Kroll, LLC
+- Guggenheim Partners
 - MOODYS INVESTORS SERVICE
 - ROCKEFELLER AND COMPANY
-- First Advantage Corporation
 - FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
 - The Capital Group Companies, Inc.
@@ -163,4 +164,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on September 02, 2026._
+_Auto-generated on September 03, 2026._

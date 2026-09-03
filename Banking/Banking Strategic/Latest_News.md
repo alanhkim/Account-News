@@ -1,8 +1,8 @@
 # Latest News — Banking Strategic
 
-**Updated:** September 02, 2026  
+**Updated:** September 03, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 5  
+**Accounts with news this cycle:** 2  
 
 ---
 
@@ -10,75 +10,48 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.tribtoday.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | US job openings rise slightly to 7 . 3 million as labor market remains sturdy despite higher costs | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tribtoday.com/news/business/2026/09/us-job-openings-rise-slightly-to-7-3-million-as-labor-market-remains-sturdy-despite-higher-costs/) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **Wells Fargo & Company** | Where did mortgage rates land at the end of August ? | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html) |
-| ![](https://www.google.com/s2/favicons?domain=kool1017.com&sz=32) | **US BANK** | How To Tour US Bank Stadium In Minneapolis | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://kool1017.com/ixp/66/p/behind-scenes-us-bank-stadium-access/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Citigroup** | Swedbank ( OTCMKTS : SWDBY ) Share Price Passes Above 50 - Day Moving Average – Here Why | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/02/swedbank-otcmktsswdby-share-price-passes-above-50-day-moving-average-heres-why.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **Bank of America** | Where did mortgage rates land at the end of August ? | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.californiatelegraph.com&sz=32) | **BNY Mellon** | How Wall Street Trillion - Dollar Crypto Infrastructure Push is Redefining Portfolio Diversification | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.californiatelegraph.com/news/279283715/how-wall-street-trillion-dollar-crypto-infrastructure-push-is-redefining-portfolio-diversification) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Citigroup** | UBS Group Forecasts Strong Price Appreciation for Snowflake ( NYSE : SNOW ) Stock | 2026-09-03 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/03/ubs-group-forecasts-strong-price-appreciation-for-snowflake-nysesnow-stock.html) |
 
 ## Detail
 
-### NAVY FEDERAL CREDIT UNION M
-**US job openings rise slightly to 7 . 3 million as labor market remains sturdy despite higher costs** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+### BNY Mellon
+**How Wall Street Trillion - Dollar Crypto Infrastructure Push is Redefining Portfolio Diversification** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tribtoday.com/news/business/2026/09/us-job-openings-rise-slightly-to-7-3-million-as-labor-market-remains-sturdy-despite-higher-costs/)
-
-### Wells Fargo & Company
-**Where did mortgage rates land at the end of August ?** — 2026-09-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html)
-
-### US BANK
-**How To Tour US Bank Stadium In Minneapolis** — 2026-09-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://kool1017.com/ixp/66/p/behind-scenes-us-bank-stadium-access/)
+[Read →](http://www.californiatelegraph.com/news/279283715/how-wall-street-trillion-dollar-crypto-infrastructure-push-is-redefining-portfolio-diversification)
 
 ### Citigroup
-**Swedbank ( OTCMKTS : SWDBY ) Share Price Passes Above 50 - Day Moving Average – Here Why** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+**UBS Group Forecasts Strong Price Appreciation for Snowflake ( NYSE : SNOW ) Stock** — 2026-09-03 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/09/02/swedbank-otcmktsswdby-share-price-passes-above-50-day-moving-average-heres-why.html)
-
-### Bank of America
-**Where did mortgage rates land at the end of August ?** — 2026-09-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html)
+[Read →](https://www.themarketsdaily.com/2026/09/03/ubs-group-forecasts-strong-price-appreciation-for-snowflake-nysesnow-stock.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (10)</summary>
+<details><summary>Accounts with no material news this cycle (13)</summary>
 
 - FIS Global
+- NAVY FEDERAL CREDIT UNION M
 - FIDELITY NATIONAL FINANCIAL
 - FISERV Inc
 - TRUIST FINANCIAL
+- Wells Fargo & Company
+- US BANK
 - STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
-- BNY Mellon
 - JPMORGAN CHASE
 - P N C FINANCIAL CORP
 - Capital One
+- Bank of America
 
 </details>
 
 ---
-_Auto-generated on September 02, 2026._
+_Auto-generated on September 03, 2026._

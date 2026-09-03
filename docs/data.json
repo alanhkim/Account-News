@@ -1,17 +1,36 @@
 {
-  "generated": "2026-09-02",
-  "generated_human": "September 02, 2026",
+  "generated": "2026-09-03",
+  "generated_human": "September 03, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 2,
-    "high": 0
+    "with_news": 5,
+    "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "REGIONS FINANCIAL CORPORATION",
+          "title": "Mech - Mind Robotics Technologies Co ., Ltd .: Mech - Mind Launches IPO : Baillie Gifford Leads 9 Top Cornerstone Investors , HK$2 . 7B for AI R & D & Global Commercialization",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69445602-mech-mind-robotics-technologies-co-ltd-mech-mind-launches-ipo-baillie-gifford-leads-9-top-cornerstone-investors-hk-dollar-2-7b-for-ai-r-d-global-comm-011.htm",
+          "date": "2026-08-31",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://www.finanznachrichten.de/content/g/fb.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32"
+        }
+      ]
     },
     {
       "top": "Banking",
@@ -25,9 +44,25 @@
       "count": 2,
       "items": [
         {
-          "account": "FINRA",
-          "title": "Equinix Launches AI Inference Exchange With Nvidia , Together AI",
-          "url": "https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/",
+          "account": "Balyasny Asset Management",
+          "title": "Billionaires Were Buying These Two Nancy Pelosi AI Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html",
+          "date": "2026-09-03",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/7a399064564b3ca2b85263b973eff3f28b53a668e4a63010251821c397005da4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff9d829812ccc794e3009fb870ad00ea7.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Berkshire Hathaway Energy",
+          "title": "Greg Abel Just Quantified Berkshire AI Power Opportunity",
+          "url": "https://www.fool.com/investing/2026/09/02/greg-abel-just-quantified-berkshire-s-ai-power-opportunity/",
           "date": "2026-09-02",
           "level": "Medium",
           "summary": "",
@@ -35,29 +70,10 @@
           "plays": [
             "Azure AI"
           ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.financial-news.co.uk/wp-content/uploads/2026/09/price-1m-6.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.financial-news.co.uk&sz=32"
-        },
-        {
-          "account": "MORNINGSTAR INC",
-          "title": "Marloo adds Morningstar research and data to AI platform",
-          "url": "https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform",
-          "date": "2026-09-02",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.professionaladviser.com&sz=32"
+          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/e153fe4b7634bfb29424396d8c2157b7ad62b352-1200x800.png?&q=75&fit=max&auto=format",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         }
       ]
     },
@@ -70,8 +86,47 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "VERISK ANALYTICS",
+          "title": "Verisk Analytics ( NASDAQ : VRSK ) CEO Lee Shavel Sells 3 , 535 Shares",
+          "url": "https://www.dailypolitical.com/2026/09/02/verisk-analytics-nasdaqvrsk-ceo-lee-shavel-sells-3535-shares.html",
+          "date": "2026-09-03",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "M&A",
+            "CxO Change"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        },
+        {
+          "account": "NEW YORK LIFE INSURANCE COMPANY",
+          "title": "Empathy launches digital estate planning platform in united kingdom",
+          "url": "https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/",
+          "date": "2026-08-06",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://www.international-adviser.com/wp-content/uploads/2018/01/2016-700-magnifying-glass-search-papers.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",

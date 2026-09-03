@@ -1,8 +1,8 @@
 # Latest News — Capital Markets Strategic
 
-**Updated:** September 02, 2026  
+**Updated:** September 03, 2026  
 **Accounts tracked:** 16  
-**Accounts with news this cycle:** 2  
+**Accounts with news this cycle:** 3  
 
 ---
 
@@ -10,45 +10,54 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=247wallst.com&sz=32) | **Blackstone Inc.** | Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell . | 2026-09-02 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **NASDAQ OMX** | Contrarian Signal Flashing for Ciena Stock | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html) |
+| ![](https://www.google.com/s2/favicons?domain=squatchrocks.com&sz=32) | **S&P Global** | Minnesota Retains Highest Possible Credit Rating For Fifth Year | 2026-09-03 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://squatchrocks.com/ixp/1172/p/minnesota-highest-credit-rating/) |
+| ![](https://www.google.com/s2/favicons?domain=www.manchestereveningnews.co.uk&sz=32) | **NORTHERN TRUST CORPORATION** | Enough is enough : Children sent home from Tameside school  for second day  in bitter uniform row | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/enough-enough-children-sent-home-34563073) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **BLACKROCK FINANCIAL MANAGEMENT** | Holding ( s ) in Company \| Company Announcement | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/greencore-group-cdi---gnc/holding-s-in-company/9754943) |
 
 ## Detail
 
-### Blackstone Inc.
-**Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell .** — 2026-09-02 — 🔴 High — ⚪ Neutral
+### S&P Global
+**Minnesota Retains Highest Possible Credit Rating For Fifth Year** — 2026-09-03 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ M&A  
+_Trigger events:_ Regulatory  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/)
+[Read →](https://squatchrocks.com/ixp/1172/p/minnesota-highest-credit-rating/)
 
-### NASDAQ OMX
-**Contrarian Signal Flashing for Ciena Stock** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+### NORTHERN TRUST CORPORATION
+**Enough is enough : Children sent home from Tameside school  for second day  in bitter uniform row** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html)
+[Read →](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/enough-enough-children-sent-home-34563073)
+
+### BLACKROCK FINANCIAL MANAGEMENT
+**Holding ( s ) in Company | Company Announcement** — 2026-09-03 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investegate.co.uk/announcement/rns/greencore-group-cdi---gnc/holding-s-in-company/9754943)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (14)</summary>
+<details><summary>Accounts with no material news this cycle (13)</summary>
 
 - CHARLES SCHWAB CORP
 - VISA U S A INC
 - Brookfield Asset Management
-- NORTHERN TRUST CORPORATION
 - PayPal, Inc.
 - AMERICAN EXPRESS COMPANY
 - BRIDGEWATER ASSOCIATES
 - Fidelity Investments
 - GOLDMAN SACHS & COMPANY
-- BLACKROCK FINANCIAL MANAGEMENT
-- S&P Global
+- Blackstone Inc.
+- NASDAQ OMX
 - MasterCard International
 - MORGAN STANLEY
 - VANGUARD GROUP INC
@@ -56,4 +65,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on September 02, 2026._
+_Auto-generated on September 03, 2026._

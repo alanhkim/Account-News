@@ -1,8 +1,8 @@
 # Latest News — Banking Majors
 
-**Updated:** September 02, 2026  
+**Updated:** September 03, 2026  
 **Accounts tracked:** 91  
-**Accounts with news this cycle:** 13  
+**Accounts with news this cycle:** 6  
 
 ---
 
@@ -10,68 +10,62 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=247wallst.com&sz=32) | **Bloomberg LP** | Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell . | 2026-09-02 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **ALLY FINANCIAL** | Loan Delinquencies Edge Lower in Q2 , but Some Remain at Very High Levels . Here What It Means for Investors . | 2026-09-02 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.aol.com/articles/loan-delinquencies-edge-lower-q2-113500000.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.adn.com&sz=32) | **Alight** | Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.adn.com/nation-world/2026/09/02/symbolic-funerals-held-in-nepal-for-those-feared-lost-as-some-missing-tourists-make-contact/) |
-| ![](https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32) | **Flagstar Bank** | Mortgage Banking Update - August 27 , 2026 | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mondaq.com:443/unitedstates/financial-services/1837594/mortgage-banking-update-august-27-2026) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **CITIZENS FINANCIAL GROUP** | Jupiter Topco LLC Takes Position in Citizens Financial Group , Inc . $CFG | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/02/jupiter-topco-llc-takes-position-in-citizens-financial-group-inc-cfg.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Q2 Software** | Materialise ( MTLS ) Q2 2026 Earnings Call Transcript | 2026-09-02 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32) | **REGIONS FINANCIAL CORPORATION** | Mech - Mind Robotics Technologies Co ., Ltd .: Mech - Mind Launches IPO : Baillie Gifford Leads 9 Top Cornerstone Investors , HK$2 . 7B for AI R & D & Global Commercialization | 2026-08-31 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://www.finanznachrichten.de/nachrichten-2026-08/69445602-mech-mind-robotics-technologies-co-ltd-mech-mind-launches-ipo-baillie-gifford-leads-9-top-cornerstone-investors-hk-dollar-2-7b-for-ai-r-d-global-comm-011.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.eadt.co.uk&sz=32) | **Alight** | Date announced for Heveningham Hall fireworks display \| East Anglian Daily Times | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.eadt.co.uk/news/26518201.date-announced-heveningham-hall-fireworks-display/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wsbtv.com&sz=32) | **FANNIE MAE** | Credit score nation : How much do people think their score defines their financial future ? | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wsbtv.com/news/credit-score-nation/VNLD3H32LA3EPMMEDXREPIRKKI/) |
+| ![](https://www.google.com/s2/favicons?domain=www.lamarledger.com&sz=32) | **NELNET** | So your student loan payment went up what now ? | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/) |
 | ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Texas Capital Bank** | Meeder Asset Management Inc . Makes New $1 . 14 Million Investment in Tesla , Inc . $TSLA | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/09/01/meeder-asset-management-inc-makes-new-1-14-million-investment-in-tesla-inc-tsla.html) |
-| ![](https://www.google.com/s2/favicons?domain=events.mybridgeradio.net&sz=32) | **PINNACLE BANK** | TOBYMAC \| Chris Tomlin \| THIRD DAY at Pinnacle Bank Arena in Lincoln – My Bridge Radio – Events | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://events.mybridgeradio.net/event/tobymac-chris-tomlin-third-day-at-pinnacle-bank-arena-in-lincoln/) |
-| ![](https://www.google.com/s2/favicons?domain=www.baltimoresun.com&sz=32) | **M & T BANK** | Cancer breakthroughs give something to cheer about | 2026-09-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.baltimoresun.com/2026/09/01/bryan-donohue-pancreatic-cancer/) |
-| ![](https://www.google.com/s2/favicons?domain=www.yourdemocracy.net.au&sz=32) | **RAPID ADVANCE LLC** | a forum for debate and a tool at the service of states and societies .... | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yourdemocracy.net.au/drupal/node/60981) |
-| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **Synchrony Financial** | Where to find some of the highest CD rates heading into September | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/2026/08/31/where-to-find-some-of-the-highest-cd-rates-heading-into-september.html) |
-| ![](https://www.google.com/s2/favicons?domain=wrif.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | Five Finger Death Punch to Stream Red Rocks Show Free on Sept . 8 | 2026-08-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wrif.com/2026/08/28/five-finger-death-punch-to-stream-red-rocks-show-free-on-sept-8/) |
-| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **Select Portfolio Servicing, Inc.** | Morgan Stanley preps $327 . 1 million business - purpose RMBS transaction | 2026-08-27 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nationalmortgagenews.com/news/morgan-stanley-preps-327-1-million-business-purpose-rmbs-transaction) |
-| ![](https://www.google.com/s2/favicons?domain=www.dnews.com&sz=32) | **State Employees Credit Union** | World Largest Chili Bowl  is back | 2026-08-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dnews.com/local-news/worlds-largest-chili-bowl-is-back-1da74cd9) |
 
 ## Detail
 
-### Bloomberg LP
-**Jensen Huang Says the $3 . 5 Billion MediaTek Deal Is Not Circular . The Decade Long Roadmap Is the Real Tell .** — 2026-09-02 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://247wallst.com/investing/2026/09/02/jensen-huang-says-the-3-5-billion-mediatek-deal-is-not-circular-the-decade-long-roadmap-is-the-real-tell/)
-
-### ALLY FINANCIAL
-**Loan Delinquencies Edge Lower in Q2 , but Some Remain at Very High Levels . Here What It Means for Investors .** — 2026-09-02 — 🔴 High — ⚪ Neutral
+### Q2 Software
+**Materialise ( MTLS ) Q2 2026 Earnings Call Transcript** — 2026-09-02 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.aol.com/articles/loan-delinquencies-edge-lower-q2-113500000.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html)
+
+### REGIONS FINANCIAL CORPORATION
+**Mech - Mind Robotics Technologies Co ., Ltd .: Mech - Mind Launches IPO : Baillie Gifford Leads 9 Top Cornerstone Investors , HK$2 . 7B for AI R & D & Global Commercialization** — 2026-08-31 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+
+[Read →](https://www.finanznachrichten.de/nachrichten-2026-08/69445602-mech-mind-robotics-technologies-co-ltd-mech-mind-launches-ipo-baillie-gifford-leads-9-top-cornerstone-investors-hk-dollar-2-7b-for-ai-r-d-global-comm-011.htm)
 
 ### Alight
-**Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+**Date announced for Heveningham Hall fireworks display | East Anglian Daily Times** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.adn.com/nation-world/2026/09/02/symbolic-funerals-held-in-nepal-for-those-feared-lost-as-some-missing-tourists-make-contact/)
+[Read →](https://www.eadt.co.uk/news/26518201.date-announced-heveningham-hall-fireworks-display/)
 
-### Flagstar Bank
-**Mortgage Banking Update - August 27 , 2026** — 2026-09-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.mondaq.com:443/unitedstates/financial-services/1837594/mortgage-banking-update-august-27-2026)
-
-### CITIZENS FINANCIAL GROUP
-**Jupiter Topco LLC Takes Position in Citizens Financial Group , Inc . $CFG** — 2026-09-02 — 🟡 Low — 🟢 Positive
+### FANNIE MAE
+**Credit score nation : How much do people think their score defines their financial future ?** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/09/02/jupiter-topco-llc-takes-position-in-citizens-financial-group-inc-cfg.html)
+[Read →](https://www.wsbtv.com/news/credit-score-nation/VNLD3H32LA3EPMMEDXREPIRKKI/)
+
+### NELNET
+**So your student loan payment went up what now ?** — 2026-09-02 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/)
 
 ### Texas Capital Bank
 **Meeder Asset Management Inc . Makes New $1 . 14 Million Investment in Tesla , Inc . $TSLA** — 2026-09-01 — 🟡 Low — ⚪ Neutral
@@ -82,72 +76,9 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.themarketsdaily.com/2026/09/01/meeder-asset-management-inc-makes-new-1-14-million-investment-in-tesla-inc-tsla.html)
 
-### PINNACLE BANK
-**TOBYMAC | Chris Tomlin | THIRD DAY at Pinnacle Bank Arena in Lincoln – My Bridge Radio – Events** — 2026-09-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://events.mybridgeradio.net/event/tobymac-chris-tomlin-third-day-at-pinnacle-bank-arena-in-lincoln/)
-
-### M & T BANK
-**Cancer breakthroughs give something to cheer about** — 2026-09-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.baltimoresun.com/2026/09/01/bryan-donohue-pancreatic-cancer/)
-
-### RAPID ADVANCE LLC
-**a forum for debate and a tool at the service of states and societies ....** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.yourdemocracy.net.au/drupal/node/60981)
-
-### Synchrony Financial
-**Where to find some of the highest CD rates heading into September** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.cnbc.com/2026/08/31/where-to-find-some-of-the-highest-cd-rates-heading-into-september.html)
-
-### FREEDOM MORTGAGE CORPORATION
-**Five Finger Death Punch to Stream Red Rocks Show Free on Sept . 8** — 2026-08-28 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://wrif.com/2026/08/28/five-finger-death-punch-to-stream-red-rocks-show-free-on-sept-8/)
-
-### Select Portfolio Servicing, Inc.
-**Morgan Stanley preps $327 . 1 million business - purpose RMBS transaction** — 2026-08-27 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.nationalmortgagenews.com/news/morgan-stanley-preps-327-1-million-business-purpose-rmbs-transaction)
-
-### State Employees Credit Union
-**World Largest Chili Bowl  is back** — 2026-08-23 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dnews.com/local-news/worlds-largest-chili-bowl-is-back-1da74cd9)
-
 ---
 
-<details><summary>Accounts with no material news this cycle (78)</summary>
+<details><summary>Accounts with no material news this cycle (85)</summary>
 
 - Caliber Funding LLC
 - FHLB OF DALLAS
@@ -157,6 +88,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - WOODFOREST NATIONAL BANK
 - COMERICA INC
 - FAIRWAY MORTGAGE ACCOUNT OFC
+- FREEDOM MORTGAGE CORPORATION
 - GREYSTONE SERVICING CORP
 - Navient
 - NORTHWEST SAVINGS BANK
@@ -165,6 +97,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - EAST WEST BANCORP INC
 - Midland Credit Management
 - MORTGAGE RESEARCH CENTER
+- PINNACLE BANK
 - UNITED MISSOURI BANCSHARES INC
 - WESTERN UNION
 - BCU
@@ -178,28 +111,33 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Co-op Financial Services
 - EXETER FINANCE CORP
 - Movement Mortgage
-- REGIONS FINANCIAL CORPORATION
 - REPUBLIC FINANCE
 - Simmons First National Bank Corporation
 - Advisor360
 - defi Auto, LLC
 - Global Payments
+- RAPID ADVANCE LLC
 - Sagent M&C, LLC
 - Versana LLC
 - APPLIED SYSTEMS INC
+- Bloomberg LP
 - Datasite
 - Insurity
-- Q2 Software
+- ALLY FINANCIAL
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
 - FNB CORPORATION
 - South State Bank
+- State Employees Credit Union
 - SYNOVUS FINANCIAL CORP
 - DOVENMUEHLE MORTGAGE INC
 - OneMain Financial
 - Rock Holding Inc.
+- Select Portfolio Servicing, Inc.
 - AUTOBOOKS
+- Flagstar Bank
 - FREDDIE MAC
+- Synchrony Financial
 - WEBSTER BANK
 - Edfinancial Services
 - FIFTH THIRD BANCORP
@@ -214,21 +152,21 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - loanDepot
 - DUCK CREEK TECHNOLOGIES INC
 - Experian
-- NELNET
 - Elevate Credit
 - FACTSET RESEARCH SYSTEMS
 - GREEN DOT CORPORATION
 - Jack Henry & Associates Inc.
-- FANNIE MAE
 - FIRST CITIZENS BANK & TRUST COMPANY
 - LENDINGTREE.COM
 - VYSTAR CREDIT UNION
 - CENLAR FSB INC
+- CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
+- M & T BANK
 - United Wholesale Mortgage
 - Valley National Bank
 
 </details>
 
 ---
-_Auto-generated on September 02, 2026._
+_Auto-generated on September 03, 2026._

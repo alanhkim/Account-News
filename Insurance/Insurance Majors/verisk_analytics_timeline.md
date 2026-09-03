@@ -1,9 +1,10 @@
 # VERISK ANALYTICS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 02, 2026.
+Rolling history of tracked news (last 90 days). Updated September 03, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-03 | Verisk Analytics ( NASDAQ : VRSK ) CEO Lee Shavel Sells 3 , 535 Shares | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/02/verisk-analytics-nasdaqvrsk-ceo-lee-shavel-sells-3535-shares.html) |
 | 2026-08-24 | Verisk Analytics , Inc . ( NASDAQ : VRSK ) Receives $236 . 27 Consensus Price Target from Analysts | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13555803/verisk-analytics-inc-nasdaqvrsk-receives-236-27-consensus-price-target-from-analysts.html) |
 | 2026-07-30 | Verisk Analytics Q2 Earnings Call Highlights | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13522910/verisk-analytics-q2-earnings-call-highlights.html) |
 | 2026-07-28 | FinancialContent - Verisk ( VRSK ) Q2 Earnings Report Preview : What To Look For | 🔴 High | ⚪ Neutral | [link](https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-verisk-vrsk-q2-earnings-report-preview-what-to-look-for) |

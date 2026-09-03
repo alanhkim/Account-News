@@ -1,9 +1,10 @@
 # T ROWE PRICE ASSOCIATES — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 02, 2026.
+Rolling history of tracked news (last 90 days). Updated September 03, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-03 | T . ROWE PRICE CONTINUES ACTIVE EXCHANGE TRADED FUND EXPANSION WITH SECURITIZED CREDIT OFFERING | 🔴 High | ⚪ Neutral | [link](https://www.aol.com/articles/t-rowe-price-continues-active-143700000.html) |
 | 2026-09-02 | T . Rowe Price Ultra Short - Term Bond ETF ( NYSEARCA : TBUX ) Sees Unusually - High Trading Volume – Time to Buy ? | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13570587/t-rowe-price-ultra-short-term-bond-etf-nysearcatbux-sees-unusually-high-trading-volume-time-to-buy.html) |
 | 2026-08-31 | T . Rowe Price Group ( NASDAQ : TROW ) Stock Price Expected to Rise , TD Cowen Analyst Says | 🟡 Low | 🟢 Positive | [link](https://www.dailypolitical.com/2026/08/31/t-rowe-price-group-nasdaqtrow-stock-price-expected-to-rise-td-cowen-analyst-says.html) |
 | 2026-08-25 | Why Passive Inflows May be Pulling Down Active Fund Performance | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/why-passive-inflows-may-pulling-040200015.html) |

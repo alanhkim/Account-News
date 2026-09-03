@@ -1,6 +1,6 @@
 # Latest News — Insurance Majors
 
-**Updated:** September 02, 2026  
+**Updated:** September 03, 2026  
 **Accounts tracked:** 81  
 **Accounts with news this cycle:** 8  
 
@@ -10,70 +10,74 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **USI INSURANCE** | Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.ijpr.org&sz=32) | **Hub International** | Germany blames Russia for last month attempted drone attack at Leipzig airport | 2026-09-02 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport) |
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **MUTUAL OF OMAHA** | Get $1M in Life Insurance for Only $25 / mo , Quote . com Study Finds | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/get-1m-in-life-insurance-for-only-25mo-quotecom-study-finds-302862586.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Jefferies Financial Group Inc . Makes New $765 , 000 Investment in Conagra Brands $CAG | 2026-08-31 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/08/31/jefferies-financial-group-inc-makes-new-765000-investment-in-conagra-brands-cag.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **The Hanover Insurance Group** | Comparing Brighthouse Financial ( NASDAQ : BHFAL ) and The Hanover Insurance Group ( NYSE : THG ) | 2026-08-30 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.tickerreport.com/banking-finance/13566492/comparing-brighthouse-financial-nasdaqbhfal-and-the-hanover-insurance-group-nysethg.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.ocregister.com&sz=32) | **PACIFIC LIFE INSURANCE CO** | Real estate news : Enderle Center sale complete , Campo on 17th moves ahead | 2026-08-28 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ocregister.com/2026/08/28/real-estate-news-enderle-center-sale-complete-campo-on-17th-moves-ahead/) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **VERISK ANALYTICS** | Verisk Analytics ( NASDAQ : VRSK ) CEO Lee Shavel Sells 3 , 535 Shares | 2026-09-03 | 🔴 High | ⚪ Neutral | M&A, CxO Change | Fabric, Security | [link](https://www.dailypolitical.com/2026/09/02/verisk-analytics-nasdaqvrsk-ceo-lee-shavel-sells-3535-shares.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Empathy launches digital estate planning platform in united kingdom | 2026-08-06 | 🟠 Medium | ⚪ Neutral | Product Launch | Fabric | [link](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/) |
+| ![](https://www.google.com/s2/favicons?domain=www.mainlinemedianews.com&sz=32) | **EQUITABLE** | Trump pushes to remove tax exemption for colleges with DEI policies | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mainlinemedianews.com/2026/09/03/trump-education-anti-dei-push/) |
+| ![](https://www.google.com/s2/favicons?domain=www.housingwire.com&sz=32) | **MUTUAL OF OMAHA** | Reverse mortgage volume slips in August | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.housingwire.com/articles/top-3-hecm-lenders-share/) |
+| ![](https://www.google.com/s2/favicons?domain=www.shtfplan.com&sz=32) | **ARCH CAPITAL GROUP LTD** | China and Russia Staring DOWN the Barrel - Gold Takes Nosedive ! | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.shtfplan.com/headline-news/china-and-russia-staring-down-the-barrel-gold-takes-nosedive) |
+| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **FM GLOBAL** | FM Urges Global Cos to Build for World from India | 2026-08-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://economictimes.indiatimes.com/epaper/delhicapital/2026/aug/30/sunet-front/fm-urges-global-cos-to-build-for-world-from-india/articleshow/133620495.cms) |
 | ![](https://www.google.com/s2/favicons?domain=www.ky3.com&sz=32) | **SHELTER INSURANCE COMPANY** | Mizzou Athletics sees record - setting sponsorship growth | 2026-08-28 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.ky3.com/2026/08/28/mizzou-athletics-sees-record-setting-sponsorship-growth/) |
-| ![](https://www.google.com/s2/favicons?domain=richmondbizsense.com&sz=32) | **TRAVELERS PROPERTY & CASUALTY** | The Docket : Local court roundup for 8 . 6 . 26 - Richmond BizSense | 2026-08-06 | 🟡 Low | 🟢 Positive | — | — | [link](https://richmondbizsense.com/2026/08/06/the-docket-local-court-roundup-for-8-6-26/) |
+| ![](https://www.google.com/s2/favicons?domain=www.galvnews.com&sz=32) | **American National Insurance Co** | Galveston economic , civic leaders seek to build a stronger , more vibrant downtown | 2026-08-12 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.galvnews.com/news/galveston-economic-civic-leaders-seek-to-build-a-stronger-more-vibrant-downtown/article_13d4c550-f907-4bbf-a83d-bc4eccb116d1.html) |
 
 ## Detail
 
-### USI INSURANCE
-**Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields** — 2026-09-02 — 🟡 Low — 🟢 Positive
+### VERISK ANALYTICS
+**Verisk Analytics ( NASDAQ : VRSK ) CEO Lee Shavel Sells 3 , 535 Shares** — 2026-09-03 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A, CxO Change  
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
+
+[Read →](https://www.dailypolitical.com/2026/09/02/verisk-analytics-nasdaqvrsk-ceo-lee-shavel-sells-3535-shares.html)
+
+### NEW YORK LIFE INSURANCE COMPANY
+**Empathy launches digital estate planning platform in united kingdom** — 2026-08-06 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Solution plays:_ Fabric  
+_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
+
+[Read →](https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/)
+
+### EQUITABLE
+**Trump pushes to remove tax exemption for colleges with DEI policies** — 2026-09-03 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html)
-
-### Hub International
-**Germany blames Russia for last month attempted drone attack at Leipzig airport** — 2026-09-02 — 🟡 Low — 🔴 Negative
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport)
+[Read →](https://www.mainlinemedianews.com/2026/09/03/trump-education-anti-dei-push/)
 
 ### MUTUAL OF OMAHA
-**Get $1M in Life Insurance for Only $25 / mo , Quote . com Study Finds** — 2026-08-31 — 🟡 Low — ⚪ Neutral
+**Reverse mortgage volume slips in August** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.prnewswire.com/news-releases/get-1m-in-life-insurance-for-only-25mo-quotecom-study-finds-302862586.html)
+[Read →](https://www.housingwire.com/articles/top-3-hecm-lenders-share/)
 
-### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
-**Jefferies Financial Group Inc . Makes New $765 , 000 Investment in Conagra Brands $CAG** — 2026-08-31 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/08/31/jefferies-financial-group-inc-makes-new-765000-investment-in-conagra-brands-cag.html)
-
-### The Hanover Insurance Group
-**Comparing Brighthouse Financial ( NASDAQ : BHFAL ) and The Hanover Insurance Group ( NYSE : THG )** — 2026-08-30 — 🟡 Low — 🟢 Positive
+### ARCH CAPITAL GROUP LTD
+**China and Russia Staring DOWN the Barrel - Gold Takes Nosedive !** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13566492/comparing-brighthouse-financial-nasdaqbhfal-and-the-hanover-insurance-group-nysethg.html)
+[Read →](https://www.shtfplan.com/headline-news/china-and-russia-staring-down-the-barrel-gold-takes-nosedive)
 
-### PACIFIC LIFE INSURANCE CO
-**Real estate news : Enderle Center sale complete , Campo on 17th moves ahead** — 2026-08-28 — 🟡 Low — ⚪ Neutral
+### FM GLOBAL
+**FM Urges Global Cos to Build for World from India** — 2026-08-30 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.ocregister.com/2026/08/28/real-estate-news-enderle-center-sale-complete-campo-on-17th-moves-ahead/)
+[Read →](https://economictimes.indiatimes.com/epaper/delhicapital/2026/aug/30/sunet-front/fm-urges-global-cos-to-build-for-world-from-india/articleshow/133620495.cms)
 
 ### SHELTER INSURANCE COMPANY
 **Mizzou Athletics sees record - setting sponsorship growth** — 2026-08-28 — 🟡 Low — 🟢 Positive
@@ -84,26 +88,27 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.ky3.com/2026/08/28/mizzou-athletics-sees-record-setting-sponsorship-growth/)
 
-### TRAVELERS PROPERTY & CASUALTY
-**The Docket : Local court roundup for 8 . 6 . 26 - Richmond BizSense** — 2026-08-06 — 🟡 Low — 🟢 Positive
+### American National Insurance Co
+**Galveston economic , civic leaders seek to build a stronger , more vibrant downtown** — 2026-08-12 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://richmondbizsense.com/2026/08/06/the-docket-local-court-roundup-for-8-6-26/)
+[Read →](https://www.galvnews.com/news/galveston-economic-civic-leaders-seek-to-build-a-stronger-more-vibrant-downtown/article_13d4c550-f907-4bbf-a83d-bc4eccb116d1.html)
 
 ---
 
 <details><summary>Accounts with no material news this cycle (73)</summary>
 
-- American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
 - PROSPERITY LIFE GROUP
 - Tokio Marine Group
+- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
 - AMERICAN FIDELITY
 - MERCURY INSURANCE COMPANY
+- PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
 - aflac
@@ -121,9 +126,10 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - HARTFORD FIRE INSURANCE COMPANY
 - RISK STRATEGIES COMPANY
 - SELECTIVE INSURANCE
-- VERISK ANALYTICS
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
+- The Hanover Insurance Group
+- USI INSURANCE
 - W R BERKLEY CORPORATION
 - Corebridge Financial
 - REINSURANCE GROUP OF AMERICA
@@ -143,7 +149,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Assurant
 - COUNTRY FINANCIAL SERVICES INC
 - AXIS SPECIALTY US SERVICES INC
-- FM GLOBAL
 - GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
@@ -158,20 +163,19 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - OLD REPUBLIC INTERNATIONAL
 - SENTRY INSURANCE A MUTUAL CO
 - FARM BUREAU FINANCIAL SERVICES
+- Hub International
 - Kemper Corporation
 - LOCKTON INSURANCE AGENCY
 - AMYNTA GROUP
-- ARCH CAPITAL GROUP LTD
 - C V STARR
 - EVEREST GLOBAL SERVICES
-- NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
-- EQUITABLE
 - GUARDIAN LIFE INSURANCE CO
 - National Life Group
+- TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on September 02, 2026._
+_Auto-generated on September 03, 2026._

@@ -1,9 +1,10 @@
 # FM GLOBAL — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 02, 2026.
+Rolling history of tracked news (last 90 days). Updated September 03, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-30 | FM Urges Global Cos to Build for World from India | 🟡 Low | ⚪ Neutral | [link](https://economictimes.indiatimes.com/epaper/delhicapital/2026/aug/30/sunet-front/fm-urges-global-cos-to-build-for-world-from-india/articleshow/133620495.cms) |
 | 2026-08-20 | GLOWFUX Unveils Activities to Mark 10th Anniversary Celebration – THISDAYLIVE | 🟠 Medium | ⚪ Neutral | [link](https://www.thisdaylive.com/2026/08/20/glowfux-unveils-activities-to-mark-10th-anniversary-celebration/) |
 | 2026-08-18 | GLOWFUX unveils ambitious programmes to mark 10 anniversary | 🟠 Medium | ⚪ Neutral | [link](https://theeagleonline.com.ng/glowfux-unveils-ambitious-programmes-to-mark-10-anniversary/) |
 | 2026-08-13 | China engages in normal cooperation with Cambodia and Thailand , promotes peace talks : FM spokesperson | 🟡 Low | ⚪ Neutral | [link](https://www.globalsecurity.org/military/library/news/2026/08/mil-260812-globaltimes02.htm) |
