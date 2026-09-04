@@ -1,9 +1,10 @@
 # D E SHAW & CO INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-03 | Five Below ( NASDAQ : FIVE ) Issues FY 2026 Earnings Guidance | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13571159/five-below-nasdaqfive-issues-fy-2026-earnings-guidance.html) |
 | 2026-08-27 | Form 8 . 3 - DCC Energy plc \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
 | 2026-08-26 | This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story | 🟠 Medium | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html) |
 | 2026-08-18 | Intel and AMD Fall 4 % as 13F Filings Reveal Concentrated Chip Bets | 🟡 Low | ⚪ Neutral | [link](https://247wallst.com/investing/2026/08/18/intel-and-amd-fall-4-as-13f-filings-reveal-concentrated-chip-bets/) |

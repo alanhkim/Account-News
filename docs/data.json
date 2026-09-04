@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-03",
-  "generated_human": "September 03, 2026",
+  "generated": "2026-09-04",
+  "generated_human": "September 04, 2026",
   "counts": {
-    "accounts_total": 284,
-    "with_news": 5,
+    "accounts_total": 246,
+    "with_news": 6,
     "high": 1
   },
   "verticals": [
@@ -13,22 +13,20 @@
       "count": 1,
       "items": [
         {
-          "account": "REGIONS FINANCIAL CORPORATION",
-          "title": "Mech - Mind Robotics Technologies Co ., Ltd .: Mech - Mind Launches IPO : Baillie Gifford Leads 9 Top Cornerstone Investors , HK$2 . 7B for AI R & D & Global Commercialization",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69445602-mech-mind-robotics-technologies-co-ltd-mech-mind-launches-ipo-baillie-gifford-leads-9-top-cornerstone-investors-hk-dollar-2-7b-for-ai-r-d-global-comm-011.htm",
-          "date": "2026-08-31",
+          "account": "Datasite",
+          "title": "Grata brings private market data to Perplexity Computer",
+          "url": "https://cfotech.news/story/grata-brings-private-market-data-to-perplexity-computer",
+          "date": "2026-08-27",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI"
+            "Fabric"
           ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://www.finanznachrichten.de/content/g/fb.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.finanznachrichten.de&sz=32"
+          "image": "https://cfotech.news/uploads/story/2026/08/28/compatible_jeff-grimes-story-317756.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
         }
       ]
     },
@@ -41,13 +39,13 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 2,
+      "count": 3,
       "items": [
         {
-          "account": "Balyasny Asset Management",
-          "title": "Billionaires Were Buying These Two Nancy Pelosi AI Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html",
-          "date": "2026-09-03",
+          "account": "MORNINGSTAR INC",
+          "title": "Not Nvidia . Not Palantir . This AI Stock Could Have the Most Upside .",
+          "url": "https://www.fool.com/investing/2026/09/04/not-nvidia-not-palantir-this-ai-stock-could-have-t/?source=iedfolrf0000001",
+          "date": "2026-09-04",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
@@ -56,8 +54,8 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://s.yimg.com/lo/mysterio/api/7a399064564b3ca2b85263b973eff3f28b53a668e4a63010251821c397005da4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff9d829812ccc794e3009fb870ad00ea7.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+          "image": "https://g.foolcdn.com/editorial/images/885644/gettyimages-157741219-1200x800-5b2df79.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         },
         {
           "account": "Berkshire Hathaway Energy",
@@ -74,19 +72,57 @@
           "sentiment": "Neutral",
           "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/e153fe4b7634bfb29424396d8c2157b7ad62b352-1200x800.png?&q=75&fit=max&auto=format",
           "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+        },
+        {
+          "account": "Commonwealth Financial Network",
+          "title": "5 AI - related steps to take before the SEC examiner knocks",
+          "url": "https://www.financial-planning.com/news/5-ai-related-steps-to-take-before-the-sec-examiner-knocks",
+          "date": "2026-08-24",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [
+            "Regulatory"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/4f/14/e863b3f0481ab3d183b258590a51/ai-concerns-16x9.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.financial-planning.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "Brookfield Asset Management",
+          "title": "Naver chairman meets Brookfield CEO , discusses AI data center business",
+          "url": "https://www.koreatimes.co.kr/business/tech-science/20260904/naver-chairman-meets-brookfield-ceo-discusses-ai-data-center-business",
+          "date": "2026-09-04",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://newsimg.koreatimes.co.kr/2026/09/04/92f46e2e-55bd-4f3e-aa4d-a9b1645d41f0.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.koreatimes.co.kr&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "account": "VERISK ANALYTICS",
@@ -107,24 +143,6 @@
           "sentiment": "Neutral",
           "image": "",
           "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
-        },
-        {
-          "account": "NEW YORK LIFE INSURANCE COMPANY",
-          "title": "Empathy launches digital estate planning platform in united kingdom",
-          "url": "https://www.international-adviser.com/empathy-launches-digital-estate-planning-platform-in-uk/",
-          "date": "2026-08-06",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.international-adviser.com/wp-content/uploads/2018/01/2016-700-magnifying-glass-search-papers.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.international-adviser.com&sz=32"
         }
       ]
     },

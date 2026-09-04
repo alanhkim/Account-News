@@ -1,9 +1,10 @@
 # Corebridge Financial — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Zaffino to leave AIG , join Palantir | 🟡 Low | ⚪ Neutral | [link](https://www.businessinsurance.com/zaffino-to-leave-aig-join-palantir/) |
 | 2026-08-22 | Corebridge Financial ( NYSE : CRBG ) and Suncorp Group ( OTCMKTS : SNMYF ) Head to Head Review | 🟡 Low | 🟢 Positive | [link](https://www.dailypolitical.com/2026/08/22/corebridge-financial-nysecrbg-and-suncorp-group-otcmktssnmyf-head-to-head-review.html) |
 | 2026-08-13 | Analysts Set Corebridge Financial , Inc . ( NYSE : CRBG ) PT at $36 . 75 | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13540920/analysts-set-corebridge-financial-inc-nysecrbg-pt-at-36-75.html) |
 | 2026-07-30 | Investment Analyst Recent Ratings Updates for Corebridge Financial ( CRBG ) | 🟠 Medium | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/30/investment-analysts-recent-ratings-updates-for-corebridge-financial-crbg.html) |

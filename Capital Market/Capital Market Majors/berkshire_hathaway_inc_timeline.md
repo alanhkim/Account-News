@@ -1,9 +1,10 @@
 # BERKSHIRE HATHAWAY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | Warren Buffett Berkshire Hathaway Just Did This for the First Time in 15 Quarters . History Offers a Clue About What Next , But the Evidence Piling Up Suggests History May Not Repeat Itself . | 🟡 Low | 🟢 Positive | [link](https://www.fool.com/investing/2026/09/04/warren-buffett-s-berkshire-hathaway-just-did-this-for-the-first-time-in-15-quarters-history-offers-a-clue-about-what-s-next-but-the-evidence-piling-up-suggests-history-may-not-repeat-itself/?source=iedfolrf0000001) |
 | 2026-08-25 | Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company , Bypassing the Open Market | 🟡 Low | ⚪ Neutral | [link](https://www.fool.com/investing/2026/08/25/berkshire-hathaway-bought-10-billion-of-alphabet/?source=iedfolrf0000001) |
 | 2026-08-20 | Chevron ( NYSE : CVX ) Trading 1 . 5 % Higher – Still a Buy ? | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/20/chevron-nysecvx-trading-1-5-higher-still-a-buy.html) |
 | 2026-08-14 | Cryptos Drop Amidst Volatile Crude Oil Prices , Spike In Bond Yields | 🟡 Low | ⚪ Neutral | [link](https://www.rttnews.com/3680759/cryptos-drop-amidst-volatile-crude-oil-prices-spike-in-bond-yields.aspx) |

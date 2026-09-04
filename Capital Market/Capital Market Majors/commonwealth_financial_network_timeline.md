@@ -1,9 +1,10 @@
 # Commonwealth Financial Network — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-08-24 | 5 AI - related steps to take before the SEC examiner knocks | 🟠 Medium | ⚪ Neutral | [link](https://www.financial-planning.com/news/5-ai-related-steps-to-take-before-the-sec-examiner-knocks) |
 | 2026-08-18 | Giant Cambridge group in Pennsylvania bolts to LPL | 🟡 Low | 🟢 Positive | [link](https://www.investmentnews.com/independent-broker-dealers/giant-cambridge-group-in-pennsylvania-bolts-to-lpl/267870) |
 | 2026-08-13 | Merit buys Southern California wealth manager Bridgeway | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/merit-buys-southern-california-wealth-115748088.html) |
 | 2026-08-12 | Merit Financial Advisors Acquires $900 Million firm , The Bridgeway Group , Expanding Southern California Presence | 🔴 High | 🟢 Positive | [link](http://www.prnewswire.com/news-releases/merit-financial-advisors-acquires-900-million-firm-the-bridgeway-group-expanding-southern-california-presence-302847355.html) |

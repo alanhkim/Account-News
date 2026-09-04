@@ -1,9 +1,10 @@
 # CITADEL INVESTMENT GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-02 | Meet Shankh Mitra : The Jadavpur University graduate who became one of the world highest - paid CEOs | 🟠 Medium | ⚪ Neutral | [link](https://timesofindia.indiatimes.com/education/news/meet-shankh-mitra-the-jadavpur-university-graduate-who-became-one-of-the-worlds-highest-paid-ceos/articleshow/133700672.cms) |
 | 2026-08-14 | Jim Cramer Explains Datadog , Inc . ( NASDAQ : DDOG ) Share Price Movement | 🟠 Medium | ⚪ Neutral | [link](https://www.insidermonkey.com/blog/jim-cramer-explains-datadog-inc-nasdaqddogs-share-price-movement-1809292/) |
 | 2026-08-09 | Jim Cramer Says There Merit To Starbucks Corporation ( NASDAQ : SBUX ) Turnaround Efforts | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-merit-starbucks-183707712.html) |
 | 2026-07-30 | The Hidden Reason Leopold Aschenbrenner Situational Awareness Fund Was Forced To Unwind | 🔴 High | ⚪ Neutral | [link](https://www.ibtimes.co.uk/ai-hedge-fund-collapse-market-reversal-1811628) |

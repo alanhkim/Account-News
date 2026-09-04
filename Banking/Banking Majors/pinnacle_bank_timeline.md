@@ -1,10 +1,10 @@
 # PINNACLE BANK — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-09-01 | TOBYMAC \ | Chris Tomlin \ | THIRD DAY at Pinnacle Bank Arena in Lincoln – My Bridge Radio – Events | 🟡 Low | ⚪ Neutral | [link](https://events.mybridgeradio.net/event/tobymac-chris-tomlin-third-day-at-pinnacle-bank-arena-in-lincoln/) |
+| 2026-09-01 | TOBYMAC \| Chris Tomlin \| THIRD DAY at Pinnacle Bank Arena in Lincoln – My Bridge Radio – Events | 🟡 Low | ⚪ Neutral | [link](https://events.mybridgeradio.net/event/tobymac-chris-tomlin-third-day-at-pinnacle-bank-arena-in-lincoln/) |
 | 2026-08-18 | Education briefs for 8 - 18 - 26 | 🟡 Low | ⚪ Neutral | [link](https://cdispatch.com/news/education-briefs-for-8-18-26/) |
 | 2026-07-30 | Resolution Copper Establishes $54 Million Tribal Trust - Mining Engineering Online | 🟡 Low | ⚪ Neutral | [link](https://me.smenet.org/resolution-copper-establishes-54-million-tribal-trust/) |
 | 2026-07-28 | Tickets on Sale Thursday for Volleyball Red - White Scrimmage | 🟡 Low | ⚪ Neutral | [link](https://www.mycentralnebraska.com/tickets-on-sale-thursday-for-volleyballs-red-white-scrimmage/) |

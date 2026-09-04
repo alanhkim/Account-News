@@ -1,9 +1,10 @@
 # USI INSURANCE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | Dow Jones Top Financial Services Headlines at 12 AM ET : Investors Still Want Out of Private Credit Funds Like Blackstone and Cliffwater \| AIG ... | 🔴 High | ⚪ Neutral | [link](https://www.morningstar.com/news/dow-jones/2026090422/dow-jones-top-financial-services-headlines-at-12-am-et-investors-still-want-out-of-private-credit-funds-like-blackstones-and-cliffwaters-aigs) |
 | 2026-09-02 | Stocks Finish Mostly Lower as Rising Crude Boosts Bond Yields | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-lower-rising-204000592.html) |
 | 2026-08-24 | USI Recognized as a Top Insurance Employer by Insurance Business America for the Ninth Consecutive Year | 🟡 Low | 🔴 Negative | [link](https://www.manilatimes.net/2026/08/24/tmt-newswire/globenewswire/usi-recognized-as-a-top-insurance-employer-by-insurance-business-america-for-the-ninth-consecutive-year/2410927) |
 | 2026-08-17 | USI accuses three ex - brokers of taking clients to rival Howden | 🟡 Low | ⚪ Neutral | [link](https://www.businessinsurance.com/usi-accuses-three-ex-brokers-of-taking-clients-to-rival-howden/) |

@@ -1,9 +1,10 @@
 # Progressive Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | How do coffee shops stay open in Charleston , South Carolina ? | 🟡 Low | ⚪ Neutral | [link](https://www.postandcourier.com/food/tip-jar-restaurant-questions-charleston-food/article_70428fb7-31da-4dfb-a30b-63507246aa65.html) |
 | 2026-08-31 | Jude Bellingham is back to his devastating best for Real Madrid | 🟡 Low | ⚪ Neutral | [link](https://www.managingmadrid.com/real-madrid-cf-players/112144/jude-bellingham-is-back-to-his-devastating-best-for-real-madrid) |
 | 2026-08-27 | Decodes Movement Intentions , Then Fades Away As Recovery Takes Hold | 🟡 Low | ⚪ Neutral | [link](https://www.newswise.com/articles/decodes-movement-intentions-then-fades-away-as-recovery-takes-hold) |
 | 2026-08-26 | Jewish High Holy Day Services at Congregation Bnai Harim at the Nevada County Jewish Community Center | 🟠 Medium | ⚪ Neutral | [link](https://yubanet.com/regional/jewish-high-holy-day-services-at-congregation-bnai-harim-at-the-nevada-county-jewish-community-center/) |

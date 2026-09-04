@@ -1,9 +1,10 @@
 # JEFFERIES & COMPANY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | Apple Inc . $AAPL Position Lessened by Resona Asset Management Co . Ltd . | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/04/apple-inc-aapl-position-lessened-by-resona-asset-management-co-ltd.html) |
 | 2026-08-25 | Scotiabank posts record quarter as capital markets surge lifts profit past estimates | 🔴 High | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html) |
 | 2026-08-20 | Things to do this weekend in Pa ., N . J ., and Del . | 🟡 Low | ⚪ Neutral | [link](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/) |
 | 2026-08-18 | Nashville  Cast Mourns Loss Of Hayden Panettiere :  We Are Heartbroken | 🟡 Low | 🔴 Negative | [link](https://wdrm.iheart.com/content/2026-08-18-nashville-cast-mourns-loss-of-hayden-panettiere-we-are-heartbroken/) |

@@ -1,9 +1,10 @@
 # FINRA — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | Mark Zuckerberg makes it clear and directly tells President Donald Trump that it would be a mistake for America to … | 🔴 High | ⚪ Neutral | [link](https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-makes-it-clear-and-directly-tells-president-donald-trump-that-it-would-be-a-mistake-for-america-to/articleshow/133758228.cms) |
 | 2026-09-02 | Equinix Launches AI Inference Exchange With Nvidia , Together AI | 🟠 Medium | ⚪ Neutral | [link](https://www.financial-news.co.uk/equinix-launches-ai-inference-exchange-with-nvidia-together-ai/) |
 | 2026-08-25 | Vanguard strategist says retirees need  a complete mind shift  and shares 4 principles to ease financial anxiety | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html) |
 | 2026-08-18 | iTrustCapital Now Offers Stocks and ETFs Across All Accounts , Becoming the Most Comprehensive Multi - Asset Investing Platform | 🟠 Medium | ⚪ Neutral | [link](https://www.finanznachrichten.de/nachrichten-2026-08/69344419-itrustcapital-now-offers-stocks-and-etfs-across-all-accounts-becoming-the-most-comprehensive-multi-asset-investing-platform-200.htm) |

@@ -1,9 +1,10 @@
 # Bank of America — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 03, 2026.
+Rolling history of tracked news (last 90 days). Updated September 04, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | DRDGOLD ( NYSE : DRD ) Insider Lihan Laas Sells 9 , 029 Shares of Stock | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/04/drdgold-nysedrd-insider-lihan-laas-sells-9029-shares-of-stock.html) |
 | 2026-09-02 | Where did mortgage rates land at the end of August ? | 🟡 Low | ⚪ Neutral | [link](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html) |
 | 2026-08-31 | argenex ( ARGX ) – Analyst Weekly Ratings Changes | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13567732/argenex-argx-analysts-weekly-ratings-changes.html) |
 | 2026-08-26 | Ex - manager accused of stealing $33 , 000 from Flanigan | 🟡 Low | ⚪ Neutral | [link](https://www.local10.com/news/local/2026/08/26/ex-manager-accused-of-stealing-33000-from-flanigans/) |

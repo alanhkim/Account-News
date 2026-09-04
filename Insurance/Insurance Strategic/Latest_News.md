@@ -1,6 +1,6 @@
 # Latest News — Insurance Strategic
 
-**Updated:** September 03, 2026  
+**Updated:** September 04, 2026  
 **Accounts tracked:** 15  
 **Accounts with news this cycle:** 4  
 
@@ -10,39 +10,30 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **GEICO** | Insurance moves : Builders Insurance , Pharmacists Mutual , Keystone , Patriot , MS Transverse , more | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-builders-insurance-pharmacists-mutual-keystone-patriot-ms-transverse-more-588438.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | iShares Morningstar Value ETF ( NYSEARCA : ILCV ) Reaches New 12 - Month High – What Next ? | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/03/ishares-morningstar-value-etf-nysearcailcv-reaches-new-12-month-high-whats-next.html) |
-| ![](https://www.google.com/s2/favicons?domain=magic983.com&sz=32) | **Metlife** | Things To Do in New Jersey This Weekend : September 4 - September 6 | 2026-09-03 | 🟡 Low | ⚪ Neutral | — | — | [link](https://magic983.com/2026/09/03/things-to-do-in-new-jersey-this-weekend-september-4-september-6/) |
+| ![](https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=32) | **American International Group Inc** | This family farm has been protecting land since 1831 | 2026-09-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.yahoo.com/lifestyle/articles/family-farm-protecting-land-since-070103435.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.postandcourier.com&sz=32) | **Progressive Corporation** | How do coffee shops stay open in Charleston , South Carolina ? | 2026-09-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.postandcourier.com/food/tip-jar-restaurant-questions-charleston-food/article_70428fb7-31da-4dfb-a30b-63507246aa65.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **Marsh McLennan** | Zaffino to leave AIG , join Palantir | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.businessinsurance.com/zaffino-to-leave-aig-join-palantir/) |
+| ![](https://www.google.com/s2/favicons?domain=www.macombdaily.com&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | Local insurance company gives award to support foster children | 2026-08-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.macombdaily.com/2026/08/30/local-insurance-company-gives-award-to-support-foster-children/) |
 
 ## Detail
 
-### GEICO
-**Insurance moves : Builders Insurance , Pharmacists Mutual , Keystone , Patriot , MS Transverse , more** — 2026-09-03 — 🟡 Low — ⚪ Neutral
+### American International Group Inc
+**This family farm has been protecting land since 1831** — 2026-09-04 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-builders-insurance-pharmacists-mutual-keystone-patriot-ms-transverse-more-588438.aspx)
+[Read →](https://www.yahoo.com/lifestyle/articles/family-farm-protecting-land-since-070103435.html)
 
-### NORTHWESTERN MUTUAL
-**iShares Morningstar Value ETF ( NYSEARCA : ILCV ) Reaches New 12 - Month High – What Next ?** — 2026-09-03 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/09/03/ishares-morningstar-value-etf-nysearcailcv-reaches-new-12-month-high-whats-next.html)
-
-### Metlife
-**Things To Do in New Jersey This Weekend : September 4 - September 6** — 2026-09-03 — 🟡 Low — ⚪ Neutral
+### Progressive Corporation
+**How do coffee shops stay open in Charleston , South Carolina ?** — 2026-09-04 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://magic983.com/2026/09/03/things-to-do-in-new-jersey-this-weekend-september-4-september-6/)
+[Read →](https://www.postandcourier.com/food/tip-jar-restaurant-questions-charleston-food/article_70428fb7-31da-4dfb-a30b-63507246aa65.html)
 
 ### Marsh McLennan
 **Zaffino to leave AIG , join Palantir** — 2026-09-02 — 🟡 Low — ⚪ Neutral
@@ -53,23 +44,32 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.businessinsurance.com/zaffino-to-leave-aig-join-palantir/)
 
+### LIBERTY MUTUAL INSURANCE COMPANY
+**Local insurance company gives award to support foster children** — 2026-08-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.macombdaily.com/2026/08/30/local-insurance-company-gives-award-to-support-foster-children/)
+
 ---
 
 <details><summary>Accounts with no material news this cycle (11)</summary>
 
 - Nationwide
+- GEICO
 - STATE FARM LIFE INSURANCE CO
-- American International Group Inc
+- NORTHWESTERN MUTUAL
+- Metlife
 - ALLSTATE INSURANCE GROUP
 - FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
 - Chubb
-- LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
-- Progressive Corporation
 - Willis Towers Watson
 
 </details>
 
 ---
-_Auto-generated on September 03, 2026._
+_Auto-generated on September 04, 2026._
