@@ -1,9 +1,10 @@
 # US BANK — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | US sanctions Turkish bank over Iran ties | 🟡 Low | ⚪ Neutral | [link](https://www.samaa.tv/2087356292-us-sanctions-turkish-bank-over-alleged-iran-ties) |
 | 2026-09-02 | How To Tour US Bank Stadium In Minneapolis | 🟡 Low | ⚪ Neutral | [link](https://kool1017.com/ixp/66/p/behind-scenes-us-bank-stadium-access/) |
 | 2026-08-18 | BNP Paribas flexes united kingdom M & A credentials | 🟡 Low | ⚪ Neutral | [link](https://www.thebanker.com/content/39be7234-d58b-4e66-b0eb-c71f2a3fa63a) |
 | 2026-08-13 | Corning Stock : Well - Positioned AI Infrastructure Play ( NYSE : GLW ) | 🟠 Medium | ⚪ Neutral | [link](https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play) |

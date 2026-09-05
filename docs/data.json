@@ -1,34 +1,17 @@
 {
-  "generated": "2026-09-04",
-  "generated_human": "September 04, 2026",
+  "generated": "2026-09-05",
+  "generated_human": "September 05, 2026",
   "counts": {
-    "accounts_total": 246,
-    "with_news": 6,
+    "accounts_total": 285,
+    "with_news": 2,
     "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 1,
-      "items": [
-        {
-          "account": "Datasite",
-          "title": "Grata brings private market data to Perplexity Computer",
-          "url": "https://cfotech.news/story/grata-brings-private-market-data-to-perplexity-computer",
-          "date": "2026-08-27",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://cfotech.news/uploads/story/2026/08/28/compatible_jeff-grimes-story-317756.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Banking",
@@ -39,85 +22,33 @@
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 3,
+      "count": 1,
       "items": [
         {
-          "account": "MORNINGSTAR INC",
-          "title": "Not Nvidia . Not Palantir . This AI Stock Could Have the Most Upside .",
-          "url": "https://www.fool.com/investing/2026/09/04/not-nvidia-not-palantir-this-ai-stock-could-have-t/?source=iedfolrf0000001",
-          "date": "2026-09-04",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://g.foolcdn.com/editorial/images/885644/gettyimages-157741219-1200x800-5b2df79.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
-        },
-        {
-          "account": "Berkshire Hathaway Energy",
-          "title": "Greg Abel Just Quantified Berkshire AI Power Opportunity",
-          "url": "https://www.fool.com/investing/2026/09/02/greg-abel-just-quantified-berkshire-s-ai-power-opportunity/",
-          "date": "2026-09-02",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/e153fe4b7634bfb29424396d8c2157b7ad62b352-1200x800.png?&q=75&fit=max&auto=format",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
-        },
-        {
-          "account": "Commonwealth Financial Network",
-          "title": "5 AI - related steps to take before the SEC examiner knocks",
-          "url": "https://www.financial-planning.com/news/5-ai-related-steps-to-take-before-the-sec-examiner-knocks",
-          "date": "2026-08-24",
-          "level": "Medium",
+          "account": "AMERIPRISE FINANCIAL INC",
+          "title": "iShares U . S . Broker - Dealers & Securities Exchanges ETF ( NYSEARCA : IAI ) Sets New 12 - Month High – Should You Buy ?",
+          "url": "https://www.themarketsdaily.com/2026/09/05/ishares-u-s-broker-dealers-securities-exchanges-etf-nysearcaiai-sets-new-12-month-high-should-you-buy.html",
+          "date": "2026-09-05",
+          "level": "High",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
           "triggers": [
-            "Regulatory"
+            "M&A"
           ],
           "sentiment": "Neutral",
-          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/4f/14/e863b3f0481ab3d183b258590a51/ai-concerns-16x9.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.financial-planning.com&sz=32"
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "Brookfield Asset Management",
-          "title": "Naver chairman meets Brookfield CEO , discusses AI data center business",
-          "url": "https://www.koreatimes.co.kr/business/tech-science/20260904/naver-chairman-meets-brookfield-ceo-discusses-ai-data-center-business",
-          "date": "2026-09-04",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://newsimg.koreatimes.co.kr/2026/09/04/92f46e2e-55bd-4f3e-aa4d-a9b1645d41f0.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.koreatimes.co.kr&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",
@@ -125,24 +56,22 @@
       "count": 1,
       "items": [
         {
-          "account": "VERISK ANALYTICS",
-          "title": "Verisk Analytics ( NASDAQ : VRSK ) CEO Lee Shavel Sells 3 , 535 Shares",
-          "url": "https://www.dailypolitical.com/2026/09/02/verisk-analytics-nasdaqvrsk-ceo-lee-shavel-sells-3535-shares.html",
-          "date": "2026-09-03",
-          "level": "High",
+          "account": "Hub International",
+          "title": "Datamaran Appoints Bert Sinnema as Chief Technology Officer",
+          "url": "https://www.thewhig.com/press-releases/pr-newswire/datamaran-appoints-bert-sinnema-as-chief-technology-officer/",
+          "date": "2026-09-04",
+          "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric",
-            "Security"
+            "Fabric"
           ],
           "triggers": [
-            "M&A",
             "CxO Change"
           ],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+          "image": "https://www.thewhig.com/wp-content/uploads/sites/5/2026/09/bert-sinnema_datamaran.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.thewhig.com&sz=32"
         }
       ]
     },

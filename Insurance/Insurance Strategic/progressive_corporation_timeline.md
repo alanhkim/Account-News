@@ -1,9 +1,10 @@
 # Progressive Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | After years of defying the odds , California David Valadao faces new test as Latinos turn on Trump | 🟡 Low | ⚪ Neutral | [link](https://www.khqa.com/news/nation-world/after-years-of-defying-the-odds-californias-david-valadao-faces-new-test-as-latinos-turn/article_5fc81d9d-2246-59ca-b4b8-2734bdc4df07.html) |
 | 2026-09-04 | How do coffee shops stay open in Charleston , South Carolina ? | 🟡 Low | ⚪ Neutral | [link](https://www.postandcourier.com/food/tip-jar-restaurant-questions-charleston-food/article_70428fb7-31da-4dfb-a30b-63507246aa65.html) |
 | 2026-08-31 | Jude Bellingham is back to his devastating best for Real Madrid | 🟡 Low | ⚪ Neutral | [link](https://www.managingmadrid.com/real-madrid-cf-players/112144/jude-bellingham-is-back-to-his-devastating-best-for-real-madrid) |
 | 2026-08-27 | Decodes Movement Intentions , Then Fades Away As Recovery Takes Hold | 🟡 Low | ⚪ Neutral | [link](https://www.newswise.com/articles/decodes-movement-intentions-then-fades-away-as-recovery-takes-hold) |

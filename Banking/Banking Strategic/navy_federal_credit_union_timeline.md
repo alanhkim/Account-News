@@ -1,6 +1,6 @@
 # NAVY FEDERAL CREDIT UNION — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated July 27, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|

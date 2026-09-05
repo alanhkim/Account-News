@@ -1,9 +1,10 @@
 # Alight — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | Trouble in Teesside : a symptom of broken Britain ? | 🟡 Low | ⚪ Neutral | [link](https://theweek.com/crime/trouble-in-teesside-a-symptom-of-broken-britain) |
 | 2026-09-04 | Middlesbrough  on lockdown  as schools shut for A66 funeral after  mourners torch cars | 🟡 Low | ⚪ Neutral | [link](https://www.dailystar.co.uk/news/latest-news/middlesbrough-on-lockdown-schools-shut-37626324) |
 | 2026-09-03 | Date announced for Heveningham Hall fireworks display \ | East Anglian Daily Times | 🟡 Low | ⚪ Neutral | [link](https://www.eadt.co.uk/news/26518201.date-announced-heveningham-hall-fireworks-display/) |
 | 2026-09-02 | Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact | 🟡 Low | ⚪ Neutral | [link](https://www.adn.com/nation-world/2026/09/02/symbolic-funerals-held-in-nepal-for-those-feared-lost-as-some-missing-tourists-make-contact/) |

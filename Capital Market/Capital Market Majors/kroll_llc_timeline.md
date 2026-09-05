@@ -1,9 +1,10 @@
 # Kroll, LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | California lawmakers revoke charity tax breaks for Imperial County ICE detention center | 🟡 Low | ⚪ Neutral | [link](https://www.kpbs.org/news/border-immigration/2026/09/04/california-lawmakers-revoke-charity-tax-breaks-for-imperial-county-ice-detention-center) |
 | 2026-09-03 | Result of Tender Offer \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/jsc-nc-kazmunaygas---42ai/result-of-tender-offer/9754095) |
 | 2026-08-26 | BHG Financial Closes a New ABS Transaction of $432 Million | 🟡 Low | ⚪ Neutral | [link](https://www.pr-inside.com/bhg-financial-closes-a-new-abs-transaction-of-432-million-r5216418.htm) |
 | 2026-08-20 | Timah Partners secures $60m debt facility for SME acquisitions | 🔴 High | ⚪ Neutral | [link](https://sbr.com.sg/markets-investing/news/timah-partners-secures-60m-debt-facility-sme-acquisitions) |

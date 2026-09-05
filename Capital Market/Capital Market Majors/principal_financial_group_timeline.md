@@ -1,9 +1,10 @@
 # PRINCIPAL FINANCIAL GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-04 | indie Semiconductor ( NASDAQ : INDI ) COO Sells $63 , 407 . 40 in Stock | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/04/indie-semiconductor-nasdaqindi-coo-sells-63407-40-in-stock.html) |
 | 2026-08-26 | Sanctuary Advisors LLC Invests $3 . 80 Million in Hubbell Inc $HUBB | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/26/sanctuary-advisors-llc-invests-3-80-million-in-hubbell-inc-hubb.html) |
 | 2026-08-18 | Vertical Data Appoints Chris Downs as Interim Chief Financial Officer | 🟠 Medium | ⚪ Neutral | [link](https://www.prnewswire.com/news-releases/vertical-data-appoints-chris-downs-as-interim-chief-financial-officer-302854273.html) |
 | 2026-07-31 | Corning Incorporated $GLW Holdings Decreased by Leigh Baldwin & CO . LLC | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13524079/corning-incorporated-glw-holdings-decreased-by-leigh-baldwin-co-llc.html) |

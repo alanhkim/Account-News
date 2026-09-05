@@ -1,9 +1,10 @@
 # ERIE INSURANCE GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | Assure America sweeps three Erie Insurance District Sales Awards | 🟡 Low | ⚪ Neutral | [link](https://www.weirtondailytimes.com/news/2026/09/assure-america-sweeps-three-erie-insurance-district-sales-awards/) |
 | 2026-08-05 | Wall Street hit by wave of  vishing  hack attempts | 🔴 High | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/wall-street-hit-by-wave-of-vishing-hack-attempts-585090.aspx) |
 | 2026-07-31 | Erie Indemnity fee revenue rises 4 . 7 % on Exchange premium growth | 🔴 High | 🟢 Positive | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/erie-indemnity-fee-revenue-rises-4-7-on-exchange-premium-growth-584537.aspx) |
 | 2026-07-28 | New Public Art Installation Takes Shape Outside Erie Insurance Arena | 🟡 Low | ⚪ Neutral | [link](https://www.erienewsnow.com/news/new-public-art-installation-takes-shape-outside-erie-insurance-arena/article_e4ded15d-d9d9-4339-a2c8-a78249c945da.html) |

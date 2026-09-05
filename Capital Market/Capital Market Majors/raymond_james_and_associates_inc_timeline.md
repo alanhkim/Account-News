@@ -1,9 +1,10 @@
 # Raymond James and Associates Inc — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | Dollar General ( DG ) or Dollar Tree ( DLTR ): Which Stock Is Better ? | 🟡 Low | ⚪ Neutral | [link](https://www.insidermonkey.com/blog/dollar-general-dg-or-dollar-tree-dltr-which-stock-is-better-1824819/) |
 | 2026-08-27 | Segall Bryant & Hamill Select Equity ETF ( NYSEARCA : USSE ) Sees Large Growth in Short Interest | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13561484/segall-bryant-hamill-select-equity-etf-nysearcausse-sees-large-growth-in-short-interest.html) |
 | 2026-08-25 | L2 Asset Management LLC Buys New Stake in Union Pacific Corporation $UNP | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/25/l2-asset-management-llc-buys-new-stake-in-union-pacific-corporation-unp.html) |
 | 2026-08-18 | Martin Marietta Materials ( NYSE : MLM ) Reaches New 1 - Year Low – What Next ? | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13548677/martin-marietta-materials-nysemlm-reaches-new-1-year-low-whats-next.html) |

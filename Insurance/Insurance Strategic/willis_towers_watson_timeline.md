@@ -1,9 +1,10 @@
 # Willis Towers Watson — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-01 | Savino leaves Trucordia to lead Australian cyber MGA US launch | 🟠 Medium | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/cyber/savino-leaves-trucordia-to-lead-australian-cyber-mgas-us-launch-588089.aspx) |
 | 2026-08-17 | USI accuses three ex - brokers of taking clients to rival Howden | 🟡 Low | ⚪ Neutral | [link](https://www.businessinsurance.com/usi-accuses-three-ex-brokers-of-taking-clients-to-rival-howden/) |
 | 2026-08-13 | Jim Cramer Highlights Willis Towers Watson Following July Gains | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-willis-towers-165206894.html) |
 | 2026-07-28 | Unclear risks drive excess data center coverage : Willis | 🟠 Medium | ⚪ Neutral | [link](https://www.businessinsurance.com/unclear-risks-drive-excess-data-center-coverage-willis/) |

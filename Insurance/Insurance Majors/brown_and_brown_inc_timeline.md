@@ -1,9 +1,10 @@
 # BROWN AND BROWN, Inc. — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 05, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | Amazon Music Presents OFF TO COLLEGE with KANE BROWN , an Exclusive Live Concert | 🟡 Low | ⚪ Neutral | [link](https://today.wisc.edu/events/view/224503) |
 | 2026-08-26 | Coverys Appoints Walter Grote as Chief Underwriting Officer | 🟠 Medium | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/26/tmt-newswire/globenewswire/coverys-appoints-walter-grote-as-chief-underwriting-officer/2412611) |
 | 2026-08-13 | Indian Painted Rocks along Little Spokane River spared in Spokane Complex fires , but recovery of natural area to take years | 🟡 Low | ⚪ Neutral | [link](https://www.spokesman.com/stories/2026/aug/13/indian-painted-rocks-along-little-spokane-river-sp/) |
 | 2026-08-12 | Autonomous AI hit on Taiwan linked to China | 🟠 Medium | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/cyber/autonomous-ai-hit-on-taiwan-linked-to-china-585847.aspx) |
