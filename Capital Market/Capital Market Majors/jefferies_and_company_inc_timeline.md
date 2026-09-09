@@ -1,9 +1,10 @@
 # JEFFERIES & COMPANY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | Private Equity : How the Big Long Became a Long Con as Fund Managers Hang on to Investor Funds Trying to Keep Up Pretense of Adequate Performance | 🔴 High | 🟢 Positive | [link](https://www.nakedcapitalism.com/2026/09/private-equity-how-the-big-long-became-a-long-con-as-fund-managers-hang-on-to-investor-funds-trying-to-keep-up-pretense-of-adequate-performance.html) |
 | 2026-09-04 | Apple Inc . $AAPL Position Lessened by Resona Asset Management Co . Ltd . | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/04/apple-inc-aapl-position-lessened-by-resona-asset-management-co-ltd.html) |
 | 2026-08-25 | Scotiabank posts record quarter as capital markets surge lifts profit past estimates | 🔴 High | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html) |
 | 2026-08-20 | Things to do this weekend in Pa ., N . J ., and Del . | 🟡 Low | ⚪ Neutral | [link](https://whyy.org/articles/things-to-do-august-2026-fourth-weekend/) |

@@ -1,9 +1,10 @@
 # Flagstar Bank — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-06 | Investment Analyst Upgrades for September 6th ( ADSK , AMIX , ARGX , ASYS , BBAR , BE , BJDX , CPAY , DXCM , EFSI ) | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/06/investment-analysts-upgrades-for-september-6th-adsk-amix-argx-asys-bbar-be-bjdx-cpay-dxcm-efsi.html) |
 | 2026-09-02 | Mortgage Banking Update - August 27 , 2026 | 🟡 Low | ⚪ Neutral | [link](https://www.mondaq.com:443/unitedstates/financial-services/1837594/mortgage-banking-update-august-27-2026) |
 | 2026-08-17 | Fiserv and Flagstar Bank Announce Strategic Core Banking Relationship | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/fiserv-and-flagstar-bank-announce-strategic-core-banking-relationship/2406825) |
 | 2026-08-11 | Arts , Beats & Eats to debut new plaza , music and food | 🟡 Low | 🟢 Positive | [link](https://www.candgnews.com/articles/features-news/arts-beats-eats-to-debut-new-plaza-music-and-food/) |

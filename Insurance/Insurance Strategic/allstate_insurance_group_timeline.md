@@ -1,9 +1,10 @@
 # ALLSTATE INSURANCE GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-07 | HelloNation Examines Insurance Agent Selection With Insights From Insurance Expert Edward Vasquez | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/hellonation-examines-insurance-agent-selection-with-insights-from-insurance-expert-edward-vasquez-302767982.html) |
 | 2026-09-04 | Allstate appraiser , 67 , alleges  old guy  remarks led to firing | 🟡 Low | 🟢 Positive | [link](https://www.hcamag.com/us/specialization/employment-law/allstate-appraiser-67-alleges-old-guy-remarks-led-to-firing/588725) |
 | 2026-08-11 | In HelloNation ,  K . D . the Insurance Queen  Sakraida of Centennial , CO , explains homeowner insurance coverage for Colorado Storms . | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/in-hellonation-kd-the-insurance-queen-sakraida-of-centennial-co-explains-homeowners-insurance-coverage-for-colorado-storms-302847204.html) |
 | 2026-07-30 | Stephen A . White | 🟡 Low | ⚪ Neutral | [link](https://www.primepublishers.com/voicesnews/news/obituaries/stephen-a-white/article_fbf48a2f-a91a-41e7-a507-925b16173d70.html) |

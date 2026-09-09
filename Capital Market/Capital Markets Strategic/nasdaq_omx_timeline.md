@@ -1,9 +1,10 @@
 # NASDAQ OMX — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | Atlantic Petroleum - Result of the Extraordinary General Meeting 8th September 2026 | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/09/09/tmt-newswire/globenewswire/atlantic-petroleum-result-of-the-extraordinary-general-meeting-8th-september-2026/2421076) |
 | 2026-09-02 | Contrarian Signal Flashing for Ciena Stock | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html) |
 | 2026-08-21 | Electrolux Group catalog \ | ArchDaily | 🟡 Low | 🟢 Positive | [link](https://www.archdaily.com/catalog/en/companies/2472/electrolux-group) |
 | 2026-08-15 | Rigetti Stock Bullish Signal Could Mean More Upside | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/rigetti-stocks-bullish-signal-could-190957553.html) |

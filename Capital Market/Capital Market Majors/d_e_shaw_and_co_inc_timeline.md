@@ -1,9 +1,10 @@
 # D E SHAW & CO INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-07 | Hedge Fund PR in 2026 : The Playbook | 🔴 High | ⚪ Neutral | [link](https://everything-pr.com/hedge-fund-pr-in-2026-the-ai-communications-pillar) |
 | 2026-09-03 | Five Below ( NASDAQ : FIVE ) Issues FY 2026 Earnings Guidance | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13571159/five-below-nasdaqfive-issues-fy-2026-earnings-guidance.html) |
 | 2026-08-27 | Form 8 . 3 - DCC Energy plc \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |
 | 2026-08-26 | This Generator Stock Has Been Crushed . But Data Center Orders Just Became a $1 Billion Growth Story | 🟠 Medium | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html) |

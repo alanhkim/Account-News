@@ -1,9 +1,10 @@
 # HEALTHEQUITY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-05 | SBC Medical Group ( NASDAQ : SBC ) and HealthEquity ( NASDAQ : HQY ) Head to Head Survey | 🟡 Low | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/09/05/sbc-medical-group-nasdaqsbc-and-healthequity-nasdaqhqy-head-to-head-survey.html) |
 | 2026-08-24 | HealthEquity ( NASDAQ : HQY ) Raised to  Buy  at Wall Street Zen | 🟡 Low | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/08/24/healthequity-nasdaqhqy-raised-to-buy-at-wall-street-zen.html) |
 | 2026-08-18 | # national : Aged Care Time Bomb : Cunliffe Warns Reform Cannot Wait - Waatea News : Māori Radio Station | 🟡 Low | 🔴 Negative | [link](https://waateanews.com/2026/08/19/aged-care-time-bomb-cunliffe-warns-reform-cannot-wait/) |
 | 2026-08-12 | # hauora : Health System Under Pressure as Funding and Primary Care Face Scrutiny - Waatea News : Māori Radio Station | 🔴 High | 🔴 Negative | [link](https://waateanews.com/2026/08/12/health-system-under-pressure-as-funding-and-primary-care-face-scrutiny/) |

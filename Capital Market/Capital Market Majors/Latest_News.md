@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** September 05, 2026  
-**Accounts tracked:** 67  
-**Accounts with news this cycle:** 14  
+**Updated:** September 09, 2026  
+**Accounts tracked:** 66  
+**Accounts with news this cycle:** 19  
 
 ---
 
@@ -10,147 +10,195 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **BERKSHIRE HATHAWAY INC** | All It Takes Is $10 , 000 Invested in This Dividend Stock to Generate Over $241 in Yearly Dividends | 2026-09-05 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/takes-10-000-invested-dividend-122000316.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **AMERIPRISE FINANCIAL INC** | iShares U . S . Broker - Dealers & Securities Exchanges ETF ( NYSEARCA : IAI ) Sets New 12 - Month High – Should You Buy ? | 2026-09-05 | 🔴 High | ⚪ Neutral | M&A | Azure AI | [link](https://www.themarketsdaily.com/2026/09/05/ishares-u-s-broker-dealers-securities-exchanges-etf-nysearcaiai-sets-new-12-month-high-should-you-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | indie Semiconductor ( NASDAQ : INDI ) COO Sells $63 , 407 . 40 in Stock | 2026-09-04 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypolitical.com/2026/09/04/indie-semiconductor-nasdaqindi-coo-sells-63407-40-in-stock.html) |
-| ![](https://www.google.com/s2/favicons?domain=openthemagazine.com&sz=32) | **DAVIDSON KEMPNER** | Aakash Coaching 50 Toppers , 0 . 75 % Margin : Inside the Post - Byju Struggle With Stagnant Revenue and Vanishing EBITDA | 2026-09-03 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://openthemagazine.com/business/50-toppers-075-margin-aakash-still-cant-exorcise-the-ghost-of-byjus) |
-| ![](https://www.google.com/s2/favicons?domain=www.fooddive.com&sz=32) | **PLATINUM EQUITY LLC** | Nestlé reaches $1B deal to sell 7 vitamin , mineral and supplement brands | 2026-09-01 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **LAZARD FRERES AND COMPANY** | Pasqal and Bleichroeder Acquisition Corp . II Complete Business Combination | 2026-08-27 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.manilatimes.net/2026/08/28/tmt-newswire/globenewswire/pasqal-and-bleichroeder-acquisition-corp-ii-complete-business-combination/2413750) |
-| ![](https://www.google.com/s2/favicons?domain=www.proactiveinvestors.com&sz=32) | **Fortress Investment Group** | Adobe stock drops on surprise CEO transition | 2026-09-04 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.proactiveinvestors.com/companies/news/1098131/adobe-stock-drops-on-surprise-ceo-transition-1098131.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32) | **Raymond James and Associates Inc** | Dollar General ( DG ) or Dollar Tree ( DLTR ): Which Stock Is Better ? | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insidermonkey.com/blog/dollar-general-dg-or-dollar-tree-dltr-which-stock-is-better-1824819/) |
-| ![](https://www.google.com/s2/favicons?domain=www.kpbs.org&sz=32) | **Kroll, LLC** | California lawmakers revoke charity tax breaks for Imperial County ICE detention center | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.kpbs.org/news/border-immigration/2026/09/04/california-lawmakers-revoke-charity-tax-breaks-for-imperial-county-ice-detention-center) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **FISHER INVESTMENTS** | An $860 , 000 Portfolio That Quietly Pays You $5 , 100 a Month Without Touching Principal | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/markets/stocks/articles/860-000-portfolio-quietly-pays-124312975.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Turner Financial Group Inc . Takes Position in Teradyne , Inc . $TER | 2026-09-05 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/05/turner-financial-group-inc-takes-position-in-teradyne-inc-ter.html) |
-| ![](https://www.google.com/s2/favicons?domain=collider.com&sz=32) | **LOUIS DREYFUS CORP** | 10 Great Sitcoms That Everyone Forgot About | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://collider.com/sitcoms-everyone-forgot/) |
-| ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **Ascensus, Inc.** | Retirement plan administrator loses $40M cover bid | 2026-08-24 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.businessinsurance.com/retirement-plan-administrator-loses-40m-cover-bid/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nakedcapitalism.com&sz=32) | **JEFFERIES & COMPANY INC** | Private Equity : How the Big Long Became a Long Con as Fund Managers Hang on to Investor Funds Trying to Keep Up Pretense of Adequate Performance | 2026-09-09 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.nakedcapitalism.com/2026/09/private-equity-how-the-big-long-became-a-long-con-as-fund-managers-hang-on-to-investor-funds-trying-to-keep-up-pretense-of-adequate-performance.html) |
+| ![](https://www.google.com/s2/favicons?domain=everything-pr.com&sz=32) | **D E SHAW & CO INC** | Hedge Fund PR in 2026 : The Playbook | 2026-09-07 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://everything-pr.com/hedge-fund-pr-in-2026-the-ai-communications-pillar) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **TWO SIGMA INVESTMENTS** | The Manufacturers Life Insurance Company Acquires New Shares in Hilltop Holdings Inc . $HTH | 2026-09-06 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.dailypolitical.com/2026/09/06/the-manufacturers-life-insurance-company-acquires-new-shares-in-hilltop-holdings-inc-hth.html) |
+| ![](https://www.google.com/s2/favicons?domain=wwd.com&sz=32) | **ROCKEFELLER AND COMPANY** | Alo Unveils Fall 2026 Bag Collection With New Styles & Leather Goods | 2026-09-09 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://wwd.com/accessories-news/leather-goods/alo-fall-2026-luxury-bag-collection-launch-small-leather-goods-1239202675/) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **Apollo Management** | Jim Chanos Challenges Jensen Huang Over Nvidia  Highly Rentable  AI Chips :  Why Not Rent Them Out Yourself ? | 2026-09-09 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.aol.com/articles/jim-chanos-challenges-jensen-huang-093947000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.newsweek.com&sz=32) | **Dun & Bradstreet Corporation** | US - Indian IT Giant Cognizant Hit With Green Card Freeze , H - 1B Fraud Probe | 2026-09-09 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.newsweek.com/us-indian-it-giant-cognizant-hit-with-green-card-freeze-h-1b-fraud-probe-12419136) |
+| ![](https://www.google.com/s2/favicons?domain=santamariatimes.com&sz=32) | **BAIN CAPITAL LLC** | Argyle expands Tidalwave integration to unify income , employment and asset verification with real - time operability to Encompass | 2026-09-09 | 🟡 Low | 🟢 Positive | — | — | [link](https://santamariatimes.com/ap/national/argyle-expands-tidalwave-integration-to-unify-income-employment-and-asset-verification-with-real-time-operability/article_00fe83ad-2a9c-53f9-be41-dc8f6914bf4f.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **INVESCO** | FY2026 EPS Forecast for Cullen / Frost Bankers Cut by Analyst | 2026-09-09 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.themarketsdaily.com/2026/09/09/fy2026-eps-forecast-for-cullen-frost-bankers-cut-by-analyst.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Raymond James and Associates Inc** | BTIG Research Lowers Boston Scientific ( NYSE : BSX ) Price Target to $56 . 00 | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13578205/btig-research-lowers-boston-scientific-nysebsx-price-target-to-56-00.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.insidermonkey.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Apple ( AAPL )  Surprise and Shine  Event Tests Its Foldable iPhone Against Huawei and Xiaomi | 2026-09-09 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.insidermonkey.com/blog/apples-aapl-surprise-and-shine-event-tests-its-foldable-iphone-against-huawei-and-xiaomi-1834973/) |
+| ![](https://www.google.com/s2/favicons?domain=www.hudsonstarobserver.com&sz=32) | **Kroll, LLC** | St . Croix Valley Food Bank is expanding : Column \| Opinion | 2026-09-09 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.hudsonstarobserver.com/opinion/st-croix-valley-food-bank-became-the-unsung-hero-of-western-wisconsin-now-it-s/article_31768ce7-e76a-4955-99cc-63d22793d602.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **The Capital Group Companies, Inc.** | US fixed 30 - year mortgage rate climbs to highest since June 2025 | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/us-fixed-30-mortgage-rate-110206000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **AMERIPRISE FINANCIAL INC** | Premarket : Wall Street futures dip as oil tops $100 for first time since July | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-wall-street-futures-muted-as-oil-tops-100-for-first-time/) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **PRINCIPAL FINANCIAL GROUP** | Rep . Gilbert Ray Cisneros , Jr . Purchases National Health Investors , Inc . ( NYSE : NHI ) Shares | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/08/rep-gilbert-ray-cisneros-jr-purchases-national-health-investors-inc-nysenhi-shares.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Advanced Micro Devices , Inc . $AMD Shares Bought by Integrated Wealth Concepts LLC | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13578215/advanced-micro-devices-inc-amd-shares-bought-by-integrated-wealth-concepts-llc.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.latimes.com&sz=32) | **LOUIS DREYFUS CORP** | 2026 Emmy predictions : Our expert picks the winners | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.latimes.com/entertainment-arts/awards/story/2026-09-09/2026-emmy-predictions-winners) |
+| ![](https://www.google.com/s2/favicons?domain=www.sbnation.com&sz=32) | **Guggenheim Partners** | Pablo Torre Dodgers bombshell reveals real threat to every American | 2026-09-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sbnation.com/mlb/1127272/pablo-torre-dodgers-bombshell-reveals-mark-walter-guggenheim) |
+| ![](https://www.google.com/s2/favicons?domain=247wallst.com&sz=32) | **Intercontinentalexchange** | Intercontinental Exchange Inc ( ICE ) Stock News & Articles | 2026-08-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://247wallst.com/companies/ice/) |
 | ![](https://www.google.com/s2/favicons?domain=www.hrreporter.com&sz=32) | **Securian** | July jobs bounce didnt reach everyone equally | 2026-08-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
 
 ## Detail
 
-### BERKSHIRE HATHAWAY INC
-**All It Takes Is $10 , 000 Invested in This Dividend Stock to Generate Over $241 in Yearly Dividends** — 2026-09-05 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/takes-10-000-invested-dividend-122000316.html)
-
-### AMERIPRISE FINANCIAL INC
-**iShares U . S . Broker - Dealers & Securities Exchanges ETF ( NYSEARCA : IAI ) Sets New 12 - Month High – Should You Buy ?** — 2026-09-05 — 🔴 High — ⚪ Neutral
+### JEFFERIES & COMPANY INC
+**Private Equity : How the Big Long Became a Long Con as Fund Managers Hang on to Investor Funds Trying to Keep Up Pretense of Adequate Performance** — 2026-09-09 — 🔴 High — 🟢 Positive
 
 
 
 _Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.nakedcapitalism.com/2026/09/private-equity-how-the-big-long-became-a-long-con-as-fund-managers-hang-on-to-investor-funds-trying-to-keep-up-pretense-of-adequate-performance.html)
+
+### D E SHAW & CO INC
+**Hedge Fund PR in 2026 : The Playbook** — 2026-09-07 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://everything-pr.com/hedge-fund-pr-in-2026-the-ai-communications-pillar)
+
+### TWO SIGMA INVESTMENTS
+**The Manufacturers Life Insurance Company Acquires New Shares in Hilltop Holdings Inc . $HTH** — 2026-09-06 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ M&A  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/09/06/the-manufacturers-life-insurance-company-acquires-new-shares-in-hilltop-holdings-inc-hth.html)
+
+### ROCKEFELLER AND COMPANY
+**Alo Unveils Fall 2026 Bag Collection With New Styles & Leather Goods** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://wwd.com/accessories-news/leather-goods/alo-fall-2026-luxury-bag-collection-launch-small-leather-goods-1239202675/)
+
+### Apollo Management
+**Jim Chanos Challenges Jensen Huang Over Nvidia  Highly Rentable  AI Chips :  Why Not Rent Them Out Yourself ?** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
+
+
+
 _Solution plays:_ Azure AI  
 _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.themarketsdaily.com/2026/09/05/ishares-u-s-broker-dealers-securities-exchanges-etf-nysearcaiai-sets-new-12-month-high-should-you-buy.html)
+[Read →](https://www.aol.com/articles/jim-chanos-challenges-jensen-huang-093947000.html)
 
-### PRINCIPAL FINANCIAL GROUP
-**indie Semiconductor ( NASDAQ : INDI ) COO Sells $63 , 407 . 40 in Stock** — 2026-09-04 — 🔴 High — ⚪ Neutral
+### Dun & Bradstreet Corporation
+**US - Indian IT Giant Cognizant Hit With Green Card Freeze , H - 1B Fraud Probe** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ M&A  
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](https://www.newsweek.com/us-indian-it-giant-cognizant-hit-with-green-card-freeze-h-1b-fraud-probe-12419136)
+
+### BAIN CAPITAL LLC
+**Argyle expands Tidalwave integration to unify income , employment and asset verification with real - time operability to Encompass** — 2026-09-09 — 🟡 Low — 🟢 Positive
+
+
+
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/09/04/indie-semiconductor-nasdaqindi-coo-sells-63407-40-in-stock.html)
+[Read →](https://santamariatimes.com/ap/national/argyle-expands-tidalwave-integration-to-unify-income-employment-and-asset-verification-with-real-time-operability/article_00fe83ad-2a9c-53f9-be41-dc8f6914bf4f.html)
 
-### DAVIDSON KEMPNER
-**Aakash Coaching 50 Toppers , 0 . 75 % Margin : Inside the Post - Byju Struggle With Stagnant Revenue and Vanishing EBITDA** — 2026-09-03 — 🔴 High — ⚪ Neutral
+### INVESCO
+**FY2026 EPS Forecast for Cullen / Frost Bankers Cut by Analyst** — 2026-09-09 — 🟡 Low — 🔴 Negative
 
 
 
-_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://openthemagazine.com/business/50-toppers-075-margin-aakash-still-cant-exorcise-the-ghost-of-byjus)
-
-### PLATINUM EQUITY LLC
-**Nestlé reaches $1B deal to sell 7 vitamin , mineral and supplement brands** — 2026-09-01 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/)
-
-### LAZARD FRERES AND COMPANY
-**Pasqal and Bleichroeder Acquisition Corp . II Complete Business Combination** — 2026-08-27 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/08/28/tmt-newswire/globenewswire/pasqal-and-bleichroeder-acquisition-corp-ii-complete-business-combination/2413750)
-
-### Fortress Investment Group
-**Adobe stock drops on surprise CEO transition** — 2026-09-04 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.proactiveinvestors.com/companies/news/1098131/adobe-stock-drops-on-surprise-ceo-transition-1098131.html)
+[Read →](https://www.themarketsdaily.com/2026/09/09/fy2026-eps-forecast-for-cullen-frost-bankers-cut-by-analyst.html)
 
 ### Raymond James and Associates Inc
-**Dollar General ( DG ) or Dollar Tree ( DLTR ): Which Stock Is Better ?** — 2026-09-05 — 🟡 Low — ⚪ Neutral
+**BTIG Research Lowers Boston Scientific ( NYSE : BSX ) Price Target to $56 . 00** — 2026-09-09 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insidermonkey.com/blog/dollar-general-dg-or-dollar-tree-dltr-which-stock-is-better-1824819/)
+[Read →](https://www.tickerreport.com/banking-finance/13578205/btig-research-lowers-boston-scientific-nysebsx-price-target-to-56-00.html)
+
+### BERKSHIRE HATHAWAY INC
+**Apple ( AAPL )  Surprise and Shine  Event Tests Its Foldable iPhone Against Huawei and Xiaomi** — 2026-09-09 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insidermonkey.com/blog/apples-aapl-surprise-and-shine-event-tests-its-foldable-iphone-against-huawei-and-xiaomi-1834973/)
 
 ### Kroll, LLC
-**California lawmakers revoke charity tax breaks for Imperial County ICE detention center** — 2026-09-05 — 🟡 Low — ⚪ Neutral
+**St . Croix Valley Food Bank is expanding : Column | Opinion** — 2026-09-09 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.kpbs.org/news/border-immigration/2026/09/04/california-lawmakers-revoke-charity-tax-breaks-for-imperial-county-ice-detention-center)
+[Read →](https://www.hudsonstarobserver.com/opinion/st-croix-valley-food-bank-became-the-unsung-hero-of-western-wisconsin-now-it-s/article_31768ce7-e76a-4955-99cc-63d22793d602.html)
 
-### FISHER INVESTMENTS
-**An $860 , 000 Portfolio That Quietly Pays You $5 , 100 a Month Without Touching Principal** — 2026-09-05 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/860-000-portfolio-quietly-pays-124312975.html)
-
-### ROBERT W. BAIRD & CO INC
-**Turner Financial Group Inc . Takes Position in Teradyne , Inc . $TER** — 2026-09-05 — 🟡 Low — 🟢 Positive
+### The Capital Group Companies, Inc.
+**US fixed 30 - year mortgage rate climbs to highest since June 2025** — 2026-09-09 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/09/05/turner-financial-group-inc-takes-position-in-teradyne-inc-ter.html)
+[Read →](https://www.aol.com/articles/us-fixed-30-mortgage-rate-110206000.html)
+
+### AMERIPRISE FINANCIAL INC
+**Premarket : Wall Street futures dip as oil tops $100 for first time since July** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-wall-street-futures-muted-as-oil-tops-100-for-first-time/)
+
+### PRINCIPAL FINANCIAL GROUP
+**Rep . Gilbert Ray Cisneros , Jr . Purchases National Health Investors , Inc . ( NYSE : NHI ) Shares** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/09/08/rep-gilbert-ray-cisneros-jr-purchases-national-health-investors-inc-nysenhi-shares.html)
+
+### WILLIAM BLAIR & COMPANY
+**Advanced Micro Devices , Inc . $AMD Shares Bought by Integrated Wealth Concepts LLC** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.tickerreport.com/banking-finance/13578215/advanced-micro-devices-inc-amd-shares-bought-by-integrated-wealth-concepts-llc.html)
 
 ### LOUIS DREYFUS CORP
-**10 Great Sitcoms That Everyone Forgot About** — 2026-09-05 — 🟡 Low — ⚪ Neutral
+**2026 Emmy predictions : Our expert picks the winners** — 2026-09-09 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://collider.com/sitcoms-everyone-forgot/)
+[Read →](https://www.latimes.com/entertainment-arts/awards/story/2026-09-09/2026-emmy-predictions-winners)
 
-### Ascensus, Inc.
-**Retirement plan administrator loses $40M cover bid** — 2026-08-24 — 🟡 Low — ⚪ Neutral
+### Guggenheim Partners
+**Pablo Torre Dodgers bombshell reveals real threat to every American** — 2026-09-04 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.businessinsurance.com/retirement-plan-administrator-loses-40m-cover-bid/)
+[Read →](https://www.sbnation.com/mlb/1127272/pablo-torre-dodgers-bombshell-reveals-mark-walter-guggenheim)
+
+### Intercontinentalexchange
+**Intercontinental Exchange Inc ( ICE ) Stock News & Articles** — 2026-08-14 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://247wallst.com/companies/ice/)
 
 ### Securian
 **July jobs bounce didnt reach everyone equally** — 2026-08-12 — 🟡 Low — ⚪ Neutral
@@ -163,40 +211,34 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 ---
 
-<details><summary>Accounts with no material news this cycle (53)</summary>
+<details><summary>Accounts with no material news this cycle (47)</summary>
 
 - CITADEL INVESTMENT GROUP
 - EDWARD D JONES AND COMPANY
 - S A C CAPITAL ADVISORS LLC
 - TIAA CREF
-- Apollo Management
-- BAIN CAPITAL LLC
 - KOHLBERG KRAVIS ROBERTS & CO LLC
-- Dun & Bradstreet Corporation
-- INVESCO
+- PLATINUM EQUITY LLC
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
 - Federated Investors
-- Intercontinentalexchange
 - LPL Financial
-- D E SHAW & CO INC
 - gmo
 - Ion Trading
-- JEFFERIES & COMPANY INC
 - MSCI Inc
 - NEUBERGER BERMAN
+- Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
 - T ROWE PRICE ASSOCIATES
 - WELLINGTON MANAGEMENT COMPANY LLC
-- BGC PARTNERS
-- Trading Group, LLC
+- BGC PARTNERS,Trading Group, LLC
 - MORNINGSTAR INC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
 - DEPOSITORY TRUST CLEARING CORPORATION
 - DISCOVER FINANCIAL
-- TWO SIGMA INVESTMENTS
+- Fortress Investment Group
 - Balyasny Asset Management
 - BROWN BROTHERS HARRIMAN AND COMPANY
 - Chicago mercantile Exchange
@@ -208,18 +250,18 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - CERBERUS CAPITAL MANAGEMENT LP
 - TPG Capital
 - Berkshire Hathaway Energy
-- Guggenheim Partners
+- DAVIDSON KEMPNER
 - MOODYS INVESTORS SERVICE
-- ROCKEFELLER AND COMPANY
 - First Advantage Corporation
+- FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
-- The Capital Group Companies, Inc.
 - Voya Services Company
-- WILLIAM BLAIR & COMPANY
+- ROBERT W. BAIRD & CO INC
+- LAZARD FRERES AND COMPANY
 - SEI CORP
 - Stone X
 
 </details>
 
 ---
-_Auto-generated on September 05, 2026._
+_Auto-generated on September 09, 2026._

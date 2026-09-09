@@ -1,23 +1,57 @@
 {
-  "generated": "2026-09-05",
-  "generated_human": "September 05, 2026",
+  "generated": "2026-09-09",
+  "generated_human": "September 09, 2026",
   "counts": {
-    "accounts_total": 285,
-    "with_news": 2,
-    "high": 1
+    "accounts_total": 284,
+    "with_news": 3,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "Datasite",
+          "title": "Grata brings private market data to Perplexity Computer",
+          "url": "https://cfotech.news/story/grata-brings-private-market-data-to-perplexity-computer",
+          "date": "2026-08-27",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cfotech.news/uploads/story/2026/08/28/compatible_jeff-grimes-story-317756.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
+        }
+      ]
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "US BANK",
+          "title": "Trump govt to target deported migrants abroad over $423 million in unpaid fines , as immigration crackdown ramps up",
+          "url": "https://www.hindustantimes.com/world-news/us-news/trump-govt-to-target-deported-migrants-abroad-over-423-million-in-unpaid-fines-as-immigration-crackdown-ramps-up-101788939920230.html",
+          "date": "2026-09-09",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Capital Market",
@@ -25,22 +59,20 @@
       "count": 1,
       "items": [
         {
-          "account": "AMERIPRISE FINANCIAL INC",
-          "title": "iShares U . S . Broker - Dealers & Securities Exchanges ETF ( NYSEARCA : IAI ) Sets New 12 - Month High – Should You Buy ?",
-          "url": "https://www.themarketsdaily.com/2026/09/05/ishares-u-s-broker-dealers-securities-exchanges-etf-nysearcaiai-sets-new-12-month-high-should-you-buy.html",
-          "date": "2026-09-05",
-          "level": "High",
+          "account": "Apollo Management",
+          "title": "Jim Chanos Challenges Jensen Huang Over Nvidia  Highly Rentable  AI Chips :  Why Not Rent Them Out Yourself ?",
+          "url": "https://www.aol.com/articles/jim-chanos-challenges-jensen-huang-093947000.html",
+          "date": "2026-09-09",
+          "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [
-            "M&A"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+          "image": "https://hermes.media.static.aol.com/media/2026/09/09/0f8526b1-38c0-3e93-9793-ee2905218d22/a2d6775f-a348-4ecb-988d-24c1f42889bf.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.aol.com&sz=32"
         }
       ]
     },
@@ -53,27 +85,8 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 1,
-      "items": [
-        {
-          "account": "Hub International",
-          "title": "Datamaran Appoints Bert Sinnema as Chief Technology Officer",
-          "url": "https://www.thewhig.com/press-releases/pr-newswire/datamaran-appoints-bert-sinnema-as-chief-technology-officer/",
-          "date": "2026-09-04",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "CxO Change"
-          ],
-          "sentiment": "Neutral",
-          "image": "https://www.thewhig.com/wp-content/uploads/sites/5/2026/09/bert-sinnema_datamaran.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.thewhig.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",

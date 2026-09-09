@@ -1,9 +1,10 @@
 # Experian — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | Yubi Group Launches  TopScore  at GFF 2026 to Widen Credit Health Awareness for Indian borrowers | 🟠 Medium | 🟢 Positive | [link](https://aninews.in/news/business/yubi-group-launches-topscore-at-gff-2026-to-widen-credit-health-awareness-for-indian-borrowers20260909171435/) |
 | 2026-08-27 | Household debt in Brazil shadows the 2027 outlook | 🟡 Low | ⚪ Neutral | [link](https://www.riotimesonline.com/brazil-household-debt-poorest-consumption-2027/) |
 | 2026-08-26 | Student Loan Scams 2026 : How To Protect Yourself | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/student-loan-scams-2026-how-to-protect-yourself/) |
 | 2026-08-25 | Finfind partnership aims to unlock finance for Western Cape MSMEs | 🟠 Medium | ⚪ Neutral | [link](https://www.bizcommunity.com/article/finfind-partnership-aims-to-unlock-finance-for-western-cape-msmes-419449a) |

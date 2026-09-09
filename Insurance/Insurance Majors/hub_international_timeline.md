@@ -1,9 +1,10 @@
 # Hub International — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | HUB International Names Ryan Spinner President of HUB Customer Central ( HCC ), Succeeding Greg Andrew | 🟠 Medium | ⚪ Neutral | [link](https://www.standard-freeholder.com/press-releases/pr-newswire/hub-international-names-ryan-spinner-president-of-hub-customer-central-hcc-succeeding-greg-andrew/) |
 | 2026-09-04 | Datamaran Appoints Bert Sinnema as Chief Technology Officer | 🟠 Medium | ⚪ Neutral | [link](https://www.thewhig.com/press-releases/pr-newswire/datamaran-appoints-bert-sinnema-as-chief-technology-officer/) |
 | 2026-09-02 | Germany blames Russia for last month attempted drone attack at Leipzig airport | 🟡 Low | 🔴 Negative | [link](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport) |
 | 2026-08-31 | SF Holding Reports Solid First Half 2026 Results , Accelerating International Growth and Enhancing Shareholder Returns | 🔴 High | 🟢 Positive | [link](https://en.antaranews.com/news/429111/sf-holding-reports-solid-first-half-2026-results-accelerating-international-growth-and-enhancing-shareholder-returns) |

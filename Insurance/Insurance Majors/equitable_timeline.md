@@ -1,9 +1,10 @@
 # EQUITABLE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | New Orleans Public Library shares news and events \| Crescent City community news | 🟡 Low | ⚪ Neutral | [link](https://www.nola.com/news/communities/crescent_city/new-orleans-public-libraries-news-events/article_5712a9ab-ae6a-4eda-921e-cf18e9e02548.html) |
 | 2026-09-03 | Trump pushes to remove tax exemption for colleges with DEI policies | 🟡 Low | ⚪ Neutral | [link](https://www.mainlinemedianews.com/2026/09/03/trump-education-anti-dei-push/) |
 | 2026-08-18 | Your guide to CSW67 | 🟡 Low | ⚪ Neutral | [link](http://www.newyorkstatesman.com/news/279249408/your-guide-to-csw67) |
 | 2026-08-14 | An Echo Press Editorial : One election done , another one looms | 🟡 Low | ⚪ Neutral | [link](https://www.echopress.com/opinion/editorials/an-echo-press-editorial-one-election-done-another-one-looms) |

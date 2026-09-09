@@ -1,9 +1,10 @@
 # Dun & Bradstreet Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | US - Indian IT Giant Cognizant Hit With Green Card Freeze , H - 1B Fraud Probe | 🟠 Medium | ⚪ Neutral | [link](https://www.newsweek.com/us-indian-it-giant-cognizant-hit-with-green-card-freeze-h-1b-fraud-probe-12419136) |
 | 2026-08-26 | Agentic AI : Google Cloud Rolls Out Gemini Enterprise For Financial Services | 🟠 Medium | ⚪ Neutral | [link](https://www.crowdfundinsider.com/2026/08/301772-agentic-ai-google-cloud-rolls-out-gemini-enterprise-for-financial-services/) |
 | 2026-08-25 | What Is Your Business Owner Structure ? | 🟡 Low | ⚪ Neutral | [link](https://smallbiztrends.com/owner-structure/) |
 | 2026-08-19 | Apple EU Settlement Locks In 5 % App Store Rate With Notarization Still in Place | 🟠 Medium | ⚪ Neutral | [link](https://www.techtimes.com/articles/324933/20260819/apple-eu-settlement-locks-5-app-store-rate-notarization-still-place.htm) |

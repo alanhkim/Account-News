@@ -1,9 +1,10 @@
 # NAVY FEDERAL CREDIT UNION M — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 04, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-08 | What Are VA Loan Rates Today , Sept . 8 , 2026 and the Best Lenders | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/what-are-va-loan-rates-today-sept-8-2026/) |
 | 2026-09-02 | US job openings rise slightly to 7 . 3 million as labor market remains sturdy despite higher costs | 🟡 Low | ⚪ Neutral | [link](https://www.tribtoday.com/news/business/2026/09/us-job-openings-rise-slightly-to-7-3-million-as-labor-market-remains-sturdy-despite-higher-costs/) |
 | 2026-08-31 | What Are VA loan Rates Today , August 31 , 2026 | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/what-are-va-loan-rates-today-august-31-2026/) |
 | 2026-08-20 | What Are VA Loan Rates Today , August 20 , 2026 and the Best Lenders | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/select/what-are-va-loan-rates-today-august-20-2026/) |

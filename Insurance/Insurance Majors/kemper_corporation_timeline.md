@@ -1,9 +1,10 @@
 # Kemper Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 05, 2026.
+Rolling history of tracked news (last 90 days). Updated September 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-09 | IK Multimedia Spark Pedal review – smart amp hits the floor | 🟡 Low | ⚪ Neutral | [link](https://www.guitarworld.com/gear/multi-effect-pedals/ik-multimedia-spark-pedal-review) |
 | 2026-08-31 | Lawton pancake breakfast raises money for community programs | 🔴 High | 🟢 Positive | [link](https://www.kswo.com/2026/08/31/lawton-pancake-breakfast-raises-money-community-programs/) |
 | 2026-08-20 | Rare insight into Sian Clifford family life as she opens up on siblings | 🟡 Low | 🟢 Positive | [link](https://www.walesonline.co.uk/lifestyle/tv/rare-insight-sian-cliffords-family-34490640) |
 | 2026-08-13 | Missouri Western Announces Presidential Finalists | 🟡 Low | ⚪ Neutral | [link](https://www.northwestmoinfo.com/local-news/missouri-western-announces-presidential-finalists/) |
