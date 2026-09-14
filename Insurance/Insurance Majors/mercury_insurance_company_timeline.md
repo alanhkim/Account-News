@@ -1,9 +1,10 @@
 # MERCURY INSURANCE COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-10 | Mercury Insurance Named One of America Greatest Companies for 2026 by Newsweek | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/mercury-insurance-named-one-of-americas-greatest-companies-for-2026-by-newsweek-302874658.html) |
 | 2026-08-26 | 10 Tips to Vacation - Proof Your Home While Youre Away | 🟡 Low | ⚪ Neutral | [link](https://www.tigersroar.com/online_features/family_living/article_78094b01-3044-59b3-9d4c-2ce6a2e8c817.html) |
 | 2026-08-25 | The Wildfire Calendar Has Changed ; Has Yours ? | 🟡 Low | ⚪ Neutral | [link](https://www.prnewswire.com:443/news-releases/the-wildfire-calendar-has-changed-has-yours-302858942.html) |
 | 2026-08-17 | 5 Summer Safety Risks Homeowners Often Overlook When Hosting | 🟠 Medium | ⚪ Neutral | [link](https://www.daytonatimes.com/online_features/home_decorating/5-summer-safety-risks-homeowners-often-overlook-when-hosting/article_28e5da74-607b-5a2f-a7e1-0254a9cd56a9.html) |

@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-09",
-  "generated_human": "September 09, 2026",
+  "generated": "2026-09-14",
+  "generated_human": "September 14, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 3,
+    "with_news": 8,
     "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 1,
+      "count": 3,
       "items": [
         {
-          "account": "Datasite",
-          "title": "Grata brings private market data to Perplexity Computer",
-          "url": "https://cfotech.news/story/grata-brings-private-market-data-to-perplexity-computer",
-          "date": "2026-08-27",
+          "account": "Texas Capital Bank",
+          "title": "Texas Capital Bank Wealth Management Services Inc Reduces Position in Meta Platforms , Inc . $META",
+          "url": "https://www.themarketsdaily.com/2026/09/12/texas-capital-bank-wealth-management-services-inc-reduces-position-in-meta-platforms-inc-meta.html",
+          "date": "2026-09-12",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
@@ -25,8 +25,41 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://cfotech.news/uploads/story/2026/08/28/compatible_jeff-grimes-story-317756.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
+        },
+        {
+          "account": "Insurity",
+          "title": "Consumers want AI speed and a human agent - and most are not willing to accept just one",
+          "url": "https://www.insurancebusinessmag.com/us/news/technology/consumers-want-ai-speed-and-a-human-agent--and-most-are-not-willing-to-accept-just-one-589404.aspx",
+          "date": "2026-09-11",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn-res.keymedia.com/cms/images/us/003/0382_639246959426680987.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32"
+        },
+        {
+          "account": "REGIONS FINANCIAL CORPORATION",
+          "title": "ICLR 2024 Neural Network Efficiency Challenge : Build High - Accuracy Models for Edge Devices",
+          "url": "https://www.webpronews.com/iclr-2024-neural-network-efficiency-challenge-build-high-accuracy-models-for-edge-devices/",
+          "date": "2026-09-10",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Fabric"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.webpronews.com&sz=32"
         }
       ]
     },
@@ -36,33 +69,53 @@
       "count": 1,
       "items": [
         {
-          "account": "US BANK",
-          "title": "Trump govt to target deported migrants abroad over $423 million in unpaid fines , as immigration crackdown ramps up",
-          "url": "https://www.hindustantimes.com/world-news/us-news/trump-govt-to-target-deported-migrants-abroad-over-423-million-in-unpaid-fines-as-immigration-crackdown-ramps-up-101788939920230.html",
-          "date": "2026-09-09",
+          "account": "FIS Global",
+          "title": "Navatros and Fuse Announce Partnership to Bring AI - Native Lending to Ohio Credit Unions",
+          "url": "https://www.americanbanker.com/press-release/navatros-and-fuse-announce-partnership-to-bring-ai-native-lending-to-ohios-credit-unions",
+          "date": "2026-08-27",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
-            "Fabric"
+            "Azure AI"
           ],
-          "triggers": [],
-          "sentiment": "Positive",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32"
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/0a/26/52240aff43aba9df1d96b121f701/image-49.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 1,
+      "count": 2,
       "items": [
         {
-          "account": "Apollo Management",
-          "title": "Jim Chanos Challenges Jensen Huang Over Nvidia  Highly Rentable  AI Chips :  Why Not Rent Them Out Yourself ?",
-          "url": "https://www.aol.com/articles/jim-chanos-challenges-jensen-huang-093947000.html",
-          "date": "2026-09-09",
+          "account": "Berkshire Hathaway Energy",
+          "title": "Berkshire ( BRK . B ) CEO Says Communities Are Fighting Back on Data Centers",
+          "url": "https://finance.yahoo.com/technology/ai/articles/berkshire-brk-b-ceo-says-005033541.html",
+          "date": "2026-09-13",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "CxO Change"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/610cae0e19e83ea8236b02b65d0eed021effdaab11707ccf14cc9c994b141693/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F414e6086f8d44f80c08fe19150f7c7ef.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "FINRA",
+          "title": "Trump brushes off AI doomsaying to guard US lead over China",
+          "url": "https://www.union-bulletin.com/news/national/trump-brushes-off-ai-doomsaying-to-guard-us-lead-over-china/article_dea94b4c-f025-5737-aebf-da896c9e54af.html",
+          "date": "2026-09-12",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
@@ -71,8 +124,8 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://hermes.media.static.aol.com/media/2026/09/09/0f8526b1-38c0-3e93-9793-ee2905218d22/a2d6775f-a348-4ecb-988d-24c1f42889bf.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.aol.com&sz=32"
+          "image": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.union-bulletin.com&sz=32"
         }
       ]
     },
@@ -85,8 +138,42 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 0,
-      "items": []
+      "count": 2,
+      "items": [
+        {
+          "account": "VERISK ANALYTICS",
+          "title": "Verisk Analytics Stock : Is VRSK Underperforming the Industrials Sector ?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-stock-vrsk-underperforming-102938166.html",
+          "date": "2026-09-12",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://s.yimg.com/lo/mysterio/api/4865f203bdc8c8ae52b5350bfa975024eb1bbf20a590a16543f4cd780ccef90f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F7fafcf16cdc32e1bf4d61e03f843f5a9.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
+        },
+        {
+          "account": "Loews Corp",
+          "title": "Loews Coronado Bay Resort Employee Honored With Red Cross Award",
+          "url": "https://www.coronadonewsca.com/news/coronado_home_and_business/loews-coronado-bay-resort-employee-honored-with-red-cross-award/article_101d3996-a4cb-4ec1-bb9b-7f8551bd2f30.html",
+          "date": "2026-09-11",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Copilot opportunity — align outreach to this signal.",
+          "plays": [
+            "Copilot"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://bloximages.chicago2.vip.townnews.com/coronadonewsca.com/content/tncms/assets/v3/editorial/8/17/817b495e-7e8e-45e0-b551-624e4286fa7d/6aa4529a48872.image.jpg?crop=760%2C399%2C0%2C100",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.coronadonewsca.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",

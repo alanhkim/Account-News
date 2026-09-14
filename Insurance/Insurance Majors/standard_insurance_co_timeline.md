@@ -1,9 +1,10 @@
 # STANDARD INSURANCE CO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Rad - Era Revival Leads To 66 % Increase : Why the Oddball AMC Pacer Is The New Must - Have Classic | 🟡 Low | ⚪ Neutral | [link](https://carbuzz.com/amc-pacer-malaise-era-value-increase-millennial-buyers/) |
 | 2026-09-05 | Selective Insurance Group ( NASDAQ : SIGIP ) Trading 0 . 1 % Higher – Time to Buy ? | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13573809/selective-insurance-group-nasdaqsigip-trading-0-1-higher-time-to-buy.html) |
 | 2026-08-31 | Lenskart shares to rally 40 %? Nomura initiates coverage with Buy , says its growth journey has just started | 🟡 Low | 🟢 Positive | [link](https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms) |
 | 2026-08-18 | Andy Burnham and Angela Rayner speak out on insurance following fire | 🟡 Low | ⚪ Neutral | [link](https://www.dudleynews.co.uk/news/26475369.andy-burnham-angela-rayner-speak-insurance-following-fire/) |

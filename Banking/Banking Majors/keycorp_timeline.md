@@ -1,9 +1,10 @@
 # KeyCorp — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Analysts Set Sprout Social , Inc . ( NASDAQ : SPT ) PT at $10 . 43 | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/13/analysts-set-sprout-social-inc-nasdaqspt-pt-at-10-43.html) |
 | 2026-08-18 | Investment Analyst Recent Ratings Updates for Sprout Social ( SPT ) | 🟠 Medium | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/18/investment-analysts-recent-ratings-updates-for-sprout-social-spt.html) |
 | 2026-08-14 | Sequoia Financial Advisors LLC Purchases 2 , 377 Shares of Synopsys , Inc . $SNPS | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/08/14/sequoia-financial-advisors-llc-purchases-2377-shares-of-synopsys-inc-snps.html) |
 | 2026-07-31 | National Fuel Gas ( NYSE : NFG ) Releases Quarterly Earnings Results , Beats Expectations By $0 . 10 EPS | 🔴 High | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/07/31/national-fuel-gas-nysenfg-releases-quarterly-earnings-results-beats-expectations-by-0-10-eps.html) |

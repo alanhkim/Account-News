@@ -1,9 +1,10 @@
 # Guggenheim Partners — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-12 | Polestar Automotive Holding united kingdom PLC ( NASDAQ : PSNYW ) Sees Large Growth in Short Interest | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13583012/polestar-automotive-holding-uk-plc-nasdaqpsnyw-sees-large-growth-in-short-interest.html) |
 | 2026-09-04 | Pablo Torre Dodgers bombshell reveals real threat to every American | 🟡 Low | ⚪ Neutral | [link](https://www.sbnation.com/mlb/1127272/pablo-torre-dodgers-bombshell-reveals-mark-walter-guggenheim) |
 | 2026-09-03 | Exclusive \ | Bob Iger future  ownership  of LA Lakers has been exaggerated | 🟡 Low | ⚪ Neutral | [link](https://nypost.com/2026/09/03/media/how-bob-igers-future-ownership-of-la-lakers-has-been-exaggerated/) |
 | 2026-09-01 | Guggenheim Strategic Opportunities Fund ( GOF ) Faces Investor Scrutiny Amid Report On Distributions Funding , Portfolio Quality | 🔴 High | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/guggenheim-strategic-opportunities-fund-gof-faces-investor-scrutiny-amid-report-on-distributions-funding-portfolio-quality--hbss-302866510.html) |

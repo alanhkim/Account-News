@@ -1,9 +1,10 @@
 # GEICO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-11 | Good Ground Harvest Market to Offer 10 Weeks of Fresh Food in Clarksville - Clarksville Online - Clarksville News , Sports , Events and Information | 🟡 Low | ⚪ Neutral | [link](https://www.clarksvilleonline.com/2026/09/11/good-ground-harvest-market-to-offer-10-weeks-of-fresh-food-in-clarksville/) |
 | 2026-09-08 | Cut Your Car Insurance by $400 Without Dropping Coverage | 🟡 Low | 🔴 Negative | [link](https://www.aceshowbiz.com/news/view/00261567.html) |
 | 2026-09-04 | Regional Geico ad illustrates how we talk funny | 🟡 Low | ⚪ Neutral | [link](https://www.dmagazine.com/micropost/regional-geico-ad-illustrates-how-we-talk-funny/) |
 | 2026-09-03 | Insurance moves : Builders Insurance , Pharmacists Mutual , Keystone , Patriot , MS Transverse , more | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-builders-insurance-pharmacists-mutual-keystone-patriot-ms-transverse-more-588438.aspx) |

@@ -1,9 +1,10 @@
 # DAVIDSON KEMPNER — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Enviri ( NYSE : NVRI ) Downgraded to  Sell  Rating by Wall Street Zen | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13583237/enviri-nysenvri-downgraded-to-sell-rating-by-wall-street-zen.html) |
 | 2026-09-03 | Aakash Coaching 50 Toppers , 0 . 75 % Margin : Inside the Post - Byju Struggle With Stagnant Revenue and Vanishing EBITDA | 🔴 High | ⚪ Neutral | [link](https://openthemagazine.com/business/50-toppers-075-margin-aakash-still-cant-exorcise-the-ghost-of-byjus) |
 | 2026-08-31 | Megha Engineering PV Krishna Reddy taps $700 million private credit to buy out uncle stake | 🔴 High | ⚪ Neutral | [link](https://www.livemint.com/companies/people/megha-engineerings-pv-krishna-reddy-taps-700-million-private-credit-to-buy-out-uncles-stake-11788149415782.html) |
 | 2026-08-18 | Davidson Kempner Capital Management LP : Form 8 . 3 - Tate & Lyle plc | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/18/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-tate-lyle-plc/2407817) |

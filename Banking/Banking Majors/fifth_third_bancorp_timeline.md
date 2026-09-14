@@ -1,9 +1,10 @@
 # FIFTH THIRD BANCORP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Kelly Services ( NASDAQ : KELYA ) Upgraded by Wall Street Zen to Buy Rating | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13583245/kelly-services-nasdaqkelya-upgraded-by-wall-street-zen-to-buy-rating.html) |
 | 2026-08-24 | Sanctuary Advisors LLC Acquires New Shares in Fifth Third Bancorp $FITB | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/24/sanctuary-advisors-llc-acquires-new-shares-in-fifth-third-bancorp-fitb.html) |
 | 2026-08-20 | SEC sues three ex - Tricolor executives over bond fraud | 🟠 Medium | 🔴 Negative | [link](https://www.americanbanker.com/news/sec-sues-three-ex-tricolor-executives-over-bond-fraud) |
 | 2026-08-18 | Fifth Third Bancorp Acquires 9 , 470 Shares of Mondelez International , Inc . $MDLZ | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/18/fifth-third-bancorp-acquires-9470-shares-of-mondelez-international-inc-mdlz.html) |

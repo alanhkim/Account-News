@@ -1,9 +1,10 @@
 # WELLINGTON MANAGEMENT COMPANY LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Urban Edge Properties ( NYSE : UE ) Downgraded by Wall Street Zen to  Sell | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13583238/urban-edge-properties-nyseue-downgraded-by-wall-street-zen-to-sell.html) |
 | 2026-08-26 | Chewy ( CHWY ) Outperform Rating Reiterated at Royal Bank Of Canada | 🟠 Medium | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/26/chewys-chwy-outperform-rating-reiterated-at-royal-bank-of-canada.html) |
 | 2026-08-13 | Kalshi In Talks To Raise Money At $40 Billion Valuation | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/kalshi-talks-raise-money-40-144000532.html) |
 | 2026-08-11 | Immunome ( NASDAQ : IMNM ) Releases Quarterly Earnings Results , Misses Estimates By $0 . 14 EPS | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13538964/immunome-nasdaqimnm-releases-quarterly-earnings-results-misses-estimates-by-0-14-eps.html) |

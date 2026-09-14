@@ -1,9 +1,10 @@
 # FREEDOM MORTGAGE CORPORATION — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-12 | This Day in Country History : September 12 | 🟡 Low | ⚪ Neutral | [link](https://wkml.com/2026/09/12/this-day-in-country-history-september-12-2/) |
 | 2026-09-04 | Tom Corcoran , retired president of the Delaware River Waterfront Corp ., has died at 82 | 🟡 Low | ⚪ Neutral | [link](https://www.inquirer.com/news/tom-corcoran-obituary-camden-philadelphia-waterfront-delaware-river-20260904.html) |
 | 2026-08-28 | Five Finger Death Punch to Stream Red Rocks Show Free on Sept . 8 | 🟡 Low | ⚪ Neutral | [link](https://wrif.com/2026/08/28/five-finger-death-punch-to-stream-red-rocks-show-free-on-sept-8/) |
 | 2026-08-27 | Things to do this weekend in Pa ., N . J ., and Del . | 🟡 Low | ⚪ Neutral | [link](https://whyy.org/articles/things-to-do-august-2026-last-weekend/) |

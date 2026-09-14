@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** September 09, 2026  
+**Updated:** September 14, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 17  
+**Accounts with news this cycle:** 21  
 
 ---
 
@@ -10,35 +10,39 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.elpasoinc.com&sz=32) | **USI INSURANCE** | Whispers : Aon acquires USI Insurance firm in the US \| Whispers | 2026-09-04 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.elpasoinc.com/columns/whispers/whispers-aon-acquires-usi-insurance-firm-in-the-us/article_de6ffb0e-c585-4adb-a4a9-7f1a5bd43b7a.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **NSM Insurance Group** | Ignyte Insurance acquires travel marketplace InsureMyTrip | 2026-09-03 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/ignyte-insurance-acquires-travel-marketplace-insuremytrip-588435.aspx) |
 | ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **AMTrust Financial Services INC** | ANV enters vehicle warranty market with Car Care Plan deal | 2026-08-24 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/anv-enters-vehicle-warranty-market-with-car-care-plan-deal-587158.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.foxnews.com&sz=32) | **AMERICAN FAMILY CORPORATION** | Trump administration launches American Family Farm Legacy 250 Program | 2026-09-09 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.foxnews.com/opinion/brooke-rollins-monica-crowley-americas-family-farms-kept-us-strong-250-years) |
-| ![](https://www.google.com/s2/favicons?domain=www.standard-freeholder.com&sz=32) | **Hub International** | HUB International Names Ryan Spinner President of HUB Customer Central ( HCC ), Succeeding Greg Andrew | 2026-09-09 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.standard-freeholder.com/press-releases/pr-newswire/hub-international-names-ryan-spinner-president-of-hub-customer-central-hcc-succeeding-greg-andrew/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Assurant** | Investment Analyst Weekly Ratings Updates for Assurant ( AIZ ) | 2026-09-02 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.themarketsdaily.com/2026/09/02/investment-analysts-weekly-ratings-updates-for-assurant-aiz.html) |
-| ![](https://www.google.com/s2/favicons?domain=variety.com&sz=32) | **aflac** | Runner  Review : Owen Wilson and Alan Ritchson in a Passable Actioner | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://variety.com/2026/film/news/runner-review-alan-ritchson-owen-wilson-1236855275/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **REINSURANCE GROUP OF AMERICA** | Reinsurance Group of America , Incorporated ( NYSE : RGA ) Receives $262 . 56 Consensus PT from Brokerages | 2026-09-09 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/09/08/reinsurance-group-of-america-incorporated-nyserga-receives-262-56-consensus-pt-from-brokerages.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.thereporteronline.com&sz=32) | **MARKEL** | Eagles 2026 preview : Despite shakeup , foundations of the Eagle success remain | 2026-09-09 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.thereporteronline.com/2026/09/09/eagles-2026-preview-despite-shakeup-foundations-of-the-eagles-success-remain/) |
-| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **AMERICAN FINANCIAL GROUP INC** | Alfred Cralle , a Pittsburgh porter , patented his ice - cream mold and disher in 1897 ; its thumb - operated scraper let servers dish 40 to 50 plates a minute | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://economictimes.indiatimes.com/news/international/us/alfred-cralle-a-pittsburgh-porter-patented-his-ice-cream-mold-and-disher-in-1897-its-thumb-operated-scraper-let-servers-dish-40-to-50-plates-a-minute/articleshow/133919015.cms) |
-| ![](https://www.google.com/s2/favicons?domain=www.guitarworld.com&sz=32) | **Kemper Corporation** | IK Multimedia Spark Pedal review – smart amp hits the floor | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.guitarworld.com/gear/multi-effect-pedals/ik-multimedia-spark-pedal-review) |
-| ![](https://www.google.com/s2/favicons?domain=www.nola.com&sz=32) | **EQUITABLE** | New Orleans Public Library shares news and events \| Crescent City community news | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nola.com/news/communities/crescent_city/new-orleans-public-libraries-news-events/article_5712a9ab-ae6a-4eda-921e-cf18e9e02548.html) |
-| ![](https://www.google.com/s2/favicons?domain=kashmirlife.net&sz=32) | **National Life Group** | Tariq Karra Criticises NC Over Full Rendition of  Vande Mataram  at Film Festival \| Kashmir Life - Latest News & Breaking News from Kashmir | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://kashmirlife.net/tariq-karra-criticises-nc-over-full-rendition-of-vande-mataram-at-film-festival-450977/) |
-| ![](https://www.google.com/s2/favicons?domain=www.globalsecurity.org&sz=32) | **FM GLOBAL** | China upholds non - interference principle , ready to foster friendly ties with Nicaragua : FM | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260904-globaltimes02.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.thisdaylive.com&sz=32) | **ASSURED PARTNERS** | Radda Unveils $1m Project to Boost Food Security , Tackle Floods in Katsina – THISDAYLIVE | 2026-09-11 | 🟠 Medium | 🟢 Positive | Product Launch | Security | [link](https://www.thisdaylive.com/2026/09/11/radda-unveils-1m-project-to-boost-food-security-tackle-floods-in-katsina-2/) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **VERISK ANALYTICS** | Verisk Analytics Stock : Is VRSK Underperforming the Industrials Sector ? | 2026-09-12 | 🟠 Medium | ⚪ Neutral | — | Fabric, Security | [link](https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-stock-vrsk-underperforming-102938166.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.coronadonewsca.com&sz=32) | **Loews Corp** | Loews Coronado Bay Resort Employee Honored With Red Cross Award | 2026-09-11 | 🟠 Medium | ⚪ Neutral | — | Copilot | [link](https://www.coronadonewsca.com/news/coronado_home_and_business/loews-coronado-bay-resort-employee-honored-with-red-cross-award/article_101d3996-a4cb-4ec1-bb9b-7f8551bd2f30.html) |
+| ![](https://www.google.com/s2/favicons?domain=carbuzz.com&sz=32) | **STANDARD INSURANCE CO** | Rad - Era Revival Leads To 66 % Increase : Why the Oddball AMC Pacer Is The New Must - Have Classic | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://carbuzz.com/amc-pacer-malaise-era-value-increase-millennial-buyers/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wisn.com&sz=32) | **AMERICAN FAMILY CORPORATION** | Brewers fans celebrate postseason berth at American Family Field | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wisn.com/article/brewers-fans-celebrate-postseason-berth-at-american-family-field/73703879) |
+| ![](https://www.google.com/s2/favicons?domain=www.sanews.gov.za&sz=32) | **EQUITABLE** | BRICS expresses concern over trade - restrictive measures | 2026-09-13 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures) |
+| ![](https://www.google.com/s2/favicons?domain=www.the-star.co.ke&sz=32) | **National Life Group** | ABDI : Ruto developing Kenya from margins to mainstream and more to come | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.the-star.co.ke/siasa/2026-09-13-abdi-more-connected-kenya-is-emerging-under-ruto) |
+| ![](https://www.google.com/s2/favicons?domain=www.eastbaytimes.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Federal appeals court steers insurance dispute to state Supreme Court | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.eastbaytimes.com/2026/09/12/federal-appeals-court-steers-san-diego-insurance-dispute-to-california-supreme-court/) |
+| ![](https://www.google.com/s2/favicons?domain=www.theage.com.au&sz=32) | **Kemper Corporation** | Fish Creek quarry proposal : Residents raise concerns over silica dust , noise and environmental impact in South Gippsland | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theage.com.au/national/victoria/dust-up-over-new-quarry-divides-coastal-town-that-s-become-a-hit-with-tourists-20260907-p60v6j.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.budapesttimes.hu&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | He built this city on dreams and stone : The architect behind Budapest age of grandeur | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.budapesttimes.hu/history/he-built-this-city-on-dreams-and-stone-the-architect-behind-budapests-age-of-grandeur/) |
+| ![](https://www.google.com/s2/favicons?domain=www.erienewsnow.com&sz=32) | **ERIE INSURANCE GROUP** | Gas Prices Put Pressure on Local Businesses | 2026-09-11 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.erienewsnow.com/news/local/gas-prices-put-pressure-on-local-businesses/article_ceecbcb3-3a31-42e1-ba59-7d0e3dce0097.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **The Hanover Insurance Group** | Head to Head Contrast : Brown & Brown ( NYSE : BRO ) & The Hanover Insurance Group ( NYSE : THG ) | 2026-09-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/11/head-to-head-contrast-brown-the-hanover-insurance-group-nysethg.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.royalgazette.com&sz=32) | **ARCH CAPITAL GROUP LTD** | Out of tragedy came Bermuda re / insurance transformation - The Royal Gazette \| Bermuda News , Business , Sports , Events , & Community | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.royalgazette.com/reinsurance/business/article/20260911/out-of-tragedy-came-bermudas-re-insurance-transformation/) |
+| ![](https://www.google.com/s2/favicons?domain=www.mcall.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Lehigh Valley residents recall where they were on 9 / 11 | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mcall.com/2026/09/11/from-an-easton-firehouse-to-manhattan-lehigh-valley-residents-recall-where-they-were-on-9-11/) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **MERCURY INSURANCE COMPANY** | Mercury Insurance Named One of America Greatest Companies for 2026 by Newsweek | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/mercury-insurance-named-one-of-americas-greatest-companies-for-2026-by-newsweek-302874658.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.latimes.com&sz=32) | **PACIFIC LIFE INSURANCE CO** | Special interests spend millions boosting Becerra in governor race | 2026-09-10 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **USI INSURANCE** | There a log jam : Why global M & A biggest buyers could be pulling back | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/au/news/breaking-news/theres-a-log-jam-why-global-mandas-biggest-buyers-could-be-pulling-back-589361.aspx) |
 | ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Corebridge Financial** | Corebridge Financial ( NYSE : CRBG ) Reaches New 12 - Month High – Time to Buy ? | 2026-09-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13573607/corebridge-financial-nysecrbg-reaches-new-12-month-high-time-to-buy.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.orissapost.com&sz=32) | **PROSPERITY LIFE GROUP** | PM Modi  Mann Ki Baat  inspires young Indians to build developed nation : Majhi | 2026-08-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.orissapost.com/pm-modis-mann-ki-baat-inspires-young-indians-to-build-developed-nation-majhi/) |
-| ![](https://www.google.com/s2/favicons?domain=www.sweetwaternow.com&sz=32) | **AAA INSURANCE GROUP** | Fall into Fall 2026 Featuring BarCode and Ellie & Austin | 2026-08-26 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.sweetwaternow.com/fall-into-fall-2026-featuring-barcode-and-ellie-austin/) |
-| ![](https://www.google.com/s2/favicons?domain=www.tnonline.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Musikfest 2026 ranks among top three most attended festivals – Times News Online | 2026-08-19 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themag.co.uk&sz=32) | **OLD REPUBLIC INTERNATIONAL** | All 154 Premier League signings independently ranked , including the 8 Newcastle United signings … | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themag.co.uk/2026/09/all-154-premier-league-signings-independently-ranked-including-the-8-newcastle-united-signings/) |
 
 ## Detail
 
-### USI INSURANCE
-**Whispers : Aon acquires USI Insurance firm in the US | Whispers** — 2026-09-04 — 🔴 High — ⚪ Neutral
+### NSM Insurance Group
+**Ignyte Insurance acquires travel marketplace InsureMyTrip** — 2026-09-03 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.elpasoinc.com/columns/whispers/whispers-aon-acquires-usi-insurance-firm-in-the-us/article_de6ffb0e-c585-4adb-a4a9-7f1a5bd43b7a.html)
+[Read →](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/ignyte-insurance-acquires-travel-marketplace-insuremytrip-588435.aspx)
 
 ### AMTrust Financial Services INC
 **ANV enters vehicle warranty market with Car Care Plan deal** — 2026-08-24 — 🔴 High — ⚪ Neutral
@@ -50,107 +54,162 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/anv-enters-vehicle-warranty-market-with-car-care-plan-deal-587158.aspx)
 
-### AMERICAN FAMILY CORPORATION
-**Trump administration launches American Family Farm Legacy 250 Program** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
+### ASSURED PARTNERS
+**Radda Unveils $1m Project to Boost Food Security , Tackle Floods in Katsina – THISDAYLIVE** — 2026-09-11 — 🟠 Medium — 🟢 Positive
 
 
 
 _Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
 
-[Read →](https://www.foxnews.com/opinion/brooke-rollins-monica-crowley-americas-family-farms-kept-us-strong-250-years)
+[Read →](https://www.thisdaylive.com/2026/09/11/radda-unveils-1m-project-to-boost-food-security-tackle-floods-in-katsina-2/)
 
-### Hub International
-**HUB International Names Ryan Spinner President of HUB Customer Central ( HCC ), Succeeding Greg Andrew** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.standard-freeholder.com/press-releases/pr-newswire/hub-international-names-ryan-spinner-president-of-hub-customer-central-hcc-succeeding-greg-andrew/)
-
-### Assurant
-**Investment Analyst Weekly Ratings Updates for Assurant ( AIZ )** — 2026-09-02 — 🟠 Medium — ⚪ Neutral
+### VERISK ANALYTICS
+**Verisk Analytics Stock : Is VRSK Underperforming the Industrials Sector ?** — 2026-09-12 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
 
-[Read →](https://www.themarketsdaily.com/2026/09/02/investment-analysts-weekly-ratings-updates-for-assurant-aiz.html)
+[Read →](https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-stock-vrsk-underperforming-102938166.html)
 
-### aflac
-**Runner  Review : Owen Wilson and Alan Ritchson in a Passable Actioner** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+### Loews Corp
+**Loews Coronado Bay Resort Employee Honored With Red Cross Award** — 2026-09-11 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Copilot  
+_Microsoft angle:_ Potential Copilot opportunity — align outreach to this signal.
 
-[Read →](https://variety.com/2026/film/news/runner-review-alan-ritchson-owen-wilson-1236855275/)
+[Read →](https://www.coronadonewsca.com/news/coronado_home_and_business/loews-coronado-bay-resort-employee-honored-with-red-cross-award/article_101d3996-a4cb-4ec1-bb9b-7f8551bd2f30.html)
 
-### REINSURANCE GROUP OF AMERICA
-**Reinsurance Group of America , Incorporated ( NYSE : RGA ) Receives $262 . 56 Consensus PT from Brokerages** — 2026-09-09 — 🟡 Low — 🟢 Positive
+### STANDARD INSURANCE CO
+**Rad - Era Revival Leads To 66 % Increase : Why the Oddball AMC Pacer Is The New Must - Have Classic** — 2026-09-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/09/08/reinsurance-group-of-america-incorporated-nyserga-receives-262-56-consensus-pt-from-brokerages.html)
+[Read →](https://carbuzz.com/amc-pacer-malaise-era-value-increase-millennial-buyers/)
 
-### MARKEL
-**Eagles 2026 preview : Despite shakeup , foundations of the Eagle success remain** — 2026-09-09 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.thereporteronline.com/2026/09/09/eagles-2026-preview-despite-shakeup-foundations-of-the-eagles-success-remain/)
-
-### AMERICAN FINANCIAL GROUP INC
-**Alfred Cralle , a Pittsburgh porter , patented his ice - cream mold and disher in 1897 ; its thumb - operated scraper let servers dish 40 to 50 plates a minute** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+### AMERICAN FAMILY CORPORATION
+**Brewers fans celebrate postseason berth at American Family Field** — 2026-09-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://economictimes.indiatimes.com/news/international/us/alfred-cralle-a-pittsburgh-porter-patented-his-ice-cream-mold-and-disher-in-1897-its-thumb-operated-scraper-let-servers-dish-40-to-50-plates-a-minute/articleshow/133919015.cms)
-
-### Kemper Corporation
-**IK Multimedia Spark Pedal review – smart amp hits the floor** — 2026-09-09 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.guitarworld.com/gear/multi-effect-pedals/ik-multimedia-spark-pedal-review)
+[Read →](https://www.wisn.com/article/brewers-fans-celebrate-postseason-berth-at-american-family-field/73703879)
 
 ### EQUITABLE
-**New Orleans Public Library shares news and events | Crescent City community news** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+**BRICS expresses concern over trade - restrictive measures** — 2026-09-13 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.nola.com/news/communities/crescent_city/new-orleans-public-libraries-news-events/article_5712a9ab-ae6a-4eda-921e-cf18e9e02548.html)
+[Read →](https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures)
 
 ### National Life Group
-**Tariq Karra Criticises NC Over Full Rendition of  Vande Mataram  at Film Festival | Kashmir Life - Latest News & Breaking News from Kashmir** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+**ABDI : Ruto developing Kenya from margins to mainstream and more to come** — 2026-09-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://kashmirlife.net/tariq-karra-criticises-nc-over-full-rendition-of-vande-mataram-at-film-festival-450977/)
+[Read →](https://www.the-star.co.ke/siasa/2026-09-13-abdi-more-connected-kenya-is-emerging-under-ruto)
 
-### FM GLOBAL
-**China upholds non - interference principle , ready to foster friendly ties with Nicaragua : FM** — 2026-09-05 — 🟡 Low — ⚪ Neutral
+### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
+**Federal appeals court steers insurance dispute to state Supreme Court** — 2026-09-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260904-globaltimes02.htm)
+[Read →](https://www.eastbaytimes.com/2026/09/12/federal-appeals-court-steers-san-diego-insurance-dispute-to-california-supreme-court/)
+
+### Kemper Corporation
+**Fish Creek quarry proposal : Residents raise concerns over silica dust , noise and environmental impact in South Gippsland** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.theage.com.au/national/victoria/dust-up-over-new-quarry-divides-coastal-town-that-s-become-a-hit-with-tourists-20260907-p60v6j.html)
+
+### NEW YORK LIFE INSURANCE COMPANY
+**He built this city on dreams and stone : The architect behind Budapest age of grandeur** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.budapesttimes.hu/history/he-built-this-city-on-dreams-and-stone-the-architect-behind-budapests-age-of-grandeur/)
+
+### ERIE INSURANCE GROUP
+**Gas Prices Put Pressure on Local Businesses** — 2026-09-11 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.erienewsnow.com/news/local/gas-prices-put-pressure-on-local-businesses/article_ceecbcb3-3a31-42e1-ba59-7d0e3dce0097.html)
+
+### The Hanover Insurance Group
+**Head to Head Contrast : Brown & Brown ( NYSE : BRO ) & The Hanover Insurance Group ( NYSE : THG )** — 2026-09-11 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/09/11/head-to-head-contrast-brown-the-hanover-insurance-group-nysethg.html)
+
+### ARCH CAPITAL GROUP LTD
+**Out of tragedy came Bermuda re / insurance transformation - The Royal Gazette | Bermuda News , Business , Sports , Events , & Community** — 2026-09-11 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.royalgazette.com/reinsurance/business/article/20260911/out-of-tragedy-came-bermudas-re-insurance-transformation/)
+
+### GUARDIAN LIFE INSURANCE CO
+**Lehigh Valley residents recall where they were on 9 / 11** — 2026-09-11 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.mcall.com/2026/09/11/from-an-easton-firehouse-to-manhattan-lehigh-valley-residents-recall-where-they-were-on-9-11/)
+
+### MERCURY INSURANCE COMPANY
+**Mercury Insurance Named One of America Greatest Companies for 2026 by Newsweek** — 2026-09-10 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.prnewswire.com/news-releases/mercury-insurance-named-one-of-americas-greatest-companies-for-2026-by-newsweek-302874658.html)
+
+### PACIFIC LIFE INSURANCE CO
+**Special interests spend millions boosting Becerra in governor race** — 2026-09-10 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race)
+
+### USI INSURANCE
+**There a log jam : Why global M & A biggest buyers could be pulling back** — 2026-09-10 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insurancebusinessmag.com/au/news/breaking-news/theres-a-log-jam-why-global-mandas-biggest-buyers-could-be-pulling-back-589361.aspx)
 
 ### Corebridge Financial
 **Corebridge Financial ( NYSE : CRBG ) Reaches New 12 - Month High – Time to Buy ?** — 2026-09-04 — 🟡 Low — ⚪ Neutral
@@ -161,55 +220,33 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.tickerreport.com/banking-finance/13573607/corebridge-financial-nysecrbg-reaches-new-12-month-high-time-to-buy.html)
 
-### PROSPERITY LIFE GROUP
-**PM Modi  Mann Ki Baat  inspires young Indians to build developed nation : Majhi** — 2026-08-30 — 🟡 Low — ⚪ Neutral
+### OLD REPUBLIC INTERNATIONAL
+**All 154 Premier League signings independently ranked , including the 8 Newcastle United signings …** — 2026-09-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.orissapost.com/pm-modis-mann-ki-baat-inspires-young-indians-to-build-developed-nation-majhi/)
-
-### AAA INSURANCE GROUP
-**Fall into Fall 2026 Featuring BarCode and Ellie & Austin** — 2026-08-26 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.sweetwaternow.com/fall-into-fall-2026-featuring-barcode-and-ellie-austin/)
-
-### GUARDIAN LIFE INSURANCE CO
-**Musikfest 2026 ranks among top three most attended festivals – Times News Online** — 2026-08-19 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/)
+[Read →](https://www.themag.co.uk/2026/09/all-154-premier-league-signings-independently-ranked-including-the-8-newcastle-united-signings/)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (64)</summary>
+<details><summary>Accounts with no material news this cycle (60)</summary>
 
 - American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
 - MUTUAL OF OMAHA
+- PROSPERITY LIFE GROUP
 - Tokio Marine Group
-- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
 - AMERICAN FIDELITY
-- MERCURY INSURANCE COMPANY
-- PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
+- aflac
 - AmWINS Group
-- ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
 - Guard Insurance
-- NSM Insurance Group
 - PROTECTIVE LIFE CORPORATION
-- ASSURED PARTNERS
 - Genworth
 - LINCOLN NATIONAL CORPORATION
 - TIH Insurance Holdings, LLC
@@ -217,42 +254,42 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - HARTFORD FIRE INSURANCE COMPANY
 - RISK STRATEGIES COMPANY
 - SELECTIVE INSURANCE
-- VERISK ANALYTICS
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- The Hanover Insurance Group
 - W R BERKLEY CORPORATION
+- REINSURANCE GROUP OF AMERICA
 - Sedgwick Claims Management Services, Inc.
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
 - BROWN AND BROWN, Inc.
+- MARKEL
+- AAA INSURANCE GROUP
 - Milliman USA
-- STANDARD INSURANCE CO
 - ARTHUR J GALLAGHER & CO
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
+- Assurant
 - COUNTRY FINANCIAL SERVICES INC
 - AXIS SPECIALTY US SERVICES INC
+- FM GLOBAL
 - GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
 - ACRISURE LLC
+- AMERICAN FINANCIAL GROUP INC
 - CINCINNATI INSURANCE COMPANIES
 - CNO Services, LLC
 - JACKSON NATIONAL LIFE
 - CUNA MUTUAL INSURANCE SOCIETY
 - Jewelers Mutual Insurance
-- Loews Corp
-- OLD REPUBLIC INTERNATIONAL
 - SENTRY INSURANCE A MUTUAL CO
 - FARM BUREAU FINANCIAL SERVICES
+- Hub International
 - LOCKTON INSURANCE AGENCY
 - SHELTER INSURANCE COMPANY
 - AMYNTA GROUP
-- ARCH CAPITAL GROUP LTD
 - C V STARR
 - EVEREST GLOBAL SERVICES
-- NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
 - TRAVELERS PROPERTY & CASUALTY
@@ -260,4 +297,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on September 09, 2026._
+_Auto-generated on September 14, 2026._

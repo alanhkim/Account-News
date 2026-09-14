@@ -1,9 +1,10 @@
 # ERIE INSURANCE GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-11 | Gas Prices Put Pressure on Local Businesses | 🟡 Low | 🔴 Negative | [link](https://www.erienewsnow.com/news/local/gas-prices-put-pressure-on-local-businesses/article_ceecbcb3-3a31-42e1-ba59-7d0e3dce0097.html) |
 | 2026-09-05 | Assure America sweeps three Erie Insurance District Sales Awards | 🟡 Low | ⚪ Neutral | [link](https://www.weirtondailytimes.com/news/2026/09/assure-america-sweeps-three-erie-insurance-district-sales-awards/) |
 | 2026-08-05 | Wall Street hit by wave of  vishing  hack attempts | 🔴 High | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/wall-street-hit-by-wave-of-vishing-hack-attempts-585090.aspx) |
 | 2026-07-31 | Erie Indemnity fee revenue rises 4 . 7 % on Exchange premium growth | 🔴 High | 🟢 Positive | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/erie-indemnity-fee-revenue-rises-4-7-on-exchange-premium-growth-584537.aspx) |

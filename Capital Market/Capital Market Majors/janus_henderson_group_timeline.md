@@ -1,9 +1,10 @@
 # JANUS HENDERSON GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 09, 2026.
+Rolling history of tracked news (last 90 days). Updated September 14, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-13 | Globus Medical ( NYSE : GMED ) Shares Acquired Rep . Gilbert Ray Cisneros , Jr . | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/12/globus-medical-nysegmed-shares-acquired-rep-gilbert-ray-cisneros-jr.html) |
 | 2026-09-02 | Geron ( NASDAQ : GERN ) Shares Up 7 . 1 % – Here Why | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13570915/geron-nasdaqgern-shares-up-7-1-heres-why.html) |
 | 2026-08-18 | Issue of Equity \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/city-of-london-inv-trust--cty/issue-of-equity/9728311) |
 | 2026-07-29 | Holding ( s ) in Company \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/british-land-company--blnd/holding-s-in-company/9694239) |
