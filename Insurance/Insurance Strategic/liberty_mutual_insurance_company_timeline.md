@@ -1,9 +1,10 @@
 # LIBERTY MUTUAL INSURANCE COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 14, 2026.
+Rolling history of tracked news (last 90 days). Updated September 15, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-11 | Auto Claims Desk Adjuster at Liberty Mutual / Insurance Journal Jobs | 🟡 Low | ⚪ Neutral | [link](https://www.insurancejournal.com/jobs/884496-auto-claims-desk-adjuster) |
 | 2026-08-30 | Local insurance company gives award to support foster children | 🟡 Low | ⚪ Neutral | [link](https://www.macombdaily.com/2026/08/30/local-insurance-company-gives-award-to-support-foster-children/) |
 | 2026-08-24 | Study showing when LLM acceleration helps , and when it backfires , wins Best Paper at INCECT 2026 | 🟡 Low | ⚪ Neutral | [link](https://timesofindia.indiatimes.com/education/news/study-showing-when-llm-acceleration-helps-and-when-it-backfires-wins-best-paper-at-incect-2026/articleshow/133459123.cms) |
 | 2026-08-18 | People | 🟡 Low | ⚪ Neutral | [link](https://www.insurancejournal.com/magazines/mag-people/2026/08/17/881412.htm) |

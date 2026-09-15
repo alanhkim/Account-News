@@ -1,9 +1,10 @@
 # D E SHAW & CO INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 14, 2026.
+Rolling history of tracked news (last 90 days). Updated September 15, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-11 | RTX Corporation ( RTX ) Doubles Down on Defense Manufacturing Is the Stock Still a Buy ? | 🟡 Low | ⚪ Neutral | [link](https://www.insidermonkey.com/blog/rtx-corporation-rtx-doubles-down-on-defense-manufacturing-is-the-stock-still-a-buy-1827299/) |
 | 2026-09-07 | Hedge Fund PR in 2026 : The Playbook | 🔴 High | ⚪ Neutral | [link](https://everything-pr.com/hedge-fund-pr-in-2026-the-ai-communications-pillar) |
 | 2026-09-03 | Five Below ( NASDAQ : FIVE ) Issues FY 2026 Earnings Guidance | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13571159/five-below-nasdaqfive-issues-fy-2026-earnings-guidance.html) |
 | 2026-08-27 | Form 8 . 3 - DCC Energy plc \ | Company Announcement | 🟡 Low | ⚪ Neutral | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-8-3-dcc-energy-plc/9743509) |

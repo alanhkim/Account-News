@@ -1,8 +1,8 @@
 # Latest News — Banking Majors
 
-**Updated:** September 14, 2026  
+**Updated:** September 15, 2026  
 **Accounts tracked:** 91  
-**Accounts with news this cycle:** 19  
+**Accounts with news this cycle:** 14  
 
 ---
 
@@ -10,67 +10,64 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **FIFTH THIRD BANCORP** | Kelly Services ( NASDAQ : KELYA ) Upgraded by Wall Street Zen to Buy Rating | 2026-09-13 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.tickerreport.com/banking-finance/13583245/kelly-services-nasdaqkelya-upgraded-by-wall-street-zen-to-buy-rating.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **State Employees Credit Union** | LCT Launches New CUSO with One Washington Financial , AKUVO Jay Mossman and SWBC to Bring Compliance Solutions to Credit Unions | 2026-09-09 | 🟠 Medium | ⚪ Neutral | Product Launch, Regulatory | — | [link](https://www.aol.com/articles/lct-launches-cuso-one-washington-110000000.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Texas Capital Bank** | Texas Capital Bank Wealth Management Services Inc Reduces Position in Meta Platforms , Inc . $META | 2026-09-12 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.themarketsdaily.com/2026/09/12/texas-capital-bank-wealth-management-services-inc-reduces-position-in-meta-platforms-inc-meta.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **Insurity** | Consumers want AI speed and a human agent - and most are not willing to accept just one | 2026-09-11 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.insurancebusinessmag.com/us/news/technology/consumers-want-ai-speed-and-a-human-agent--and-most-are-not-willing-to-accept-just-one-589404.aspx) |
+| ![](https://www.google.com/s2/favicons?domain=www.ynetnews.com&sz=32) | **HILLTOP HOLDINGS** | How West Bank outposts turn vulnerable Israeli teens into foot soldiers of settler vi | 2026-09-13 | 🔴 High | 🔴 Negative | M&A | — | [link](https://www.ynetnews.com/magazine/article/rj1132yxtzl) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **Experian** | 3 Costly Credit Score Mistakes Retirees Make When Using AI Tools ( and How To Avoid Them ) | 2026-09-12 | 🔴 High | ⚪ Neutral | M&A | Azure AI | [link](https://www.aol.com/articles/3-costly-credit-score-mistakes-153026000.html) |
+| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Q2 Software** | Materialise ( MTLS ) Q2 2026 Earnings Call Transcript | 2026-09-02 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **Datasite** | OpenAI launches ChatGPT for financial services industry | 2026-09-10 | 🟠 Medium | ⚪ Neutral | Product Launch | Azure AI | [link](https://www.aol.com/articles/openai-launches-chatgpt-financial-services-172936000.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.webpronews.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | ICLR 2024 Neural Network Efficiency Challenge : Build High - Accuracy Models for Edge Devices | 2026-09-10 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://www.webpronews.com/iclr-2024-neural-network-efficiency-challenge-build-high-accuracy-models-for-edge-devices/) |
-| ![](https://www.google.com/s2/favicons?domain=www.iraqsun.com&sz=32) | **RAPID ADVANCE LLC** | Houthis Asked US Not to Intervene in Yemen Conflict Trump | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.iraqsun.com/news/279304170/houthis-asked-us-not-to-intervene-in-yemen-conflict-trump) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **KeyCorp** | Analysts Set Sprout Social , Inc . ( NASDAQ : SPT ) PT at $10 . 43 | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/13/analysts-set-sprout-social-inc-nasdaqspt-pt-at-10-43.html) |
+| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **FREDDIE MAC** | Mortgage lending standards are so tight that homebuyers must have  pristine  credit histories | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://fortune.com/2026/09/12/housing-market-mortgage-lending-standards-credit-scores-histories-home-sales-borrowing-costs/) |
 | ![](https://www.google.com/s2/favicons?domain=wkml.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | This Day in Country History : September 12 | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wkml.com/2026/09/12/this-day-in-country-history-september-12-2/) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Old National Bancorp** | Old National Bancorp ( NASDAQ : ONB ) vs . Washington Trust Bancorp ( NASDAQ : WASH ) Head - To - Head Contrast | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/12/old-national-bancorp-nasdaqonb-vs-washington-trust-bancorp-nasdaqwash-head-to-head-contrast.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.samoanews.com&sz=32) | **ZIONS BANK CORPORATION** | ASG $10 million investment is in the UAE , 1st return installment awaited | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.samoanews.com/local-news/asg-10-million-investment-uae-1st-return-installment-awaited) |
+| ![](https://www.google.com/s2/favicons?domain=www.techtimes.com&sz=32) | **APPLIED SYSTEMS INC** | Siemens Runs Cloud Rail Signaling Under Live German Tram Passengers : InnoTrans Debut 11 Days Out | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.techtimes.com/articles/327377/20260911/siemens-runs-cloud-rail-signaling-under-live-german-tram-passengers-innotrans-debut-11-days-out.htm) |
 | ![](https://www.google.com/s2/favicons?domain=indiankanoon.org&sz=32) | **South State Bank** | M / S . Tarun Residency Welfare ... vs Union Of India on 31 August , 2026 | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://indiankanoon.org/doc/70050733/) |
-| ![](https://www.google.com/s2/favicons?domain=www.fijivillage.com&sz=32) | **M & T BANK** | Springboks eye Series win against much - changed All Blacks | 2026-09-12 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.fijivillage.com/news/springboks-eye-series-win-against-much-changed-all-blacks-9efdb7/) |
 | ![](https://www.google.com/s2/favicons?domain=www.thezimbabwean.co&sz=32) | **Guaranteed Rate Inc** | Zimbabwe PSL Reaches 476 Goals as Navaya Holds Three - Goal Scoring Lead | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thezimbabwean.co/2026/09/zimbabwe-psl-reaches-476-goals-as-navaya-holds-three-goal-scoring-lead/) |
-| ![](https://www.google.com/s2/favicons?domain=timesofsandiego.com&sz=32) | **Movement Mortgage** | Opinion : How the mortgage system works against immigrant home buyers | 2026-09-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://timesofsandiego.com/opinion/2026/09/11/how-the-system-works-against-immigrant-home-buyers/) |
-| ![](https://www.google.com/s2/favicons?domain=www.mpamag.com&sz=32) | **United Wholesale Mortgage** | BAC McKay defends Rocket pushback against UWM ultimatum | 2026-09-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.mpamag.com/us/specialty/wholesale/bacs-mckay-defends-rockets-pushback-against-uwms-ultimatum/589500) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **EAST WEST BANCORP INC** | West Family Investments Inc . Takes Position in East West Bancorp , Inc . $EWBC | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13577373/west-family-investments-inc-takes-position-in-east-west-bancorp-inc-ewbc.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.cnbc.com&sz=32) | **OneMain Financial** | How To Get an Emergency Loan With Bad Credit | 2026-09-07 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.cnbc.com/select/how-to-get-a-loan-for-unexpected-expenses-when-you-have-bad-credit/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **Flagstar Bank** | Investment Analyst Upgrades for September 6th ( ADSK , AMIX , ARGX , ASYS , BBAR , BE , BJDX , CPAY , DXCM , EFSI ) | 2026-09-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/09/06/investment-analysts-upgrades-for-september-6th-adsk-amix-argx-asys-bbar-be-bjdx-cpay-dxcm-efsi.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **HEALTHEQUITY INC** | SBC Medical Group ( NASDAQ : SBC ) and HealthEquity ( NASDAQ : HQY ) Head to Head Survey | 2026-09-05 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/05/sbc-medical-group-nasdaqsbc-and-healthequity-nasdaqhqy-head-to-head-survey.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.lamarledger.com&sz=32) | **Nelnet** | So your student loan payment went up what now ? | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Boeing Employees Credit Union** | Best savings accounts for kids | 2026-08-31 | 🟡 Low | ⚪ Neutral | — | — | [link](https://finance.yahoo.com/news/best-bank-accounts-kids-171152722.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **NATIONSTAR MORTGAGE** | Public Notices - Columbia Star | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/public-notices-1841/) |
+| ![](https://www.google.com/s2/favicons?domain=www.japanherald.com&sz=32) | **ALLY FINANCIAL** | Beyond the | 2026-09-07 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.japanherald.com/news/279290301/beyond-the-hawk-label-japanese-prime-minister-sanae-takaichi-foreign-policy-through-six-international-lenses) |
 
 ## Detail
 
-### FIFTH THIRD BANCORP
-**Kelly Services ( NASDAQ : KELYA ) Upgraded by Wall Street Zen to Buy Rating** — 2026-09-13 — 🟠 Medium — ⚪ Neutral
+### HILLTOP HOLDINGS
+**How West Bank outposts turn vulnerable Israeli teens into foot soldiers of settler vi** — 2026-09-13 — 🔴 High — 🔴 Negative
 
 
 
-_Trigger events:_ Regulatory  
+_Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13583245/kelly-services-nasdaqkelya-upgraded-by-wall-street-zen-to-buy-rating.html)
+[Read →](https://www.ynetnews.com/magazine/article/rj1132yxtzl)
 
-### State Employees Credit Union
-**LCT Launches New CUSO with One Washington Financial , AKUVO Jay Mossman and SWBC to Bring Compliance Solutions to Credit Unions** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch, Regulatory  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.aol.com/articles/lct-launches-cuso-one-washington-110000000.html)
-
-### Texas Capital Bank
-**Texas Capital Bank Wealth Management Services Inc Reduces Position in Meta Platforms , Inc . $META** — 2026-09-12 — 🟠 Medium — ⚪ Neutral
+### Experian
+**3 Costly Credit Score Mistakes Retirees Make When Using AI Tools ( and How To Avoid Them )** — 2026-09-12 — 🔴 High — ⚪ Neutral
 
 
 
-_Solution plays:_ Fabric  
-_Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
-
-[Read →](https://www.themarketsdaily.com/2026/09/12/texas-capital-bank-wealth-management-services-inc-reduces-position-in-meta-platforms-inc-meta.html)
-
-### Insurity
-**Consumers want AI speed and a human agent - and most are not willing to accept just one** — 2026-09-11 — 🟠 Medium — ⚪ Neutral
-
-
-
+_Trigger events:_ M&A  
 _Solution plays:_ Azure AI  
 _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.insurancebusinessmag.com/us/news/technology/consumers-want-ai-speed-and-a-human-agent--and-most-are-not-willing-to-accept-just-one-589404.aspx)
+[Read →](https://www.aol.com/articles/3-costly-credit-score-mistakes-153026000.html)
+
+### Q2 Software
+**Materialise ( MTLS ) Q2 2026 Earnings Call Transcript** — 2026-09-02 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html)
+
+### Datasite
+**OpenAI launches ChatGPT for financial services industry** — 2026-09-10 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ Product Launch  
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
+
+[Read →](https://www.aol.com/articles/openai-launches-chatgpt-financial-services-172936000.html)
 
 ### REGIONS FINANCIAL CORPORATION
 **ICLR 2024 Neural Network Efficiency Challenge : Build High - Accuracy Models for Edge Devices** — 2026-09-10 — 🟠 Medium — ⚪ Neutral
@@ -82,23 +79,14 @@ _Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to 
 
 [Read →](https://www.webpronews.com/iclr-2024-neural-network-efficiency-challenge-build-high-accuracy-models-for-edge-devices/)
 
-### RAPID ADVANCE LLC
-**Houthis Asked US Not to Intervene in Yemen Conflict Trump** — 2026-09-13 — 🟡 Low — ⚪ Neutral
+### FREDDIE MAC
+**Mortgage lending standards are so tight that homebuyers must have  pristine  credit histories** — 2026-09-13 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](http://www.iraqsun.com/news/279304170/houthis-asked-us-not-to-intervene-in-yemen-conflict-trump)
-
-### KeyCorp
-**Analysts Set Sprout Social , Inc . ( NASDAQ : SPT ) PT at $10 . 43** — 2026-09-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/09/13/analysts-set-sprout-social-inc-nasdaqspt-pt-at-10-43.html)
+[Read →](https://fortune.com/2026/09/12/housing-market-mortgage-lending-standards-credit-scores-histories-home-sales-borrowing-costs/)
 
 ### FREEDOM MORTGAGE CORPORATION
 **This Day in Country History : September 12** — 2026-09-12 — 🟡 Low — ⚪ Neutral
@@ -109,6 +97,33 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://wkml.com/2026/09/12/this-day-in-country-history-september-12-2/)
 
+### Old National Bancorp
+**Old National Bancorp ( NASDAQ : ONB ) vs . Washington Trust Bancorp ( NASDAQ : WASH ) Head - To - Head Contrast** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/09/12/old-national-bancorp-nasdaqonb-vs-washington-trust-bancorp-nasdaqwash-head-to-head-contrast.html)
+
+### ZIONS BANK CORPORATION
+**ASG $10 million investment is in the UAE , 1st return installment awaited** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.samoanews.com/local-news/asg-10-million-investment-uae-1st-return-installment-awaited)
+
+### APPLIED SYSTEMS INC
+**Siemens Runs Cloud Rail Signaling Under Live German Tram Passengers : InnoTrans Debut 11 Days Out** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.techtimes.com/articles/327377/20260911/siemens-runs-cloud-rail-signaling-under-live-german-tram-passengers-innotrans-debut-11-days-out.htm)
+
 ### South State Bank
 **M / S . Tarun Residency Welfare ... vs Union Of India on 31 August , 2026** — 2026-09-12 — 🟡 Low — ⚪ Neutral
 
@@ -117,15 +132,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
 [Read →](https://indiankanoon.org/doc/70050733/)
-
-### M & T BANK
-**Springboks eye Series win against much - changed All Blacks** — 2026-09-12 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fijivillage.com/news/springboks-eye-series-win-against-much-changed-all-blacks-9efdb7/)
 
 ### Guaranteed Rate Inc
 **Zimbabwe PSL Reaches 476 Goals as Navaya Holds Three - Goal Scoring Lead** — 2026-09-11 — 🟡 Low — ⚪ Neutral
@@ -136,87 +142,32 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.thezimbabwean.co/2026/09/zimbabwe-psl-reaches-476-goals-as-navaya-holds-three-goal-scoring-lead/)
 
-### Movement Mortgage
-**Opinion : How the mortgage system works against immigrant home buyers** — 2026-09-11 — 🟡 Low — 🟢 Positive
+### NATIONSTAR MORTGAGE
+**Public Notices - Columbia Star** — 2026-09-10 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://timesofsandiego.com/opinion/2026/09/11/how-the-system-works-against-immigrant-home-buyers/)
+[Read →](https://www.thecolumbiastar.com/articles/public-notices-1841/)
 
-### United Wholesale Mortgage
-**BAC McKay defends Rocket pushback against UWM ultimatum** — 2026-09-11 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.mpamag.com/us/specialty/wholesale/bacs-mckay-defends-rockets-pushback-against-uwms-ultimatum/589500)
-
-### EAST WEST BANCORP INC
-**West Family Investments Inc . Takes Position in East West Bancorp , Inc . $EWBC** — 2026-09-09 — 🟡 Low — ⚪ Neutral
+### ALLY FINANCIAL
+**Beyond the** — 2026-09-07 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13577373/west-family-investments-inc-takes-position-in-east-west-bancorp-inc-ewbc.html)
-
-### OneMain Financial
-**How To Get an Emergency Loan With Bad Credit** — 2026-09-07 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.cnbc.com/select/how-to-get-a-loan-for-unexpected-expenses-when-you-have-bad-credit/)
-
-### Flagstar Bank
-**Investment Analyst Upgrades for September 6th ( ADSK , AMIX , ARGX , ASYS , BBAR , BE , BJDX , CPAY , DXCM , EFSI )** — 2026-09-06 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/09/06/investment-analysts-upgrades-for-september-6th-adsk-amix-argx-asys-bbar-be-bjdx-cpay-dxcm-efsi.html)
-
-### HEALTHEQUITY INC
-**SBC Medical Group ( NASDAQ : SBC ) and HealthEquity ( NASDAQ : HQY ) Head to Head Survey** — 2026-09-05 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/09/05/sbc-medical-group-nasdaqsbc-and-healthequity-nasdaqhqy-head-to-head-survey.html)
-
-### Nelnet
-**So your student loan payment went up what now ?** — 2026-09-02 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/)
-
-### Boeing Employees Credit Union
-**Best savings accounts for kids** — 2026-08-31 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/news/best-bank-accounts-kids-171152722.html)
+[Read →](http://www.japanherald.com/news/279290301/beyond-the-hawk-label-japanese-prime-minister-sanae-takaichi-foreign-policy-through-six-international-lenses)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (72)</summary>
+<details><summary>Accounts with no material news this cycle (77)</summary>
 
 - New Rez (Caliber Funding )LLC
 - FHLB OF DALLAS
 - FROST NATIONAL BANK
-- HILLTOP HOLDINGS
-- NATIONSTAR MORTGAGE
+- Texas Capital Bank
 - WOODFOREST NATIONAL BANK
 - COMERICA INC
 - FAIRWAY MORTGAGE ACCOUNT OFC
@@ -225,6 +176,7 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - NORTHWEST SAVINGS BANK
 - Roundpoint Mortgage Servicing
 - CARRINGTON MORTGAGE SERVICE
+- EAST WEST BANCORP INC
 - Midland Credit Management
 - MORTGAGE RESEARCH CENTER
 - PINNACLE BANK
@@ -232,46 +184,49 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - WESTERN UNION
 - BCU
 - MOUNTAIN AMERICA CREDIT UNION
-- Old National Bancorp
 - TRANS UNION CORPORATION
 - Wintrust Financial Corporation
-- ZIONS BANK CORPORATION
 - ARVEST BANK GROUP
 - Velera (Co-op Financial Services)
 - EXETER FINANCE CORP
+- Movement Mortgage
 - REPUBLIC FINANCE
 - Simmons First National Bank Corporation
 - Advisor360
 - defi Auto, LLC
 - Global Payments
+- RAPID ADVANCE LLC
 - Sagent M&C, LLC
 - Versana LLC
-- APPLIED SYSTEMS INC
 - Bloomberg LP
-- Datasite
-- Q2 Software
-- ALLY FINANCIAL
+- Insurity
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
 - FNB CORPORATION
+- State Employees Credit Union
 - SYNOVUS FINANCIAL CORP
 - Alight
 - DOVENMUEHLE MORTGAGE INC
+- OneMain Financial
 - Rock Holding Inc.
 - Select Portfolio Servicing, Inc.
 - AUTOBOOKS
-- FREDDIE MAC
+- Flagstar Bank
 - Synchrony Financial
 - WEBSTER BANK
 - Edfinancial Services
+- FIFTH THIRD BANCORP
 - FIRST HORIZON BANK
 - HUNTINGTON BANCSHARES INC
+- KeyCorp
+- Boeing Employees Credit Union
 - Columbia Banking System, Inc.
 - CU DIRECT LENDING (CUDL Technology Center)
 - FIRST TECHNOLOGY CREDIT UNION
+- HEALTHEQUITY INC
 - loanDepot
 - DUCK CREEK TECHNOLOGIES INC
-- Experian
+- Nelnet
 - Elevate Credit
 - FACTSET RESEARCH SYSTEMS
 - GREEN DOT CORPORATION
@@ -283,9 +238,11 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - CENLAR FSB INC
 - CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
+- M & T BANK
+- United Wholesale Mortgage
 - Valley National Bank
 
 </details>
 
 ---
-_Auto-generated on September 14, 2026._
+_Auto-generated on September 15, 2026._

@@ -1,9 +1,10 @@
 # MARKEL — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 14, 2026.
+Rolling history of tracked news (last 90 days). Updated September 15, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-11 | Jan Ebeling and  Rafalca  Return to the Show Ring in Style at 2013 Festival of the Horse & CDI 3 */ Y / J | 🟡 Low | ⚪ Neutral | [link](https://horsesdaily.com/article/jan-ebeling-and-rafalca-return-to-the-show-ring-in-style-at-2013-festival-of-the-horse-cdi-3-y-j/) |
 | 2026-09-09 | Eagles 2026 preview : Despite shakeup , foundations of the Eagle success remain | 🟡 Low | 🟢 Positive | [link](https://www.thereporteronline.com/2026/09/09/eagles-2026-preview-despite-shakeup-foundations-of-the-eagles-success-remain/) |
 | 2026-08-14 | These 12 Eagles the most on the line in preseason Week 1 vs . the Ravens | 🟡 Low | ⚪ Neutral | [link](https://www.inquirer.com/eagles/2026-preseason-week-1-players-to-watch-ravens-20260814.html) |
 | 2026-08-12 | NewEdge Advisors LLC Buys 78 , 946 Shares of Nuvation Bio Inc . $NUVB | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/12/newedge-advisors-llc-buys-78946-shares-of-nuvation-bio-inc-nuvb.html) |

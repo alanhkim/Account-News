@@ -1,9 +1,10 @@
 # DEPOSITORY TRUST CLEARING CORPORATION — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 14, 2026.
+Rolling history of tracked news (last 90 days). Updated September 15, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-07 | Tokenizing assets opens up vast new opportunities for banks | 🟡 Low | 🟢 Positive | [link](https://www.americanbanker.com/opinion/tokenizing-assets-opens-up-vast-new-opportunities-for-banks) |
 | 2026-08-26 | Why become a Gator ? Here why freshmen said  ye - The Independent Florida Alligator | 🟡 Low | ⚪ Neutral | [link](https://www.alligator.org/article/2026/08/why-become-a-gator-here-s-why-freshmen-said-yes) |
 | 2026-08-20 | HM Exploration Announces DTC Eligibility of Its Common Shares in the United States | 🟡 Low | ⚪ Neutral | [link](http://www.californiatelegraph.com/news/279253228/hm-exploration-announces-dtc-eligibility-of-its-common-shares-in-the-united-states) |
 | 2026-08-06 | Circle officially opens its national trust bank | 🟡 Low | ⚪ Neutral | [link](https://www.americanbanker.com/payments/news/circle-officially-opens-its-national-trust-bank) |
