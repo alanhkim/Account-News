@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** September 15, 2026  
+**Updated:** September 21, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 22  
+**Accounts with news this cycle:** 11  
 
 ---
 
@@ -10,91 +10,29 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **MUTUAL OF OMAHA** | 5 easy ways US boomers fry their nest egg and retire poor ( even with big savings ) are you making the same mistakes ? | 2026-09-12 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **W R BERKLEY CORPORATION** | W . R . Berkley Corporation ( WRB ) To Go Ex - Dividend on September 21st | 2026-09-12 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13582767/w-r-berkley-corporation-wrb-to-go-ex-dividend-on-september-21st.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **ARTHUR J GALLAGHER & CO** | A top AssuredPartners dealmaker just took the wheel of a rival , PE - backed broker | 2026-09-10 | 🔴 High | ⚪ Neutral | M&A, Product Launch | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/a-top-assuredpartners-dealmaker-just-took-the-wheel-of-a-rival-pebacked-broker-589355.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **AmWINS Group** | Amwins Acquires Firearms Insurance Specialist Joseph Chiarello & Co . | 2026-09-02 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.insurancejournal.com/news/east/2026/09/02/883757.htm) |
-| ![](https://www.google.com/s2/favicons?domain=jp.ibtimes.com&sz=32) | **Tokio Marine Group** | Tokio Marine launches 100 million yen customer misconduct insurance | 2026-09-12 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://jp.ibtimes.com/tokio-marine-launches-100-million-yen-customer-misconduct-insurance-104354) |
-| ![](https://www.google.com/s2/favicons?domain=www.thisdaylive.com&sz=32) | **ASSURED PARTNERS** | Radda Unveils $1m Project to Boost Food Security , Tackle Floods in Katsina – THISDAYLIVE | 2026-09-11 | 🟠 Medium | 🟢 Positive | Product Launch | Security | [link](https://www.thisdaylive.com/2026/09/11/radda-unveils-1m-project-to-boost-food-security-tackle-floods-in-katsina-2/) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **NSM Insurance Group** | Ignyte Insurance acquires travel marketplace InsureMyTrip | 2026-09-03 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/ignyte-insurance-acquires-travel-marketplace-insuremytrip-588435.aspx) |
 | ![](https://www.google.com/s2/favicons?domain=leaderpost.com&sz=32) | **Berkshire Hathaway Specialty Insurance Company** | Berkshire Hathaway Specialty Insurance Introduces Professional First Venture Capital Liability Policy in Australia | 2026-09-08 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://leaderpost.com/press-releases/business-wire/berkshire-hathaway-specialty-insurance-introduces-professional-first-venture-capital-liability-policy-in-australia/) |
-| ![](https://www.google.com/s2/favicons?domain=www.coronadonewsca.com&sz=32) | **Loews Corp** | Loews Coronado Bay Resort Employee Honored With Red Cross Award | 2026-09-11 | 🟠 Medium | ⚪ Neutral | — | Copilot | [link](https://www.coronadonewsca.com/news/coronado_home_and_business/loews-coronado-bay-resort-employee-honored-with-red-cross-award/article_101d3996-a4cb-4ec1-bb9b-7f8551bd2f30.html) |
-| ![](https://www.google.com/s2/favicons?domain=650keni.iheart.com&sz=32) | **BROWN AND BROWN, Inc.** | OH GOP Senator Jon Husted Campaign Ousts Political Director Over Posts | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://650keni.iheart.com/content/2026-09-13-oh-gop-senator-jon-husteds-campaign-ousts-political-director-over-posts/) |
-| ![](https://www.google.com/s2/favicons?domain=www.wisn.com&sz=32) | **AMERICAN FAMILY CORPORATION** | Brewers fans celebrate postseason berth at American Family Field | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wisn.com/article/brewers-fans-celebrate-postseason-berth-at-american-family-field/73703879) |
-| ![](https://www.google.com/s2/favicons?domain=www.thealmanac.net&sz=32) | **ACRISURE LLC** | Peters Township native reflects on life - altering Sept . 11 events | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thealmanac.net/uncategorized/2026/sep/13/peters-township-native-reflects-on-life-altering-sept-11-events/) |
-| ![](https://www.google.com/s2/favicons?domain=www.theage.com.au&sz=32) | **Kemper Corporation** | Fish Creek quarry proposal : Residents raise concerns over silica dust , noise and environmental impact in South Gippsland | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theage.com.au/national/victoria/dust-up-over-new-quarry-divides-coastal-town-that-s-become-a-hit-with-tourists-20260907-p60v6j.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.budapesttimes.hu&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | He built this city on dreams and stone : The architect behind Budapest age of grandeur | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.budapesttimes.hu/history/he-built-this-city-on-dreams-and-stone-the-architect-behind-budapests-age-of-grandeur/) |
-| ![](https://www.google.com/s2/favicons?domain=spacedaily.com&sz=32) | **LINCOLN NATIONAL CORPORATION** | After more than 50 years , a solar telescope in New Mexico is being pulled down , after liquid mercury from the bearing that let its 250 - ton optical system turn was found inside the tower . Crews found the metal on January 5 . | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://spacedaily.com/m-after-more-than-50-years-a-solar-telescope-in-new-mexico-is-being-pulled-down-after-liquid-mercury-from-the-bearing-that-let-its-250-ton-optical-system-turn-was-found-inside-the-to/) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **REINSURANCE GROUP OF AMERICA** | Federal Terrorism Insurance Backstop Prompted by 9 / 11 Still Waits for Reauthorization | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/news/national/2026/09/11/884772.htm) |
-| ![](https://www.google.com/s2/favicons?domain=horsesdaily.com&sz=32) | **MARKEL** | Jan Ebeling and  Rafalca  Return to the Show Ring in Style at 2013 Festival of the Horse & CDI 3 */ Y / J | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://horsesdaily.com/article/jan-ebeling-and-rafalca-return-to-the-show-ring-in-style-at-2013-festival-of-the-horse-cdi-3-y-j/) |
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **MERCURY INSURANCE COMPANY** | Mercury Insurance Named One of America Greatest Companies for 2026 by Newsweek | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.prnewswire.com/news-releases/mercury-insurance-named-one-of-americas-greatest-companies-for-2026-by-newsweek-302874658.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.latimes.com&sz=32) | **PACIFIC LIFE INSURANCE CO** | Special interests spend millions boosting Becerra in governor race | 2026-09-10 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **USI INSURANCE** | There a log jam : Why global M & A biggest buyers could be pulling back | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/au/news/breaking-news/theres-a-log-jam-why-global-mandas-biggest-buyers-could-be-pulling-back-589361.aspx) |
-| ![](https://www.google.com/s2/favicons?domain=www.hindustantimes.com&sz=32) | **PROTECTIVE LIFE CORPORATION** | Shalini Adnani on  Our Share of Sand : Wanted to explore society through a family  story | 2026-09-05 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.hindustantimes.com/entertainment/bollywood/shalini-adnani-on-our-share-of-sand-wanted-to-explore-society-through-a-family-s-story-101788588514635.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Corebridge Financial** | Corebridge Financial ( NYSE : CRBG ) Reaches New 12 - Month High – Time to Buy ? | 2026-09-04 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13573607/corebridge-financial-nysecrbg-reaches-new-12-month-high-time-to-buy.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.jacksonprogress-argus.com&sz=32) | **aflac** | Childhood Cancer Awareness events set for September | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.jacksonprogress-argus.com/news/childhood-cancer-awareness-events-set-for-september/article_3d660aaf-d53a-45fd-86e6-ab9d313b2aee.html) |
+| ![](https://www.google.com/s2/favicons?domain=speedwaymedia.com&sz=32) | **STANDARD INSURANCE CO** | What to Know After a Scottsdale Car Crash : Claims , Evidence , and Compensation | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://speedwaymedia.com/2026/09/21/what-to-know-after-a-scottsdale-car-crash-claims-evidence-and-compensation/) |
+| ![](https://www.google.com/s2/favicons?domain=americanbazaaronline.com&sz=32) | **NEW YORK LIFE INSURANCE COMPANY** | Indian Americans in New York to celebrate Diwali on Oct . 3 | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://americanbazaaronline.com/2026/09/21/indian-americans-in-new-york-to-celebrate-diwali-on-oct-3-488560/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nugget.ca:443&sz=32) | **EQUITABLE** | Grassy Narrows : Inside an undercover protest shadowing Doug Ford | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nugget.ca:443/london-news/queens-park/grassy-narrows-inside-an-undercover-protest-shadowing-doug-ford/wcm/c029404a-89e5-45ff-90da-addab209eb2a) |
+| ![](https://www.google.com/s2/favicons?domain=www.fairfieldsuntimes.com&sz=32) | **PROTECTIVE LIFE CORPORATION** | Affordabilty top concern in Nebraska flip district | 2026-09-20 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.fairfieldsuntimes.com/news/national/affordabilty-top-concern-in-nebraska-flip-district/article_2a50cb36-f632-5bf0-bec5-922568d7570b.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.eastbaytimes.com&sz=32) | **UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)** | Federal appeals court steers insurance dispute to state Supreme Court | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.eastbaytimes.com/2026/09/12/federal-appeals-court-steers-san-diego-insurance-dispute-to-california-supreme-court/) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **The Hanover Insurance Group** | Head to Head Contrast : Brown & Brown ( NYSE : BRO ) & The Hanover Insurance Group ( NYSE : THG ) | 2026-09-11 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/09/11/head-to-head-contrast-brown-the-hanover-insurance-group-nysethg.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.themag.co.uk&sz=32) | **OLD REPUBLIC INTERNATIONAL** | All 154 Premier League signings independently ranked , including the 8 Newcastle United signings … | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themag.co.uk/2026/09/all-154-premier-league-signings-independently-ranked-including-the-8-newcastle-united-signings/) |
+| ![](https://www.google.com/s2/favicons?domain=www.mesabitribune.com&sz=32) | **FARM BUREAU FINANCIAL SERVICES** | 4 - H youth earn high honors in livestock ribbon market | 2026-09-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mesabitribune.com/news/4-h-youth-earn-high-honors-in-livestock-ribbon-market/article_955f282d-7b83-477a-8f8a-243f3528a8cc.html) |
 
 ## Detail
 
-### MUTUAL OF OMAHA
-**5 easy ways US boomers fry their nest egg and retire poor ( even with big savings ) are you making the same mistakes ?** — 2026-09-12 — 🔴 High — ⚪ Neutral
+### NSM Insurance Group
+**Ignyte Insurance acquires travel marketplace InsureMyTrip** — 2026-09-03 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html)
-
-### W R BERKLEY CORPORATION
-**W . R . Berkley Corporation ( WRB ) To Go Ex - Dividend on September 21st** — 2026-09-12 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.tickerreport.com/banking-finance/13582767/w-r-berkley-corporation-wrb-to-go-ex-dividend-on-september-21st.html)
-
-### ARTHUR J GALLAGHER & CO
-**A top AssuredPartners dealmaker just took the wheel of a rival , PE - backed broker** — 2026-09-10 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A, Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/a-top-assuredpartners-dealmaker-just-took-the-wheel-of-a-rival-pebacked-broker-589355.aspx)
-
-### AmWINS Group
-**Amwins Acquires Firearms Insurance Specialist Joseph Chiarello & Co .** — 2026-09-02 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancejournal.com/news/east/2026/09/02/883757.htm)
-
-### Tokio Marine Group
-**Tokio Marine launches 100 million yen customer misconduct insurance** — 2026-09-12 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://jp.ibtimes.com/tokio-marine-launches-100-million-yen-customer-misconduct-insurance-104354)
-
-### ASSURED PARTNERS
-**Radda Unveils $1m Project to Boost Food Security , Tackle Floods in Katsina – THISDAYLIVE** — 2026-09-11 — 🟠 Medium — 🟢 Positive
-
-
-
-_Trigger events:_ Product Launch  
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.thisdaylive.com/2026/09/11/radda-unveils-1m-project-to-boost-food-security-tackle-floods-in-katsina-2/)
+[Read →](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/ignyte-insurance-acquires-travel-marketplace-insuremytrip-588435.aspx)
 
 ### Berkshire Hathaway Specialty Insurance Company
 **Berkshire Hathaway Specialty Insurance Introduces Professional First Venture Capital Liability Policy in Australia** — 2026-09-08 — 🟠 Medium — ⚪ Neutral
@@ -106,132 +44,68 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://leaderpost.com/press-releases/business-wire/berkshire-hathaway-specialty-insurance-introduces-professional-first-venture-capital-liability-policy-in-australia/)
 
-### Loews Corp
-**Loews Coronado Bay Resort Employee Honored With Red Cross Award** — 2026-09-11 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Copilot  
-_Microsoft angle:_ Potential Copilot opportunity — align outreach to this signal.
-
-[Read →](https://www.coronadonewsca.com/news/coronado_home_and_business/loews-coronado-bay-resort-employee-honored-with-red-cross-award/article_101d3996-a4cb-4ec1-bb9b-7f8551bd2f30.html)
-
-### BROWN AND BROWN, Inc.
-**OH GOP Senator Jon Husted Campaign Ousts Political Director Over Posts** — 2026-09-13 — 🟡 Low — ⚪ Neutral
+### aflac
+**Childhood Cancer Awareness events set for September** — 2026-09-21 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://650keni.iheart.com/content/2026-09-13-oh-gop-senator-jon-husteds-campaign-ousts-political-director-over-posts/)
+[Read →](https://www.jacksonprogress-argus.com/news/childhood-cancer-awareness-events-set-for-september/article_3d660aaf-d53a-45fd-86e6-ab9d313b2aee.html)
 
-### AMERICAN FAMILY CORPORATION
-**Brewers fans celebrate postseason berth at American Family Field** — 2026-09-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.wisn.com/article/brewers-fans-celebrate-postseason-berth-at-american-family-field/73703879)
-
-### ACRISURE LLC
-**Peters Township native reflects on life - altering Sept . 11 events** — 2026-09-13 — 🟡 Low — ⚪ Neutral
+### STANDARD INSURANCE CO
+**What to Know After a Scottsdale Car Crash : Claims , Evidence , and Compensation** — 2026-09-21 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thealmanac.net/uncategorized/2026/sep/13/peters-township-native-reflects-on-life-altering-sept-11-events/)
-
-### Kemper Corporation
-**Fish Creek quarry proposal : Residents raise concerns over silica dust , noise and environmental impact in South Gippsland** — 2026-09-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.theage.com.au/national/victoria/dust-up-over-new-quarry-divides-coastal-town-that-s-become-a-hit-with-tourists-20260907-p60v6j.html)
+[Read →](https://speedwaymedia.com/2026/09/21/what-to-know-after-a-scottsdale-car-crash-claims-evidence-and-compensation/)
 
 ### NEW YORK LIFE INSURANCE COMPANY
-**He built this city on dreams and stone : The architect behind Budapest age of grandeur** — 2026-09-12 — 🟡 Low — ⚪ Neutral
+**Indian Americans in New York to celebrate Diwali on Oct . 3** — 2026-09-21 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.budapesttimes.hu/history/he-built-this-city-on-dreams-and-stone-the-architect-behind-budapests-age-of-grandeur/)
+[Read →](https://americanbazaaronline.com/2026/09/21/indian-americans-in-new-york-to-celebrate-diwali-on-oct-3-488560/)
 
-### LINCOLN NATIONAL CORPORATION
-**After more than 50 years , a solar telescope in New Mexico is being pulled down , after liquid mercury from the bearing that let its 250 - ton optical system turn was found inside the tower . Crews found the metal on January 5 .** — 2026-09-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://spacedaily.com/m-after-more-than-50-years-a-solar-telescope-in-new-mexico-is-being-pulled-down-after-liquid-mercury-from-the-bearing-that-let-its-250-ton-optical-system-turn-was-found-inside-the-to/)
-
-### REINSURANCE GROUP OF AMERICA
-**Federal Terrorism Insurance Backstop Prompted by 9 / 11 Still Waits for Reauthorization** — 2026-09-11 — 🟡 Low — ⚪ Neutral
+### EQUITABLE
+**Grassy Narrows : Inside an undercover protest shadowing Doug Ford** — 2026-09-21 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancejournal.com/news/national/2026/09/11/884772.htm)
-
-### MARKEL
-**Jan Ebeling and  Rafalca  Return to the Show Ring in Style at 2013 Festival of the Horse & CDI 3 */ Y / J** — 2026-09-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://horsesdaily.com/article/jan-ebeling-and-rafalca-return-to-the-show-ring-in-style-at-2013-festival-of-the-horse-cdi-3-y-j/)
-
-### MERCURY INSURANCE COMPANY
-**Mercury Insurance Named One of America Greatest Companies for 2026 by Newsweek** — 2026-09-10 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.prnewswire.com/news-releases/mercury-insurance-named-one-of-americas-greatest-companies-for-2026-by-newsweek-302874658.html)
-
-### PACIFIC LIFE INSURANCE CO
-**Special interests spend millions boosting Becerra in governor race** — 2026-09-10 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race)
-
-### USI INSURANCE
-**There a log jam : Why global M & A biggest buyers could be pulling back** — 2026-09-10 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.insurancebusinessmag.com/au/news/breaking-news/theres-a-log-jam-why-global-mandas-biggest-buyers-could-be-pulling-back-589361.aspx)
+[Read →](https://www.nugget.ca:443/london-news/queens-park/grassy-narrows-inside-an-undercover-protest-shadowing-doug-ford/wcm/c029404a-89e5-45ff-90da-addab209eb2a)
 
 ### PROTECTIVE LIFE CORPORATION
-**Shalini Adnani on  Our Share of Sand : Wanted to explore society through a family  story** — 2026-09-05 — 🟡 Low — ⚪ Neutral
+**Affordabilty top concern in Nebraska flip district** — 2026-09-20 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.hindustantimes.com/entertainment/bollywood/shalini-adnani-on-our-share-of-sand-wanted-to-explore-society-through-a-family-s-story-101788588514635.html)
+[Read →](https://www.fairfieldsuntimes.com/news/national/affordabilty-top-concern-in-nebraska-flip-district/article_2a50cb36-f632-5bf0-bec5-922568d7570b.html)
 
-### Corebridge Financial
-**Corebridge Financial ( NYSE : CRBG ) Reaches New 12 - Month High – Time to Buy ?** — 2026-09-04 — 🟡 Low — ⚪ Neutral
+### UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
+**Federal appeals court steers insurance dispute to state Supreme Court** — 2026-09-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13573607/corebridge-financial-nysecrbg-reaches-new-12-month-high-time-to-buy.html)
+[Read →](https://www.eastbaytimes.com/2026/09/12/federal-appeals-court-steers-san-diego-insurance-dispute-to-california-supreme-court/)
+
+### The Hanover Insurance Group
+**Head to Head Contrast : Brown & Brown ( NYSE : BRO ) & The Hanover Insurance Group ( NYSE : THG )** — 2026-09-11 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/09/11/head-to-head-contrast-brown-the-hanover-insurance-group-nysethg.html)
 
 ### OLD REPUBLIC INTERNATIONAL
 **All 154 Premier League signings independently ranked , including the 8 Newcastle United signings …** — 2026-09-02 — 🟡 Low — ⚪ Neutral
@@ -242,24 +116,37 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.themag.co.uk/2026/09/all-154-premier-league-signings-independently-ranked-including-the-8-newcastle-united-signings/)
 
+### FARM BUREAU FINANCIAL SERVICES
+**4 - H youth earn high honors in livestock ribbon market** — 2026-09-02 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.mesabitribune.com/news/4-h-youth-earn-high-honors-in-livestock-ribbon-market/article_955f282d-7b83-477a-8f8a-243f3528a8cc.html)
+
 ---
 
-<details><summary>Accounts with no material news this cycle (59)</summary>
+<details><summary>Accounts with no material news this cycle (70)</summary>
 
 - American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
+- MUTUAL OF OMAHA
 - PROSPERITY LIFE GROUP
-- UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
+- Tokio Marine Group
 - AAA AUTO CLUB ENTERPRISES
 - AMERICAN FIDELITY
+- MERCURY INSURANCE COMPANY
+- PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
-- aflac
+- AmWINS Group
 - ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
 - Guard Insurance
-- NSM Insurance Group
+- ASSURED PARTNERS
 - Genworth
+- LINCOLN NATIONAL CORPORATION
 - TIH Insurance Holdings, LLC
 - HARTFORD FIRE INSURANCE COMPANY
 - RISK STRATEGIES COMPANY
@@ -267,13 +154,19 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - VERISK ANALYTICS
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- The Hanover Insurance Group
+- USI INSURANCE
+- W R BERKLEY CORPORATION
+- Corebridge Financial
+- REINSURANCE GROUP OF AMERICA
 - Sedgwick Claims Management Services, Inc.
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
+- BROWN AND BROWN, Inc.
+- MARKEL
 - AAA INSURANCE GROUP
 - Milliman USA
-- STANDARD INSURANCE CO
+- AMERICAN FAMILY CORPORATION
+- ARTHUR J GALLAGHER & CO
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
 - AMTrust Financial Services INC
@@ -284,15 +177,17 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
+- ACRISURE LLC
 - AMERICAN FINANCIAL GROUP INC
 - CINCINNATI INSURANCE COMPANIES
 - CNO Services, LLC
 - JACKSON NATIONAL LIFE
 - CUNA MUTUAL INSURANCE SOCIETY
 - Jewelers Mutual Insurance
+- Loews Corp
 - SENTRY INSURANCE A MUTUAL CO
-- FARM BUREAU FINANCIAL SERVICES
 - Hub International
+- Kemper Corporation
 - LOCKTON INSURANCE AGENCY
 - SHELTER INSURANCE COMPANY
 - AMYNTA GROUP
@@ -301,7 +196,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - EVEREST GLOBAL SERVICES
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
-- EQUITABLE
 - GUARDIAN LIFE INSURANCE CO
 - National Life Group
 - TRAVELERS PROPERTY & CASUALTY
@@ -309,4 +203,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on September 15, 2026._
+_Auto-generated on September 21, 2026._

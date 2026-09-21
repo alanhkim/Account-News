@@ -1,9 +1,10 @@
 # GEICO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 15, 2026.
+Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-21 | Prediction : Berkshire Hathaway Operating Earnings Will Top $48 Billion in 2026 | 🔴 High | ⚪ Neutral | [link](https://www.fool.com/investing/2026/09/21/prediction-berkshire-hathaways-operating-earnings/?source=iedfolrf0000001) |
 | 2026-09-11 | Good Ground Harvest Market to Offer 10 Weeks of Fresh Food in Clarksville - Clarksville Online - Clarksville News , Sports , Events and Information | 🟡 Low | ⚪ Neutral | [link](https://www.clarksvilleonline.com/2026/09/11/good-ground-harvest-market-to-offer-10-weeks-of-fresh-food-in-clarksville/) |
 | 2026-09-08 | Cut Your Car Insurance by $400 Without Dropping Coverage | 🟡 Low | 🔴 Negative | [link](https://www.aceshowbiz.com/news/view/00261567.html) |
 | 2026-09-04 | Regional Geico ad illustrates how we talk funny | 🟡 Low | ⚪ Neutral | [link](https://www.dmagazine.com/micropost/regional-geico-ad-illustrates-how-we-talk-funny/) |

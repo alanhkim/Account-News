@@ -1,9 +1,10 @@
 # HILLTOP HOLDINGS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 15, 2026.
+Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-21 | HilltopSecurities expands Midwest advisory footprint with Sycamore hires | 🟡 Low | 🟢 Positive | [link](https://www.bondbuyer.com/news/hilltopsecurities-expands-midwest-advisory-footprint-with-sycamore-hires) |
 | 2026-09-13 | How West Bank outposts turn vulnerable Israeli teens into foot soldiers of settler vi | 🔴 High | 🔴 Negative | [link](https://www.ynetnews.com/magazine/article/rj1132yxtzl) |
 | 2026-08-20 | Harry and Meghan Cotswold kingdom ? Sussexes made  secret reconnaissance  of sought - after celebrity enclave before announcing move to united kingdom | 🟡 Low | ⚪ Neutral | [link](https://www.dailymail.com/news/article-16066759/Harry-Meghan-Cotswold-kingdom-secret-UK.html) |
 | 2026-08-18 | Brean Capital Welcomes Mat Parker as Managing Director and Head of Financial Institutions Group Sales | 🟡 Low | 🟢 Positive | [link](http://www.haitisun.com/news/279249146/brean-capital-welcomes-mat-parker-as-managing-director-and-head-of-financial-institutions-group-sales) |

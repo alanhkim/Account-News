@@ -1,6 +1,6 @@
 # MORNINGSTAR INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 15, 2026.
+Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
@@ -10,4 +10,3 @@ Rolling history of tracked news (last 90 days). Updated September 15, 2026.
 | 2026-08-13 | Will the ECB Raise Interest Rates Again in 2026 , but Cut Them in 2027 ? | 🟡 Low | ⚪ Neutral | [link](https://www.morningstar.com/economy/will-ecb-raise-interest-rates-again-2026-cut-them-2027) |
 | 2026-08-12 | After Earnings , Is Disney Stock a Buy , a Sell , or Fairly Valued ? | 🔴 High | ⚪ Neutral | [link](https://www.morningstar.com/stocks/after-earnings-is-disney-stock-buy-sell-or-fairly-valued-10) |
 | 2026-07-27 | Meet the American techies who dont care where  good enough  AI models come from , even China | 🟠 Medium | ⚪ Neutral | [link](https://fortune.com/2026/07/27/open-frontier-increasingly-chinese-built/) |
-| 2026-06-17 | Morningstar Teams with Apollo, Franklin Templeton, and J.P. Morgan on Model Portfolios | 🟡 Low | ⚪ Neutral | [link](https://www.morningstar.com/company/news-center) |

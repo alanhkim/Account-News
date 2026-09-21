@@ -1,9 +1,10 @@
 # GOLDMAN SACHS & COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 15, 2026.
+Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-21 | Dear Tesla Stock Fans , Mark Your Calendars for September 30 | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-140003840.html) |
 | 2026-08-26 | The SEC has subpoenaed four banks over Situational Awareness | 🟠 Medium | ⚪ Neutral | [link](https://thenextweb.com/news/sec-subpoenas-banks-situational-awareness-leverage) |
 | 2026-08-25 | Bitcoin Bulls Pile Into IBIT Calls as Options Volume Hits Record 1 . 58M Contracts | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/options/articles/bitcoin-bulls-pile-ibit-calls-152131393.html) |
 | 2026-08-20 | Game - changer  GLP - 1s could fix America obesity crisis but 2 inequalities stand in the way | 🟡 Low | ⚪ Neutral | [link](https://fortune.com/2026/08/20/game-changer-glp-1s-could-fix-americas-obesity-crisisbut-2-inequalities-stand-in-the-way/) |

@@ -1,9 +1,10 @@
 # Progressive Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 15, 2026.
+Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-21 | Luzerne County Council voting on railroad sale , anti - discrimination ordinance | 🟡 Low | ⚪ Neutral | [link](https://www.citizensvoice.com/2026/09/21/luzerne-county-council-voting-on-railroad-sale-anti-discrimination-ordinance/) |
 | 2026-09-13 | Latin America : Patterns and Pendulum | 🟡 Low | ⚪ Neutral | [link](https://internationalviewpoint.org/Latin-America-Patterns-and-Pendulum) |
 | 2026-09-05 | After years of defying the odds , California David Valadao faces new test as Latinos turn on Trump | 🟡 Low | ⚪ Neutral | [link](https://www.khqa.com/news/nation-world/after-years-of-defying-the-odds-californias-david-valadao-faces-new-test-as-latinos-turn/article_5fc81d9d-2246-59ca-b4b8-2734bdc4df07.html) |
 | 2026-09-04 | How do coffee shops stay open in Charleston , South Carolina ? | 🟡 Low | ⚪ Neutral | [link](https://www.postandcourier.com/food/tip-jar-restaurant-questions-charleston-food/article_70428fb7-31da-4dfb-a30b-63507246aa65.html) |

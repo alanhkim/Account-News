@@ -1,8 +1,8 @@
 # Latest News — Insurance Strategic
 
-**Updated:** September 15, 2026  
+**Updated:** September 21, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 6  
+**Accounts with news this cycle:** 3  
 
 ---
 
@@ -10,84 +10,58 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.straitstimes.com&sz=32) | **Nationwide** | Seoul to designate patient - friendly hotels as medical tourism surges | 2026-09-13 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.straitstimes.com/asia/east-asia/seoul-to-designate-patient-friendly-hotels-as-medical-tourism-surges) |
-| ![](https://www.google.com/s2/favicons?domain=www.londontheatre1.com&sz=32) | **American International Group Inc** | The Mirror Crackd \| The Mill at Sonning | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.londontheatre1.com/reviews/the-mirror-crackd-the-mill-at-sonning/) |
-| ![](https://www.google.com/s2/favicons?domain=internationalviewpoint.org&sz=32) | **Progressive Corporation** | Latin America : Patterns and Pendulum | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://internationalviewpoint.org/Latin-America-Patterns-and-Pendulum) |
-| ![](https://www.google.com/s2/favicons?domain=www.clarksvilleonline.com&sz=32) | **GEICO** | Good Ground Harvest Market to Offer 10 Weeks of Fresh Food in Clarksville - Clarksville Online - Clarksville News , Sports , Events and Information | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.clarksvilleonline.com/2026/09/11/good-ground-harvest-market-to-offer-10-weeks-of-fresh-food-in-clarksville/) |
-| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | Auto Claims Desk Adjuster at Liberty Mutual / Insurance Journal Jobs | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/jobs/884496-auto-claims-desk-adjuster) |
-| ![](https://www.google.com/s2/favicons?domain=thebusinessjournal.com&sz=32) | **PRUDENTIAL INSURANCE CO OF AMERICA** | Public Notices 8 / 21 / 2026 | 2026-08-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thebusinessjournal.com/public-notices-8-21-2026/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **GEICO** | Prediction : Berkshire Hathaway Operating Earnings Will Top $48 Billion in 2026 | 2026-09-21 | 🔴 High | ⚪ Neutral | Earnings, Regulatory | — | [link](https://www.fool.com/investing/2026/09/21/prediction-berkshire-hathaways-operating-earnings/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.citizensvoice.com&sz=32) | **Progressive Corporation** | Luzerne County Council voting on railroad sale , anti - discrimination ordinance | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.citizensvoice.com/2026/09/21/luzerne-county-council-voting-on-railroad-sale-anti-discrimination-ordinance/) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Willis Towers Watson** | Financial Survey : Travelers Companies ( NYSE : TRV ) and Willis Towers Watson Public ( NASDAQ : WTW ) | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13581099/financial-survey-travelers-companies-nysetrv-and-willis-towers-watson-public-nasdaqwtw.html) |
 
 ## Detail
 
-### Nationwide
-**Seoul to designate patient - friendly hotels as medical tourism surges** — 2026-09-13 — 🟡 Low — 🟢 Positive
+### GEICO
+**Prediction : Berkshire Hathaway Operating Earnings Will Top $48 Billion in 2026** — 2026-09-21 — 🔴 High — ⚪ Neutral
 
 
 
+_Trigger events:_ Earnings, Regulatory  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.straitstimes.com/asia/east-asia/seoul-to-designate-patient-friendly-hotels-as-medical-tourism-surges)
-
-### American International Group Inc
-**The Mirror Crackd | The Mill at Sonning** — 2026-09-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.londontheatre1.com/reviews/the-mirror-crackd-the-mill-at-sonning/)
+[Read →](https://www.fool.com/investing/2026/09/21/prediction-berkshire-hathaways-operating-earnings/?source=iedfolrf0000001)
 
 ### Progressive Corporation
-**Latin America : Patterns and Pendulum** — 2026-09-13 — 🟡 Low — ⚪ Neutral
+**Luzerne County Council voting on railroad sale , anti - discrimination ordinance** — 2026-09-21 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://internationalviewpoint.org/Latin-America-Patterns-and-Pendulum)
+[Read →](https://www.citizensvoice.com/2026/09/21/luzerne-county-council-voting-on-railroad-sale-anti-discrimination-ordinance/)
 
-### GEICO
-**Good Ground Harvest Market to Offer 10 Weeks of Fresh Food in Clarksville - Clarksville Online - Clarksville News , Sports , Events and Information** — 2026-09-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.clarksvilleonline.com/2026/09/11/good-ground-harvest-market-to-offer-10-weeks-of-fresh-food-in-clarksville/)
-
-### LIBERTY MUTUAL INSURANCE COMPANY
-**Auto Claims Desk Adjuster at Liberty Mutual / Insurance Journal Jobs** — 2026-09-11 — 🟡 Low — ⚪ Neutral
+### Willis Towers Watson
+**Financial Survey : Travelers Companies ( NYSE : TRV ) and Willis Towers Watson Public ( NASDAQ : WTW )** — 2026-09-11 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.insurancejournal.com/jobs/884496-auto-claims-desk-adjuster)
-
-### PRUDENTIAL INSURANCE CO OF AMERICA
-**Public Notices 8 / 21 / 2026** — 2026-08-22 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thebusinessjournal.com/public-notices-8-21-2026/)
+[Read →](https://www.tickerreport.com/banking-finance/13581099/financial-survey-travelers-companies-nysetrv-and-willis-towers-watson-public-nasdaqwtw.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (9)</summary>
+<details><summary>Accounts with no material news this cycle (12)</summary>
 
+- Nationwide
 - STATE FARM LIFE INSURANCE CO
 - NORTHWESTERN MUTUAL
 - Marsh McLennan
 - Metlife
+- American International Group Inc
 - ALLSTATE INSURANCE GROUP
 - FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
 - Chubb
-- Willis Towers Watson
+- LIBERTY MUTUAL INSURANCE COMPANY
+- PRUDENTIAL INSURANCE CO OF AMERICA
 
 </details>
 
 ---
-_Auto-generated on September 15, 2026._
+_Auto-generated on September 21, 2026._
