@@ -1,9 +1,10 @@
 # GUARDIAN LIFE INSURANCE CO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | TCS to take over Best Buy India GCC under multiyear deal | 🔴 High | ⚪ Neutral | [link](https://economictimes.indiatimes.com/news/india/tcs-to-take-over-best-buys-india-gcc-under-multiyear-deal/articleshow/134626627.cms) |
 | 2026-09-11 | Lehigh Valley residents recall where they were on 9 / 11 | 🟡 Low | ⚪ Neutral | [link](https://www.mcall.com/2026/09/11/from-an-easton-firehouse-to-manhattan-lehigh-valley-residents-recall-where-they-were-on-9-11/) |
 | 2026-08-19 | Musikfest 2026 ranks among top three most attended festivals – Times News Online | 🟡 Low | ⚪ Neutral | [link](https://www.tnonline.com/20260819/musikfest-2026-ranks-among-top-three-most-attended-festivals/) |
 | 2026-08-06 | Guardian Life Insurance , BKMEA partner to expand insurance coverage for knitwear workers | 🟠 Medium | 🟢 Positive | [link](https://www.thedailystar.net/business/news/guardian-life-insurance-bkmea-partner-expand-insurance-coverage-knitwear-workers-4241676) |

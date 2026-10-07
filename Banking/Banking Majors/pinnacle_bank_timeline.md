@@ -1,9 +1,10 @@
 # PINNACLE BANK — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | How to watch President Donald Trump at midterm rally in Grand Island | 🟡 Low | ⚪ Neutral | [link](https://www.ksnblocal4.com/2026/10/01/how-watch-president-donald-trump-midterm-rally-grand-island/) |
 | 2026-09-01 | TOBYMAC \ | Chris Tomlin \ | THIRD DAY at Pinnacle Bank Arena in Lincoln – My Bridge Radio – Events | 🟡 Low | ⚪ Neutral | [link](https://events.mybridgeradio.net/event/tobymac-chris-tomlin-third-day-at-pinnacle-bank-arena-in-lincoln/) |
 | 2026-08-18 | Education briefs for 8 - 18 - 26 | 🟡 Low | ⚪ Neutral | [link](https://cdispatch.com/news/education-briefs-for-8-18-26/) |
 | 2026-07-30 | Resolution Copper Establishes $54 Million Tribal Trust - Mining Engineering Online | 🟡 Low | ⚪ Neutral | [link](https://me.smenet.org/resolution-copper-establishes-54-million-tribal-trust/) |

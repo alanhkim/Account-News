@@ -1,9 +1,10 @@
 # BERKSHIRE HATHAWAY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | GM Mary Barra says the EV transition is still the destination even if the road is longer | 🟡 Low | ⚪ Neutral | [link](https://fortune.com/2026/10/02/mary-barra-general-motors-ev-strategy-autonomous-driving-crisis-leadership/) |
 | 2026-09-09 | Apple ( AAPL )  Surprise and Shine  Event Tests Its Foldable iPhone Against Huawei and Xiaomi | 🟡 Low | 🟢 Positive | [link](https://www.insidermonkey.com/blog/apples-aapl-surprise-and-shine-event-tests-its-foldable-iphone-against-huawei-and-xiaomi-1834973/) |
 | 2026-09-05 | All It Takes Is $10 , 000 Invested in This Dividend Stock to Generate Over $241 in Yearly Dividends | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/takes-10-000-invested-dividend-122000316.html) |
 | 2026-09-04 | Warren Buffett Berkshire Hathaway Just Did This for the First Time in 15 Quarters . History Offers a Clue About What Next , But the Evidence Piling Up Suggests History May Not Repeat Itself . | 🟡 Low | 🟢 Positive | [link](https://www.fool.com/investing/2026/09/04/warren-buffett-s-berkshire-hathaway-just-did-this-for-the-first-time-in-15-quarters-history-offers-a-clue-about-what-s-next-but-the-evidence-piling-up-suggests-history-may-not-repeat-itself/?source=iedfolrf0000001) |

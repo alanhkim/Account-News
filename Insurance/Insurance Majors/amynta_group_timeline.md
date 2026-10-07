@@ -1,9 +1,10 @@
 # AMYNTA GROUP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-30 | MGA premiums hit $128 billion , but tech gains require judgment | 🟡 Low | 🟢 Positive | [link](https://www.insurancebusinessmag.com/us/news/technology/mga-premiums-hit-128-billion-but-tech-gains-require-judgment-591809.aspx) |
 | 2026-08-18 | Supervisors approve purchasing VFIS insurance for volunteer firefighters | 🟡 Low | ⚪ Neutral | [link](https://meridianstar.com/2026/08/18/supervisors-approve-purchasing-vfis-insurance-for-volunteer-firefighters/) |
 | 2026-08-17 | Lauderdale Co . Board of Supervisors approves the purchase of VFIS insurance for Volunteer Fire Departments | 🟡 Low | ⚪ Neutral | [link](https://www.wtok.com/2026/08/17/lauderdale-co-board-supervisors-approves-purchase-vfis-insurance-volunteer-fire-departments/) |
 | 2026-08-13 | Amynta Group Buys Virginia - Based Southern States Underwriters MGU | 🟡 Low | 🟢 Positive | [link](https://www.insurancejournal.com/news/east/2026/08/13/881307.htm) |

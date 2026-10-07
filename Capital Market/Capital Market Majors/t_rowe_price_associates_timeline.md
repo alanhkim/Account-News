@@ -1,9 +1,10 @@
 # T ROWE PRICE ASSOCIATES — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | World shares mixed after global bond sell - off deepens and ahead of US jobs data | 🟠 Medium | ⚪ Neutral | [link](http://www.dailyadvance.com/news/world/world-shares-mixed-after-global-bond-sell-off-deepens-and-ahead-of-us-jobs-data/article_5c800756-51f1-5015-a189-8707229d1aa7.html) |
 | 2026-09-12 | 5 Big Yields That Could Be Slashed : Income Investors Beware | 🟡 Low | ⚪ Neutral | [link](https://www.aol.com/articles/5-big-yields-could-slashed-153353000.html) |
 | 2026-09-04 | Kickstand Ventures LLC . Purchases Shares of 763 , 165 T . Rowe Price U . S . Equity Research ETF $TSPA | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/04/kickstand-ventures-llc-purchases-shares-of-763165-t-rowe-price-u-s-equity-research-etf-tspa.html) |
 | 2026-09-03 | T . ROWE PRICE CONTINUES ACTIVE EXCHANGE TRADED FUND EXPANSION WITH SECURITIZED CREDIT OFFERING | 🔴 High | ⚪ Neutral | [link](https://www.aol.com/articles/t-rowe-price-continues-active-143700000.html) |

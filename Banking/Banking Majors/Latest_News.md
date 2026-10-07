@@ -1,8 +1,8 @@
 # Latest News — Banking Majors
 
-**Updated:** September 21, 2026  
+**Updated:** October 07, 2026  
 **Accounts tracked:** 91  
-**Accounts with news this cycle:** 21  
+**Accounts with news this cycle:** 22  
 
 ---
 
@@ -10,115 +10,203 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **GREYSTONE SERVICING CORP** | C - IV Capital Partners Completes Acquisition of Greystone Special Servicing Business | 2026-09-02 | 🔴 High | ⚪ Neutral | M&A, Product Launch | — | [link](https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/c-iv-capital-partners-completes-acquisition-of-greystones-special-servicing-business/2417488) |
-| ![](https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32) | **Q2 Software** | Materialise ( MTLS ) Q2 2026 Earnings Call Transcript | 2026-09-02 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **Select Portfolio Servicing, Inc.** | Angel Oak Mortgage raises $228 . 2 million from mostly non - QM assets | 2026-09-02 | 🔴 High | 🟢 Positive | M&A | — | [link](https://www.nationalmortgagenews.com/news/angel-oak-mortgage-raises-228-2-million-from-mostly-non-qm-assets) |
-| ![](https://www.google.com/s2/favicons?domain=www.housingwire.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | Archwell Capital names Mike Middleman CEO | 2026-09-21 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://www.housingwire.com/articles/archwell-capital-new-ceo/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **WEBSTER BANK** | CVR Partners ( NYSE : UAN ) Stock Price Down 3 . 9 % – What Next ? | 2026-09-21 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.dailypolitical.com/2026/09/21/cvr-partners-nyseuan-stock-price-down-3-9-whats-next.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.bondbuyer.com&sz=32) | **HILLTOP HOLDINGS** | HilltopSecurities expands Midwest advisory footprint with Sycamore hires | 2026-09-21 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.bondbuyer.com/news/hilltopsecurities-expands-midwest-advisory-footprint-with-sycamore-hires) |
-| ![](https://www.google.com/s2/favicons?domain=www.theepochtimes.com&sz=32) | **RAPID ADVANCE LLC** | Oil Tanker Hit by Projectile in Strait of Hormuz , Military Organization Says | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theepochtimes.com/world/oil-tanker-hit-by-projectile-in-strait-of-hormuz-military-organization-says-6092858) |
-| ![](https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32) | **Bloomberg LP** | 🔑 Permission not required | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.zerohedge.com/news/2026-09-21/permission-not-required) |
-| ![](https://www.google.com/s2/favicons?domain=www.waterford-news.ie&sz=32) | **Alight** | There to be enjoyed , not destroyed , councillor speaks out against anti - social behaviour in Waterford estates - News | 2026-09-21 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.waterford-news.ie/news/there-to-be-enjoyed-not-destroyed-councillor-speaks-out-against-anti-social-behaviour-in-waterfo_arid-111496.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.99jamzmiami.com&sz=32) | **OneMain Financial** | What is debt , and how do different types work ? | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.99jamzmiami.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/) |
-| ![](https://www.google.com/s2/favicons?domain=northcountrynow.com&sz=32) | **Experian** | The neighborhoods where property values are moving fast this fall , and what the records show | 2026-09-21 | 🟡 Low | 🟢 Positive | — | — | [link](http://northcountrynow.com/premium/stacker/stories/the-neighborhoods-where-property-values-are-moving-fast-this-fall-and-what-the-records-show,391687) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailykos.com&sz=32) | **WESTERN UNION** | The Blindspot over Racist Ads | 2026-09-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailykos.com/stories/2026/9/20/800100766/community/the-blindspot-over-racist-ads/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | Regions Financial ( NYSE : RF ) Upgraded to  Hold  at Wall Street Zen | 2026-09-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/20/regions-financial-nyserf-upgraded-to-hold-at-wall-street-zen.html) |
-| ![](https://www.google.com/s2/favicons?domain=foxsports940.iheart.com&sz=32) | **loanDepot** | How to Watch Dodgers vs . Marlins : Streaming & TV on Sept . 13 | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://foxsports940.iheart.com/content/2026-09-13-how-to-watch-dodgers-vs-marlins-streaming-tv-on-sept-13/) |
-| ![](https://www.google.com/s2/favicons?domain=thenationonlineng.net&sz=32) | **CITIZENS FINANCIAL GROUP** | Scorecard of Bagudu reform and economic planning in three years | 2026-09-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thenationonlineng.net/scorecard-of-bagudus-reform-and-economic-planning-in-three-years/) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **Old National Bancorp** | Old National Bancorp ( NASDAQ : ONB ) vs . Washington Trust Bancorp ( NASDAQ : WASH ) Head - To - Head Contrast | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/09/12/old-national-bancorp-nasdaqonb-vs-washington-trust-bancorp-nasdaqwash-head-to-head-contrast.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.pressreporter.com&sz=32) | **REPUBLIC FINANCE** | Doyle Vinson Chapman \| Lamesa Press - Reporter | 2026-09-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.pressreporter.com/article/2594-doyle-vinson-chapman) |
+| ![](https://www.google.com/s2/favicons?domain=news.webindia123.com&sz=32) | **Experian** | Oolka , India AI - Powered Credit Platform , Brings Credit Analysis , Dispute Management and Credit Profile Improvement Under One Roof | 2026-10-06 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://news.webindia123.com/news/Articles/Business/20261006/4507682.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32) | **Jack Henry & Associates Inc.** | Who Keeps The Money When AI Rewrites Bank Code ? | 2026-09-30 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code) |
+| ![](https://www.google.com/s2/favicons?domain=www.ibtimes.com.au&sz=32) | **Bloomberg LP** | Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks | 2026-10-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319) |
+| ![](https://www.google.com/s2/favicons?domain=www.ksnblocal4.com&sz=32) | **PINNACLE BANK** | How to watch President Donald Trump at midterm rally in Grand Island | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ksnblocal4.com/2026/10/01/how-watch-president-donald-trump-midterm-rally-grand-island/) |
+| ![](https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32) | **EXETER FINANCE CORP** | While Subprime Auto Loans Default , Their Bonds Somehow Keep Performing | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.zerohedge.com/markets/while-subprime-auto-loans-default-their-bonds-somehow-keep-performing) |
+| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **NATIONSTAR MORTGAGE** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **Texas Capital Bank** | Linea Energy Closes Project Debt Financing and Preferred Equity Commitment for 250 MW / 500 MWh Mesa View BESS in Texas | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.prnewswire.com/news-releases/linea-energy-closes-project-debt-financing-and-preferred-equity-commitment-for-250-mw--500-mwh-mesa-view-bess-in-texas-302896689.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
+| ![](https://www.google.com/s2/favicons?domain=www.mpamag.com&sz=32) | **GREYSTONE SERVICING CORP** | Borrower stops paying , so Fannie Mae sends in a receiver | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mpamag.com/us/specialty/commercial/borrower-stops-paying-so-fannie-mae-sends-in-a-receiver/591989) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **EAST WEST BANCORP INC** | SPDR S & P Regional Banking ETF ( NYSEARCA : KRE ) Stock Sees Unusually High Put Option Buying | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/10/01/spdr-sp-regional-banking-etf-nysearcakre-stock-sees-unusually-high-put-option-buying.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | American Banker Honors Region Kate Danella as One of the 25 Most Powerful Women in Banking | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/american-banker-honors-regions-kate-203000000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **REPUBLIC FINANCE** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
+| ![](https://www.google.com/s2/favicons?domain=www.longisland.com&sz=32) | **Flagstar Bank** | Kings Park Man Sentenced to 5 ½ to 11 Years for Robbing Two Flagstar Banks | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.longisland.com/news/10-01-26/kings-park-man-sentenced-to-5-12-to-11-years-for-robbing-two-flagstar-banks.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.venezuelastar.com&sz=32) | **GREEN DOT CORPORATION** | Updates : Parker explains final decision in Rio | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.venezuelastar.com/news/279346266/updates-parker-explains-final-decision-in-rio) |
+| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **CENLAR FSB INC** | Top 5 player Ginnie MSR domination drives specialization | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.americanbanker.com/news/top-5-players-ginnie-msr-domination-drives-specialization) |
+| ![](https://www.google.com/s2/favicons?domain=www.housingwire.com&sz=32) | **United Wholesale Mortgage** | One pricing grid for FICO and VantageScore clouds MBS appetite | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nerdwallet.com&sz=32) | **Movement Mortgage** | Mortgage Rates Today , Wednesday , September 30 : Steadily Above 7 % | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-september-30-2026) |
+| ![](https://www.google.com/s2/favicons?domain=thecaribbeancamera.com&sz=32) | **HEALTHEQUITY INC** | Black Men Deserve Better on Prostate Cancer Screening - The Caribbean Camera | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thecaribbeancamera.com/black-men-prostate-cancer-screening-ontario/) |
+| ![](https://www.google.com/s2/favicons?domain=www.kiplinger.com&sz=32) | **MOUNTAIN AMERICA CREDIT UNION** | How the Sandwich Generation Can Protect Their Retirement | 2026-09-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.kiplinger.com/retirement/retirement-planning/sandwich-generation-how-to-protect-your-retirement) |
+| ![](https://www.google.com/s2/favicons?domain=www.wpxi.com&sz=32) | **OneMain Financial** | What is debt , and how do different types work ? | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wpxi.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/) |
+| ![](https://www.google.com/s2/favicons?domain=www.wjcl.com&sz=32) | **VYSTAR CREDIT UNION** | Ghost Pirates Ice Cove opens in Port Wentworth | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wjcl.com/article/ghost-pirates-ice-cove-opens/73700451) |
 | ![](https://www.google.com/s2/favicons?domain=natlawreview.com&sz=32) | **TRANS UNION CORPORATION** | 8th Circuit Follows on 7th Circuit Heels with Fraase v . Advanta | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://natlawreview.com/article/eighth-circuit-affirms-consumer-reporting-agencies-may-reasonably-rely-official) |
-| ![](https://www.google.com/s2/favicons?domain=www.fox13now.com&sz=32) | **MOUNTAIN AMERICA CREDIT UNION** | Utah mom of 6 gets Dream Team surprise | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.fox13now.com/community/dream-team/mother-of-6-girls-with-disabilities-surprises-her-community-so-her-community-surprised-her-back) |
-| ![](https://www.google.com/s2/favicons?domain=www.bartlesvilleradio.com&sz=32) | **ARVEST BANK GROUP** | Dewey Public Schools Receives $5K Donation from Arvest Foundation | 2026-09-09 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bartlesvilleradio.com/news/dewey-public-schools-receives-5k-donation-from-arvest-foundation/article_bf1b9bc2-a1b7-447e-b95d-7bd3b1a5d98b.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.lamarledger.com&sz=32) | **Nelnet** | So your student loan payment went up what now ? | 2026-09-02 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/) |
 
 ## Detail
 
-### GREYSTONE SERVICING CORP
-**C - IV Capital Partners Completes Acquisition of Greystone Special Servicing Business** — 2026-09-02 — 🔴 High — ⚪ Neutral
+### Experian
+**Oolka , India AI - Powered Credit Platform , Brings Credit Analysis , Dispute Management and Credit Profile Improvement Under One Roof** — 2026-10-06 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ M&A, Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI, Fabric  
+_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
 
-[Read →](https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/c-iv-capital-partners-completes-acquisition-of-greystones-special-servicing-business/2417488)
+[Read →](https://news.webindia123.com/news/Articles/Business/20261006/4507682.html)
 
-### Q2 Software
-**Materialise ( MTLS ) Q2 2026 Earnings Call Transcript** — 2026-09-02 — 🔴 High — ⚪ Neutral
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://finance.yahoo.com/markets/stocks/articles/materialise-mtls-q2-2026-earnings-132153839.html)
-
-### Select Portfolio Servicing, Inc.
-**Angel Oak Mortgage raises $228 . 2 million from mostly non - QM assets** — 2026-09-02 — 🔴 High — 🟢 Positive
+### Jack Henry & Associates Inc.
+**Who Keeps The Money When AI Rewrites Bank Code ?** — 2026-09-30 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Trigger events:_ M&A  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.nationalmortgagenews.com/news/angel-oak-mortgage-raises-228-2-million-from-mostly-non-qm-assets)
-
-### FREEDOM MORTGAGE CORPORATION
-**Archwell Capital names Mike Middleman CEO** — 2026-09-21 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.housingwire.com/articles/archwell-capital-new-ceo/)
-
-### WEBSTER BANK
-**CVR Partners ( NYSE : UAN ) Stock Price Down 3 . 9 % – What Next ?** — 2026-09-21 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ Product Launch  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/09/21/cvr-partners-nyseuan-stock-price-down-3-9-whats-next.html)
-
-### HILLTOP HOLDINGS
-**HilltopSecurities expands Midwest advisory footprint with Sycamore hires** — 2026-09-21 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.bondbuyer.com/news/hilltopsecurities-expands-midwest-advisory-footprint-with-sycamore-hires)
-
-### RAPID ADVANCE LLC
-**Oil Tanker Hit by Projectile in Strait of Hormuz , Military Organization Says** — 2026-09-21 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.theepochtimes.com/world/oil-tanker-hit-by-projectile-in-strait-of-hormuz-military-organization-says-6092858)
+[Read →](https://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code)
 
 ### Bloomberg LP
-**🔑 Permission not required** — 2026-09-21 — 🟡 Low — ⚪ Neutral
+**Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks** — 2026-10-06 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.zerohedge.com/news/2026-09-21/permission-not-required)
+[Read →](https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319)
 
-### Alight
-**There to be enjoyed , not destroyed , councillor speaks out against anti - social behaviour in Waterford estates - News** — 2026-09-21 — 🟡 Low — 🟢 Positive
+### PINNACLE BANK
+**How to watch President Donald Trump at midterm rally in Grand Island** — 2026-10-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.waterford-news.ie/news/there-to-be-enjoyed-not-destroyed-councillor-speaks-out-against-anti-social-behaviour-in-waterfo_arid-111496.html)
+[Read →](https://www.ksnblocal4.com/2026/10/01/how-watch-president-donald-trump-midterm-rally-grand-island/)
+
+### EXETER FINANCE CORP
+**While Subprime Auto Loans Default , Their Bonds Somehow Keep Performing** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.zerohedge.com/markets/while-subprime-auto-loans-default-their-bonds-somehow-keep-performing)
+
+### NATIONSTAR MORTGAGE
+**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
+
+### Texas Capital Bank
+**Linea Energy Closes Project Debt Financing and Preferred Equity Commitment for 250 MW / 500 MWh Mesa View BESS in Texas** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.prnewswire.com/news-releases/linea-energy-closes-project-debt-financing-and-preferred-equity-commitment-for-250-mw--500-mwh-mesa-view-bess-in-texas-302896689.html)
+
+### FREEDOM MORTGAGE CORPORATION
+**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
+
+### GREYSTONE SERVICING CORP
+**Borrower stops paying , so Fannie Mae sends in a receiver** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.mpamag.com/us/specialty/commercial/borrower-stops-paying-so-fannie-mae-sends-in-a-receiver/591989)
+
+### EAST WEST BANCORP INC
+**SPDR S & P Regional Banking ETF ( NYSEARCA : KRE ) Stock Sees Unusually High Put Option Buying** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/10/01/spdr-sp-regional-banking-etf-nysearcakre-stock-sees-unusually-high-put-option-buying.html)
+
+### REGIONS FINANCIAL CORPORATION
+**American Banker Honors Region Kate Danella as One of the 25 Most Powerful Women in Banking** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.aol.com/articles/american-banker-honors-regions-kate-203000000.html)
+
+### REPUBLIC FINANCE
+**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
+
+### Flagstar Bank
+**Kings Park Man Sentenced to 5 ½ to 11 Years for Robbing Two Flagstar Banks** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.longisland.com/news/10-01-26/kings-park-man-sentenced-to-5-12-to-11-years-for-robbing-two-flagstar-banks.html)
+
+### GREEN DOT CORPORATION
+**Updates : Parker explains final decision in Rio** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.venezuelastar.com/news/279346266/updates-parker-explains-final-decision-in-rio)
+
+### CENLAR FSB INC
+**Top 5 player Ginnie MSR domination drives specialization** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.americanbanker.com/news/top-5-players-ginnie-msr-domination-drives-specialization)
+
+### United Wholesale Mortgage
+**One pricing grid for FICO and VantageScore clouds MBS appetite** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/)
+
+### Movement Mortgage
+**Mortgage Rates Today , Wednesday , September 30 : Steadily Above 7 %** — 2026-09-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-september-30-2026)
+
+### HEALTHEQUITY INC
+**Black Men Deserve Better on Prostate Cancer Screening - The Caribbean Camera** — 2026-09-30 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://thecaribbeancamera.com/black-men-prostate-cancer-screening-ontario/)
+
+### MOUNTAIN AMERICA CREDIT UNION
+**How the Sandwich Generation Can Protect Their Retirement** — 2026-09-29 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.kiplinger.com/retirement/retirement-planning/sandwich-generation-how-to-protect-your-retirement)
 
 ### OneMain Financial
 **What is debt , and how do different types work ?** — 2026-09-21 — 🟡 Low — ⚪ Neutral
@@ -127,70 +215,16 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.99jamzmiami.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/)
+[Read →](https://www.wpxi.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/)
 
-### Experian
-**The neighborhoods where property values are moving fast this fall , and what the records show** — 2026-09-21 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://northcountrynow.com/premium/stacker/stories/the-neighborhoods-where-property-values-are-moving-fast-this-fall-and-what-the-records-show,391687)
-
-### WESTERN UNION
-**The Blindspot over Racist Ads** — 2026-09-20 — 🟡 Low — ⚪ Neutral
+### VYSTAR CREDIT UNION
+**Ghost Pirates Ice Cove opens in Port Wentworth** — 2026-09-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailykos.com/stories/2026/9/20/800100766/community/the-blindspot-over-racist-ads/)
-
-### REGIONS FINANCIAL CORPORATION
-**Regions Financial ( NYSE : RF ) Upgraded to  Hold  at Wall Street Zen** — 2026-09-20 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/09/20/regions-financial-nyserf-upgraded-to-hold-at-wall-street-zen.html)
-
-### loanDepot
-**How to Watch Dodgers vs . Marlins : Streaming & TV on Sept . 13** — 2026-09-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://foxsports940.iheart.com/content/2026-09-13-how-to-watch-dodgers-vs-marlins-streaming-tv-on-sept-13/)
-
-### CITIZENS FINANCIAL GROUP
-**Scorecard of Bagudu reform and economic planning in three years** — 2026-09-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thenationonlineng.net/scorecard-of-bagudus-reform-and-economic-planning-in-three-years/)
-
-### Old National Bancorp
-**Old National Bancorp ( NASDAQ : ONB ) vs . Washington Trust Bancorp ( NASDAQ : WASH ) Head - To - Head Contrast** — 2026-09-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/09/12/old-national-bancorp-nasdaqonb-vs-washington-trust-bancorp-nasdaqwash-head-to-head-contrast.html)
-
-### REPUBLIC FINANCE
-**Doyle Vinson Chapman | Lamesa Press - Reporter** — 2026-09-11 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.pressreporter.com/article/2594-doyle-vinson-chapman)
+[Read →](https://www.wjcl.com/article/ghost-pirates-ice-cove-opens/73700451)
 
 ### TRANS UNION CORPORATION
 **8th Circuit Follows on 7th Circuit Heels with Fraase v . Advanta** — 2026-09-10 — 🟡 Low — ⚪ Neutral
@@ -201,42 +235,14 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://natlawreview.com/article/eighth-circuit-affirms-consumer-reporting-agencies-may-reasonably-rely-official)
 
-### MOUNTAIN AMERICA CREDIT UNION
-**Utah mom of 6 gets Dream Team surprise** — 2026-09-09 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.fox13now.com/community/dream-team/mother-of-6-girls-with-disabilities-surprises-her-community-so-her-community-surprised-her-back)
-
-### ARVEST BANK GROUP
-**Dewey Public Schools Receives $5K Donation from Arvest Foundation** — 2026-09-09 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.bartlesvilleradio.com/news/dewey-public-schools-receives-5k-donation-from-arvest-foundation/article_bf1b9bc2-a1b7-447e-b95d-7bd3b1a5d98b.html)
-
-### Nelnet
-**So your student loan payment went up what now ?** — 2026-09-02 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.lamarledger.com/2026/08/31/so-your-student-loan-payment-went-up-what-now/)
-
 ---
 
-<details><summary>Accounts with no material news this cycle (70)</summary>
+<details><summary>Accounts with no material news this cycle (69)</summary>
 
 - New Rez (Caliber Funding )LLC
 - FHLB OF DALLAS
 - FROST NATIONAL BANK
-- NATIONSTAR MORTGAGE
-- Texas Capital Bank
+- HILLTOP HOLDINGS
 - WOODFOREST NATIONAL BANK
 - COMERICA INC
 - FAIRWAY MORTGAGE ACCOUNT OFC
@@ -244,27 +250,28 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - NORTHWEST SAVINGS BANK
 - Roundpoint Mortgage Servicing
 - CARRINGTON MORTGAGE SERVICE
-- EAST WEST BANCORP INC
 - Midland Credit Management
 - MORTGAGE RESEARCH CENTER
-- PINNACLE BANK
 - UNITED MISSOURI BANCSHARES INC
+- WESTERN UNION
 - BCU
 - Guaranteed Rate Inc
+- Old National Bancorp
 - Wintrust Financial Corporation
 - ZIONS BANK CORPORATION
+- ARVEST BANK GROUP
 - Velera (Co-op Financial Services)
-- EXETER FINANCE CORP
-- Movement Mortgage
 - Simmons First National Bank Corporation
 - Advisor360
 - defi Auto, LLC
 - Global Payments
+- RAPID ADVANCE LLC
 - Sagent M&C, LLC
 - Versana LLC
 - APPLIED SYSTEMS INC
 - Datasite
 - Insurity
+- Q2 Software
 - ALLY FINANCIAL
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
@@ -272,12 +279,14 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - South State Bank
 - State Employees Credit Union
 - SYNOVUS FINANCIAL CORP
+- Alight
 - DOVENMUEHLE MORTGAGE INC
 - Rock Holding Inc.
+- Select Portfolio Servicing, Inc.
 - AUTOBOOKS
-- Flagstar Bank
 - FREDDIE MAC
 - Synchrony Financial
+- WEBSTER BANK
 - Edfinancial Services
 - FIFTH THIRD BANCORP
 - FIRST HORIZON BANK
@@ -287,23 +296,20 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - Columbia Banking System, Inc.
 - CU DIRECT LENDING (CUDL Technology Center)
 - FIRST TECHNOLOGY CREDIT UNION
-- HEALTHEQUITY INC
+- loanDepot
 - DUCK CREEK TECHNOLOGIES INC
+- Nelnet
 - Elevate Credit
 - FACTSET RESEARCH SYSTEMS
-- GREEN DOT CORPORATION
-- Jack Henry & Associates Inc.
 - FANNIE MAE
 - FIRST CITIZENS BANK & TRUST COMPANY
 - LENDINGTREE.COM
-- VYSTAR CREDIT UNION
-- CENLAR FSB INC
+- CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
 - M & T BANK
-- United Wholesale Mortgage
 - Valley National Bank
 
 </details>
 
 ---
-_Auto-generated on September 21, 2026._
+_Auto-generated on October 07, 2026._

@@ -1,9 +1,10 @@
 # Hub International — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | What we know so far about the midair FlyDubai attack | 🟠 Medium | 🔴 Negative | [link](https://www.cbc.ca/news/world/flydubai-incident-details-9.7365051) |
 | 2026-09-09 | HUB International Names Ryan Spinner President of HUB Customer Central ( HCC ), Succeeding Greg Andrew | 🟠 Medium | ⚪ Neutral | [link](https://www.standard-freeholder.com/press-releases/pr-newswire/hub-international-names-ryan-spinner-president-of-hub-customer-central-hcc-succeeding-greg-andrew/) |
 | 2026-09-04 | Datamaran Appoints Bert Sinnema as Chief Technology Officer | 🟠 Medium | ⚪ Neutral | [link](https://www.thewhig.com/press-releases/pr-newswire/datamaran-appoints-bert-sinnema-as-chief-technology-officer/) |
 | 2026-09-02 | Germany blames Russia for last month attempted drone attack at Leipzig airport | 🟡 Low | 🔴 Negative | [link](https://www.ijpr.org/npr-news/2026-09-02/germany-blames-russia-for-last-months-attempted-drone-attack-at-leipzig-airport) |

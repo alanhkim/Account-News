@@ -1,9 +1,10 @@
 # VYSTAR CREDIT UNION — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-12 | Ghost Pirates Ice Cove opens in Port Wentworth | 🟡 Low | ⚪ Neutral | [link](https://www.wjcl.com/article/ghost-pirates-ice-cove-opens/73700451) |
 | 2026-08-19 | Jacksonville woman sues VyStar , alleges credit union failed to properly investigate $42K impersonation scam | 🟡 Low | ⚪ Neutral | [link](https://www.news4jax.com/news/local/2026/08/19/jacksonville-woman-sues-vystar-alleges-credit-union-failed-to-properly-investigate-42k-impersonation-scam/) |
 | 2026-08-14 | Drive benefits food pantries in Perry and Steinhatchee | 🟡 Low | ⚪ Neutral | [link](https://perrynewspapers.com/?p=52997) |
 | 2026-08-06 | VyStar Credit Union initiates food drive to support families across Florida and Georgia | 🟡 Low | ⚪ Neutral | [link](https://www.actionnewsjax.com/news/local/vystar-credit-union-initiates-food-drive-support-families-across-florida-georgia/XH7PPL7JQNHYZJI7AYA7YGIPLM/) |

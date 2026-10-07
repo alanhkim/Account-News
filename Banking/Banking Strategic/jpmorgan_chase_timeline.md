@@ -1,9 +1,10 @@
 # JPMORGAN CHASE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-06 | Allient Inc . ( NASDAQ : ALNT ) Stock Has Consensus Target Price of $84 . 00 According to Analysts | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13609658/allient-inc-nasdaqalnt-stock-has-consensus-target-price-of-84-00-according-to-analysts.html) |
 | 2026-08-20 | XLRI AURORA 4 . 0 Explores Product Management in the Polycrisis Era | 🟡 Low | ⚪ Neutral | [link](http://www.taiwansun.com/news/279253963/xlri-aurora-40-explores-product-management-in-the-polycrisis-era) |
 | 2026-08-18 | Martin Marietta Materials ( NYSE : MLM ) Reaches New 1 - Year Low – What Next ? | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13548677/martin-marietta-materials-nysemlm-reaches-new-1-year-low-whats-next.html) |
 | 2026-08-13 | Aramark ( NYSE : ARMK ) Posts Quarterly Earnings Results , Beats Expectations By $0 . 04 EPS | 🔴 High | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/08/13/aramark-nysearmk-posts-quarterly-earnings-results-beats-expectations-by-0-04-eps.html) |

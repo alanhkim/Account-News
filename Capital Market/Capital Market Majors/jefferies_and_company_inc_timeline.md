@@ -1,9 +1,10 @@
 # JEFFERIES & COMPANY INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-06 | Nouveau Monde Graphite Inc . ( NYSE : NMG ) Receives Average Recommendation of  Buy  from Analysts | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13609661/nouveau-monde-graphite-inc-nysenmg-receives-average-recommendation-of-buy-from-analysts.html) |
 | 2026-09-21 | Atlas Signal Initiates Coverage of Vuzix : Passive Glass Waveguide Targets Projected $39 Billion Co - Packaged Optics Market as AI Moves Light Closer to the Chip | 🟠 Medium | ⚪ Neutral | [link](http://www.tennesseedaily.com/news/279321894/atlas-signal-initiates-coverage-of-vuzix-passive-glass-waveguide-targets-projected-39-billion-co-packaged-optics-market-as-ai-moves-light-closer-to-the-chip) |
 | 2026-09-09 | Private Equity : How the Big Long Became a Long Con as Fund Managers Hang on to Investor Funds Trying to Keep Up Pretense of Adequate Performance | 🔴 High | 🟢 Positive | [link](https://www.nakedcapitalism.com/2026/09/private-equity-how-the-big-long-became-a-long-con-as-fund-managers-hang-on-to-investor-funds-trying-to-keep-up-pretense-of-adequate-performance.html) |
 | 2026-09-04 | Apple Inc . $AAPL Position Lessened by Resona Asset Management Co . Ltd . | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/04/apple-inc-aapl-position-lessened-by-resona-asset-management-co-ltd.html) |
@@ -14,4 +15,3 @@ Rolling history of tracked news (last 90 days). Updated September 21, 2026.
 | 2026-07-29 | Closing Bell : Nifty Reclaims 24 , 250 as IT Rallies for Third Straight Day and FIIs Turn Net Buyers | 🟡 Low | ⚪ Neutral | [link](https://www.indiainfoline.com/news/markets/closing-bell-nifty-reclaims-24250-as-it-rallies-for-third-straight-day-and-fiis-turn-net-buyers) |
 | 2026-07-28 | Coats Group ( LON : COA ) Trading Up 9 % – Time to Buy ? | 🟡 Low | 🟢 Positive | [link](https://www.tickerreport.com/banking-finance/13519456/coats-group-loncoa-trading-up-9-time-to-buy.html) |
 | 2026-07-27 | Oppenheimer Issues Pessimistic Forecast for Boston Scientific ( NYSE : BSX ) Stock Price | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/27/oppenheimer-issues-pessimistic-forecast-for-boston-scientific-nysebsx-stock-price.html) |
-| 2026-07-08 | Jefferies Expands Global Equity Trading with Paris Desk Launch | 🟡 Low | 🟢 Positive | [link](https://www.jefferies.com/news/) |

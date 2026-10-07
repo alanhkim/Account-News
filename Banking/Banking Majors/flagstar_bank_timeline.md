@@ -1,9 +1,10 @@
 # Flagstar Bank — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | Kings Park Man Sentenced to 5 ½ to 11 Years for Robbing Two Flagstar Banks | 🟡 Low | ⚪ Neutral | [link](https://www.longisland.com/news/10-01-26/kings-park-man-sentenced-to-5-12-to-11-years-for-robbing-two-flagstar-banks.html) |
 | 2026-09-06 | Investment Analyst Upgrades for September 6th ( ADSK , AMIX , ARGX , ASYS , BBAR , BE , BJDX , CPAY , DXCM , EFSI ) | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/06/investment-analysts-upgrades-for-september-6th-adsk-amix-argx-asys-bbar-be-bjdx-cpay-dxcm-efsi.html) |
 | 2026-09-02 | Mortgage Banking Update - August 27 , 2026 | 🟡 Low | ⚪ Neutral | [link](https://www.mondaq.com:443/unitedstates/financial-services/1837594/mortgage-banking-update-august-27-2026) |
 | 2026-08-17 | Fiserv and Flagstar Bank Announce Strategic Core Banking Relationship | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/17/tmt-newswire/globenewswire/fiserv-and-flagstar-bank-announce-strategic-core-banking-relationship/2406825) |

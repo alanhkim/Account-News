@@ -1,9 +1,10 @@
 # GREYSTONE SERVICING CORP — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | Borrower stops paying , so Fannie Mae sends in a receiver | 🟡 Low | ⚪ Neutral | [link](https://www.mpamag.com/us/specialty/commercial/borrower-stops-paying-so-fannie-mae-sends-in-a-receiver/591989) |
 | 2026-09-02 | C - IV Capital Partners Completes Acquisition of Greystone Special Servicing Business | 🔴 High | ⚪ Neutral | [link](https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/c-iv-capital-partners-completes-acquisition-of-greystones-special-servicing-business/2417488) |
 | 2026-08-03 | Greystone Provides $105 . 8 Million in Freddie Mac Refinancing for Two Multifamily Communities in El Cajon , California | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/greystone-provides-1058-million-in-freddie-mac-refinancing-for-two-multifamily-communities-in-el-cajon-california/2397181) |
 | 2026-07-23 | Greystone Provides $92 Million in Fannie Mae Financing Across Three Affordable Housing Communities in New York | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/07/24/tmt-newswire/globenewswire/greystone-provides-92-million-in-fannie-mae-financing-across-three-affordable-housing-communities-in-new-york/2390768) |

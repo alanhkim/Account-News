@@ -1,9 +1,10 @@
 # Chubb — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated September 21, 2026.
+Rolling history of tracked news (last 90 days). Updated October 07, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | RenRe tops Lloyd underwriter rankings - The Royal Gazette \| Bermuda News , Business , Sports , Events , & Community | 🟡 Low | ⚪ Neutral | [link](https://www.royalgazette.com/reinsurance/business/article/20261001/renre-tops-lloyds-underwriter-rankings/) |
 | 2026-08-30 | Great Thunder Gold ( CVE : GTG ) Stock Passes Above 50 Day Moving Average – Time to Sell ? | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/30/great-thunder-gold-cvegtg-stock-passes-above-50-day-moving-average-time-to-sell.html) |
 | 2026-08-18 | Cornerstone Advisors LLC Invests $6 . 81 Million in Chubb Limited $CB | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/18/cornerstone-advisors-llc-invests-6-81-million-in-chubb-limited-cb.html) |
 | 2026-08-14 | Dividend Roundup : Microsoft , Chevron , Dow , Chubb , and more | 🔴 High | 🟢 Positive | [link](https://seekingalpha.com/news/4633137-dividend-roundup-microsoft-chevron-dow-chubb-and-more) |
