@@ -1,9 +1,10 @@
 # Valley National Bank — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-23 | Saratoga Investment Corp . Prices Public Offering of Additional $20 . 08 Million 8 . 00 % Notes Due 2031 | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/saratoga-investment-corp-prices-public-offering-of-additional-2008-million-800-notes-due-2031/2431730) |
 | 2026-08-27 | Can credit unions fail ? | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/personal-finance/banking/article/failed-credit-unions-202059471.html) |
 | 2026-08-25 | Valley National Bancorp Accelerates Growth in Attractive Chicago Market With Acquisition of High - Performing Providence Financial Corporation | 🔴 High | 🟢 Positive | [link](https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/valley-national-bancorp-accelerates-growth-in-attractive-chicago-market-with-acquisition-of-high-performing-providence-financial-corporation/2411750) |
 | 2026-08-14 | GALLERY : News 5 WCYB 70th Anniversary Block Party | 🟡 Low | ⚪ Neutral | [link](https://wcyb.com/features/70th-anniversary/gallery-news-5-wcyb-70th-anniversary-block-party) |

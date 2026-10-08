@@ -1,57 +1,61 @@
 {
-  "generated": "2026-10-07",
-  "generated_human": "October 07, 2026",
+  "generated": "2026-10-08",
+  "generated_human": "October 08, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 7,
+    "with_news": 4,
     "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "account": "Experian",
-          "title": "Oolka , India AI - Powered Credit Platform , Brings Credit Analysis , Dispute Management and Credit Profile Improvement Under One Roof",
-          "url": "https://news.webindia123.com/news/Articles/Business/20261006/4507682.html",
-          "date": "2026-10-06",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI",
-            "Fabric"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=news.webindia123.com&sz=32"
-        },
-        {
-          "account": "Jack Henry & Associates Inc.",
-          "title": "Who Keeps The Money When AI Rewrites Bank Code ?",
-          "url": "https://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code",
-          "date": "2026-09-30",
+          "account": "HUNTINGTON BANCSHARES INC",
+          "title": "Capstone Partners Reports 93 . 8 % Surge in AI - Enabled Healthcare IT M & A",
+          "url": "https://hitconsultant.net/2026/09/29/capstone-partners-report-ai-enabled-healthcare-it-ma/",
+          "date": "2026-10-01",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-09/__ss-rehost__tw-video-preview-13_2105097857179013122_80.jpg?itok=OF0qREDd",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32"
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Positive",
+          "image": "https://hitconsultant.net/wp-content/uploads/2026/09/Capstone-Partners.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=hitconsultant.net&sz=32"
         }
       ]
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "FISERV Inc",
+          "title": "Fiserv launches stablecoin platform with North Dakota bank",
+          "url": "https://cfotech.news/story/fiserv-launches-stablecoin-platform-with-north-dakota-bank",
+          "date": "2026-10-02",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "Product Launch"
+          ],
+          "sentiment": "Neutral",
+          "image": "https://cfotech.news/uploads/story/2026/10/02/compatible_TD_images_0901__29_-story-320475.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
+        }
+      ]
     },
     {
       "top": "Capital Market",
@@ -59,10 +63,10 @@
       "count": 1,
       "items": [
         {
-          "account": "T ROWE PRICE ASSOCIATES",
-          "title": "World shares mixed after global bond sell - off deepens and ahead of US jobs data",
-          "url": "http://www.dailyadvance.com/news/world/world-shares-mixed-after-global-bond-sell-off-deepens-and-ahead-of-us-jobs-data/article_5c800756-51f1-5015-a189-8707229d1aa7.html",
-          "date": "2026-10-02",
+          "account": "Stone X",
+          "title": "Gold climbs on subdued US dollar as inflation data awaited amid oil rally",
+          "url": "http://www.kitco.com/news/off-the-wire/2026-09-09/gold-climbs-subdued-us-dollar-inflation-data-awaited-amid-oil-rally",
+          "date": "2026-09-09",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
@@ -71,32 +75,16 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/d/2d/d2de04a8-1267-5b09-9663-ca046e942ec9/6abe6454b8cbb.image.jpg?crop=1763%2C926%2C0%2C124",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.dailyadvance.com&sz=32"
+          "image": "https://image-api.prod.kitco.com/image/a38de551-3f2a-4d0d-b3a0-9fa10f80323c.webp?top=0&left=0.21614319486662&.5677136103&scale_width=1920&token=0837f58dd155808368b188032503c42374f8218bb836fc36f72083da596f5dfd",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.kitco.com&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 2,
+      "count": 1,
       "items": [
-        {
-          "account": "VANGUARD GROUP INC",
-          "title": "Jev : The budget ChatGPT rival that could change AI",
-          "url": "https://www.theage.com.au/technology/the-budget-chatgpt-rival-that-could-change-ai-20261002-p611wl.html",
-          "date": "2026-10-02",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://static.ffx.io/images/$zoom_0.6619%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_138/t_crop_custom/q_86%2Cf_auto/b64cf09ef7c5616cd68ea2379829d2ed8cd5fc73",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.theage.com.au&sz=32"
-        },
         {
           "account": "NORTHERN TRUST CORPORATION",
           "title": "Micron Revenue Surges 379 %: 4 Top AI Chip Stocks ( NASDAQ : MU )",
@@ -120,42 +108,8 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 2,
-      "items": [
-        {
-          "account": "Hub International",
-          "title": "What we know so far about the midair FlyDubai attack",
-          "url": "https://www.cbc.ca/news/world/flydubai-incident-details-9.7365051",
-          "date": "2026-10-01",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Negative",
-          "image": "https://i.cbc.ca/ais/b3296f96-b39c-4477-9a27-884fa7305208,1790867374873/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C6%2C3894%2C2190%29%3BResize%3D620",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.cbc.ca&sz=32"
-        },
-        {
-          "account": "VERISK ANALYTICS",
-          "title": "Verisk Analytics Stock : Is VRSK Underperforming the Industrials Sector ?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-stock-vrsk-underperforming-102938166.html",
-          "date": "2026-09-12",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric",
-            "Security"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://s.yimg.com/lo/mysterio/api/4865f203bdc8c8ae52b5350bfa975024eb1bbf20a590a16543f4cd780ccef90f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F7fafcf16cdc32e1bf4d61e03f843f5a9.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",

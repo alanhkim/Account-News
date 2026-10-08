@@ -1,9 +1,10 @@
 # Alight — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-08 | Teenager suffers horrific burns in alleged arson attack | 🟡 Low | 🔴 Negative | [link](https://www.easternriverinachronicle.com.au/story/9365141/teenager-suffers-horrific-burns-in-alleged-arson-attack/) |
 | 2026-09-21 | There to be enjoyed , not destroyed , councillor speaks out against anti - social behaviour in Waterford estates - News | 🟡 Low | 🟢 Positive | [link](https://www.waterford-news.ie/news/there-to-be-enjoyed-not-destroyed-councillor-speaks-out-against-anti-social-behaviour-in-waterfo_arid-111496.html) |
 | 2026-09-09 | BMW bursts into flames on M62 | 🟡 Low | ⚪ Neutral | [link](https://www.liverpoolecho.co.uk/news/liverpool-news/bmw-bursts-flames-m62-34590245) |
 | 2026-09-05 | Trouble in Teesside : a symptom of broken Britain ? | 🟡 Low | ⚪ Neutral | [link](https://theweek.com/crime/trouble-in-teesside-a-symptom-of-broken-britain) |

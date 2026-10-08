@@ -1,9 +1,10 @@
 # Kroll, LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | Crystal Jade holding companies in Spore , Hong Kong placed under receivership | 🟡 Low | ⚪ Neutral | [link](https://www.businesstimes.com.sg/singapore/crystal-jade-holding-companies-spore-hong-kong-placed-under-receivership) |
 | 2026-09-12 | Inside the  minefield  surrounding Sherrill lieutenant governor investigation | 🟡 Low | ⚪ Neutral | [link](https://www.yahoo.com/news/politics/articles/inside-minefield-surrounding-sherrill-lieutenant-144257105.html) |
 | 2026-09-09 | St . Croix Valley Food Bank is expanding : Column \ | Opinion | 🟡 Low | 🟢 Positive | [link](https://www.hudsonstarobserver.com/opinion/st-croix-valley-food-bank-became-the-unsung-hero-of-western-wisconsin-now-it-s/article_31768ce7-e76a-4955-99cc-63d22793d602.html) |
 | 2026-09-05 | California lawmakers revoke charity tax breaks for Imperial County ICE detention center | 🟡 Low | ⚪ Neutral | [link](https://www.kpbs.org/news/border-immigration/2026/09/04/california-lawmakers-revoke-charity-tax-breaks-for-imperial-county-ice-detention-center) |

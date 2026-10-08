@@ -1,6 +1,6 @@
 # The Hanover Insurance Group — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|

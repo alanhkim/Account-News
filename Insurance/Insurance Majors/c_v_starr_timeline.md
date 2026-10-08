@@ -1,7 +1,8 @@
 # C V STARR — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-01 | Celularity ( NASDAQ : CELU ) Releases Quarterly Earnings Results | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/10/01/celularity-nasdaqcelu-releases-quarterly-earnings-results.html) |
 | 2026-08-04 | Disunion : The Final Q & A | 🟡 Low | ⚪ Neutral | [link](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2015/06/10/disunion-the-final-q-a/) |

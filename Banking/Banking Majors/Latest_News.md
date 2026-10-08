@@ -1,8 +1,8 @@
 # Latest News — Banking Majors
 
-**Updated:** October 07, 2026  
+**Updated:** October 08, 2026  
 **Accounts tracked:** 91  
-**Accounts with news this cycle:** 22  
+**Accounts with news this cycle:** 20  
 
 ---
 
@@ -10,68 +10,77 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=news.webindia123.com&sz=32) | **Experian** | Oolka , India AI - Powered Credit Platform , Brings Credit Analysis , Dispute Management and Credit Profile Improvement Under One Roof | 2026-10-06 | 🟠 Medium | ⚪ Neutral | — | Azure AI, Fabric | [link](https://news.webindia123.com/news/Articles/Business/20261006/4507682.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32) | **Jack Henry & Associates Inc.** | Who Keeps The Money When AI Rewrites Bank Code ? | 2026-09-30 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code) |
-| ![](https://www.google.com/s2/favicons?domain=www.ibtimes.com.au&sz=32) | **Bloomberg LP** | Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks | 2026-10-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319) |
-| ![](https://www.google.com/s2/favicons?domain=www.ksnblocal4.com&sz=32) | **PINNACLE BANK** | How to watch President Donald Trump at midterm rally in Grand Island | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ksnblocal4.com/2026/10/01/how-watch-president-donald-trump-midterm-rally-grand-island/) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **FACTSET RESEARCH SYSTEMS** | FactSet ( FDS ) Q4 2026 Earnings Call Transcript | 2026-10-01 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/10/01/factset-fds-q4-2026-earnings-call-transcript/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.webwire.com&sz=32) | **APPLIED SYSTEMS INC** | Blackstone Announces Significant Investment to Launch Falcata , Leader in Next - Generation Interceptor Technologies | 2026-10-01 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://www.webwire.com/ViewPressRel.asp?aId=361274) |
+| ![](https://www.google.com/s2/favicons?domain=hitconsultant.net&sz=32) | **HUNTINGTON BANCSHARES INC** | Capstone Partners Reports 93 . 8 % Surge in AI - Enabled Healthcare IT M & A | 2026-10-01 | 🟠 Medium | 🟢 Positive | Product Launch | Azure AI | [link](https://hitconsultant.net/2026/09/29/capstone-partners-report-ai-enabled-healthcare-it-ma/) |
+| ![](https://www.google.com/s2/favicons?domain=www.easternriverinachronicle.com.au&sz=32) | **Alight** | Teenager suffers horrific burns in alleged arson attack | 2026-10-08 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.easternriverinachronicle.com.au/story/9365141/teenager-suffers-horrific-burns-in-alleged-arson-attack/) |
+| ![](https://www.google.com/s2/favicons?domain=www.clevelandjewishnews.com&sz=32) | **WESTERN UNION** | Louisiana brothers charged with bankrolling Hamas | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.clevelandjewishnews.com/jns/louisiana-brothers-charged-with-bankrolling-hamas/article_70b1ddf8-bb80-5e52-aa0a-e7558b0e9d71.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.zerohedge.com&sz=32) | **EXETER FINANCE CORP** | While Subprime Auto Loans Default , Their Bonds Somehow Keep Performing | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.zerohedge.com/markets/while-subprime-auto-loans-default-their-bonds-somehow-keep-performing) |
-| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **NATIONSTAR MORTGAGE** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
-| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **Texas Capital Bank** | Linea Energy Closes Project Debt Financing and Preferred Equity Commitment for 250 MW / 500 MWh Mesa View BESS in Texas | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.prnewswire.com/news-releases/linea-energy-closes-project-debt-financing-and-preferred-equity-commitment-for-250-mw--500-mwh-mesa-view-bess-in-texas-302896689.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **FREEDOM MORTGAGE CORPORATION** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
-| ![](https://www.google.com/s2/favicons?domain=www.mpamag.com&sz=32) | **GREYSTONE SERVICING CORP** | Borrower stops paying , so Fannie Mae sends in a receiver | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mpamag.com/us/specialty/commercial/borrower-stops-paying-so-fannie-mae-sends-in-a-receiver/591989) |
+| ![](https://www.google.com/s2/favicons?domain=www.theglobeandmail.com&sz=32) | **RAPID ADVANCE LLC** | I fought for investment in Canada defence as international order eroded | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.theglobeandmail.com/opinion/article-canada-defence-investment-international-order-wayne-eyre/) |
+| ![](https://www.google.com/s2/favicons?domain=www.khqa.com&sz=32) | **FREDDIE MAC** | AP Trending SummaryBrief at 6 : 19 a . m . EDT | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.khqa.com/news/nation-world/ap-trending-summarybrief-at-6-19-a-m-edt/article_58cb49b3-3236-5659-959f-1b266fd7c2da.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **FIFTH THIRD BANCORP** | i3 Verticals , Inc . ( NASDAQ : IIIV ) Stock Has Average Price Target of $25 . 40 According to Brokerages | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/10/02/i3-verticals-inc-nasdaqiiiv-stock-has-average-price-target-of-25-40-according-to-brokerages.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **KeyCorp** | Monolithic Power Systems , Inc . ( NASDAQ : MPWR ) Stock Has Average Price Target of $1 , 731 . 42 | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/10/02/monolithic-power-systems-inc-nasdaqmpwr-stock-has-average-price-target-of-1731-42.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **WOODFOREST NATIONAL BANK** | Fairstead Celebrates Completion of Transformative , $26 Million Rehabilitation of Coppertree Village in Houston with Ribbon - Cutting and Community Day | 2026-10-01 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/fairstead-celebrates-completion-of-transformative-26-million-rehabilitation-of-coppertree-village-in-houston-with-ribbon-cutting-and-community-day/2437552) |
+| ![](https://www.google.com/s2/favicons?domain=wcsx.com&sz=32) | **COMERICA INC** | Oakland A Zack Gelof Sues Detroit Tigers Over Comerica Park Knee Injury | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wcsx.com/2026/10/01/oakland-as-zack-gelof-sues-detroit-tigers-over-comerica-park-knee-injury/) |
+| ![](https://www.google.com/s2/favicons?domain=www.pr-inside.com&sz=32) | **Roundpoint Mortgage Servicing** | Pomerantz LLP Notifies Shareholders of Lawsuit Filed Against UWM Holdings ... | 2026-10-01 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.pr-inside.com/pomerantz-llp-notifies-shareholders-of-lawsuit-filed-against-uwm-holdings-r5229185.htm) |
 | ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **EAST WEST BANCORP INC** | SPDR S & P Regional Banking ETF ( NYSEARCA : KRE ) Stock Sees Unusually High Put Option Buying | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/10/01/spdr-sp-regional-banking-etf-nysearcakre-stock-sees-unusually-high-put-option-buying.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **REGIONS FINANCIAL CORPORATION** | American Banker Honors Region Kate Danella as One of the 25 Most Powerful Women in Banking | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/american-banker-honors-regions-kate-203000000.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.thecolumbiastar.com&sz=32) | **REPUBLIC FINANCE** | Master Sales - Columbia Star | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thecolumbiastar.com/articles/masters-sales-310/) |
-| ![](https://www.google.com/s2/favicons?domain=www.longisland.com&sz=32) | **Flagstar Bank** | Kings Park Man Sentenced to 5 ½ to 11 Years for Robbing Two Flagstar Banks | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.longisland.com/news/10-01-26/kings-park-man-sentenced-to-5-12-to-11-years-for-robbing-two-flagstar-banks.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.venezuelastar.com&sz=32) | **GREEN DOT CORPORATION** | Updates : Parker explains final decision in Rio | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.venezuelastar.com/news/279346266/updates-parker-explains-final-decision-in-rio) |
-| ![](https://www.google.com/s2/favicons?domain=www.americanbanker.com&sz=32) | **CENLAR FSB INC** | Top 5 player Ginnie MSR domination drives specialization | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.americanbanker.com/news/top-5-players-ginnie-msr-domination-drives-specialization) |
+| ![](https://www.google.com/s2/favicons?domain=www.star945.com&sz=32) | **ALLY FINANCIAL** | Money milestones parents should plan for their kids | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.star945.com/news/money-milestones/MKTKVZ3XCE5YFATPNQXJMX55GE/) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailynews.com&sz=32) | **AUTOBOOKS** | Things to do in the San Fernando Valley , LA area , Oct . 1 - 9 | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailynews.com/2026/10/01/things-to-do-in-the-san-fernando-valley-la-area-oct-1-9/) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **Columbia Banking System, Inc.** | JPMorgan Chase & Co . Cuts Columbia Banking System ( NASDAQ : COLB ) Price Target to $33 . 00 | 2026-10-01 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.tickerreport.com/banking-finance/13604336/jpmorgan-chase-co-cuts-columbia-banking-system-nasdaqcolb-price-target-to-33-00.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.housingwire.com&sz=32) | **United Wholesale Mortgage** | One pricing grid for FICO and VantageScore clouds MBS appetite | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/) |
-| ![](https://www.google.com/s2/favicons?domain=www.nerdwallet.com&sz=32) | **Movement Mortgage** | Mortgage Rates Today , Wednesday , September 30 : Steadily Above 7 % | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-september-30-2026) |
-| ![](https://www.google.com/s2/favicons?domain=thecaribbeancamera.com&sz=32) | **HEALTHEQUITY INC** | Black Men Deserve Better on Prostate Cancer Screening - The Caribbean Camera | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://thecaribbeancamera.com/black-men-prostate-cancer-screening-ontario/) |
-| ![](https://www.google.com/s2/favicons?domain=www.kiplinger.com&sz=32) | **MOUNTAIN AMERICA CREDIT UNION** | How the Sandwich Generation Can Protect Their Retirement | 2026-09-29 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.kiplinger.com/retirement/retirement-planning/sandwich-generation-how-to-protect-your-retirement) |
-| ![](https://www.google.com/s2/favicons?domain=www.wpxi.com&sz=32) | **OneMain Financial** | What is debt , and how do different types work ? | 2026-09-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wpxi.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/) |
-| ![](https://www.google.com/s2/favicons?domain=www.wjcl.com&sz=32) | **VYSTAR CREDIT UNION** | Ghost Pirates Ice Cove opens in Port Wentworth | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.wjcl.com/article/ghost-pirates-ice-cove-opens/73700451) |
-| ![](https://www.google.com/s2/favicons?domain=natlawreview.com&sz=32) | **TRANS UNION CORPORATION** | 8th Circuit Follows on 7th Circuit Heels with Fraase v . Advanta | 2026-09-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://natlawreview.com/article/eighth-circuit-affirms-consumer-reporting-agencies-may-reasonably-rely-official) |
+| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Valley National Bank** | Saratoga Investment Corp . Prices Public Offering of Additional $20 . 08 Million 8 . 00 % Notes Due 2031 | 2026-09-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/saratoga-investment-corp-prices-public-offering-of-additional-2008-million-800-notes-due-2031/2431730) |
+| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **FIRST CITIZENS BANK & TRUST COMPANY** | Comparing 1st Source ( NASDAQ : SRCE ) and First Citizens BancShares ( NASDAQ : FCNCA ) | 2026-09-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.tickerreport.com/banking-finance/13583010/comparing-1st-source-nasdaqsrce-and-first-citizens-bancshares-nasdaqfcnca.html) |
 
 ## Detail
 
-### Experian
-**Oolka , India AI - Powered Credit Platform , Brings Credit Analysis , Dispute Management and Credit Profile Improvement Under One Roof** — 2026-10-06 — 🟠 Medium — ⚪ Neutral
+### FACTSET RESEARCH SYSTEMS
+**FactSet ( FDS ) Q4 2026 Earnings Call Transcript** — 2026-10-01 — 🔴 High — ⚪ Neutral
 
 
 
-_Solution plays:_ Azure AI, Fabric  
-_Microsoft angle:_ Potential Azure AI, Fabric opportunity — align outreach to this signal.
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://news.webindia123.com/news/Articles/Business/20261006/4507682.html)
+[Read →](https://www.fool.com/earnings/call-transcripts/2026/10/01/factset-fds-q4-2026-earnings-call-transcript/?source=iedfolrf0000001)
 
-### Jack Henry & Associates Inc.
-**Who Keeps The Money When AI Rewrites Bank Code ?** — 2026-09-30 — 🟠 Medium — ⚪ Neutral
+### APPLIED SYSTEMS INC
+**Blackstone Announces Significant Investment to Launch Falcata , Leader in Next - Generation Interceptor Technologies** — 2026-10-01 — 🟠 Medium — ⚪ Neutral
 
 
 
+_Trigger events:_ Product Launch  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.webwire.com/ViewPressRel.asp?aId=361274)
+
+### HUNTINGTON BANCSHARES INC
+**Capstone Partners Reports 93 . 8 % Surge in AI - Enabled Healthcare IT M & A** — 2026-10-01 — 🟠 Medium — 🟢 Positive
+
+
+
+_Trigger events:_ Product Launch  
 _Solution plays:_ Azure AI  
 _Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code)
+[Read →](https://hitconsultant.net/2026/09/29/capstone-partners-report-ai-enabled-healthcare-it-ma/)
 
-### Bloomberg LP
-**Nikkei Tops 70 , 000 at Close , Hits Three - Month High as Wall Street Rally and Cheaper Oil Lift Tokyo Stocks** — 2026-10-06 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.ibtimes.com.au/japan-nikkei-closes-above-70000-1876319)
-
-### PINNACLE BANK
-**How to watch President Donald Trump at midterm rally in Grand Island** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+### Alight
+**Teenager suffers horrific burns in alleged arson attack** — 2026-10-08 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.ksnblocal4.com/2026/10/01/how-watch-president-donald-trump-midterm-rally-grand-island/)
+[Read →](https://www.easternriverinachronicle.com.au/story/9365141/teenager-suffers-horrific-burns-in-alleged-arson-attack/)
+
+### WESTERN UNION
+**Louisiana brothers charged with bankrolling Hamas** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.clevelandjewishnews.com/jns/louisiana-brothers-charged-with-bankrolling-hamas/article_70b1ddf8-bb80-5e52-aa0a-e7558b0e9d71.html)
 
 ### EXETER FINANCE CORP
 **While Subprime Auto Loans Default , Their Bonds Somehow Keep Performing** — 2026-10-02 — 🟡 Low — ⚪ Neutral
@@ -82,41 +91,68 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.zerohedge.com/markets/while-subprime-auto-loans-default-their-bonds-somehow-keep-performing)
 
-### NATIONSTAR MORTGAGE
-**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### RAPID ADVANCE LLC
+**I fought for investment in Canada defence as international order eroded** — 2026-10-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
+[Read →](https://www.theglobeandmail.com/opinion/article-canada-defence-investment-international-order-wayne-eyre/)
 
-### Texas Capital Bank
-**Linea Energy Closes Project Debt Financing and Preferred Equity Commitment for 250 MW / 500 MWh Mesa View BESS in Texas** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.prnewswire.com/news-releases/linea-energy-closes-project-debt-financing-and-preferred-equity-commitment-for-250-mw--500-mwh-mesa-view-bess-in-texas-302896689.html)
-
-### FREEDOM MORTGAGE CORPORATION
-**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### FREDDIE MAC
+**AP Trending SummaryBrief at 6 : 19 a . m . EDT** — 2026-10-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
+[Read →](https://www.khqa.com/news/nation-world/ap-trending-summarybrief-at-6-19-a-m-edt/article_58cb49b3-3236-5659-959f-1b266fd7c2da.html)
 
-### GREYSTONE SERVICING CORP
-**Borrower stops paying , so Fannie Mae sends in a receiver** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### FIFTH THIRD BANCORP
+**i3 Verticals , Inc . ( NASDAQ : IIIV ) Stock Has Average Price Target of $25 . 40 According to Brokerages** — 2026-10-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.mpamag.com/us/specialty/commercial/borrower-stops-paying-so-fannie-mae-sends-in-a-receiver/591989)
+[Read →](https://www.themarketsdaily.com/2026/10/02/i3-verticals-inc-nasdaqiiiv-stock-has-average-price-target-of-25-40-according-to-brokerages.html)
+
+### KeyCorp
+**Monolithic Power Systems , Inc . ( NASDAQ : MPWR ) Stock Has Average Price Target of $1 , 731 . 42** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.dailypolitical.com/2026/10/02/monolithic-power-systems-inc-nasdaqmpwr-stock-has-average-price-target-of-1731-42.html)
+
+### WOODFOREST NATIONAL BANK
+**Fairstead Celebrates Completion of Transformative , $26 Million Rehabilitation of Coppertree Village in Houston with Ribbon - Cutting and Community Day** — 2026-10-01 — 🟡 Low — 🔴 Negative
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/fairstead-celebrates-completion-of-transformative-26-million-rehabilitation-of-coppertree-village-in-houston-with-ribbon-cutting-and-community-day/2437552)
+
+### COMERICA INC
+**Oakland A Zack Gelof Sues Detroit Tigers Over Comerica Park Knee Injury** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://wcsx.com/2026/10/01/oakland-as-zack-gelof-sues-detroit-tigers-over-comerica-park-knee-injury/)
+
+### Roundpoint Mortgage Servicing
+**Pomerantz LLP Notifies Shareholders of Lawsuit Filed Against UWM Holdings ...** — 2026-10-01 — 🟡 Low — 🟢 Positive
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.pr-inside.com/pomerantz-llp-notifies-shareholders-of-lawsuit-filed-against-uwm-holdings-r5229185.htm)
 
 ### EAST WEST BANCORP INC
 **SPDR S & P Regional Banking ETF ( NYSEARCA : KRE ) Stock Sees Unusually High Put Option Buying** — 2026-10-01 — 🟡 Low — ⚪ Neutral
@@ -127,50 +163,32 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.themarketsdaily.com/2026/10/01/spdr-sp-regional-banking-etf-nysearcakre-stock-sees-unusually-high-put-option-buying.html)
 
-### REGIONS FINANCIAL CORPORATION
-**American Banker Honors Region Kate Danella as One of the 25 Most Powerful Women in Banking** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### ALLY FINANCIAL
+**Money milestones parents should plan for their kids** — 2026-10-01 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.aol.com/articles/american-banker-honors-regions-kate-203000000.html)
+[Read →](https://www.star945.com/news/money-milestones/MKTKVZ3XCE5YFATPNQXJMX55GE/)
 
-### REPUBLIC FINANCE
-**Master Sales - Columbia Star** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.thecolumbiastar.com/articles/masters-sales-310/)
-
-### Flagstar Bank
-**Kings Park Man Sentenced to 5 ½ to 11 Years for Robbing Two Flagstar Banks** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### AUTOBOOKS
+**Things to do in the San Fernando Valley , LA area , Oct . 1 - 9** — 2026-10-01 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.longisland.com/news/10-01-26/kings-park-man-sentenced-to-5-12-to-11-years-for-robbing-two-flagstar-banks.html)
+[Read →](https://www.dailynews.com/2026/10/01/things-to-do-in-the-san-fernando-valley-la-area-oct-1-9/)
 
-### GREEN DOT CORPORATION
-**Updates : Parker explains final decision in Rio** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.venezuelastar.com/news/279346266/updates-parker-explains-final-decision-in-rio)
-
-### CENLAR FSB INC
-**Top 5 player Ginnie MSR domination drives specialization** — 2026-10-01 — 🟡 Low — ⚪ Neutral
+### Columbia Banking System, Inc.
+**JPMorgan Chase & Co . Cuts Columbia Banking System ( NASDAQ : COLB ) Price Target to $33 . 00** — 2026-10-01 — 🟡 Low — 🔴 Negative
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.americanbanker.com/news/top-5-players-ginnie-msr-domination-drives-specialization)
+[Read →](https://www.tickerreport.com/banking-finance/13604336/jpmorgan-chase-co-cuts-columbia-banking-system-nasdaqcolb-price-target-to-33-00.html)
 
 ### United Wholesale Mortgage
 **One pricing grid for FICO and VantageScore clouds MBS appetite** — 2026-10-01 — 🟡 Low — ⚪ Neutral
@@ -181,135 +199,101 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.housingwire.com/articles/fhfa-unified-llpa-grid-fico-vantagescore/)
 
-### Movement Mortgage
-**Mortgage Rates Today , Wednesday , September 30 : Steadily Above 7 %** — 2026-09-30 — 🟡 Low — ⚪ Neutral
+### Valley National Bank
+**Saratoga Investment Corp . Prices Public Offering of Additional $20 . 08 Million 8 . 00 % Notes Due 2031** — 2026-09-23 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-wednesday-september-30-2026)
+[Read →](https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/saratoga-investment-corp-prices-public-offering-of-additional-2008-million-800-notes-due-2031/2431730)
 
-### HEALTHEQUITY INC
-**Black Men Deserve Better on Prostate Cancer Screening - The Caribbean Camera** — 2026-09-30 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://thecaribbeancamera.com/black-men-prostate-cancer-screening-ontario/)
-
-### MOUNTAIN AMERICA CREDIT UNION
-**How the Sandwich Generation Can Protect Their Retirement** — 2026-09-29 — 🟡 Low — ⚪ Neutral
+### FIRST CITIZENS BANK & TRUST COMPANY
+**Comparing 1st Source ( NASDAQ : SRCE ) and First Citizens BancShares ( NASDAQ : FCNCA )** — 2026-09-12 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.kiplinger.com/retirement/retirement-planning/sandwich-generation-how-to-protect-your-retirement)
-
-### OneMain Financial
-**What is debt , and how do different types work ?** — 2026-09-21 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.wpxi.com/news/what-is-debt-how-do/DYVEJLOEC43SHF3UW25AO4YKYQ/)
-
-### VYSTAR CREDIT UNION
-**Ghost Pirates Ice Cove opens in Port Wentworth** — 2026-09-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.wjcl.com/article/ghost-pirates-ice-cove-opens/73700451)
-
-### TRANS UNION CORPORATION
-**8th Circuit Follows on 7th Circuit Heels with Fraase v . Advanta** — 2026-09-10 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://natlawreview.com/article/eighth-circuit-affirms-consumer-reporting-agencies-may-reasonably-rely-official)
+[Read →](https://www.tickerreport.com/banking-finance/13583010/comparing-1st-source-nasdaqsrce-and-first-citizens-bancshares-nasdaqfcnca.html)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (69)</summary>
+<details><summary>Accounts with no material news this cycle (71)</summary>
 
 - New Rez (Caliber Funding )LLC
 - FHLB OF DALLAS
 - FROST NATIONAL BANK
 - HILLTOP HOLDINGS
-- WOODFOREST NATIONAL BANK
-- COMERICA INC
+- NATIONSTAR MORTGAGE
+- Texas Capital Bank
 - FAIRWAY MORTGAGE ACCOUNT OFC
+- FREEDOM MORTGAGE CORPORATION
+- GREYSTONE SERVICING CORP
 - Navient
 - NORTHWEST SAVINGS BANK
-- Roundpoint Mortgage Servicing
 - CARRINGTON MORTGAGE SERVICE
 - Midland Credit Management
 - MORTGAGE RESEARCH CENTER
+- PINNACLE BANK
 - UNITED MISSOURI BANCSHARES INC
-- WESTERN UNION
 - BCU
 - Guaranteed Rate Inc
+- MOUNTAIN AMERICA CREDIT UNION
 - Old National Bancorp
+- TRANS UNION CORPORATION
 - Wintrust Financial Corporation
 - ZIONS BANK CORPORATION
 - ARVEST BANK GROUP
 - Velera (Co-op Financial Services)
+- Movement Mortgage
+- REGIONS FINANCIAL CORPORATION
+- REPUBLIC FINANCE
 - Simmons First National Bank Corporation
 - Advisor360
 - defi Auto, LLC
 - Global Payments
-- RAPID ADVANCE LLC
 - Sagent M&C, LLC
 - Versana LLC
-- APPLIED SYSTEMS INC
+- Bloomberg LP
 - Datasite
 - Insurity
 - Q2 Software
-- ALLY FINANCIAL
 - BAYVIEW FINANCIAL
 - Eastdil Secured, L.L.C.
 - FNB CORPORATION
 - South State Bank
 - State Employees Credit Union
 - SYNOVUS FINANCIAL CORP
-- Alight
 - DOVENMUEHLE MORTGAGE INC
+- OneMain Financial
 - Rock Holding Inc.
 - Select Portfolio Servicing, Inc.
-- AUTOBOOKS
-- FREDDIE MAC
+- Flagstar Bank
 - Synchrony Financial
 - WEBSTER BANK
 - Edfinancial Services
-- FIFTH THIRD BANCORP
 - FIRST HORIZON BANK
-- HUNTINGTON BANCSHARES INC
-- KeyCorp
 - Boeing Employees Credit Union
-- Columbia Banking System, Inc.
 - CU DIRECT LENDING (CUDL Technology Center)
 - FIRST TECHNOLOGY CREDIT UNION
+- HEALTHEQUITY INC
 - loanDepot
 - DUCK CREEK TECHNOLOGIES INC
+- Experian
 - Nelnet
 - Elevate Credit
-- FACTSET RESEARCH SYSTEMS
+- GREEN DOT CORPORATION
+- Jack Henry & Associates Inc.
 - FANNIE MAE
-- FIRST CITIZENS BANK & TRUST COMPANY
 - LENDINGTREE.COM
+- VYSTAR CREDIT UNION
+- CENLAR FSB INC
 - CITIZENS FINANCIAL GROUP
 - COMENITY SERVICES LLC
 - M & T BANK
-- Valley National Bank
 
 </details>
 
 ---
-_Auto-generated on October 07, 2026._
+_Auto-generated on October 08, 2026._

@@ -1,9 +1,10 @@
 # Balyasny Asset Management — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 07, 2026.
+Rolling history of tracked news (last 90 days). Updated October 08, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-30 | Ex - Schonfeld exec joins Millennium as senior PM in Hong … | 🟡 Low | ⚪ Neutral | [link](https://hedgeweek.com/news/ex-schonfeld-exec-joins-millennium-as-senior-pm-in-hong-kong) |
 | 2026-09-13 | MAC Copper Limited ( NYSE : MTAL ) Short Interest Update | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/13/mac-copper-limited-nysemtal-short-interest-update.html) |
 | 2026-09-03 | Billionaires Were Buying These Two Nancy Pelosi AI Stocks | 🟠 Medium | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html) |
 | 2026-08-27 | Lantronix , Inc . ( NASDAQ : LTRX ) Receives $10 . 40 Consensus Price Target from Brokerages | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/27/lantronix-inc-nasdaqltrx-receives-10-40-consensus-price-target-from-brokerages.html) |
