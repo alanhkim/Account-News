@@ -1,9 +1,10 @@
 # BRIDGEWATER ASSOCIATES — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 08, 2026.
+Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | Kraken trade David Goyette to Flyers for Devin Kaplan | 🟡 Low | ⚪ Neutral | [link](https://www.yardbarker.com/nhl/articles/kraken_trade_david_goyette_to_flyers_for_devin_kaplan/s1_16958_44374919) |
 | 2026-09-05 | Marong smash Pyramid Hill in Loddon Valley 2026 prelim final \ | Bendigo Advertiser | 🟡 Low | ⚪ Neutral | [link](https://www.bendigoadvertiser.com.au/story/9344327/marong-smash-pyramid-hill-in-loddon-valley-2026-prelim-final/) |
 | 2026-08-31 | How NIL deals have changed the landscape of Florida high school athletics | 🔴 High | ⚪ Neutral | [link](https://www.wuwf.org/florida-news/2026-08-31/how-nil-deals-have-changed-the-landscape-of-florida-high-school-athletics) |
 | 2026-08-13 | Russell Westbrook Announces Retirement Following 18 Seasons In NBA | 🟡 Low | ⚪ Neutral | [link](https://dailycaller.com/2026/08/12/russell-westbrook-retrement-announcement-nba-18seasons/) |

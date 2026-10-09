@@ -1,9 +1,10 @@
 # Securian — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 08, 2026.
+Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-23 | Nine in ten credit protection insurance claims paid , and 95 % of life coverage claims , as Canadian satisfaction and perceived value climb | 🟡 Low | ⚪ Neutral | [link](https://www.newswire.ca/news-releases/nine-in-ten-credit-protection-insurance-claims-paid-and-95-of-life-coverage-claims-as-canadians-satisfaction-and-perceived-value-climb-809958392.html) |
 | 2026-09-10 | TCB Selects Christophe Beck as Its 2026 Person of the Year | 🟡 Low | ⚪ Neutral | [link](https://tcbmag.com/ecolab-ceo-christophe-beck-person-of-the-year/) |
 | 2026-08-12 | July jobs bounce didnt reach everyone equally | 🟡 Low | ⚪ Neutral | [link](https://www.hrreporter.com/opinion/hr-guest-blog/julys-jobs-bounce-didnt-reach-everyone-equally/394764) |
 | 2026-07-31 | PEP for 403 ( b ) Nonprofits Debuts | 🔴 High | ⚪ Neutral | [link](https://www.plansponsor.com/pep-for-403b-nonprofits-debuts/) |

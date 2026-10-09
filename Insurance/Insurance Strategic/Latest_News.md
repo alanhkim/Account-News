@@ -1,8 +1,8 @@
 # Latest News — Insurance Strategic
 
-**Updated:** October 08, 2026  
+**Updated:** October 09, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 3  
+**Accounts with news this cycle:** 1  
 
 ---
 
@@ -10,52 +10,34 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.boredpanda.com&sz=32) | **NORTHWESTERN MUTUAL** | Parents Finally Put Their Younger Daughter First , And Their Eldest Is Absolutely Furious About It | 2026-10-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.boredpanda.com/parents-refuse-pay-daycare/) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **GEICO** | Momentum has been named the Sponsorship Marketing Association Agency of the Year | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/momentum-has-been-named-the-sponsorship-marketing-associations-agency-of-the-year/2437441) |
-| ![](https://www.google.com/s2/favicons?domain=www.mondaq.com:443&sz=32) | **LIBERTY MUTUAL INSURANCE COMPANY** | Seventh Circuit Holds ERISA Does Not Preempt Arkansas PBM Regulation | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mondaq.com:443/unitedstates/employee-benefits-compensation/1848608/seventh-circuit-holds-erisa-does-not-preempt-arkansas-pbm-regulation) |
+| ![](https://www.google.com/s2/favicons?domain=www.ibtimes.co.uk&sz=32) | **Metlife** | Bono Says Ed Sheeran Didnt Want to Get Into Politics on U2 Song :  I Just Want To Keep My Thing Free | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ibtimes.co.uk/bono-ed-sheeran-u2-political-collaboration-1823277) |
 
 ## Detail
 
-### NORTHWESTERN MUTUAL
-**Parents Finally Put Their Younger Daughter First , And Their Eldest Is Absolutely Furious About It** — 2026-10-06 — 🟡 Low — ⚪ Neutral
+### Metlife
+**Bono Says Ed Sheeran Didnt Want to Get Into Politics on U2 Song :  I Just Want To Keep My Thing Free** — 2026-10-02 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.boredpanda.com/parents-refuse-pay-daycare/)
-
-### GEICO
-**Momentum has been named the Sponsorship Marketing Association Agency of the Year** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/momentum-has-been-named-the-sponsorship-marketing-associations-agency-of-the-year/2437441)
-
-### LIBERTY MUTUAL INSURANCE COMPANY
-**Seventh Circuit Holds ERISA Does Not Preempt Arkansas PBM Regulation** — 2026-09-30 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.mondaq.com:443/unitedstates/employee-benefits-compensation/1848608/seventh-circuit-holds-erisa-does-not-preempt-arkansas-pbm-regulation)
+[Read →](https://www.ibtimes.co.uk/bono-ed-sheeran-u2-political-collaboration-1823277)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (12)</summary>
+<details><summary>Accounts with no material news this cycle (14)</summary>
 
 - Nationwide
+- GEICO
 - STATE FARM LIFE INSURANCE CO
+- NORTHWESTERN MUTUAL
 - Marsh McLennan
-- Metlife
 - American International Group Inc
 - ALLSTATE INSURANCE GROUP
 - FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
 - Chubb
+- LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
 - Progressive Corporation
 - Willis Towers Watson
@@ -63,4 +45,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on October 08, 2026._
+_Auto-generated on October 09, 2026._

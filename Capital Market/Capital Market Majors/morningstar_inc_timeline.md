@@ -1,9 +1,10 @@
 # MORNINGSTAR INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 08, 2026.
+Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-02 | Dividend Growth for the Next Decade Starts With These 3 ETFs | 🔴 High | 🟢 Positive | [link](https://247wallst.com/investing/etf/2026/10/01/dividend-growth-for-the-next-decade-starts-with-these-3-etfs/) |
 | 2026-09-04 | Not Nvidia . Not Palantir . This AI Stock Could Have the Most Upside . | 🟠 Medium | ⚪ Neutral | [link](https://www.fool.com/investing/2026/09/04/not-nvidia-not-palantir-this-ai-stock-could-have-t/?source=iedfolrf0000001) |
 | 2026-09-02 | Marloo adds Morningstar research and data to AI platform | 🟠 Medium | ⚪ Neutral | [link](https://www.professionaladviser.com/news/4535113/marloo-adds-morningstar-research-ai-platform) |
 | 2026-08-14 | Vanguard Is  Cautious  on U . S . Growth Stocks . These 2 Value ETFs Could Be Smarter Buys for Long - Term Investors . | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/vanguard-cautious-u-growth-stocks-143500511.html) |

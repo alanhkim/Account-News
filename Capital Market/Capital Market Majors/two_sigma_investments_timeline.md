@@ -1,9 +1,10 @@
 # TWO SIGMA INVESTMENTS — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 08, 2026.
+Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-09-24 | The AI folks dont seem to understand intelligence | 🟠 Medium | ⚪ Neutral | [link](https://www.newsday.com/opinion/commentary/ai-intelligence-m3oehgsk) |
 | 2026-09-06 | The Manufacturers Life Insurance Company Acquires New Shares in Hilltop Holdings Inc . $HTH | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/09/06/the-manufacturers-life-insurance-company-acquires-new-shares-in-hilltop-holdings-inc-hth.html) |
 | 2026-08-27 | Insider Selling : XOS ( NASDAQ : XOS ) COO Sells $197 , 480 . 00 in Stock | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/27/insider-selling-xos-nasdaqxos-coo-sells-197480-00-in-stock.html) |
 | 2026-08-26 | Ondas ( NASDAQ : ONDS ) Trading Down 5 . 4 % – Here Why | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/26/ondas-nasdaqonds-trading-down-5-4-heres-why.html) |

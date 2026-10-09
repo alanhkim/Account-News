@@ -1,67 +1,45 @@
 {
-  "generated": "2026-10-08",
-  "generated_human": "October 08, 2026",
+  "generated": "2026-10-09",
+  "generated_human": "October 09, 2026",
   "counts": {
-    "accounts_total": 284,
-    "with_news": 4,
+    "accounts_total": 246,
+    "with_news": 5,
     "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 1,
+      "count": 0,
+      "items": []
+    },
+    {
+      "top": "Banking",
+      "sub": "Banking Strategic",
+      "count": 0,
+      "items": []
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Market Majors",
+      "count": 2,
       "items": [
         {
-          "account": "HUNTINGTON BANCSHARES INC",
-          "title": "Capstone Partners Reports 93 . 8 % Surge in AI - Enabled Healthcare IT M & A",
-          "url": "https://hitconsultant.net/2026/09/29/capstone-partners-report-ai-enabled-healthcare-it-ma/",
-          "date": "2026-10-01",
+          "account": "TWO SIGMA INVESTMENTS",
+          "title": "The AI folks dont seem to understand intelligence",
+          "url": "https://www.newsday.com/opinion/commentary/ai-intelligence-m3oehgsk",
+          "date": "2026-09-24",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [
-            "Product Launch"
-          ],
-          "sentiment": "Positive",
-          "image": "https://hitconsultant.net/wp-content/uploads/2026/09/Capstone-Partners.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=hitconsultant.net&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Banking",
-      "sub": "Banking Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "FISERV Inc",
-          "title": "Fiserv launches stablecoin platform with North Dakota bank",
-          "url": "https://cfotech.news/story/fiserv-launches-stablecoin-platform-with-north-dakota-bank",
-          "date": "2026-10-02",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "Product Launch"
-          ],
+          "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://cfotech.news/uploads/story/2026/10/02/compatible_TD_images_0901__29_-story-320475.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=cfotech.news&sz=32"
-        }
-      ]
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Market Majors",
-      "count": 1,
-      "items": [
+          "image": "https://cdn.newsday.com/ace/c:ZjI1MTA1ZDEtMTc5ZC00:NmVkYWI5YzgtNjViZS00/landscape/1280",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.newsday.com&sz=32"
+        },
         {
           "account": "Stone X",
           "title": "Gold climbs on subdued US dollar as inflation data awaited amid oil rally",
@@ -83,25 +61,57 @@
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 1,
+      "count": 3,
       "items": [
         {
-          "account": "NORTHERN TRUST CORPORATION",
-          "title": "Micron Revenue Surges 379 %: 4 Top AI Chip Stocks ( NASDAQ : MU )",
-          "url": "https://seekingalpha.com/article/4951414-micron-revenue-surges-379-percent-4-top-ai-chip-stocks",
-          "date": "2026-10-01",
-          "level": "High",
+          "account": "GOLDMAN SACHS & COMPANY",
+          "title": "AI eats into entry - level tech jobs as India graduates seek work",
+          "url": "https://www.business-standard.com/industry/news/ai-eats-into-entry-level-tech-jobs-as-india-s-graduates-seek-work-126100800232_1.html",
+          "date": "2026-10-08",
+          "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
           "plays": [
             "Azure AI"
           ],
-          "triggers": [
-            "Earnings"
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791433620-2092.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32"
+        },
+        {
+          "account": "Fidelity Investments",
+          "title": "AI Will Kill Us in 10 Years , but Bond Market Will Do It  Next Week , Says Strategist As Treasury Yields Hit 24 - Year Highs",
+          "url": "https://www.aol.com/articles/ai-kill-us-10-years-062844000.html",
+          "date": "2026-10-02",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
           ],
-          "sentiment": "Positive",
-          "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159879527/image_2159879527.jpg?io=getty-c-w1536",
-          "favicon": "https://www.google.com/s2/favicons?domain=seekingalpha.com&sz=32"
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://hermes.media.transform.aol.com/811e05d6f430500d20c884a984a88843d09322dd/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/02/46942e84-d392-3557-99c2-ffb2420d1d00/85147600-a846-45e0-8bdb-d3b05869e37f.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.aol.com&sz=32"
+        },
+        {
+          "account": "NASDAQ OMX",
+          "title": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund ( NASDAQ : GRID ) Stock Short Interest Drops 41 . 6 %",
+          "url": "https://www.themarketsdaily.com/2026/10/01/first-trust-nasdaq-clean-edge-smart-grid-infrastructure-index-fund-nasdaqgrid-stock-short-interest-drops-41-6.html",
+          "date": "2026-10-01",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric"
+          ],
+          "triggers": [
+            "M&A"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
         }
       ]
     },
