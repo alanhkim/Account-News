@@ -1,6 +1,6 @@
 # WELLINGTON MANAGEMENT COMPANY LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
@@ -8,8 +8,3 @@ Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 | 2026-09-21 | The Weekly Notable Startup Funding Report : 9 / 21 / 26 | 🔴 High | 🟢 Positive | [link](https://www.alleywatch.com/2026/09/the-weekly-notable-startup-funding-report-9-21-26/) |
 | 2026-09-13 | Urban Edge Properties ( NYSE : UE ) Downgraded by Wall Street Zen to  Sell | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13583238/urban-edge-properties-nyseue-downgraded-by-wall-street-zen-to-sell.html) |
 | 2026-08-26 | Chewy ( CHWY ) Outperform Rating Reiterated at Royal Bank Of Canada | 🟠 Medium | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/26/chewys-chwy-outperform-rating-reiterated-at-royal-bank-of-canada.html) |
-| 2026-08-13 | Kalshi In Talks To Raise Money At $40 Billion Valuation | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/kalshi-talks-raise-money-40-144000532.html) |
-| 2026-08-11 | Immunome ( NASDAQ : IMNM ) Releases Quarterly Earnings Results , Misses Estimates By $0 . 14 EPS | 🔴 High | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13538964/immunome-nasdaqimnm-releases-quarterly-earnings-results-misses-estimates-by-0-14-eps.html) |
-| 2026-07-30 | Kirby ( NYSE : KEX ) Releases Earnings Results , Beats Expectations By $0 . 04 EPS | 🔴 High | 🟢 Positive | [link](https://www.dailypolitical.com/2026/07/30/kirby-nysekex-releases-earnings-results-beats-expectations-by-0-04-eps.html) |
-| 2026-07-29 | Verra Mobility ( VRRM ) to Release Quarterly Earnings on Wednesday | 🔴 High | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/29/verra-mobility-vrrm-to-release-quarterly-earnings-on-wednesday.html) |
-| 2026-07-28 | Crinetics Pharmaceuticals , Inc . ( NASDAQ : CRNX ) Sees Significant Decrease in Short Interest | 🟡 Low | ⚪ Neutral | [link](https://www.dailypolitical.com/2026/07/28/crinetics-pharmaceuticals-inc-nasdaqcrnx-sees-significant-decrease-in-short-interest.html) |

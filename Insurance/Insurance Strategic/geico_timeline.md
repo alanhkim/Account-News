@@ -1,19 +1,13 @@
 # GEICO — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-10 | Berkshire accelerates buybacks under Abel as insurance profit sinks | 🔴 High | ⚪ Neutral | [link](http://www.australiannews.net/news/279418777/berkshire-accelerates-buybacks-under-abel-as-insurance-profit-sinks) |
 | 2026-10-01 | Momentum has been named the Sponsorship Marketing Association Agency of the Year | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/momentum-has-been-named-the-sponsorship-marketing-associations-agency-of-the-year/2437441) |
 | 2026-09-21 | Prediction : Berkshire Hathaway Operating Earnings Will Top $48 Billion in 2026 | 🔴 High | ⚪ Neutral | [link](https://www.fool.com/investing/2026/09/21/prediction-berkshire-hathaways-operating-earnings/?source=iedfolrf0000001) |
 | 2026-09-11 | Good Ground Harvest Market to Offer 10 Weeks of Fresh Food in Clarksville - Clarksville Online - Clarksville News , Sports , Events and Information | 🟡 Low | ⚪ Neutral | [link](https://www.clarksvilleonline.com/2026/09/11/good-ground-harvest-market-to-offer-10-weeks-of-fresh-food-in-clarksville/) |
 | 2026-09-08 | Cut Your Car Insurance by $400 Without Dropping Coverage | 🟡 Low | 🔴 Negative | [link](https://www.aceshowbiz.com/news/view/00261567.html) |
 | 2026-09-04 | Regional Geico ad illustrates how we talk funny | 🟡 Low | ⚪ Neutral | [link](https://www.dmagazine.com/micropost/regional-geico-ad-illustrates-how-we-talk-funny/) |
 | 2026-09-03 | Insurance moves : Builders Insurance , Pharmacists Mutual , Keystone , Patriot , MS Transverse , more | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-builders-insurance-pharmacists-mutual-keystone-patriot-ms-transverse-more-588438.aspx) |
-| 2026-08-18 | Restaurant Report Card : Middle Georgia food service inspection scores August 10 - 14 - 41NBC News | 🟡 Low | ⚪ Neutral | [link](https://www.41nbc.com/restaurant-report-card-middle-georgia-food-service-inspection-scores-august-10-14-2026/) |
-| 2026-08-14 | Michael Burry adds to Nvidia and Palantir shorts while loading up on Molina Healthcare , which is down 54 % from its high | 🟡 Low | 🟢 Positive | [link](https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvidia-palantir-184500402.html) |
-| 2026-08-13 | Virginia Beach sells land for colocation data center expansion | 🔴 High | ⚪ Neutral | [link](https://www.pilotonline.com/2026/08/12/virginia-beach-sells-land-for-colocation-data-center-expansion/) |
-| 2026-07-30 | In Rush to Condemn Burger King ,  Hardball  Host Makes Whopper of a Factual Error | 🟡 Low | ⚪ Neutral | [link](https://newsbusters.org/blogs/ken-shepherd/2014/08/27/rush-condemn-burger-king-hardball-host-makes-whopper-factual-error) |
-| 2026-07-28 | Female athletes surge in NIL deals as Learfield reports a 123 % jump in participation | 🔴 High | 🟢 Positive | [link](https://toronto.citynews.ca/2026/07/28/female-athletes-surge-in-nil-deals-as-learfield-reports-a-123-jump-in-participation/) |
-| 2026-07-26 | Progressive Sent You $300 . State Farm Is Sending $173 . USAA Sent $760 . GEICO Sent Nothing . Here Why Every Florida Driver Got a Different Answer » Live Insurance News | 🟡 Low | ⚪ Neutral | [link](https://www.liveinsurancenews.com/progressive-state-farm-florida/8574455/) |
-| 2026-07-15 | GEICO Enhances Digital Claims Experience with AI | 🟠 Medium | 🟢 Positive | [link](https://www.geico.com/about/in-the-news/) |

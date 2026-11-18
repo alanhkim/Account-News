@@ -101,7 +101,8 @@ self-trims at 90 days.
 ## Morning Teams digest
 
 Each daily run generates `DIGEST.html` (a compact, prioritized roll-up grouped by sub-vertical)
-and **sends it to you on Teams** (Notes to Self) so you get the highlights without opening the repo.
+and **posts it to the Account News channel** in the **FSI - Dev SE - Cloud & AI Platforms** Teams
+team so you get the highlights without opening the repo.
 The digest leads with a link to the **[dashboard](https://alanhkim.github.io/Account-News/)**.
 
 ## Automation
@@ -123,7 +124,7 @@ A scheduled job runs **daily at 9:00 AM ET** and:
 
 ## Coverage snapshot
 
-- **237** accounts tracked across 6 sub-verticals.
+- **284** accounts tracked across 6 sub-verticals.
 - Sub-verticals: Banking Majors, Banking Strategic, Capital Market Majors, Capital Markets
   Strategic, Insurance Majors, Insurance Strategic.
 

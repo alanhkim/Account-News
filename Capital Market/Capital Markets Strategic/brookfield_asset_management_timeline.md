@@ -1,16 +1,11 @@
 # Brookfield Asset Management — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-12 | Caribbean - Casino & Gambling | 🟡 Low | ⚪ Neutral | [link](https://www.worldcasinodirectory.com/region/caribbean) |
 | 2026-09-21 | Brookfield Asset Management Targets Doubling Fee - Bearing Capital by 2031 | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/brookfield-asset-management-targets-doubling-000200712.html) |
 | 2026-09-05 | I Love Bloom Energy for 1 Reason , and It Not the Backlog | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/love-bloom-energy-1-reason-105000656.html) |
 | 2026-09-04 | Naver chairman meets Brookfield CEO , discusses AI data center business | 🟠 Medium | ⚪ Neutral | [link](https://www.koreatimes.co.kr/business/tech-science/20260904/naver-chairman-meets-brookfield-ceo-discusses-ai-data-center-business) |
 | 2026-08-24 | Bloom Energy vs . Plug Power : 1 Stock Clearly Wins the AI Revenue Race | 🔴 High | ⚪ Neutral | [link](https://www.fool.com/coverage/charts/2026/08/24/bloom-energy-vs-plug-power-1-stock-clearly-wins-the-ai-revenue-race/?source=iedfolrf0000001) |
-| 2026-08-18 | Brookfield offers to buy Reliance Worldwide for US$2 . 9 billion | 🟡 Low | ⚪ Neutral | [link](https://windsorstar.com:443/fp-finance/brookfield-offers-australian-plumbing-supplies-firm) |
-| 2026-08-14 | Bloom Energy vs . Oklo : Which AI - Power Stock Is the Smarter Buy Now ? | 🟠 Medium | ⚪ Neutral | [link](https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/) |
-| 2026-07-30 | Federal government to turn a Kentucky uranium plant into an AI data center and gas power complex | 🟠 Medium | ⚪ Neutral | [link](https://mymotherlode.com/news/national/11028282/federal-government-to-turn-a-kentucky-uranium-plant-into-an-ai-data-center-and-gas-power-complex.html) |
-| 2026-07-29 | Brookfield Asset Management gets nod to acquire India Oaktree entities | 🔴 High | ⚪ Neutral | [link](https://www.dealstreetasia.com/stories/brookfield-oaktree-490544) |
-| 2026-07-28 | CCI approves merger of Go Digit holding firm into insurer | 🔴 High | ⚪ Neutral | [link](https://www.moneycontrol.com/news/business/cci-approves-merger-of-go-digit-holding-firm-into-insurer-13986275.html) |
-| 2026-07-27 | Brookfield commits up to $9 - billion for AI data centre in South Korea | 🟠 Medium | 🟢 Positive | [link](https://www.theglobeandmail.com/business/article-brookfield-commits-up-to-9-billion-for-ai-data-centre-in-south-korea/) |

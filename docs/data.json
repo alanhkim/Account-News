@@ -1,34 +1,22 @@
 {
-  "generated": "2026-10-09",
-  "generated_human": "October 09, 2026",
+  "generated": "2026-11-18",
+  "generated_human": "November 18, 2026",
   "counts": {
-    "accounts_total": 246,
-    "with_news": 5,
-    "high": 1
+    "accounts_total": 284,
+    "with_news": 7,
+    "high": 0
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 0,
-      "items": []
-    },
-    {
-      "top": "Banking",
-      "sub": "Banking Strategic",
-      "count": 0,
-      "items": []
-    },
-    {
-      "top": "Capital Market",
-      "sub": "Capital Market Majors",
       "count": 2,
       "items": [
         {
-          "account": "TWO SIGMA INVESTMENTS",
-          "title": "The AI folks dont seem to understand intelligence",
-          "url": "https://www.newsday.com/opinion/commentary/ai-intelligence-m3oehgsk",
-          "date": "2026-09-24",
+          "account": "Bloomberg LP",
+          "title": "AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .",
+          "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/",
+          "date": "2026-11-18",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Azure AI opportunity — align outreach to this signal.",
@@ -37,14 +25,60 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://cdn.newsday.com/ace/c:ZjI1MTA1ZDEtMTc5ZC00:NmVkYWI5YzgtNjViZS00/landscape/1280",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.newsday.com&sz=32"
+          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4b00f135f5a31f87bc8ebcc25a56d0800f36e938-1280x720.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
         },
         {
-          "account": "Stone X",
-          "title": "Gold climbs on subdued US dollar as inflation data awaited amid oil rally",
-          "url": "http://www.kitco.com/news/off-the-wire/2026-09-09/gold-climbs-subdued-us-dollar-inflation-data-awaited-amid-oil-rally",
-          "date": "2026-09-09",
+          "account": "Advisor360",
+          "title": "RIA Edge : AI Is Being Used By RIAs , But Gap Remains on Strategy",
+          "url": "https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy",
+          "date": "2026-10-21",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt4453034eed512097/6ad7cfd2b2dc8c588a4aa12e/Ashley_Longabaugh_Celent_Kimberly_Raimondo_Brookwood_Taylor_Ciavarra_Advisor360_Tim_Foley_AdvisorEngine.JPG?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Banking",
+      "sub": "Banking Strategic",
+      "count": 1,
+      "items": [
+        {
+          "account": "Citigroup",
+          "title": "AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .",
+          "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/",
+          "date": "2026-11-18",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4b00f135f5a31f87bc8ebcc25a56d0800f36e938-1280x720.png",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
+        }
+      ]
+    },
+    {
+      "top": "Capital Market",
+      "sub": "Capital Market Majors",
+      "count": 4,
+      "items": [
+        {
+          "account": "BERKSHIRE HATHAWAY INC",
+          "title": "Miami Contractor Charged with Underreporting Payroll to NorGuard by $1 Million",
+          "url": "https://www.insurancejournal.com/news/southeast/2026/11/13/892599.htm",
+          "date": "2026-11-13",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
@@ -53,67 +87,65 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://image-api.prod.kitco.com/image/a38de551-3f2a-4d0d-b3a0-9fa10f80323c.webp?top=0&left=0.21614319486662&.5677136103&scale_width=1920&token=0837f58dd155808368b188032503c42374f8218bb836fc36f72083da596f5dfd",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.kitco.com&sz=32"
+          "image": "https://www.insurancejournal.com/app/uploads/2026/11/stack-documents-note-saying-payroll-Depositphotos_751355124_S.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
+        },
+        {
+          "account": "JANUS HENDERSON GROUP",
+          "title": "What Next for the AI Trade After the Midterms ?",
+          "url": "https://www.morningstar.com/stocks/whats-next-ai-trade-after-midterms",
+          "date": "2026-11-12",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://media.morningstar.com/resizer/v2/SNXMACAN35AOREDEB3YCYI77P4.png?auth=4070253535f11f9f2340caae47218e49e9cab2e86df2b70031db42c72130d503&quality=80&crop=0,0:2400,1350",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32"
+        },
+        {
+          "account": "First Advantage Corporation",
+          "title": "Hyundai $1 billion Australian battery plant  fell through  after government bungled talks",
+          "url": "https://www.perthnow.com.au/lifestyle/motoring/hyundais-1-billion-australian-battery-plant-fell-through-after-government-bungled-talks-c-23153027",
+          "date": "2026-11-12",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI"
+          ],
+          "triggers": [],
+          "sentiment": "Neutral",
+          "image": "https://images.perthnow.com.au/publication/C-23153027/f433f94966106400ef98c78c2df8c2eb63fef18e-16x9-x0y258w4944h2781.jpg?imwidth=1200",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.perthnow.com.au&sz=32"
+        },
+        {
+          "account": "Balyasny Asset Management",
+          "title": "Google Expands Gemini 4 Carbon AI Access For Developers , Businesses With Advanced Coding , Cybersecurity And Research Capabilities",
+          "url": "https://www.freepressjournal.in/tech/google-expands-gemini-4-carbon-ai-access-for-developers-businesses-with-advanced-coding-cybersecurity-and-research-capabilities",
+          "date": "2026-11-11",
+          "level": "Medium",
+          "summary": "",
+          "impact": "Potential Azure AI, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Azure AI",
+            "Security"
+          ],
+          "triggers": [],
+          "sentiment": "Positive",
+          "image": "https://media.assettype.com/freepressjournal/2026-11-11/3ds8x1g3/Untitled-Design-2026-11-11T100755.632.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.freepressjournal.in&sz=32"
         }
       ]
     },
     {
       "top": "Capital Market",
       "sub": "Capital Markets Strategic",
-      "count": 3,
-      "items": [
-        {
-          "account": "GOLDMAN SACHS & COMPANY",
-          "title": "AI eats into entry - level tech jobs as India graduates seek work",
-          "url": "https://www.business-standard.com/industry/news/ai-eats-into-entry-level-tech-jobs-as-india-s-graduates-seek-work-126100800232_1.html",
-          "date": "2026-10-08",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791433620-2092.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32"
-        },
-        {
-          "account": "Fidelity Investments",
-          "title": "AI Will Kill Us in 10 Years , but Bond Market Will Do It  Next Week , Says Strategist As Treasury Yields Hit 24 - Year Highs",
-          "url": "https://www.aol.com/articles/ai-kill-us-10-years-062844000.html",
-          "date": "2026-10-02",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://hermes.media.transform.aol.com/811e05d6f430500d20c884a984a88843d09322dd/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/02/46942e84-d392-3557-99c2-ffb2420d1d00/85147600-a846-45e0-8bdb-d3b05869e37f.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.aol.com&sz=32"
-        },
-        {
-          "account": "NASDAQ OMX",
-          "title": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund ( NASDAQ : GRID ) Stock Short Interest Drops 41 . 6 %",
-          "url": "https://www.themarketsdaily.com/2026/10/01/first-trust-nasdaq-clean-edge-smart-grid-infrastructure-index-fund-nasdaqgrid-stock-short-interest-drops-41-6.html",
-          "date": "2026-10-01",
-          "level": "High",
-          "summary": "",
-          "impact": "Potential Fabric opportunity — align outreach to this signal.",
-          "plays": [
-            "Fabric"
-          ],
-          "triggers": [
-            "M&A"
-          ],
-          "sentiment": "Neutral",
-          "image": "",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Insurance",

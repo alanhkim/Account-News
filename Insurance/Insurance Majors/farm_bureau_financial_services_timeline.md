@@ -1,11 +1,9 @@
 # FARM BUREAU FINANCIAL SERVICES — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-20 | Osberg works to pave path to different outcome in Minnesota 7th - West Central Tribune \| News , weather , sports from Willmar Minnesota | 🟡 Low | ⚪ Neutral | [link](https://www.inforum.com/news/minnesota/osberg-works-to-pave-path-to-different-outcome-in-minnesotas-7th) |
 | 2026-09-02 | 4 - H youth earn high honors in livestock ribbon market | 🟡 Low | ⚪ Neutral | [link](https://www.mesabitribune.com/news/4-h-youth-earn-high-honors-in-livestock-ribbon-market/article_955f282d-7b83-477a-8f8a-243f3528a8cc.html) |
 | 2026-08-24 | The great farming transition is on the horizon and farm families should be prepared | 🟡 Low | ⚪ Neutral | [link](https://www.agweek.com/farm-finances/the-great-farming-transition-is-on-the-horizon-and-farm-families-should-be-prepared) |
-| 2026-08-14 | Corporate Games Champions Honored | 🟡 Low | ⚪ Neutral | [link](https://www.dmcityview.com/just-released/2026/08/14/corporate-games-champions-honored/) |
-| 2026-08-12 | At Work Winner - Donna Kramer – Mix 94 . 7 KMCH | 🟡 Low | ⚪ Neutral | [link](https://kmch.com/2026/08/12/at-work-winner-donna-kramer/) |
-| 2026-07-23 | South Dakota Farm Bureau to host NextGen Beef Tour Aug . 21 - 22 near MItchell | 🟡 Low | ⚪ Neutral | [link](https://drgnews.com/2026/07/23/south-dakota-farm-bureau-to-host-nextgen-beef-tour-aug-21-22-near-mitchell/) |

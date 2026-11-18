@@ -1,12 +1,9 @@
 # PLATINUM EQUITY LLC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
 | 2026-10-01 | Horizon Family Brands elevates chief customer officer – BizWest | 🟠 Medium | ⚪ Neutral | [link](https://bizwest.com/2026/09/30/horizon-family-brands-elevates-chief-customer-officer/) |
 | 2026-09-12 | Hitachi Races Platinum Equity for Austrian Smart - Traffic Leader Swarco ITS | 🟡 Low | ⚪ Neutral | [link](https://www.techtimes.com/articles/327364/20260911/hitachi-races-platinum-equity-austrian-smart-traffic-leader-swarco-its.htm) |
 | 2026-09-01 | Nestlé reaches $1B deal to sell 7 vitamin , mineral and supplement brands | 🔴 High | ⚪ Neutral | [link](https://www.fooddive.com/news/nestle-sell-mainstream-vitamins-minerals-supplements-business-to-private-equity/829321/) |
-| 2026-08-19 | Praana , 3B and Original Composites & Fiberglass : The Next Chapter | 🟡 Low | ⚪ Neutral | [link](https://www.compositesworld.com:443/articles/praana-3b-and-original-composites-fiberglass-the-next-chapter-) |
-| 2026-08-11 | Ingram Micro ( NYSE : INGM ) Upgraded at Wall Street Zen | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13538018/ingram-micro-nyseingm-upgraded-at-wall-street-zen.html) |
-| 2026-07-24 | US stocks to Asian markets today : Global market equity heatmap you should know before trade begins on Dalal Street | 🟡 Low | ⚪ Neutral | [link](https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html) |

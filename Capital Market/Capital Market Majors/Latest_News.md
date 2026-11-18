@@ -1,8 +1,8 @@
 # Latest News — Capital Market Majors
 
-**Updated:** October 09, 2026  
+**Updated:** November 18, 2026  
 **Accounts tracked:** 66  
-**Accounts with news this cycle:** 21  
+**Accounts with news this cycle:** 17  
 
 ---
 
@@ -10,231 +10,189 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.business-standard.com&sz=32) | **JEFFERIES & COMPANY INC** | Q2 Earnings Preview : Banks , financials to drive strong double - digit growth | 2026-10-08 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.business-standard.com/markets/news/q2-earnings-preview-banks-financials-to-drive-strong-double-digit-growth-126100800201_1.html) |
-| ![](https://www.google.com/s2/favicons?domain=247wallst.com&sz=32) | **MORNINGSTAR INC** | Dividend Growth for the Next Decade Starts With These 3 ETFs | 2026-10-02 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://247wallst.com/investing/etf/2026/10/01/dividend-growth-for-the-next-decade-starts-with-these-3-etfs/) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **Guggenheim Partners** | Guggenheim Investments Announces October 2026 Closed - End Fund Distributions | 2026-10-01 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/guggenheim-investments-announces-october-2026-closed-end-fund-distributions/2437651) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **WELLINGTON MANAGEMENT COMPANY LLC** | First Tracks Biotherapeutics ( NASDAQ : TRAX ) Receives Consensus Rating of  Moderate Buy  from Brokerages | 2026-10-02 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.tickerreport.com/banking-finance/13605670/first-tracks-biotherapeutics-nasdaqtrax-receives-consensus-rating-of-moderate-buy-from-brokerages.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **WILLIAM BLAIR & COMPANY** | Payoneer Global Inc . ( NASDAQ : PAYO ) Receives Average Rating of  Hold  from Brokerages | 2026-10-02 | 🟠 Medium | ⚪ Neutral | Regulatory | — | [link](https://www.tickerreport.com/banking-finance/13605659/payoneer-global-inc-nasdaqpayo-receives-average-rating-of-hold-from-brokerages.html) |
-| ![](https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32) | **ANTARES CAPITAL** | John Frank : In 2015 , a Chicago entrepreneur invested $5 , 000 in a CFO side hustle ; years later , it became a seven - figure business with 16 staff | 2026-10-01 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://economictimes.indiatimes.com/news/international/us/in-2015-a-chicago-entrepreneur-invested-5000-in-a-cfo-side-hustle-years-later-it-became-a-seven-figure-business-with-16-staff/articleshow/134619395.cms) |
-| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **FISHER INVESTMENTS** | Some Workers Pay Social Security Tax on $184 , 500 of Income . Lawmakers Want Them to Get Nothing Back | 2026-10-02 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.aol.com/articles/workers-pay-social-security-tax-010610000.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.newsday.com&sz=32) | **TWO SIGMA INVESTMENTS** | The AI folks dont seem to understand intelligence | 2026-09-24 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.newsday.com/opinion/commentary/ai-intelligence-m3oehgsk) |
-| ![](https://www.google.com/s2/favicons?domain=www.kitco.com&sz=32) | **Stone X** | Gold climbs on subdued US dollar as inflation data awaited amid oil rally | 2026-09-09 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](http://www.kitco.com/news/off-the-wire/2026-09-09/gold-climbs-subdued-us-dollar-inflation-data-awaited-amid-oil-rally) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **ROBERT W. BAIRD & CO INC** | Badger Meter , Inc . ( NYSE : BMI ) Stock Has Consensus Price Target of $162 . 00 According to Analysts | 2026-10-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/10/06/badger-meter-inc-nysebmi-stock-has-consensus-price-target-of-162-00-according-to-analysts.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **KOHLBERG KRAVIS ROBERTS & CO LLC** | Rule 38 . 5 _ A - DCC Energy plc \| Company Announcement | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/rule-38-5_a-dcc-energy-plc/9803823) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **NEUBERGER BERMAN** | NBPE Announces Transaction in Own Shares \| The Manila Times | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2437793) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **JANUS HENDERSON GROUP** | Boot Barn Holdings , Inc . ( NYSE : BOOT ) Stock Has Consensus Price Target of $219 . 55 | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/10/02/boot-barn-holdings-inc-nyseboot-stock-has-consensus-price-target-of-219-55.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.bangordailynews.com&sz=32) | **CARLYLE** | Maine candidates for governor answer your questions | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.bangordailynews.com/2026/10/02/opinion/opinion-contributor/maine-candidates-for-governor-answer-your-questions-joam40zk0w/) |
-| ![](https://www.google.com/s2/favicons?domain=www.businesstimes.com.sg&sz=32) | **Kroll, LLC** | Crystal Jade holding companies in Spore , Hong Kong placed under receivership | 2026-10-02 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.businesstimes.com.sg/singapore/crystal-jade-holding-companies-spore-hong-kong-placed-under-receivership) |
-| ![](https://www.google.com/s2/favicons?domain=www.maritimeprofessional.com&sz=32) | **Berkshire Hathaway Energy** | US LNG Exports Increase in September , Europe Outbids Asia for Cargoes | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.maritimeprofessional.com/news/exports-increase-september-europe-outbids-423357) |
-| ![](https://www.google.com/s2/favicons?domain=www.manilatimes.net&sz=32) | **DAVIDSON KEMPNER** | Davidson Kempner Capital Management LP : Form 8 . 3 - DCC plc | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-dcc-plc/2437355) |
-| ![](https://www.google.com/s2/favicons?domain=www.thetimes-tribune.com&sz=32) | **AMERIPRISE FINANCIAL INC** | SACF to host free estate planning seminar | 2026-10-01 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thetimes-tribune.com/2026/10/01/sacf-to-host-free-estate-planning-seminar/) |
-| ![](https://www.google.com/s2/favicons?domain=www.cityam.com&sz=32) | **Fortress Investment Group** | Poundland owner faces break - up of retailer it bought for £1 | 2026-09-30 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.cityam.com/poundland-owner-faces-break-up-of-retailer-it-bought-for-1/) |
-| ![](https://www.google.com/s2/favicons?domain=hedgeweek.com&sz=32) | **Balyasny Asset Management** | Ex - Schonfeld exec joins Millennium as senior PM in Hong … | 2026-09-30 | 🟡 Low | ⚪ Neutral | — | — | [link](https://hedgeweek.com/news/ex-schonfeld-exec-joins-millennium-as-senior-pm-in-hong-kong) |
-| ![](https://www.google.com/s2/favicons?domain=www.newswire.ca&sz=32) | **Securian** | Nine in ten credit protection insurance claims paid , and 95 % of life coverage claims , as Canadian satisfaction and perceived value climb | 2026-09-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.newswire.ca/news-releases/nine-in-ten-credit-protection-insurance-claims-paid-and-95-of-life-coverage-claims-as-canadians-satisfaction-and-perceived-value-climb-809958392.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.moneycontrol.com&sz=32) | **INVESCO** | Bandhan vs Nippon India vs Invesco : Small - cap mutual fund inflows , returns and portfolio comparison | 2026-11-16 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.moneycontrol.com/news/business/personal-finance/bandhan-nippon-or-invesco-which-small-cap-mutual-fund-attracted-more-money-and-delivered-better-returns-14081100.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.ibtimes.com.au&sz=32) | **MORNINGSTAR INC** | GQG Partners Shares Extend Rout to New Record Low After $17 . 7 Billion October Funds Plunge Rattles Investors | 2026-11-12 | 🔴 High | 🟢 Positive | M&A, Product Launch | — | [link](https://www.ibtimes.com.au/gqg-partners-shares-record-low-funds-management-fall-1878456) |
+| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Guggenheim Partners** | Grocery Outlet ( GO ) Q3 2026 Earnings Call Transcript | 2026-11-11 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.fool.com/earnings/call-transcripts/2026/11/11/grocery-outlet-go-q3-2026-earnings-call-transcript/?source=iedfolrf0000001) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **BERKSHIRE HATHAWAY INC** | Miami Contractor Charged with Underreporting Payroll to NorGuard by $1 Million | 2026-11-13 | 🟠 Medium | ⚪ Neutral | — | Fabric | [link](https://www.insurancejournal.com/news/southeast/2026/11/13/892599.htm) |
+| ![](https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32) | **JANUS HENDERSON GROUP** | What Next for the AI Trade After the Midterms ? | 2026-11-12 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.morningstar.com/stocks/whats-next-ai-trade-after-midterms) |
+| ![](https://www.google.com/s2/favicons?domain=www.perthnow.com.au&sz=32) | **First Advantage Corporation** | Hyundai $1 billion Australian battery plant  fell through  after government bungled talks | 2026-11-12 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.perthnow.com.au/lifestyle/motoring/hyundais-1-billion-australian-battery-plant-fell-through-after-government-bungled-talks-c-23153027) |
+| ![](https://www.google.com/s2/favicons?domain=www.freepressjournal.in&sz=32) | **Balyasny Asset Management** | Google Expands Gemini 4 Carbon AI Access For Developers , Businesses With Advanced Coding , Cybersecurity And Research Capabilities | 2026-11-11 | 🟠 Medium | 🟢 Positive | — | Azure AI, Security | [link](https://www.freepressjournal.in/tech/google-expands-gemini-4-carbon-ai-access-for-developers-businesses-with-advanced-coding-cybersecurity-and-research-capabilities) |
+| ![](https://www.google.com/s2/favicons?domain=www.billboard.com&sz=32) | **ROCKEFELLER AND COMPANY** | Cynthia Erivo to Host Rockefeller Tree Lighting : See the Full Lineup | 2026-11-18 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.billboard.com/music/music-news/cynthia-erivo-host-rockefeller-tree-lighting-lineup-1236384415/) |
+| ![](https://www.google.com/s2/favicons?domain=www.aol.com&sz=32) | **T ROWE PRICE ASSOCIATES** | The world is facing a new credit crunch | 2026-11-15 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.aol.com/articles/world-facing-credit-crunch-060000000.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.strategy-business.com&sz=32) | **The Capital Group Companies, Inc.** | Leading a Bionic Transformation | 2026-11-15 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.strategy-business.com/article/Leading-a-Bionic-Transformation) |
+| ![](https://www.google.com/s2/favicons?domain=wyss.harvard.edu&sz=32) | **Kroll, LLC** | Crossing the barrier : Wyss Brain Targeting Program is delivering on its promise | 2026-11-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://wyss.harvard.edu/news/crossing-the-barrier-wyss-brain-targeting-program-is-delivering-on-its-promise/) |
+| ![](https://www.google.com/s2/favicons?domain=www.baltimorestar.com&sz=32) | **Chicago mercantile Exchange** | CFTC allows single - stock perpetual futures to begin trading | 2026-11-09 | 🟡 Low | ⚪ Neutral | — | — | [link](http://www.baltimorestar.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading) |
+| ![](https://www.google.com/s2/favicons?domain=www.investegate.co.uk&sz=32) | **KOHLBERG KRAVIS ROBERTS & CO LLC** | Form 38 . 5b - DCC Energy PLC \| Company Announcement | 2026-11-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5b-dcc-energy-plc/9863096) |
+| ![](https://www.google.com/s2/favicons?domain=www.mirror.co.uk&sz=32) | **DISCOVER FINANCIAL** | Nationwide explains who will get £500 payouts , when and why | 2026-11-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.mirror.co.uk/money/nationwide-explains-who-500-payouts-37850103) |
+| ![](https://www.google.com/s2/favicons?domain=commercialobserver.com&sz=32) | **Fortress Investment Group** | Fortress Buys Assisted Living Center in Delray Beach , Fla . | 2026-11-06 | 🟡 Low | ⚪ Neutral | — | — | [link](https://commercialobserver.com/2026/11/fortress-investment-group-delray-beach/) |
+| ![](https://www.google.com/s2/favicons?domain=www.broadsheet.ie&sz=32) | **CERBERUS CAPITAL MANAGEMENT LP** | Monday Papers \| Broadsheet . ie | 2026-10-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.broadsheet.ie/2022/02/20/mondays-papers-117/) |
+| ![](https://www.google.com/s2/favicons?domain=econotimes.com&sz=32) | **BROWN BROTHERS HARRIMAN AND COMPANY** | MUFG Forecasts U . K . Inflation Above 4 % if January Energy Cap Rises | 2026-10-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://econotimes.com/MUFG-Forecasts-U-K-Inflation-Above-4-if-January-Energy-Cap-Rises-1759479) |
 
 ## Detail
 
-### JEFFERIES & COMPANY INC
-**Q2 Earnings Preview : Banks , financials to drive strong double - digit growth** — 2026-10-08 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.business-standard.com/markets/news/q2-earnings-preview-banks-financials-to-drive-strong-double-digit-growth-126100800201_1.html)
-
-### MORNINGSTAR INC
-**Dividend Growth for the Next Decade Starts With These 3 ETFs** — 2026-10-02 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://247wallst.com/investing/etf/2026/10/01/dividend-growth-for-the-next-decade-starts-with-these-3-etfs/)
-
-### Guggenheim Partners
-**Guggenheim Investments Announces October 2026 Closed - End Fund Distributions** — 2026-10-01 — 🔴 High — ⚪ Neutral
+### INVESCO
+**Bandhan vs Nippon India vs Invesco : Small - cap mutual fund inflows , returns and portfolio comparison** — 2026-11-16 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/guggenheim-investments-announces-october-2026-closed-end-fund-distributions/2437651)
+[Read →](https://www.moneycontrol.com/news/business/personal-finance/bandhan-nippon-or-invesco-which-small-cap-mutual-fund-attracted-more-money-and-delivered-better-returns-14081100.html)
 
-### WELLINGTON MANAGEMENT COMPANY LLC
-**First Tracks Biotherapeutics ( NASDAQ : TRAX ) Receives Consensus Rating of  Moderate Buy  from Brokerages** — 2026-10-02 — 🟠 Medium — ⚪ Neutral
+### MORNINGSTAR INC
+**GQG Partners Shares Extend Rout to New Record Low After $17 . 7 Billion October Funds Plunge Rattles Investors** — 2026-11-12 — 🔴 High — 🟢 Positive
 
 
 
-_Trigger events:_ Regulatory  
+_Trigger events:_ M&A, Product Launch  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13605670/first-tracks-biotherapeutics-nasdaqtrax-receives-consensus-rating-of-moderate-buy-from-brokerages.html)
+[Read →](https://www.ibtimes.com.au/gqg-partners-shares-record-low-funds-management-fall-1878456)
 
-### WILLIAM BLAIR & COMPANY
-**Payoneer Global Inc . ( NASDAQ : PAYO ) Receives Average Rating of  Hold  from Brokerages** — 2026-10-02 — 🟠 Medium — ⚪ Neutral
+### Guggenheim Partners
+**Grocery Outlet ( GO ) Q3 2026 Earnings Call Transcript** — 2026-11-11 — 🔴 High — ⚪ Neutral
 
 
 
-_Trigger events:_ Regulatory  
+_Trigger events:_ Earnings  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.tickerreport.com/banking-finance/13605659/payoneer-global-inc-nasdaqpayo-receives-average-rating-of-hold-from-brokerages.html)
+[Read →](https://www.fool.com/earnings/call-transcripts/2026/11/11/grocery-outlet-go-q3-2026-earnings-call-transcript/?source=iedfolrf0000001)
 
-### ANTARES CAPITAL
-**John Frank : In 2015 , a Chicago entrepreneur invested $5 , 000 in a CFO side hustle ; years later , it became a seven - figure business with 16 staff** — 2026-10-01 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Trigger events:_ CxO Change  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://economictimes.indiatimes.com/news/international/us/in-2015-a-chicago-entrepreneur-invested-5000-in-a-cfo-side-hustle-years-later-it-became-a-seven-figure-business-with-16-staff/articleshow/134619395.cms)
-
-### FISHER INVESTMENTS
-**Some Workers Pay Social Security Tax on $184 , 500 of Income . Lawmakers Want Them to Get Nothing Back** — 2026-10-02 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.aol.com/articles/workers-pay-social-security-tax-010610000.html)
-
-### TWO SIGMA INVESTMENTS
-**The AI folks dont seem to understand intelligence** — 2026-09-24 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://www.newsday.com/opinion/commentary/ai-intelligence-m3oehgsk)
-
-### Stone X
-**Gold climbs on subdued US dollar as inflation data awaited amid oil rally** — 2026-09-09 — 🟠 Medium — ⚪ Neutral
+### BERKSHIRE HATHAWAY INC
+**Miami Contractor Charged with Underreporting Payroll to NorGuard by $1 Million** — 2026-11-13 — 🟠 Medium — ⚪ Neutral
 
 
 
 _Solution plays:_ Fabric  
 _Microsoft angle:_ Potential Fabric opportunity — align outreach to this signal.
 
-[Read →](http://www.kitco.com/news/off-the-wire/2026-09-09/gold-climbs-subdued-us-dollar-inflation-data-awaited-amid-oil-rally)
-
-### ROBERT W. BAIRD & CO INC
-**Badger Meter , Inc . ( NYSE : BMI ) Stock Has Consensus Price Target of $162 . 00 According to Analysts** — 2026-10-06 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.dailypolitical.com/2026/10/06/badger-meter-inc-nysebmi-stock-has-consensus-price-target-of-162-00-according-to-analysts.html)
-
-### KOHLBERG KRAVIS ROBERTS & CO LLC
-**Rule 38 . 5 _ A - DCC Energy plc | Company Announcement** — 2026-10-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/rule-38-5_a-dcc-energy-plc/9803823)
-
-### NEUBERGER BERMAN
-**NBPE Announces Transaction in Own Shares | The Manila Times** — 2026-10-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/nbpe-announces-transaction-in-own-shares/2437793)
+[Read →](https://www.insurancejournal.com/news/southeast/2026/11/13/892599.htm)
 
 ### JANUS HENDERSON GROUP
-**Boot Barn Holdings , Inc . ( NYSE : BOOT ) Stock Has Consensus Price Target of $219 . 55** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+**What Next for the AI Trade After the Midterms ?** — 2026-11-12 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.themarketsdaily.com/2026/10/02/boot-barn-holdings-inc-nyseboot-stock-has-consensus-price-target-of-219-55.html)
+[Read →](https://www.morningstar.com/stocks/whats-next-ai-trade-after-midterms)
 
-### CARLYLE
-**Maine candidates for governor answer your questions** — 2026-10-02 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.bangordailynews.com/2026/10/02/opinion/opinion-contributor/maine-candidates-for-governor-answer-your-questions-joam40zk0w/)
-
-### Kroll, LLC
-**Crystal Jade holding companies in Spore , Hong Kong placed under receivership** — 2026-10-02 — 🟡 Low — ⚪ Neutral
+### First Advantage Corporation
+**Hyundai $1 billion Australian battery plant  fell through  after government bungled talks** — 2026-11-12 — 🟠 Medium — ⚪ Neutral
 
 
 
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+_Solution plays:_ Azure AI  
+_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
 
-[Read →](https://www.businesstimes.com.sg/singapore/crystal-jade-holding-companies-spore-hong-kong-placed-under-receivership)
-
-### Berkshire Hathaway Energy
-**US LNG Exports Increase in September , Europe Outbids Asia for Cargoes** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](http://www.maritimeprofessional.com/news/exports-increase-september-europe-outbids-423357)
-
-### DAVIDSON KEMPNER
-**Davidson Kempner Capital Management LP : Form 8 . 3 - DCC plc** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/davidson-kempner-capital-management-lp-form-83-dcc-plc/2437355)
-
-### AMERIPRISE FINANCIAL INC
-**SACF to host free estate planning seminar** — 2026-10-01 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.thetimes-tribune.com/2026/10/01/sacf-to-host-free-estate-planning-seminar/)
-
-### Fortress Investment Group
-**Poundland owner faces break - up of retailer it bought for £1** — 2026-09-30 — 🟡 Low — 🟢 Positive
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.cityam.com/poundland-owner-faces-break-up-of-retailer-it-bought-for-1/)
+[Read →](https://www.perthnow.com.au/lifestyle/motoring/hyundais-1-billion-australian-battery-plant-fell-through-after-government-bungled-talks-c-23153027)
 
 ### Balyasny Asset Management
-**Ex - Schonfeld exec joins Millennium as senior PM in Hong …** — 2026-09-30 — 🟡 Low — ⚪ Neutral
+**Google Expands Gemini 4 Carbon AI Access For Developers , Businesses With Advanced Coding , Cybersecurity And Research Capabilities** — 2026-11-11 — 🟠 Medium — 🟢 Positive
+
+
+
+_Solution plays:_ Azure AI, Security  
+_Microsoft angle:_ Potential Azure AI, Security opportunity — align outreach to this signal.
+
+[Read →](https://www.freepressjournal.in/tech/google-expands-gemini-4-carbon-ai-access-for-developers-businesses-with-advanced-coding-cybersecurity-and-research-capabilities)
+
+### ROCKEFELLER AND COMPANY
+**Cynthia Erivo to Host Rockefeller Tree Lighting : See the Full Lineup** — 2026-11-18 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://hedgeweek.com/news/ex-schonfeld-exec-joins-millennium-as-senior-pm-in-hong-kong)
+[Read →](https://www.billboard.com/music/music-news/cynthia-erivo-host-rockefeller-tree-lighting-lineup-1236384415/)
 
-### Securian
-**Nine in ten credit protection insurance claims paid , and 95 % of life coverage claims , as Canadian satisfaction and perceived value climb** — 2026-09-23 — 🟡 Low — ⚪ Neutral
+### T ROWE PRICE ASSOCIATES
+**The world is facing a new credit crunch** — 2026-11-15 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.newswire.ca/news-releases/nine-in-ten-credit-protection-insurance-claims-paid-and-95-of-life-coverage-claims-as-canadians-satisfaction-and-perceived-value-climb-809958392.html)
+[Read →](https://www.aol.com/articles/world-facing-credit-crunch-060000000.html)
+
+### The Capital Group Companies, Inc.
+**Leading a Bionic Transformation** — 2026-11-15 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.strategy-business.com/article/Leading-a-Bionic-Transformation)
+
+### Kroll, LLC
+**Crossing the barrier : Wyss Brain Targeting Program is delivering on its promise** — 2026-11-13 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://wyss.harvard.edu/news/crossing-the-barrier-wyss-brain-targeting-program-is-delivering-on-its-promise/)
+
+### Chicago mercantile Exchange
+**CFTC allows single - stock perpetual futures to begin trading** — 2026-11-09 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](http://www.baltimorestar.com/news/279409896/cftc-allows-single-stock-perpetual-futures-to-begin-trading)
+
+### KOHLBERG KRAVIS ROBERTS & CO LLC
+**Form 38 . 5b - DCC Energy PLC | Company Announcement** — 2026-11-06 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5b-dcc-energy-plc/9863096)
+
+### DISCOVER FINANCIAL
+**Nationwide explains who will get £500 payouts , when and why** — 2026-11-06 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.mirror.co.uk/money/nationwide-explains-who-500-payouts-37850103)
+
+### Fortress Investment Group
+**Fortress Buys Assisted Living Center in Delray Beach , Fla .** — 2026-11-06 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://commercialobserver.com/2026/11/fortress-investment-group-delray-beach/)
+
+### CERBERUS CAPITAL MANAGEMENT LP
+**Monday Papers | Broadsheet . ie** — 2026-10-22 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.broadsheet.ie/2022/02/20/mondays-papers-117/)
+
+### BROWN BROTHERS HARRIMAN AND COMPANY
+**MUFG Forecasts U . K . Inflation Above 4 % if January Energy Cap Rises** — 2026-10-21 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://econotimes.com/MUFG-Forecasts-U-K-Inflation-Above-4-if-January-Energy-Cap-Rises-1759479)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (45)</summary>
+<details><summary>Accounts with no material news this cycle (49)</summary>
 
 - CITADEL INVESTMENT GROUP
 - EDWARD D JONES AND COMPANY
@@ -244,7 +202,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - BAIN CAPITAL LLC
 - PLATINUM EQUITY LLC
 - Dun & Bradstreet Corporation
-- INVESCO
 - Raymond James and Associates Inc
 - Resurgent Capital Services
 - CITCO TECHNOLOGY MANAGEMENT INC
@@ -254,35 +211,40 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - D E SHAW & CO INC
 - gmo
 - Ion Trading
+- JEFFERIES & COMPANY INC
 - MSCI Inc
+- NEUBERGER BERMAN
 - Ascensus, Inc.
 - FINRA
 - SUSQUEHANNA PARTNERS G P
-- T ROWE PRICE ASSOCIATES
+- WELLINGTON MANAGEMENT COMPANY LLC
 - BGC PARTNERS,Trading Group, LLC
 - STIFEL NICHOLAS & CO INC
 - Toppan Merrill LLC
 - DEPOSITORY TRUST CLEARING CORPORATION
-- DISCOVER FINANCIAL
-- BROWN BROTHERS HARRIMAN AND COMPANY
-- Chicago mercantile Exchange
+- Securian
+- TWO SIGMA INVESTMENTS
 - Commonwealth Financial Network
 - HARBOURVEST PARTNERS LLC
-- CERBERUS CAPITAL MANAGEMENT LP
+- ANTARES CAPITAL
+- CARLYLE
 - TPG Capital
-- BERKSHIRE HATHAWAY INC
+- Berkshire Hathaway Energy
+- DAVIDSON KEMPNER
 - MOODYS INVESTORS SERVICE
-- ROCKEFELLER AND COMPANY
-- First Advantage Corporation
+- FISHER INVESTMENTS
 - FRANKLIN ADMINISTRATIVE SERVICES
-- The Capital Group Companies, Inc.
 - Voya Services Company
+- AMERIPRISE FINANCIAL INC
 - PRINCIPAL FINANCIAL GROUP
+- ROBERT W. BAIRD & CO INC
+- WILLIAM BLAIR & COMPANY
 - LAZARD FRERES AND COMPANY
 - LOUIS DREYFUS CORP
 - SEI CORP
+- Stone X
 
 </details>
 
 ---
-_Auto-generated on October 09, 2026._
+_Auto-generated on November 18, 2026._

@@ -1,15 +1,10 @@
 # US BANK — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-14 | Aussie gamer industry counting down to GTA 6 release | 🟡 Low | ⚪ Neutral | [link](https://www.redlandcitybulletin.com.au/story/9391653/aussie-gamer-industry-counting-down-to-gta-6-release/) |
 | 2026-09-09 | Trump govt to target deported migrants abroad over $423 million in unpaid fines , as immigration crackdown ramps up | 🟠 Medium | 🟢 Positive | [link](https://www.hindustantimes.com/world-news/us-news/trump-govt-to-target-deported-migrants-abroad-over-423-million-in-unpaid-fines-as-immigration-crackdown-ramps-up-101788939920230.html) |
 | 2026-09-05 | US sanctions Turkish bank over Iran ties | 🟡 Low | ⚪ Neutral | [link](https://www.samaa.tv/2087356292-us-sanctions-turkish-bank-over-alleged-iran-ties) |
 | 2026-09-02 | How To Tour US Bank Stadium In Minneapolis | 🟡 Low | ⚪ Neutral | [link](https://kool1017.com/ixp/66/p/behind-scenes-us-bank-stadium-access/) |
-| 2026-08-18 | BNP Paribas flexes united kingdom M & A credentials | 🟡 Low | ⚪ Neutral | [link](https://www.thebanker.com/content/39be7234-d58b-4e66-b0eb-c71f2a3fa63a) |
-| 2026-08-13 | Corning Stock : Well - Positioned AI Infrastructure Play ( NYSE : GLW ) | 🟠 Medium | ⚪ Neutral | [link](https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play) |
-| 2026-08-12 | US - based founder criticises Indian bank for being overly cautious about loans , says the country is  credit - starved | 🟡 Low | ⚪ Neutral | [link](https://www.livemint.com/money/personal-finance/usbased-founder-criticises-indian-bank-for-being-overly-cautious-about-loans-says-the-country-is-creditstarved-11786524670761.html) |
-| 2026-07-31 | Your Dad Falls for Jeff Pa22an Twitter Account Again | 🟡 Low | ⚪ Neutral | [link](https://twinsdaily.com/news-rumors/just-for-fun/your-dad-falls-for-jeff-pa22an-twitter-account-again-r20836/) |
-| 2026-07-28 | Wisconsin Lawyer : Storm Surge : The Swell of Probate and Trust Litigation in Wisconsin : | 🟡 Low | 🟢 Positive | [link](https://www.wisbar.org/NewsPublications/WisconsinLawyer/Pages/Article.aspx?Volume=99&Issue=7&ArticleID=31707&source=carousel) |
-| 2026-07-27 | Iran war escalation puts Federal Reserve in a bind | 🟡 Low | ⚪ Neutral | [link](https://www.thenationalnews.com/business/economy/2026/07/27/iran-war-escalation-puts-federal-reserve-in-a-bind/) |

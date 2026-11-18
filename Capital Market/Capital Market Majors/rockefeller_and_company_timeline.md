@@ -1,13 +1,10 @@
 # ROCKEFELLER AND COMPANY — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-18 | Cynthia Erivo to Host Rockefeller Tree Lighting : See the Full Lineup | 🟡 Low | 🟢 Positive | [link](https://www.billboard.com/music/music-news/cynthia-erivo-host-rockefeller-tree-lighting-lineup-1236384415/) |
 | 2026-10-02 | Wood County Economic Development to hold annual meeting Oct . 14 | 🟡 Low | ⚪ Neutral | [link](https://www.newsandsentinel.com/news/business/2026/10/wood-county-economic-development-to-hold-annual-meeting-oct-14/) |
 | 2026-09-13 | Carbon markets keep our forests healthy \ | The Arkansas Democrat - Gazette | 🟡 Low | ⚪ Neutral | [link](https://www.arkansasonline.com/news/2026/sep/13/carbon-markets-keep-our-forests-healthy/) |
 | 2026-09-09 | Alo Unveils Fall 2026 Bag Collection With New Styles & Leather Goods | 🟠 Medium | ⚪ Neutral | [link](https://wwd.com/accessories-news/leather-goods/alo-fall-2026-luxury-bag-collection-launch-small-leather-goods-1239202675/) |
-| 2026-08-14 | Scientists Identify 3 - Minute Exercise That May Outperform 90 - Minute Workout | 🟡 Low | ⚪ Neutral | [link](https://www.newsweek.com/scientists-say-this-3-minute-exercise-beats-90-minute-workouts-12322062) |
-| 2026-08-12 | Dave Matthews Band Fall 2026 Tour Dates and Ticket Sale Info | 🟡 Low | ⚪ Neutral | [link](https://fun107.com/dave-matthews-band-providence-fall-tour/) |
-| 2026-07-30 | iShares MSCI Intl Value Factor ETF ( NYSEARCA : IVLU ) Reaches New 12 - Month High – Should You Buy ? | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/30/ishares-msci-intl-value-factor-etf-nysearcaivlu-reaches-new-12-month-high-should-you-buy.html) |
-| 2026-07-27 | Ministry Announce Final Album  Hate To Go ( Take Out Or Delivery ) And Farewell Tour Dates | 🟡 Low | ⚪ Neutral | [link](https://www.stereoboard.com/content/view/252322/9) |

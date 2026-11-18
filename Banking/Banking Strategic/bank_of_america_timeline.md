@@ -1,6 +1,6 @@
 # Bank of America — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
@@ -11,7 +11,3 @@ Rolling history of tracked news (last 90 days). Updated October 09, 2026.
 | 2026-09-02 | Where did mortgage rates land at the end of August ? | 🟡 Low | ⚪ Neutral | [link](https://www.aol.com/articles/where-did-mortgage-rates-land-185646000.html) |
 | 2026-08-31 | argenex ( ARGX ) – Analyst Weekly Ratings Changes | 🟠 Medium | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13567732/argenex-argx-analysts-weekly-ratings-changes.html) |
 | 2026-08-26 | Ex - manager accused of stealing $33 , 000 from Flanigan | 🟡 Low | ⚪ Neutral | [link](https://www.local10.com/news/local/2026/08/26/ex-manager-accused-of-stealing-33000-from-flanigans/) |
-| 2026-08-18 | Shakira pledges to rebuild 10 schools in earthquake - hit Colombia | 🟡 Low | ⚪ Neutral | [link](http://www.argentinastar.com/news/279249224/shakira-pledges-to-rebuild-10-schools-in-earthquake-hit-colombia) |
-| 2026-08-14 | We learned 5 important things about the economy this week | 🟡 Low | ⚪ Neutral | [link](https://www.wemu.org/npr-national-news/2026-08-14/we-learned-5-important-things-about-the-economy-this-week) |
-| 2026-07-31 | US stocks swing as Amazon leaps , Apple sinks and rising oil prices add to worries about inflation | 🟡 Low | ⚪ Neutral | [link](http://www.reflector.com/news/national/us-stocks-swing-as-amazon-leaps-apple-sinks-and-rising-oil-prices-add-to-worries/article_cfdbfdbc-e1d5-5264-ad3d-21c9726dd9bf.html) |
-| 2026-07-29 | 401 ( k ) Real Talk Episode 203 : July 29 , 2026 | 🟡 Low | ⚪ Neutral | [link](https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-203-july-29-2026) |

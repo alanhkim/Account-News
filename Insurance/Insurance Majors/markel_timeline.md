@@ -1,14 +1,10 @@
 # MARKEL — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-09 | Grading the Eagles in loss to Giants , which featured the same bad offense | 🟡 Low | 🔴 Negative | [link](https://www.inquirer.com/eagles/eagles-giants-grades-joe-milton-sean-mannion-offense-nick-sirianni-20261108.html) |
 | 2026-10-02 | Winners of the Insurance Post Claims and Fraud Awards 2026 revealed | 🟠 Medium | ⚪ Neutral | [link](https://www.postonline.co.uk/claims/7961108/winners-of-the-insurance-post-claims-and-fraud-awards-2026-revealed) |
 | 2026-09-11 | Jan Ebeling and  Rafalca  Return to the Show Ring in Style at 2013 Festival of the Horse & CDI 3 */ Y / J | 🟡 Low | ⚪ Neutral | [link](https://horsesdaily.com/article/jan-ebeling-and-rafalca-return-to-the-show-ring-in-style-at-2013-festival-of-the-horse-cdi-3-y-j/) |
 | 2026-09-09 | Eagles 2026 preview : Despite shakeup , foundations of the Eagle success remain | 🟡 Low | 🟢 Positive | [link](https://www.thereporteronline.com/2026/09/09/eagles-2026-preview-despite-shakeup-foundations-of-the-eagles-success-remain/) |
-| 2026-08-14 | These 12 Eagles the most on the line in preseason Week 1 vs . the Ravens | 🟡 Low | ⚪ Neutral | [link](https://www.inquirer.com/eagles/2026-preseason-week-1-players-to-watch-ravens-20260814.html) |
-| 2026-08-12 | NewEdge Advisors LLC Buys 78 , 946 Shares of Nuvation Bio Inc . $NUVB | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/12/newedge-advisors-llc-buys-78946-shares-of-nuvation-bio-inc-nuvb.html) |
-| 2026-07-30 | Love Island Gemma Owen and her career now after huge post villa success | 🟡 Low | ⚪ Neutral | [link](https://www.bristolpost.co.uk/news/celebs-tv/love-islands-gemma-owen-career-11085998) |
-| 2026-07-29 | Eagles training camp preview : 53 - man roster prediction | 🟡 Low | ⚪ Neutral | [link](https://www.bleedinggreennation.com/philadelphia-eagles-roster/178055/eagles-training-camp-preview-53-man-roster-prediction) |
-| 2026-07-28 | Suspects arrested on felony drug charges \ | The Union - Recorder | 🟡 Low | 🟢 Positive | [link](https://unionrecorder.com/2026/07/28/suspects-arrested-on-felony-drug-charges/) |

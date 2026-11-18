@@ -1,16 +1,12 @@
 # EQUITABLE — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-16 | Abass Khalif Courts Gusii Community in Karen , Gains Endorsement Ahead of Langata MP Race – Capital FM | 🟡 Low | 🟢 Positive | [link](https://capitalfm.africa/abass-khalif-courts-gusii-community-in-karen-gains-endorsement-ahead-of-langata-mp-race/) |
 | 2026-10-08 | Study highlights need for smarter , locally tailored trauma - care systems | 🟡 Low | ⚪ Neutral | [link](https://www.news-medical.net/news/20261008/Study-highlights-need-for-smarter-locally-tailored-trauma-care-systems.aspx) |
 | 2026-09-21 | Grassy Narrows : Inside an undercover protest shadowing Doug Ford | 🟡 Low | ⚪ Neutral | [link](https://www.nugget.ca:443/london-news/queens-park/grassy-narrows-inside-an-undercover-protest-shadowing-doug-ford/wcm/c029404a-89e5-45ff-90da-addab209eb2a) |
 | 2026-09-13 | BRICS expresses concern over trade - restrictive measures | 🟡 Low | 🔴 Negative | [link](https://www.sanews.gov.za/south-africa/brics-expresses-concern-over-trade-restrictive-measures) |
 | 2026-09-09 | New Orleans Public Library shares news and events \ | Crescent City community news | 🟡 Low | ⚪ Neutral | [link](https://www.nola.com/news/communities/crescent_city/new-orleans-public-libraries-news-events/article_5712a9ab-ae6a-4eda-921e-cf18e9e02548.html) |
 | 2026-09-03 | Trump pushes to remove tax exemption for colleges with DEI policies | 🟡 Low | ⚪ Neutral | [link](https://www.mainlinemedianews.com/2026/09/03/trump-education-anti-dei-push/) |
-| 2026-08-18 | Your guide to CSW67 | 🟡 Low | ⚪ Neutral | [link](http://www.newyorkstatesman.com/news/279249408/your-guide-to-csw67) |
-| 2026-08-14 | An Echo Press Editorial : One election done , another one looms | 🟡 Low | ⚪ Neutral | [link](https://www.echopress.com/opinion/editorials/an-echo-press-editorial-one-election-done-another-one-looms) |
-| 2026-08-13 | Govt contract workers protected , too \ | The Manila Times | 🟡 Low | ⚪ Neutral | [link](https://www.manilatimes.net/2026/08/14/news/national/govt-contract-workers-protected-too/2405107) |
-| 2026-07-31 | I must have missed the elites at Maine Democrat nominating convention | 🟡 Low | ⚪ Neutral | [link](https://www.centralmaine.com/2026/07/31/i-must-have-missed-the-elites-at-maine-democrats-nominating-convention-victoria-hugo-vidal/) |
-| 2026-07-29 | NEP at six : Is India education system ready for the AI age ? | 🟠 Medium | ⚪ Neutral | [link](https://www.hindustantimes.com/ht-insight/future-tech/nep-at-six-is-indias-education-system-ready-for-the-ai-age-101785331690992.html) |

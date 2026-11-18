@@ -1,7 +1,7 @@
 # Aon Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 09, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
-| 2026-07-20 | Aon Forecasts Hundreds of Millions in North America Wildfire Losses | 🟠 Medium | 🔴 Negative | [link](https://www.aon.com/en/insights/reports/climate-and-catastrophe-report) |
+| — | _No tracked news in the current window._ | — | — | — |

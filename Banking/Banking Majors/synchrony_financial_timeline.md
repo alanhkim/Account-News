@@ -1,12 +1,11 @@
 # Synchrony Financial — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated October 08, 2026.
+Rolling history of tracked news (last 90 days). Updated November 18, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-25 | Synchrony Financial ( NYSE : SYF ) Stock Has Average Target Price of $87 . 25 According to Analysts | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/10/25/synchrony-financial-nysesyf-stock-has-average-target-price-of-87-25-according-to-analysts.html) |
 | 2026-09-04 | Walmart - linked fintech banking incursion reaches autos | 🟡 Low | ⚪ Neutral | [link](https://www.americanbanker.com/payments/news/walmart-linked-fintechs-banking-incursion-reaches-autos) |
 | 2026-08-31 | Where to find some of the highest CD rates heading into September | 🟡 Low | ⚪ Neutral | [link](https://www.cnbc.com/2026/08/31/where-to-find-some-of-the-highest-cd-rates-heading-into-september.html) |
 | 2026-08-29 | Would You Use a Debit Card That Offers 2 % Cashback in Bitcoin ? This Popular Cryptocurrency Exchange Thinks You Will . | 🟡 Low | ⚪ Neutral | [link](https://www.fool.com/investing/2026/08/29/would-you-use-a-debit-card-that-offers-2-cashback/?source=iedfolrf0000001) |
 | 2026-08-22 | Westpac Banking Corp Acquires New Holdings in Synchrony Financial $SYF | 🔴 High | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/08/22/westpac-banking-corp-acquires-new-holdings-in-synchrony-financial-syf.html) |
-| 2026-07-29 | Another bank raised its CD rate to 4 %. Where to lock in the best yields | 🟡 Low | 🟢 Positive | [link](https://www.cnbc.com/2026/07/29/another-bank-raised-its-cd-rate-to-4percent-where-to-lock-in-the-best-yields.html) |
-| 2026-07-26 | Sei Investments Co . Has $57 . 41 Million Position in Synchrony Financial $SYF | 🟡 Low | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/07/26/sei-investments-co-has-57-41-million-position-in-synchrony-financial-syf.html) |
