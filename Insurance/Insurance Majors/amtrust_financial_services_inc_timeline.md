@@ -1,8 +1,9 @@
 # AMTrust Financial Services INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-10-21 | Investors lose $228M TruPS bid despite ACP Re own debt entries | 🟡 Low | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/investors-lose-228m-trups-bid-despite-acp-res-own-debt-entries-594410.aspx) |
 | 2026-09-24 | Rising Medical Solutions Publishes 13th Annual Worker Compensation Benchmarking Study Report | 🟡 Low | ⚪ Neutral | [link](http://www.gazettextra.com/news/nation_world/rising-medical-solutions-publishes-13th-annual-workers-compensation-benchmarking-study-report/article_023db685-a5fc-5acd-a033-6aa790a7a676.html) |
 | 2026-08-24 | ANV enters vehicle warranty market with Car Care Plan deal | 🔴 High | ⚪ Neutral | [link](https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/anv-enters-vehicle-warranty-market-with-car-care-plan-deal-587158.aspx) |

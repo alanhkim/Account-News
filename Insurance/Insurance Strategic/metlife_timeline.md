@@ -1,9 +1,10 @@
 # Metlife — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | Macklemore Pledges  Where Is Our Love  Proceeds To Gaza Mothers And Children | 🟡 Low | ⚪ Neutral | [link](https://allhiphop.com/news/macklemore-pledges-where-is-our-love-proceeds-to-gaza-mothers-and-children/) |
 | 2026-10-02 | Bono Says Ed Sheeran Didnt Want to Get Into Politics on U2 Song :  I Just Want To Keep My Thing Free | 🟡 Low | ⚪ Neutral | [link](https://www.ibtimes.co.uk/bono-ed-sheeran-u2-political-collaboration-1823277) |
 | 2026-09-04 | 3 Quick Vikings News Updates - Vikings Territory | 🟡 Low | ⚪ Neutral | [link](https://vikingsterritory.com/2026/news/top_news/3-vikings-news-updates-min) |
 | 2026-09-03 | Things To Do in New Jersey This Weekend : September 4 - September 6 | 🟡 Low | ⚪ Neutral | [link](https://magic983.com/2026/09/03/things-to-do-in-new-jersey-this-weekend-september-4-september-6/) |

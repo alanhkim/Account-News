@@ -1,9 +1,10 @@
 # MUTUAL OF OMAHA — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-12 | Mutual of Omaha sends holiday cards overseas for deployed troops | 🟡 Low | ⚪ Neutral | [link](https://www.ketv.com/article/mutual-of-omaha-sends-over-cards-to-deployed-troops/74404961) |
 | 2026-09-12 | 5 easy ways US boomers fry their nest egg and retire poor ( even with big savings ) are you making the same mistakes ? | 🔴 High | ⚪ Neutral | [link](https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html) |
 | 2026-09-02 | Reverse mortgage volume slips in August | 🟡 Low | ⚪ Neutral | [link](https://www.housingwire.com/articles/top-3-hecm-lenders-share/) |
 | 2026-08-31 | Get $1M in Life Insurance for Only $25 / mo , Quote . com Study Finds | 🟡 Low | ⚪ Neutral | [link](http://www.prnewswire.com/news-releases/get-1m-in-life-insurance-for-only-25mo-quotecom-study-finds-302862586.html) |

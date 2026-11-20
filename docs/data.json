@@ -1,84 +1,34 @@
 {
-  "generated": "2026-11-18",
-  "generated_human": "November 18, 2026",
+  "generated": "2026-11-20",
+  "generated_human": "November 20, 2026",
   "counts": {
     "accounts_total": 284,
-    "with_news": 7,
-    "high": 0
+    "with_news": 4,
+    "high": 1
   },
   "verticals": [
     {
       "top": "Banking",
       "sub": "Banking Majors",
-      "count": 2,
-      "items": [
-        {
-          "account": "Bloomberg LP",
-          "title": "AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .",
-          "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/",
-          "date": "2026-11-18",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4b00f135f5a31f87bc8ebcc25a56d0800f36e938-1280x720.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
-        },
-        {
-          "account": "Advisor360",
-          "title": "RIA Edge : AI Is Being Used By RIAs , But Gap Remains on Strategy",
-          "url": "https://www.wealthmanagement.com/ria-edge/ai-uptake-is-widespread-among-rias-but-gap-remains-on-strategy",
-          "date": "2026-10-21",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt4453034eed512097/6ad7cfd2b2dc8c588a4aa12e/Ashley_Longabaugh_Celent_Kimberly_Raimondo_Brookwood_Taylor_Ciavarra_Advisor360_Tim_Foley_AdvisorEngine.JPG?disable=upscale&fit=crop&overlay=%2Fv3%2Fassets%2Fbltabaa95ef14172c61%2Fblt38d05c932b77fe9f%2F6a3931f66deb92be88b595a5%2FWM-OpenGraph_indigo.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.wealthmanagement.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Banking",
       "sub": "Banking Strategic",
-      "count": 1,
-      "items": [
-        {
-          "account": "Citigroup",
-          "title": "AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .",
-          "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/",
-          "date": "2026-11-18",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4b00f135f5a31f87bc8ebcc25a56d0800f36e938-1280x720.png",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=32"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "top": "Capital Market",
       "sub": "Capital Market Majors",
-      "count": 4,
+      "count": 3,
       "items": [
         {
-          "account": "BERKSHIRE HATHAWAY INC",
-          "title": "Miami Contractor Charged with Underreporting Payroll to NorGuard by $1 Million",
-          "url": "https://www.insurancejournal.com/news/southeast/2026/11/13/892599.htm",
-          "date": "2026-11-13",
+          "account": "CARLYLE",
+          "title": "Residents in CA Agricultural Town Face Down ICE Facility and Amazon Data Center",
+          "url": "https://truthout.org/articles/residents-in-ca-agricultural-town-face-down-ice-facility-and-amazon-data-center/",
+          "date": "2026-11-14",
           "level": "Medium",
           "summary": "",
           "impact": "Potential Fabric opportunity — align outreach to this signal.",
@@ -87,40 +37,25 @@
           ],
           "triggers": [],
           "sentiment": "Neutral",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/11/stack-documents-note-saying-payroll-Depositphotos_751355124_S.jpg",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32"
+          "image": "https://truthout.org/app/uploads/2026/11/INTERFAITH-ICE-OUT-OF-GILROY-44-1200x675.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=truthout.org&sz=32"
         },
         {
-          "account": "JANUS HENDERSON GROUP",
-          "title": "What Next for the AI Trade After the Midterms ?",
-          "url": "https://www.morningstar.com/stocks/whats-next-ai-trade-after-midterms",
+          "account": "LPL Financial",
+          "title": "Wait for policy , not political promises on data centres : LPL Financial Group MD on AI selloff",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/wait-for-policy-not-political-promises-on-data-centres-lpl-financial-group-md-on-ai-selloff/articleshow/135745469.cms",
           "date": "2026-11-12",
           "level": "Medium",
           "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
+          "impact": "Potential Azure AI, Fabric opportunity — align outreach to this signal.",
           "plays": [
-            "Azure AI"
+            "Azure AI",
+            "Fabric"
           ],
           "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://media.morningstar.com/resizer/v2/SNXMACAN35AOREDEB3YCYI77P4.png?auth=4070253535f11f9f2340caae47218e49e9cab2e86df2b70031db42c72130d503&quality=80&crop=0,0:2400,1350",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.morningstar.com&sz=32"
-        },
-        {
-          "account": "First Advantage Corporation",
-          "title": "Hyundai $1 billion Australian battery plant  fell through  after government bungled talks",
-          "url": "https://www.perthnow.com.au/lifestyle/motoring/hyundais-1-billion-australian-battery-plant-fell-through-after-government-bungled-talks-c-23153027",
-          "date": "2026-11-12",
-          "level": "Medium",
-          "summary": "",
-          "impact": "Potential Azure AI opportunity — align outreach to this signal.",
-          "plays": [
-            "Azure AI"
-          ],
-          "triggers": [],
-          "sentiment": "Neutral",
-          "image": "https://images.perthnow.com.au/publication/C-23153027/f433f94966106400ef98c78c2df8c2eb63fef18e-16x9-x0y258w4944h2781.jpg?imwidth=1200",
-          "favicon": "https://www.google.com/s2/favicons?domain=www.perthnow.com.au&sz=32"
+          "sentiment": "Positive",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-38998,resizemode-75,msid-135745469/tech/artificial-intelligence/wait-for-policy-not-political-promises-on-data-centres-lpl-financial-group-md-on-ai-selloff.jpg",
+          "favicon": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=32"
         },
         {
           "account": "Balyasny Asset Management",
@@ -150,8 +85,28 @@
     {
       "top": "Insurance",
       "sub": "Insurance Majors",
-      "count": 0,
-      "items": []
+      "count": 1,
+      "items": [
+        {
+          "account": "VERISK ANALYTICS",
+          "title": "Verisk Analytics ( NASDAQ : VRSK ) Issues FY 2026 Earnings Guidance",
+          "url": "https://www.dailypolitical.com/2026/11/05/verisk-analytics-nasdaqvrsk-issues-fy-2026-earnings-guidance.html",
+          "date": "2026-11-05",
+          "level": "High",
+          "summary": "",
+          "impact": "Potential Fabric, Security opportunity — align outreach to this signal.",
+          "plays": [
+            "Fabric",
+            "Security"
+          ],
+          "triggers": [
+            "Earnings"
+          ],
+          "sentiment": "Neutral",
+          "image": "",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32"
+        }
+      ]
     },
     {
       "top": "Insurance",

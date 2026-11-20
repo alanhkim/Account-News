@@ -1,9 +1,10 @@
 # Bank of America — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | CORSIA EEU Volume on Xpansiv CBL and IATA ACE Surpasses 1 . 5 Million Tonnes \| Empower Stories \| Build Authority | 🟡 Low | ⚪ Neutral | [link](https://econews.com.au/corsia-eeu-volume-on-xpansiv-cbl-and-iata-ace-surpasses-1-5-million-tonnes/) |
 | 2026-10-06 | Nouveau Monde Graphite Inc . ( NYSE : NMG ) Receives Average Recommendation of  Buy  from Analysts | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13609661/nouveau-monde-graphite-inc-nysenmg-receives-average-recommendation-of-buy-from-analysts.html) |
 | 2026-09-21 | iShares Core S & P U . S . Growth ETF ( NASDAQ : IUSG ) Sets New 12 - Month High – Here Why | 🟡 Low | 🟢 Positive | [link](https://www.themarketsdaily.com/2026/09/21/ishares-core-sp-u-s-growth-etf-nasdaqiusg-sets-new-12-month-high-heres-why.html) |
 | 2026-09-09 | Beam Therapeutic ( BEAM ) Outperform Rating Reaffirmed at Wedbush | 🟠 Medium | ⚪ Neutral | [link](https://www.themarketsdaily.com/2026/09/09/beam-therapeutics-beam-outperform-rating-reaffirmed-at-wedbush.html) |

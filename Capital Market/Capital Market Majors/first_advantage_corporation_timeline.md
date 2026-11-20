@@ -1,9 +1,10 @@
 # First Advantage Corporation — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-19 | Letters to the editor on ... neutrality , Manchester United and Diary of a Wimpy Kid | 🟡 Low | ⚪ Neutral | [link](https://www.thejournal.ie/letters-to-the-editor-19-november-7231164-Nov2026/) |
 | 2026-11-12 | Hyundai $1 billion Australian battery plant  fell through  after government bungled talks | 🟠 Medium | ⚪ Neutral | [link](https://www.perthnow.com.au/lifestyle/motoring/hyundais-1-billion-australian-battery-plant-fell-through-after-government-bungled-talks-c-23153027) |
 | 2026-09-13 | $5 , 000 Invested in SpaceX Today Could Grow Significantly by 2027 | 🟡 Low | ⚪ Neutral | [link](https://finance.yahoo.com/markets/stocks/articles/5-000-invested-spacex-today-225000961.html) |
 | 2026-09-03 | Juhl Energy ( OTCMKTS : JUHL ) and First Advantage ( NYSE : FA ) Head to Head Analysis | 🟡 Low | ⚪ Neutral | [link](https://www.tickerreport.com/banking-finance/13572054/juhl-energy-otcmktsjuhl-and-first-advantage-nysefa-head-to-head-analysis.html) |

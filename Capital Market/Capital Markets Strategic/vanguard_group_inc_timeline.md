@@ -1,9 +1,10 @@
 # VANGUARD GROUP INC — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | Beyond the Barrels : A tradition that moves St . Helena forward | 🟡 Low | ⚪ Neutral | [link](https://napavalleyregister.com/star/opinion/beyond-the-barrels-a-tradition-that-moves-st-helena-forward/article_003b8be1-ffc7-4924-a359-da25ad7a1c87.html) |
 | 2026-10-02 | Jev : The budget ChatGPT rival that could change AI | 🟠 Medium | ⚪ Neutral | [link](https://www.theage.com.au/technology/the-budget-chatgpt-rival-that-could-change-ai-20261002-p611wl.html) |
 | 2026-09-21 | Taylor Swift to Receive First - Ever Artist Director Honors at 2026 MTV VMAs | 🟡 Low | ⚪ Neutral | [link](https://sunny943.com/2026/09/21/taylor-swift-to-receive-first-ever-artist-director-honors-at-2026-mtv-vmas/) |
 | 2026-09-09 | Prime Awards and Events Concludes 8th International Prime Awards - Asia 2026 in Kuala Lumpur , Celebrating Global Excellence and Cross - Border Innovation | 🟠 Medium | ⚪ Neutral | [link](http://www.israelherald.com/news/279295936/prime-awards-and-events-concludes-8th-international-prime-awards-asia-2026-in-kuala-lumpur-celebrating-global-excellence-and-cross-border-innovation) |

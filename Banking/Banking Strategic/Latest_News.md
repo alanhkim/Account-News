@@ -1,6 +1,6 @@
 # Latest News — Banking Strategic
 
-**Updated:** November 18, 2026  
+**Updated:** November 20, 2026  
 **Accounts tracked:** 15  
 **Accounts with news this cycle:** 4  
 
@@ -10,67 +10,68 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.fool.com&sz=32) | **Citigroup** | AI Agents vs . Banks : Who Will Win ? Im Betting on Banks . | 2026-11-18 | 🟠 Medium | ⚪ Neutral | — | Azure AI | [link](https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/) |
-| ![](https://www.google.com/s2/favicons?domain=www.redlandcitybulletin.com.au&sz=32) | **US BANK** | Aussie gamer industry counting down to GTA 6 release | 2026-11-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.redlandcitybulletin.com.au/story/9391653/aussie-gamer-industry-counting-down-to-gta-6-release/) |
-| ![](https://www.google.com/s2/favicons?domain=azbigmedia.com&sz=32) | **NAVY FEDERAL CREDIT UNION M** | Top 23 veteran - friendly companies in Arizona | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://azbigmedia.com/business/top-23-veteran-friendly-companies-in-arizona/) |
-| ![](https://www.google.com/s2/favicons?domain=www.redlandsdailyfacts.com&sz=32) | **FISERV Inc** | Lakers top Bucks for 7th straight win , but Reaves , Doncic exit with injuries | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.redlandsdailyfacts.com/2026/11/11/lakers-top-bucks-for-7th-straight-win-but-reaves-doncic-exit-with-injuries/) |
+| ![](https://www.google.com/s2/favicons?domain=www.caribbeanherald.com&sz=32) | **JPMORGAN CHASE** | US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director | 2026-11-20 | 🟠 Medium | ⚪ Neutral | CxO Change | Security | [link](http://www.caribbeanherald.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director) |
+| ![](https://www.google.com/s2/favicons?domain=www.thehindubusinessline.com&sz=32) | **Citigroup** | Bonds vs equities : India stock market rally faces valuation test | 2026-11-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.thehindubusinessline.com/markets/bonds-vs-equities-indias-stock-market-rally-faces-valuation-test/article71722968.ece) |
+| ![](https://www.google.com/s2/favicons?domain=econews.com.au&sz=32) | **Bank of America** | CORSIA EEU Volume on Xpansiv CBL and IATA ACE Surpasses 1 . 5 Million Tonnes \| Empower Stories \| Build Authority | 2026-11-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://econews.com.au/corsia-eeu-volume-on-xpansiv-cbl-and-iata-ace-surpasses-1-5-million-tonnes/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **FIDELITY NATIONAL FINANCIAL** | Title giants shrug off waiver as FHFA readies expansion | 2026-11-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nationalmortgagenews.com/news/title-giants-shrug-off-waiver-as-fhfa-readies-expansion) |
 
 ## Detail
 
+### JPMORGAN CHASE
+**US Tech outages singes Trump administration , Kirsten Davies appointed new Cyber Director** — 2026-11-20 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ CxO Change  
+_Solution plays:_ Security  
+_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
+
+[Read →](http://www.caribbeanherald.com/news/279444286/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director)
+
 ### Citigroup
-**AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .** — 2026-11-18 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Azure AI  
-_Microsoft angle:_ Potential Azure AI opportunity — align outreach to this signal.
-
-[Read →](https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks/)
-
-### US BANK
-**Aussie gamer industry counting down to GTA 6 release** — 2026-11-14 — 🟡 Low — ⚪ Neutral
+**Bonds vs equities : India stock market rally faces valuation test** — 2026-11-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.redlandcitybulletin.com.au/story/9391653/aussie-gamer-industry-counting-down-to-gta-6-release/)
+[Read →](https://www.thehindubusinessline.com/markets/bonds-vs-equities-indias-stock-market-rally-faces-valuation-test/article71722968.ece)
 
-### NAVY FEDERAL CREDIT UNION M
-**Top 23 veteran - friendly companies in Arizona** — 2026-11-12 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://azbigmedia.com/business/top-23-veteran-friendly-companies-in-arizona/)
-
-### FISERV Inc
-**Lakers top Bucks for 7th straight win , but Reaves , Doncic exit with injuries** — 2026-11-12 — 🟡 Low — ⚪ Neutral
+### Bank of America
+**CORSIA EEU Volume on Xpansiv CBL and IATA ACE Surpasses 1 . 5 Million Tonnes | Empower Stories | Build Authority** — 2026-11-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.redlandsdailyfacts.com/2026/11/11/lakers-top-bucks-for-7th-straight-win-but-reaves-doncic-exit-with-injuries/)
+[Read →](https://econews.com.au/corsia-eeu-volume-on-xpansiv-cbl-and-iata-ace-surpasses-1-5-million-tonnes/)
+
+### FIDELITY NATIONAL FINANCIAL
+**Title giants shrug off waiver as FHFA readies expansion** — 2026-11-11 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.nationalmortgagenews.com/news/title-giants-shrug-off-waiver-as-fhfa-readies-expansion)
 
 ---
 
 <details><summary>Accounts with no material news this cycle (11)</summary>
 
 - FIS Global
-- FIDELITY NATIONAL FINANCIAL
+- NAVY FEDERAL CREDIT UNION M
+- FISERV Inc
 - TRUIST FINANCIAL
 - Wells Fargo & Company
+- US BANK
 - STATE STREET BOSTON CORPORATION
 - Dayforce US, Inc
 - BNY Mellon
-- JPMORGAN CHASE
 - P N C FINANCIAL CORP
 - Capital One
-- Bank of America
 
 </details>
 
 ---
-_Auto-generated on November 18, 2026._
+_Auto-generated on November 20, 2026._

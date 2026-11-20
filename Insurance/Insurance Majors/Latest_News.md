@@ -1,8 +1,8 @@
 # Latest News — Insurance Majors
 
-**Updated:** November 18, 2026  
+**Updated:** November 20, 2026  
 **Accounts tracked:** 81  
-**Accounts with news this cycle:** 15  
+**Accounts with news this cycle:** 18  
 
 ---
 
@@ -10,43 +10,67 @@
 
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
-| ![](https://www.google.com/s2/favicons?domain=www.govinfosecurity.com&sz=32) | **AMERICAN FINANCIAL GROUP INC** | Cryptohack Roundup : Binance Hackers Launder Funds , CFO Exits | 2026-11-13 | 🔴 High | 🟢 Positive | M&A, CxO Change, Breach | — | [link](https://www.govinfosecurity.com/cryptohack-roundup-binance-hackers-launder-funds-cfo-exits-a-33372) |
-| ![](https://www.google.com/s2/favicons?domain=fortune.com&sz=32) | **Genworth** | Delaware federal court forced litigation funders into the open . Its most important court still lets them hide | 2026-11-11 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://fortune.com/2026/11/10/delaware-chancery-litigation-funding-rule-proposal/) |
+| ![](https://www.google.com/s2/favicons?domain=www.rttnews.com&sz=32) | **ARTHUR J GALLAGHER & CO** | Arthur J . Gallagher To Acquire AgriServ , Inc . | 2026-11-19 | 🔴 High | ⚪ Neutral | M&A | — | [link](https://www.rttnews.com/3716459/arthur-j-gallagher-to-acquire-agriserv-inc.aspx) |
+| ![](https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=32) | **aflac** | Aflac Incorporated Announces 4 . 9 % Increase in the First Quarter 2027 Dividend | 2026-11-12 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.prnewswire.com/news-releases/aflac-incorporated-announces-4-9-increase-in-the-first-quarter-2027-dividend-302937426.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **JACKSON NATIONAL LIFE** | Jackson Financial Q3 Earnings Call Highlights | 2026-11-10 | 🔴 High | ⚪ Neutral | Earnings | — | [link](https://www.themarketsdaily.com/2026/11/10/jackson-financial-q3-earnings-call-highlights.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **VERISK ANALYTICS** | Verisk Analytics ( NASDAQ : VRSK ) Issues FY 2026 Earnings Guidance | 2026-11-05 | 🔴 High | ⚪ Neutral | Earnings | Fabric, Security | [link](https://www.dailypolitical.com/2026/11/05/verisk-analytics-nasdaqvrsk-issues-fy-2026-earnings-guidance.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.tickerreport.com&sz=32) | **AmWINS Group** | What Kinsale Capital Group ( KNSL ) Said on Its Q3 Earnings Call | 2026-10-24 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.tickerreport.com/banking-finance/13635519/what-kinsale-capital-group-knsl-said-on-its-q3-earnings-call.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.businessinsurance.com&sz=32) | **USI INSURANCE** | Chubb profit , revenue inch up - Business Insurance | 2026-10-21 | 🔴 High | 🟢 Positive | Earnings | — | [link](https://www.businessinsurance.com/chubbs-profit-revenue-inch-up/) |
 | ![](https://www.google.com/s2/favicons?domain=capitalethiopia.com&sz=32) | **PROSPERITY LIFE GROUP** | Partnership and interaction : The foundation of life , civilization , and sustainable development | 2026-10-25 | 🟠 Medium | ⚪ Neutral | Product Launch | — | [link](https://capitalethiopia.com/2026/10/25/partnership-and-interaction-the-foundation-of-life-civilization-and-sustainable-development/) |
-| ![](https://www.google.com/s2/favicons?domain=www.timesargus.com&sz=32) | **MERCURY INSURANCE COMPANY** | Reduce Home Fire Risks : 5 Items to Avoid Plugging into Power Strips | 2026-10-26 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.timesargus.com/online_features/home_decorating/reduce-home-fire-risks-5-items-to-avoid-plugging-into-power-strips/article_9f91dae3-ea9d-5c2c-971e-e89bc51343f7.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.orlandosentinel.com&sz=32) | **FM GLOBAL** | Florida homes face growing flood risk . Why are some protections off - limits ? | 2026-10-19 | 🟠 Medium | ⚪ Neutral | — | Security | [link](https://www.orlandosentinel.com/2026/10/19/florida-homes-face-growing-flood-risk-why-are-some-protections-off-limits/) |
-| ![](https://www.google.com/s2/favicons?domain=capitalfm.africa&sz=32) | **EQUITABLE** | Abass Khalif Courts Gusii Community in Karen , Gains Endorsement Ahead of Langata MP Race – Capital FM | 2026-11-16 | 🟡 Low | 🟢 Positive | — | — | [link](https://capitalfm.africa/abass-khalif-courts-gusii-community-in-karen-gains-endorsement-ahead-of-langata-mp-race/) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **ARTHUR J GALLAGHER & CO** | Mizuho Issues Positive Forecast for Arthur J . Gallagher & Co . ( NYSE : AJG ) Stock Price | 2026-11-13 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/11/13/mizuho-issues-positive-forecast-for-arthur-j-gallagher-co-nyseajg-stock-price.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.phillyvoice.com&sz=32) | **RISK STRATEGIES COMPANY** | How the U . S . Dollar Changing Role Affects Global Trade | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.phillyvoice.com/us-dollar-global-trade-foreign-exchange-businesses-0599988/) |
+| ![](https://www.google.com/s2/favicons?domain=www.winnipegfreepress.com&sz=32) | **ACRISURE LLC** | Stanford pulls away midway through the 2nd half to beat Sacramento State 78 - 65 – Winnipeg Free Press | 2026-11-20 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.winnipegfreepress.com/uncategorized/2026/11/20/stanford-pulls-away-midway-through-the-2nd-half-to-beat-sacramento-state-78-65) |
+| ![](https://www.google.com/s2/favicons?domain=www.htsstlucia.org&sz=32) | **National Life Group** | MINISTER EMMA HIPPOLYTE CALLS FOR SUPPORT FOR MEN AND CARING FATHERS ON INTERNATIONAL MEN DAY – HTS News 4orce | 2026-11-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.htsstlucia.org/minister-emma-hippolyte-calls-for-support-for-men-and-caring-fathers-on-international-mens-day/) |
+| ![](https://www.google.com/s2/favicons?domain=www.ketv.com&sz=32) | **MUTUAL OF OMAHA** | Mutual of Omaha sends holiday cards overseas for deployed troops | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.ketv.com/article/mutual-of-omaha-sends-over-cards-to-deployed-troops/74404961) |
+| ![](https://www.google.com/s2/favicons?domain=gazette.com&sz=32) | **Kemper Corporation** | Air Force QB rotation could provide solution to injury , usage issue | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://gazette.com/2026/11/11/air-force-qb-rotation-could-provide-solution-to-injury-usage-issue/) |
+| ![](https://www.google.com/s2/favicons?domain=www.erienewsnow.com&sz=32) | **ERIE INSURANCE GROUP** | Volunteers Pack Thanksgiving Dinner Boxes for Neighbors | 2026-11-10 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.erienewsnow.com/news/volunteers-pack-thanksgiving-dinner-boxes-for-neighbors/article_479dc656-03fa-4117-8f3c-f5d44e5cf2a0.html) |
 | ![](https://www.google.com/s2/favicons?domain=www.inquirer.com&sz=32) | **MARKEL** | Grading the Eagles in loss to Giants , which featured the same bad offense | 2026-11-09 | 🟡 Low | 🔴 Negative | — | — | [link](https://www.inquirer.com/eagles/eagles-giants-grades-joe-milton-sean-mannion-offense-nick-sirianni-20261108.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **ARCH CAPITAL GROUP LTD** | 5 , 581 Shares of Arch Capital Group Ltd . $ACGL Purchased by MBL Wealth LLC | 2026-10-25 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.themarketsdaily.com/2026/10/25/5581-shares-of-arch-capital-group-ltd-acgl-purchased-by-mbl-wealth-llc.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **REINSURANCE GROUP OF AMERICA** | Reinsurance Group of America , Incorporated $RGA Holdings Lessened by Inspire Investing LLC | 2026-10-24 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/10/24/reinsurance-group-of-america-incorporated-rga-holdings-lessened-by-inspire-investing-llc.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.themarketsdaily.com&sz=32) | **LINCOLN NATIONAL CORPORATION** | Lincoln National Corporation $LNC Stock : Robeco Institutional Asset Management B . V . Increases Holdings | 2026-10-25 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.themarketsdaily.com/2026/10/25/lincoln-national-corporation-lnc-stock-robeco-institutional-asset-management-b-v-increases-holdings.html) |
+| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **The Hanover Insurance Group** | The Hanover Insurance Group ( NYSE : THG ) Sets New 12 - Month High – Here What Happened | 2026-10-24 | 🟡 Low | 🟢 Positive | — | — | [link](https://www.dailypolitical.com/2026/10/24/the-hanover-insurance-group-nysethg-sets-new-12-month-high-heres-what-happened.html) |
+| ![](https://www.google.com/s2/favicons?domain=yellowhammernews.com&sz=32) | **PROTECTIVE LIFE CORPORATION** | New poll : Alabama Republican voters back lawsuit reform 63 % to 20 % – trial lawyers call it  civil justice restrictions | 2026-10-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://yellowhammernews.com/new-poll-alabama-republican-primary-voters-back-lawsuit-reform-63-to-20-trial-lawyers-call-it-civil-justice-restrictions/) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **SELECTIVE INSURANCE** | Selective casualty reserves stabilize as it prices out weaker commercial accounts | 2026-10-23 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/news/breaking-news/selectives-casualty-reserves-stabilize-as-it-prices-out-weaker-commercial-accounts-594749.aspx) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancebusinessmag.com&sz=32) | **AMTrust Financial Services INC** | Investors lose $228M TruPS bid despite ACP Re own debt entries | 2026-10-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/investors-lose-228m-trups-bid-despite-acp-res-own-debt-entries-594410.aspx) |
 | ![](https://www.google.com/s2/favicons?domain=www.iberkshires.com&sz=32) | **GUARDIAN LIFE INSURANCE CO** | Berkshire Humane Society Announces Family Fun at the Shelter | 2026-10-21 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.iberkshires.com/story/84242/Berkshire-Humane-Society-Announces-Family-Fun-at-the-Shelter.html) |
-| ![](https://www.google.com/s2/favicons?domain=www.inforum.com&sz=32) | **FARM BUREAU FINANCIAL SERVICES** | Osberg works to pave path to different outcome in Minnesota 7th - West Central Tribune \| News , weather , sports from Willmar Minnesota | 2026-10-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.inforum.com/news/minnesota/osberg-works-to-pave-path-to-different-outcome-in-minnesotas-7th) |
 
 ## Detail
 
-### AMERICAN FINANCIAL GROUP INC
-**Cryptohack Roundup : Binance Hackers Launder Funds , CFO Exits** — 2026-11-13 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ M&A, CxO Change, Breach  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.govinfosecurity.com/cryptohack-roundup-binance-hackers-launder-funds-cfo-exits-a-33372)
-
-### Genworth
-**Delaware federal court forced litigation funders into the open . Its most important court still lets them hide** — 2026-11-11 — 🔴 High — ⚪ Neutral
+### ARTHUR J GALLAGHER & CO
+**Arthur J . Gallagher To Acquire AgriServ , Inc .** — 2026-11-19 — 🔴 High — ⚪ Neutral
 
 
 
 _Trigger events:_ M&A  
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://fortune.com/2026/11/10/delaware-chancery-litigation-funding-rule-proposal/)
+[Read →](https://www.rttnews.com/3716459/arthur-j-gallagher-to-acquire-agriserv-inc.aspx)
+
+### aflac
+**Aflac Incorporated Announces 4 . 9 % Increase in the First Quarter 2027 Dividend** — 2026-11-12 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.prnewswire.com/news-releases/aflac-incorporated-announces-4-9-increase-in-the-first-quarter-2027-dividend-302937426.html)
+
+### JACKSON NATIONAL LIFE
+**Jackson Financial Q3 Earnings Call Highlights** — 2026-11-10 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.themarketsdaily.com/2026/11/10/jackson-financial-q3-earnings-call-highlights.html)
+
+### VERISK ANALYTICS
+**Verisk Analytics ( NASDAQ : VRSK ) Issues FY 2026 Earnings Guidance** — 2026-11-05 — 🔴 High — ⚪ Neutral
+
+
+
+_Trigger events:_ Earnings  
+_Solution plays:_ Fabric, Security  
+_Microsoft angle:_ Potential Fabric, Security opportunity — align outreach to this signal.
+
+[Read →](https://www.dailypolitical.com/2026/11/05/verisk-analytics-nasdaqvrsk-issues-fy-2026-earnings-guidance.html)
 
 ### AmWINS Group
 **What Kinsale Capital Group ( KNSL ) Said on Its Q3 Earnings Call** — 2026-10-24 — 🔴 High — 🟢 Positive
@@ -58,16 +82,6 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.tickerreport.com/banking-finance/13635519/what-kinsale-capital-group-knsl-said-on-its-q3-earnings-call.html)
 
-### USI INSURANCE
-**Chubb profit , revenue inch up - Business Insurance** — 2026-10-21 — 🔴 High — 🟢 Positive
-
-
-
-_Trigger events:_ Earnings  
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.businessinsurance.com/chubbs-profit-revenue-inch-up/)
-
 ### PROSPERITY LIFE GROUP
 **Partnership and interaction : The foundation of life , civilization , and sustainable development** — 2026-10-25 — 🟠 Medium — ⚪ Neutral
 
@@ -78,52 +92,50 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://capitalethiopia.com/2026/10/25/partnership-and-interaction-the-foundation-of-life-civilization-and-sustainable-development/)
 
-### MERCURY INSURANCE COMPANY
-**Reduce Home Fire Risks : 5 Items to Avoid Plugging into Power Strips** — 2026-10-26 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.timesargus.com/online_features/home_decorating/reduce-home-fire-risks-5-items-to-avoid-plugging-into-power-strips/article_9f91dae3-ea9d-5c2c-971e-e89bc51343f7.html)
-
-### FM GLOBAL
-**Florida homes face growing flood risk . Why are some protections off - limits ?** — 2026-10-19 — 🟠 Medium — ⚪ Neutral
-
-
-
-_Solution plays:_ Security  
-_Microsoft angle:_ Potential Security opportunity — align outreach to this signal.
-
-[Read →](https://www.orlandosentinel.com/2026/10/19/florida-homes-face-growing-flood-risk-why-are-some-protections-off-limits/)
-
-### EQUITABLE
-**Abass Khalif Courts Gusii Community in Karen , Gains Endorsement Ahead of Langata MP Race – Capital FM** — 2026-11-16 — 🟡 Low — 🟢 Positive
+### ACRISURE LLC
+**Stanford pulls away midway through the 2nd half to beat Sacramento State 78 - 65 – Winnipeg Free Press** — 2026-11-20 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://capitalfm.africa/abass-khalif-courts-gusii-community-in-karen-gains-endorsement-ahead-of-langata-mp-race/)
+[Read →](https://www.winnipegfreepress.com/uncategorized/2026/11/20/stanford-pulls-away-midway-through-the-2nd-half-to-beat-sacramento-state-78-65)
 
-### ARTHUR J GALLAGHER & CO
-**Mizuho Issues Positive Forecast for Arthur J . Gallagher & Co . ( NYSE : AJG ) Stock Price** — 2026-11-13 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.themarketsdaily.com/2026/11/13/mizuho-issues-positive-forecast-for-arthur-j-gallagher-co-nyseajg-stock-price.html)
-
-### RISK STRATEGIES COMPANY
-**How the U . S . Dollar Changing Role Affects Global Trade** — 2026-11-12 — 🟡 Low — ⚪ Neutral
+### National Life Group
+**MINISTER EMMA HIPPOLYTE CALLS FOR SUPPORT FOR MEN AND CARING FATHERS ON INTERNATIONAL MEN DAY – HTS News 4orce** — 2026-11-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.phillyvoice.com/us-dollar-global-trade-foreign-exchange-businesses-0599988/)
+[Read →](https://www.htsstlucia.org/minister-emma-hippolyte-calls-for-support-for-men-and-caring-fathers-on-international-mens-day/)
+
+### MUTUAL OF OMAHA
+**Mutual of Omaha sends holiday cards overseas for deployed troops** — 2026-11-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.ketv.com/article/mutual-of-omaha-sends-over-cards-to-deployed-troops/74404961)
+
+### Kemper Corporation
+**Air Force QB rotation could provide solution to injury , usage issue** — 2026-11-12 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://gazette.com/2026/11/11/air-force-qb-rotation-could-provide-solution-to-injury-usage-issue/)
+
+### ERIE INSURANCE GROUP
+**Volunteers Pack Thanksgiving Dinner Boxes for Neighbors** — 2026-11-10 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.erienewsnow.com/news/volunteers-pack-thanksgiving-dinner-boxes-for-neighbors/article_479dc656-03fa-4117-8f3c-f5d44e5cf2a0.html)
 
 ### MARKEL
 **Grading the Eagles in loss to Giants , which featured the same bad offense** — 2026-11-09 — 🟡 Low — 🔴 Negative
@@ -134,23 +146,50 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.inquirer.com/eagles/eagles-giants-grades-joe-milton-sean-mannion-offense-nick-sirianni-20261108.html)
 
-### ARCH CAPITAL GROUP LTD
-**5 , 581 Shares of Arch Capital Group Ltd . $ACGL Purchased by MBL Wealth LLC** — 2026-10-25 — 🟡 Low — 🟢 Positive
+### LINCOLN NATIONAL CORPORATION
+**Lincoln National Corporation $LNC Stock : Robeco Institutional Asset Management B . V . Increases Holdings** — 2026-10-25 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.themarketsdaily.com/2026/10/25/5581-shares-of-arch-capital-group-ltd-acgl-purchased-by-mbl-wealth-llc.html)
+[Read →](https://www.themarketsdaily.com/2026/10/25/lincoln-national-corporation-lnc-stock-robeco-institutional-asset-management-b-v-increases-holdings.html)
 
-### REINSURANCE GROUP OF AMERICA
-**Reinsurance Group of America , Incorporated $RGA Holdings Lessened by Inspire Investing LLC** — 2026-10-24 — 🟡 Low — 🟢 Positive
+### The Hanover Insurance Group
+**The Hanover Insurance Group ( NYSE : THG ) Sets New 12 - Month High – Here What Happened** — 2026-10-24 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/10/24/reinsurance-group-of-america-incorporated-rga-holdings-lessened-by-inspire-investing-llc.html)
+[Read →](https://www.dailypolitical.com/2026/10/24/the-hanover-insurance-group-nysethg-sets-new-12-month-high-heres-what-happened.html)
+
+### PROTECTIVE LIFE CORPORATION
+**New poll : Alabama Republican voters back lawsuit reform 63 % to 20 % – trial lawyers call it  civil justice restrictions** — 2026-10-23 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://yellowhammernews.com/new-poll-alabama-republican-primary-voters-back-lawsuit-reform-63-to-20-trial-lawyers-call-it-civil-justice-restrictions/)
+
+### SELECTIVE INSURANCE
+**Selective casualty reserves stabilize as it prices out weaker commercial accounts** — 2026-10-23 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insurancebusinessmag.com/us/news/breaking-news/selectives-casualty-reserves-stabilize-as-it-prices-out-weaker-commercial-accounts-594749.aspx)
+
+### AMTrust Financial Services INC
+**Investors lose $228M TruPS bid despite ACP Re own debt entries** — 2026-10-21 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/investors-lose-228m-trups-bid-despite-acp-res-own-debt-entries-594410.aspx)
 
 ### GUARDIAN LIFE INSURANCE CO
 **Berkshire Humane Society Announces Family Fun at the Shelter** — 2026-10-21 — 🟡 Low — ⚪ Neutral
@@ -161,47 +200,35 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](https://www.iberkshires.com/story/84242/Berkshire-Humane-Society-Announces-Family-Fun-at-the-Shelter.html)
 
-### FARM BUREAU FINANCIAL SERVICES
-**Osberg works to pave path to different outcome in Minnesota 7th - West Central Tribune | News , weather , sports from Willmar Minnesota** — 2026-10-20 — 🟡 Low — ⚪ Neutral
-
-
-
-_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
-
-[Read →](https://www.inforum.com/news/minnesota/osberg-works-to-pave-path-to-different-outcome-in-minnesotas-7th)
-
 ---
 
-<details><summary>Accounts with no material news this cycle (66)</summary>
+<details><summary>Accounts with no material news this cycle (63)</summary>
 
 - American National Insurance Co
 - Berkshire Hathaway Direct Insurance Company
-- MUTUAL OF OMAHA
 - Tokio Marine Group
 - UNITED SERVICES AUTOMOBILE ASSOCIATION (USAA)
 - AAA AUTO CLUB ENTERPRISES
 - AMERICAN FIDELITY
+- MERCURY INSURANCE COMPANY
 - PACIFIC LIFE INSURANCE CO
 - SOUTHERN FARM BUREAU CASUALTY
 - Southern Farm Bureau Life Insurance Co Inc
-- aflac
-- ERIE INSURANCE GROUP
 - GEORGIA FARM BUREAU MUTUAL INS
 - Guard Insurance
 - NSM Insurance Group
-- PROTECTIVE LIFE CORPORATION
 - ASSURED PARTNERS
-- LINCOLN NATIONAL CORPORATION
+- Genworth
 - TIH Insurance Holdings, LLC
 - Berkshire Hathaway Specialty Insurance Company
 - HARTFORD FIRE INSURANCE COMPANY
-- SELECTIVE INSURANCE
-- VERISK ANALYTICS
+- RISK STRATEGIES COMPANY
 - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
 - SOMPO JAPAN INSURANCE COMPANY OF AMERICA YASUDA INSURANCE
-- The Hanover Insurance Group
+- USI INSURANCE
 - W R BERKLEY CORPORATION
 - Corebridge Financial
+- REINSURANCE GROUP OF AMERICA
 - Sedgwick Claims Management Services, Inc.
 - Stewart Title Guaranty Company
 - ASURION INSURANCE SERVICES INC
@@ -212,36 +239,36 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 - AMERICAN FAMILY CORPORATION
 - TRUSTMARK INSURANCE COMPANY
 - AEGON USA
-- AMTrust Financial Services INC
 - Assurant
 - COUNTRY FINANCIAL SERVICES INC
 - AXIS SPECIALTY US SERVICES INC
+- FM GLOBAL
 - GENERAL REINSURANCE COMPANY
 - U N U M LIFE INSURANCE COMPANY
 - AAA AUTO CLUB INSURANCE ASSOCIATION
-- ACRISURE LLC
+- AMERICAN FINANCIAL GROUP INC
 - CINCINNATI INSURANCE COMPANIES
 - CNO Services, LLC
-- JACKSON NATIONAL LIFE
 - CUNA MUTUAL INSURANCE SOCIETY
 - Jewelers Mutual Insurance
 - Loews Corp
 - OLD REPUBLIC INTERNATIONAL
 - SENTRY INSURANCE A MUTUAL CO
+- FARM BUREAU FINANCIAL SERVICES
 - Hub International
-- Kemper Corporation
 - LOCKTON INSURANCE AGENCY
 - SHELTER INSURANCE COMPANY
 - AMYNTA GROUP
+- ARCH CAPITAL GROUP LTD
 - C V STARR
 - EVEREST GLOBAL SERVICES
 - NEW YORK LIFE INSURANCE COMPANY
 - QBE REINSURANCE SYDNEY REINSURANCE
 - TRANSATLANTIC REINSURANCE
-- National Life Group
+- EQUITABLE
 - TRAVELERS PROPERTY & CASUALTY
 
 </details>
 
 ---
-_Auto-generated on November 18, 2026._
+_Auto-generated on November 20, 2026._

@@ -1,9 +1,10 @@
 # National Life Group — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | MINISTER EMMA HIPPOLYTE CALLS FOR SUPPORT FOR MEN AND CARING FATHERS ON INTERNATIONAL MEN DAY – HTS News 4orce | 🟡 Low | ⚪ Neutral | [link](https://www.htsstlucia.org/minister-emma-hippolyte-calls-for-support-for-men-and-caring-fathers-on-international-mens-day/) |
 | 2026-10-02 | For four years as president , my vacation spots will only be Zamfara , Ekiti , Borno - Obi | 🟡 Low | ⚪ Neutral | [link](https://theeagleonline.com.ng/for-four-years-as-president-my-vacation-spots-will-only-be-zamfara-ekiti-borno-obi/) |
 | 2026-09-13 | ABDI : Ruto developing Kenya from margins to mainstream and more to come | 🟡 Low | ⚪ Neutral | [link](https://www.the-star.co.ke/siasa/2026-09-13-abdi-more-connected-kenya-is-emerging-under-ruto) |
 | 2026-09-09 | Tariq Karra Criticises NC Over Full Rendition of  Vande Mataram  at Film Festival \ | Kashmir Life - Latest News & Breaking News from Kashmir | 🟡 Low | ⚪ Neutral | [link](https://kashmirlife.net/tariq-karra-criticises-nc-over-full-rendition-of-vande-mataram-at-film-festival-450977/) |

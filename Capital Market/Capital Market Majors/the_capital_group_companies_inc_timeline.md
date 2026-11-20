@@ -1,9 +1,10 @@
 # The Capital Group Companies, Inc. — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | Aerospace and Defense Overtake Tech as L . A . Biggest VC Magnet – Commercial Observer | 🟡 Low | ⚪ Neutral | [link](https://commercialobserver.com/2026/11/vc-aerospace-defense-california-manufacturing-industrial/) |
 | 2026-11-15 | Leading a Bionic Transformation | 🟡 Low | ⚪ Neutral | [link](https://www.strategy-business.com/article/Leading-a-Bionic-Transformation) |
 | 2026-10-02 | The next chapter for Singapore equities | 🟡 Low | ⚪ Neutral | [link](https://www.businesstimes.com.sg/singapore/bt50/next-chapter-singapore-equities) |
 | 2026-09-13 | FITT Forward 2026 Two Days That Charted Who Builds India Next Deep - Tech Decade  - India Education \ | Latest Education News \ | Global Educational News | 🟡 Low | ⚪ Neutral | [link](https://indiaeducationdiary.in/fitt-forward-2026-two-days-that-charted-who-builds-indias-next-deep-tech-decade/) |

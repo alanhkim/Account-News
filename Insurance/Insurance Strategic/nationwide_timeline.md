@@ -1,9 +1,10 @@
 # Nationwide — News Timeline
 
-Rolling history of tracked news (last 90 days). Updated November 18, 2026.
+Rolling history of tracked news (last 90 days). Updated November 20, 2026.
 
 | Date | Headline | Impact | Sentiment | Link |
 |---|---|---|---|---|
+| 2026-11-20 | Kennards Hire Teams Up with Surfing Queensland \| Empower Stories \| Build Authority | 🟡 Low | 🟢 Positive | [link](https://econews.com.au/kennards-hire-teams-up-with-surfing-queensland/) |
 | 2026-11-18 | Kaplan Fox Deadline Alert : Compass , Inc . ( NYSE : COMP ) Investors Have ... | 🟡 Low | ⚪ Neutral | [link](https://www.pr-inside.com/kaplan-fox-deadline-alert-compass-inc-nyse-comp-investors-have-r5244917.htm) |
 | 2026-10-06 | Rahul Gandhi detained in India election protest | 🟡 Low | ⚪ Neutral | [link](https://www.samaa.tv/2087358008-rahul-gandhi-detained-during-election-protest-in-delhi) |
 | 2026-09-13 | Seoul to designate patient - friendly hotels as medical tourism surges | 🟡 Low | 🟢 Positive | [link](https://www.straitstimes.com/asia/east-asia/seoul-to-designate-patient-friendly-hotels-as-medical-tourism-surges) |

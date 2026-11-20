@@ -1,8 +1,8 @@
 # Latest News — Insurance Strategic
 
-**Updated:** November 18, 2026  
+**Updated:** November 20, 2026  
 **Accounts tracked:** 15  
-**Accounts with news this cycle:** 4  
+**Accounts with news this cycle:** 7  
 
 ---
 
@@ -11,9 +11,12 @@
 | | Account | Headline | Date | Impact | Sentiment | Triggers | Solution plays | Link |
 |---|---|---|---|---|---|---|---|---|
 | ![](https://www.google.com/s2/favicons?domain=www.australiannews.net&sz=32) | **GEICO** | Berkshire accelerates buybacks under Abel as insurance profit sinks | 2026-11-10 | 🔴 High | ⚪ Neutral | Earnings | — | [link](http://www.australiannews.net/news/279418777/berkshire-accelerates-buybacks-under-abel-as-insurance-profit-sinks) |
-| ![](https://www.google.com/s2/favicons?domain=www.pr-inside.com&sz=32) | **Nationwide** | Kaplan Fox Deadline Alert : Compass , Inc . ( NYSE : COMP ) Investors Have ... | 2026-11-18 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.pr-inside.com/kaplan-fox-deadline-alert-compass-inc-nyse-comp-investors-have-r5244917.htm) |
-| ![](https://www.google.com/s2/favicons?domain=www.dailypolitical.com&sz=32) | **NORTHWESTERN MUTUAL** | JetBlue Airways ( NASDAQ : JBLU ) Share Price Breaks Above 50 Day Moving Average – Time to Sell ? | 2026-11-12 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.dailypolitical.com/2026/11/11/jetblue-airways-nasdaqjblu-share-price-breaks-above-50-day-moving-average-time-to-sell.html) |
-| ![](https://www.google.com/s2/favicons?domain=rocklandtimes.com&sz=32) | **ALLSTATE INSURANCE GROUP** | Dems Look to Main Inroads on GOP - Controlled Clarkstown Town Board | 2026-10-22 | 🟡 Low | ⚪ Neutral | — | — | [link](https://rocklandtimes.com/2026/10/22/dems-look-to-main-inroads-on-gop-controlled-clarkstown-town-board/) |
+| ![](https://www.google.com/s2/favicons?domain=winfieldcourier.com&sz=32) | **Chubb** | Corgi Insurance Appoints Eric Tamez as Vice President of Specialty Lines | 2026-11-12 | 🟠 Medium | ⚪ Neutral | CxO Change | — | [link](https://winfieldcourier.com/corgi-insurance-appoints-eric-tamez-as-vice-president-of-specialty-lines/) |
+| ![](https://www.google.com/s2/favicons?domain=econews.com.au&sz=32) | **Nationwide** | Kennards Hire Teams Up with Surfing Queensland \| Empower Stories \| Build Authority | 2026-11-20 | 🟡 Low | 🟢 Positive | — | — | [link](https://econews.com.au/kennards-hire-teams-up-with-surfing-queensland/) |
+| ![](https://www.google.com/s2/favicons?domain=allhiphop.com&sz=32) | **Metlife** | Macklemore Pledges  Where Is Our Love  Proceeds To Gaza Mothers And Children | 2026-11-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://allhiphop.com/news/macklemore-pledges-where-is-our-love-proceeds-to-gaza-mothers-and-children/) |
+| ![](https://www.google.com/s2/favicons?domain=www.insurancejournal.com&sz=32) | **ALLSTATE INSURANCE GROUP** | Licensed Insurance Sales Representative ( Remote / Home - Based ) at Allstate / Insurance Journal Jobs | 2026-11-20 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.insurancejournal.com/jobs/892195-licensed-insurance-sales-representative-remote-home-based) |
+| ![](https://www.google.com/s2/favicons?domain=www.londontheatre1.com&sz=32) | **American International Group Inc** | Cranford \| Orange Tree Theatre | 2026-11-14 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.londontheatre1.com/reviews/cranford-orange-tree-theatre/) |
+| ![](https://www.google.com/s2/favicons?domain=www.nationalmortgagenews.com&sz=32) | **FIRST AMERICAN FINANCIAL CORP** | Title giants shrug off waiver as FHFA readies expansion | 2026-11-11 | 🟡 Low | ⚪ Neutral | — | — | [link](https://www.nationalmortgagenews.com/news/title-giants-shrug-off-waiver-as-fhfa-readies-expansion) |
 
 ## Detail
 
@@ -27,44 +30,69 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 
 [Read →](http://www.australiannews.net/news/279418777/berkshire-accelerates-buybacks-under-abel-as-insurance-profit-sinks)
 
+### Chubb
+**Corgi Insurance Appoints Eric Tamez as Vice President of Specialty Lines** — 2026-11-12 — 🟠 Medium — ⚪ Neutral
+
+
+
+_Trigger events:_ CxO Change  
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://winfieldcourier.com/corgi-insurance-appoints-eric-tamez-as-vice-president-of-specialty-lines/)
+
 ### Nationwide
-**Kaplan Fox Deadline Alert : Compass , Inc . ( NYSE : COMP ) Investors Have ...** — 2026-11-18 — 🟡 Low — ⚪ Neutral
+**Kennards Hire Teams Up with Surfing Queensland | Empower Stories | Build Authority** — 2026-11-20 — 🟡 Low — 🟢 Positive
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.pr-inside.com/kaplan-fox-deadline-alert-compass-inc-nyse-comp-investors-have-r5244917.htm)
+[Read →](https://econews.com.au/kennards-hire-teams-up-with-surfing-queensland/)
 
-### NORTHWESTERN MUTUAL
-**JetBlue Airways ( NASDAQ : JBLU ) Share Price Breaks Above 50 Day Moving Average – Time to Sell ?** — 2026-11-12 — 🟡 Low — ⚪ Neutral
+### Metlife
+**Macklemore Pledges  Where Is Our Love  Proceeds To Gaza Mothers And Children** — 2026-11-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://www.dailypolitical.com/2026/11/11/jetblue-airways-nasdaqjblu-share-price-breaks-above-50-day-moving-average-time-to-sell.html)
+[Read →](https://allhiphop.com/news/macklemore-pledges-where-is-our-love-proceeds-to-gaza-mothers-and-children/)
 
 ### ALLSTATE INSURANCE GROUP
-**Dems Look to Main Inroads on GOP - Controlled Clarkstown Town Board** — 2026-10-22 — 🟡 Low — ⚪ Neutral
+**Licensed Insurance Sales Representative ( Remote / Home - Based ) at Allstate / Insurance Journal Jobs** — 2026-11-20 — 🟡 Low — ⚪ Neutral
 
 
 
 _Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
 
-[Read →](https://rocklandtimes.com/2026/10/22/dems-look-to-main-inroads-on-gop-controlled-clarkstown-town-board/)
+[Read →](https://www.insurancejournal.com/jobs/892195-licensed-insurance-sales-representative-remote-home-based)
+
+### American International Group Inc
+**Cranford | Orange Tree Theatre** — 2026-11-14 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.londontheatre1.com/reviews/cranford-orange-tree-theatre/)
+
+### FIRST AMERICAN FINANCIAL CORP
+**Title giants shrug off waiver as FHFA readies expansion** — 2026-11-11 — 🟡 Low — ⚪ Neutral
+
+
+
+_Microsoft angle:_ Account-planning context; no direct solution-play signal detected.
+
+[Read →](https://www.nationalmortgagenews.com/news/title-giants-shrug-off-waiver-as-fhfa-readies-expansion)
 
 ---
 
-<details><summary>Accounts with no material news this cycle (11)</summary>
+<details><summary>Accounts with no material news this cycle (8)</summary>
 
 - STATE FARM LIFE INSURANCE CO
+- NORTHWESTERN MUTUAL
 - Marsh McLennan
-- Metlife
-- American International Group Inc
-- FIRST AMERICAN FINANCIAL CORP
 - Aon Corporation
-- Chubb
 - LIBERTY MUTUAL INSURANCE COMPANY
 - PRUDENTIAL INSURANCE CO OF AMERICA
 - Progressive Corporation
@@ -73,4 +101,4 @@ _Microsoft angle:_ Account-planning context; no direct solution-play signal dete
 </details>
 
 ---
-_Auto-generated on November 18, 2026._
+_Auto-generated on November 20, 2026._
